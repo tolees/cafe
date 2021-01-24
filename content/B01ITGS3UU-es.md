@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01ITGS3UU-es DeLonghi Nespresso Citiz EN267.BAE Cafetera con cápsulas...'
 sku: 'B01ITGS3UU-es'
-tags: [ 'cafetera', ]
+tags: [ 'cafetera','nespresso', ]
 actualPrice: 189.9 EUR
 currency: EUR
 price: 189.9
