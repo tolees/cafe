@@ -27,11 +27,11 @@ Tienes [L Or Espresso Café Lungo Profundo Intensidad 8 - 200 cápsulas de alumi
 
 🔎:
 
-- Intensidad 8
-- Sabor Intenso - Fragante - Seductor
 - Lungo Profondo aumenta su carácter con un aroma intenso y especiado junto con notas de almendras tostadas y tentador regaliz, rodeado de una capa de reluciente crema color bronce
-- 200 cápsulas repartidas en 20 paquetes de 10 cápsulas cada uno. Peso neto de 1 paquete: 52 g. Total 20 paquetes = 1040 gr
 - Marca de una compañía no relacionada con JACOBS DOUWE EGBERTS
+- Intensidad 8
 - Las cápsulas LOR de aluminio están diseñadas específicamente para su uso en cafeteras Nespresso
+- 200 cápsulas repartidas en 20 paquetes de 10 cápsulas cada uno. Peso neto de 1 paquete: 52 g. Total 20 paquetes = 1040 gr
+- Sabor Intenso - Fragante - Seductor
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00I8IDE04/?tag=tolees-21)
