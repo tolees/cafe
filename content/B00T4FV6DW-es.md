@@ -27,8 +27,8 @@ Está [Braun KF 520/1 - Cafetera de espresso manual  color blanco](https://www.a
 
 ℹ️:
 
+- Indicador de nivel de agua Si
 - Tipo de jarra Con jarra de cristal
 - Numero de tazas 10
-- Indicador de nivel de agua Si
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00T4FV6DW/?tag=tolees-21)

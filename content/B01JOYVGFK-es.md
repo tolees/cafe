@@ -27,10 +27,10 @@ Está [De longhi Dinamica Ecam350.55.B - Cafetera superautomática  1450w  funci
 
 ℹ️:
 
-- LatteCrema System, prepara bebidas con leche automáticamente
-- Panel de control táctil con pantalla LCD
-- Función "MY", memoriza bebidas personalizadas
 - Funciona con café en granos y con café molido
+- Panel de control táctil con pantalla LCD
 - Función de limpieza automática integrada en deposito de leche y cafetera
+- Función "MY", memoriza bebidas personalizadas
+- LatteCrema System, prepara bebidas con leche automáticamente
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01JOYVGFK/?tag=tolees-21)
