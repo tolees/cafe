@@ -27,10 +27,10 @@ Tienes [Monix Vitro Noir – Cafetera Italiana de Aluminio  Capacidad 12 Tazas  
 
 🔎:
 
-- Acabado negro con efecto mate
-- Cafetera con asa de baquelita termo-resistente ergonómica para un agarre fácil y seguro
 - Apta para todo tipo de encimeras, excepto inducción
-- Capacidad para 12 tazas de café - 600 ml
+- Acabado negro con efecto mate
 - Exterior resistente y diseño interior del calderín sin cantos para una limpieza más cómoda
+- Capacidad para 12 tazas de café - 600 ml
+- Cafetera con asa de baquelita termo-resistente ergonómica para un agarre fácil y seguro
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B008KO2ED4/?tag=tolees-21)
