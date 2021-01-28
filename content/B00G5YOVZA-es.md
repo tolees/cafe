@@ -28,11 +28,11 @@ Tienes [Nespresso De Longhi Inissia EN80.B - Cafetera monodosis de cápsulas Nes
 ℹ️:
 
 - Expulsión de las cápsulas usadas
-- Sistema de calentamiento Thermoblock (lista para el uso a los 25 segundos)
-- Incluye 14 cápsulas y 20€ de crédito en café
 - Modo de autoapagado a los 9 minutos
-- Flow Stop: automática y programable la cantidad de café
-- Depósito de agua extraíble con una capacidad de 0.8 l
+- Sistema de calentamiento Thermoblock (lista para el uso a los 25 segundos)
 - La copa no está incluida
+- Depósito de agua extraíble con una capacidad de 0.8 l
+- Flow Stop: automática y programable la cantidad de café
+- Incluye 14 cápsulas y 20€ de crédito en café
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00G5YOVZA/?tag=tolees-21)
