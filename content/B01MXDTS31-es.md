@@ -27,8 +27,8 @@ Está [M MAGEFESA - MAGEFESA Genova – La cafetera MAGEFESA Genova está Fabric
 
 ℹ️:
 
-- ☕ MANGO ERGONÓMICO: Las cafeteras MAGEFESA GENOVA cuentan con asas termorresistente de bakelita que ofrecen un manejo cómodo y seguro de toque frío que se adapta al estilo de cualquier cocina.
 - 👨‍🍳 APTO PARA TODO TIPO DE COCINAS: Fondo INDUCCIÓN TOTAL "Full induction". Ahorra en tu factura de la luz gracias a “Full induction” ya que necesitan un 75% menos energía para producir el calor que necesitas para cocinar. Diámetro de la base 11cm.
 - 💪 ACERO INOXIDABLE: La familia MAGEFESA GENOVA está diseñada íntegramente en acero inoxidable de gran calidad. Están fabricadas con materiales extremadamente resistentes los cuales han pasado las más exigentes pruebas de calidad y durabilidad.
+- ☕ MANGO ERGONÓMICO: Las cafeteras MAGEFESA GENOVA cuentan con asas termorresistente de bakelita que ofrecen un manejo cómodo y seguro de toque frío que se adapta al estilo de cualquier cocina.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MXDTS31/?tag=tolees-21)
