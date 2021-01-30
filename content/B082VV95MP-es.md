@@ -28,9 +28,9 @@ Tienes [Café FORTALEZA - Cápsulas de Café con Aroma Toffee Compatibles con Ne
 
 ℹ️:
 
+- Conservar en un lugar fresco, seco y protegido del sol
+- Compatible con sistema Nespresso
 - Ingredientes: Café molido 100% arábica
 - País de origen: España
-- Compatible con sistema Nespresso
-- Conservar en un lugar fresco, seco y protegido del sol
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B082VV95MP/?tag=tolees-21)
