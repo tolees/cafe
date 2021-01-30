@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'De Longhi Dolce Gusto Stelia EDG636.S - Cafetera de cápsulas  15 bares de presión  color plateado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013GGO8SY/?tag=tolees-21'
 descuento: '44.03'
 average: '86.772'

@@ -16,6 +16,7 @@ comparePrice: 24.35 EUR
 prodname: 'Tristar CM-1248 Cafetera  900 W  1.5 litros  De plástico  Acero Inoxidable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074XS44LD/?tag=tolees-21'
 descuento: '8.38'
 average: '22.31'

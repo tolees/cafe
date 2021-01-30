@@ -16,6 +16,7 @@ comparePrice: 299.89 EUR
 prodname: 'Mellerware Mmmm! Cafetera Superautomática. Grano molido Directo a café. Muele  infusiona y prepara al Momento tu café. Sin residuos plásticos ni cápsulas.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08FF319TY/?tag=tolees-21'
 descuento: '13.30'
 average: '279.99'

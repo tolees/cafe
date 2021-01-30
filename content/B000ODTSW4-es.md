@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Nescaf Dolce Gusto - Lungo - 3 Paquetes de 16 Cpsulas - Total: 48 Cpsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000ODTSW4/?tag=tolees-21'
 descuento: '22.18'
 average: '14.0'

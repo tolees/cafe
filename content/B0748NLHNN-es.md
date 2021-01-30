@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Bosch Cafetera TASSIMO My Way TAS6002 - Cafetera de cápsulas  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0748NLHNN/?tag=tolees-21'
 descuento: '57.33'
 average: '66.985'

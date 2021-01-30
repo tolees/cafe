@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Mini Moka Minimoka CM-1622 Cafetera Espreso 15 Bar / 1050 W / 1 25 L  5.283441 cups  Acero inoxidable  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CGJ197K/?tag=tolees-21'
 descuento: '42.23'
 average: '72.05'

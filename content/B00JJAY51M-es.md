@@ -16,6 +16,7 @@ comparePrice: 84.99 EUR
 prodname: 'WMF Stelio Aroma Cafetera de 1000 W con jarra térmica de 1 L para 8 tazas e indicador de nivel de agua en el exterior  acabados de acero inoxidable de cromargan mate  antigoteo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00JJAY51M/?tag=tolees-21'
 descuento: '22.36'
 average: '61.535'

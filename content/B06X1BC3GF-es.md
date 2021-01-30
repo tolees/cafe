@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Alessi - Pulcina MDL02/6 R - Cafetera Inducción de Diseño para Café Exprés  en Aluminio Fundido y PA  Rojo  6 tazas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06X1BC3GF/?tag=tolees-21'
 descuento: '35.01'
 average: '64.99'

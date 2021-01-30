@@ -16,6 +16,7 @@ comparePrice: 4.04 EUR
 prodname: 'Nescafé Dolce Gusto Café con leche descafeinado - 16 Cápsulas de Café'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06Y1ZJYHZ/?tag=tolees-21'
 descuento: '17.33'
 average: '3.4799999999999995'

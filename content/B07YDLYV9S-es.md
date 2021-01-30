@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'Tassimo Discover Bundle - Tassimo Coffee Shop Selections Chai Latte/Typ Flat White/Typ Toffee Nut-Latte  Kenco Flat White  L OR Double Shot Latte - 5 Paquetes  40 Porciones '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YDLYV9S/?tag=tolees-21'
 descuento: '20.00'
 average: '19.96'

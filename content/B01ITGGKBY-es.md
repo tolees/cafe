@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Nespresso De Longhi Citiz EN167.W - Cafetera monodosis de cápsulas Nespresso  compacta  19 bares  apagado automático  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ITGGKBY/?tag=tolees-21'
 descuento: '22.35'
 average: '139.67666666666665'

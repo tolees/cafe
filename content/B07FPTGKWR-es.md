@@ -16,6 +16,7 @@ comparePrice: 10.17 EUR
 prodname: 'Café FORTALEZA - Cápsulas de Café Intenssísimo Compatibles con Dolce Gusto - Pack 3 x 12 - Total 36 cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FPTGKWR/?tag=tolees-21'
 descuento: '11.80'
 average: '8.804'

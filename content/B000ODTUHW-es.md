@@ -16,6 +16,7 @@ comparePrice: 18.13 EUR
 prodname: 'Nestle - Cafe Capuccino Dolce Gusto  3 x 16 Capsulas.'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000ODTUHW/?tag=tolees-21'
 descuento: '22.78'
 average: '14.0'

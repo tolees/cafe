@@ -16,6 +16,7 @@ comparePrice: 27.87 EUR
 prodname: 'Quid 7605002 Cafetera de acero inoxidable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B018UFWHT8/?tag=tolees-21'
 descuento: '19.27'
 average: '22.244999999999997'

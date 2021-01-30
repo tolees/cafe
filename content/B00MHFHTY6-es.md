@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Krups Dolce Gusto Oblo KP1105 - Cafetera de cápsulas  15 bares de presión  color rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MHFHTY6/?tag=tolees-21'
 descuento: '14.28'
 average: '56.17571428571429'

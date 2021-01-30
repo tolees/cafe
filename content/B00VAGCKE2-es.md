@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Taurus Cafetera Goteo Verona 6 6 Tazas  600 W  6 Cups  plástico  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VAGCKE2/?tag=tolees-21'
 descuento: '8.24'
 average: '22.918'

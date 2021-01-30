@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'VeoHome - Cafetera Italiana de Acero Inoxidable 10 tazas 500 ml – Cafetera Moka Italiana para cocinas Inducción  Vitrocerámica y de Gas - Estilo Espresso – Irrompible  Segura y apta para Lavavajillas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BL4FXSM/?tag=tolees-21'
 descuento: '43.79'
 average: '44.97'

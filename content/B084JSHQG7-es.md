@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Krups Dolce Gusto Lumio KP130810  15 Bares de presión - Cafetera de cápsulas  café de calidad profesional. Color Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084JSHQG7/?tag=tolees-21'
 descuento: '25.02'
 average: '59.95'

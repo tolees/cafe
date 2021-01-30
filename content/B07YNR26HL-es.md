@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Krups EA82F0 - Cafetera Superautomática 1450 W  15 bares  1 7 L  Pantalla LCD  Molinillo cónico de metal integrado  Programa de limpieza automático. Sistema de filtro de agua. Tecnología Quattro Force'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YNR26HL/?tag=tolees-21'
 descuento: '33.44'
 average: '199.0'

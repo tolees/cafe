@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Mellerware Bari Legend cafetera espresso programable 20 bares y filtro extracream. Acero inoxidable'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VCSS74V/?tag=tolees-21'
 descuento: '25.00'
 average: '59.99'

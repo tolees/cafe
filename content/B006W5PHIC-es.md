@@ -16,6 +16,7 @@ comparePrice: 19.34 EUR
 prodname: 'Oroley - Cafetera Italiana Touareg de Aluminio  9 Tazas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B006W5PHIC/?tag=tolees-21'
 descuento: '19.96'
 average: '15.48'

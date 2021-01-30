@@ -16,6 +16,7 @@ comparePrice: 11.96 EUR
 prodname: 'L Or Espresso Café Ristretto Decaffeinato Intensidad 9 - 40 cápsulas de aluminio compatibles con máquinas Nespresso  R *  4 Paquetes de 10 cápsulas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H5W6XSH/?tag=tolees-21'
 descuento: '23.41'
 average: '9.436666666666666'

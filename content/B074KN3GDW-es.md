@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Philips SENSEO Original HD6554/91 - Cafetera monodosis con tecnología Coffee Boost y Crema Plus  selección de intensidad  color rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074KN3GDW/?tag=tolees-21'
 descuento: '20.09'
 average: '66.95714285714286'

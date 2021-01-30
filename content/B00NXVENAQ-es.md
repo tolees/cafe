@@ -16,6 +16,7 @@ comparePrice: 579.0 EUR
 prodname: 'Melitta Passione F530-101  Cafetera Automática con Molinillo  Café en Grano  Sistema de leche  Limpieza Automática  Personalizable  15 Bares  Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00NXVENAQ/?tag=tolees-21'
 descuento: '8.56'
 average: '529.43'

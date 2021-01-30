@@ -16,6 +16,7 @@ comparePrice: 14.97 EUR
 prodname: 'NESCAFÉ Dolce Gusto Café Cappuccino  Pack de 3 x 16 Cápsulas - Total: 48 Cápsulas de Café'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004MZA4R8/?tag=tolees-21'
 descuento: '11.49'
 average: '13.625'

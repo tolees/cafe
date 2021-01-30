@@ -16,6 +16,7 @@ comparePrice: 89 EUR
 prodname: 'De Longhi Dolce Gusto Jovia EDG250.W - Cafetera de cápsulas  15 bares de presión  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00J5ERYEW/?tag=tolees-21'
 descuento: '22.70'
 average: '47.736666666666665'

@@ -16,6 +16,7 @@ comparePrice: 16.47 EUR
 prodname: 'Monix M620009 Cafetera  Aluminio  Plata  9 Tazas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008KO2DH6/?tag=tolees-21'
 descuento: '40.80'
 average: '9.966666666666667'

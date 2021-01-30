@@ -16,6 +16,7 @@ comparePrice: 799.99 EUR
 prodname: 'Philips Saeco PicoBaristo Deluxe SM5570/10 - Cafetera Súper Automática  13 Bebidas de Café Personalizables  Jarra de Leche Integrada  Limpieza automatica  Molinillo Ceramico  Acabado Premium'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079DDLBKL/?tag=tolees-21'
 descuento: '12.62'
 average: '699.0'

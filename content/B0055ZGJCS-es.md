@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Ufesa Cafetera expreso Duetto Creme CE7141  500 W  Acero Inoxidable  Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0055ZGJCS/?tag=tolees-21'
 descuento: '73.85'
 average: '28.5'

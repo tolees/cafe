@@ -16,6 +16,7 @@ comparePrice: 29.94 EUR
 prodname: 'Tassimo Coffee L OR Espresso Bundle Cápsulas de Café - L OR Decaffeinato  Delizioso  Fortissimo - 6 Paquetes  96 Porciones '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WXHS259/?tag=tolees-21'
 descuento: '20.01'
 average: '23.95'

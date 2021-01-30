@@ -16,6 +16,7 @@ comparePrice: 83.12 EUR
 prodname: 'Bosch Comfort Line TKA6A683 - Cafetera de filtro / goteo  1200 W  acero inoxidable  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ISTGSO6/?tag=tolees-21'
 descuento: '23.22'
 average: '69.25333333333333'

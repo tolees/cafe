@@ -16,6 +16,7 @@ comparePrice: 189.9 EUR
 prodname: 'Ariete 1389 Cafetera espresso vintage  900 W  2 Cups  plástico  Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01DXEW0D4/?tag=tolees-21'
 descuento: '23.60'
 average: '145.09'

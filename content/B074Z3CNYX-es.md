@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Nespresso EN500BW De Longhi Lattissima One - Cafetera monodosis de cápsulas Nespresso con depósito de leche compacto  19 bares  apagado automático  color moccha marrón'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074Z3CNYX/?tag=tolees-21'
 descuento: '40.16'
 average: '151.35454545454544'

@@ -16,6 +16,7 @@ comparePrice: 229.9 EUR
 prodname: 'De longhi Dedica - Cafetera de Bomba de Acero Inoxidable para Café Molido o Monodosis  Cafetera para Espresso y Cappuccino  Depósito de 1.3 Litros  Sistema Anti-goteo  EC685.R  Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WD7Z8GD/?tag=tolees-21'
 descuento: '26.49'
 average: '162.40333333333334'

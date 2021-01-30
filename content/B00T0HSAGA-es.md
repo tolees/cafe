@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'DeLonghi ECOV311.BK Cafetera Espresso Vintage Icona  Independiente  Semi-autom?tica  1050 W  1.4 L  15 bares  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00T0HSAGA/?tag=tolees-21'
 descuento: '4.02'
 average: '159.94'

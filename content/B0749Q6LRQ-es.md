@@ -16,6 +16,7 @@ comparePrice: 91.18 EUR
 prodname: 'Bosch TAS6004 Tassimo My Way Cafetera de cápsulas 1500 W  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0749Q6LRQ/?tag=tolees-21'
 descuento: '36.85'
 average: '63.292142857142856'

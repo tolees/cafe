@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Russell Hobbs Buckingham Grind & Brew - Cafetera de Goteo  Jarra  Cafetera para 12 Tazas  1000 W  Gris  - ref. 20060-56'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00E5ZA8US/?tag=tolees-21'
 descuento: '6.31'
 average: '147.59'

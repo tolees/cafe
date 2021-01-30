@@ -16,6 +16,7 @@ comparePrice: 3.39 EUR
 prodname: 'Café FORTALEZA - Cápsulas de Café Etiopia Compatibles con Dolce Gusto'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B082VTW3QB/?tag=tolees-21'
 descuento: '11.80'
 average: '2.99'

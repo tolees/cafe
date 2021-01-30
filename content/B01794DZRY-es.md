@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'Jata CA290 Cafetera de Goteo Filtro permanente Antigoteo Jarra con tapa Filtro suspendido De 2 a 12 tazas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01794DZRY/?tag=tolees-21'
 descuento: '29.10'
 average: '24.279999999999998'

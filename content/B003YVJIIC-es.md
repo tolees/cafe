@@ -16,6 +16,7 @@ comparePrice: 14.97 EUR
 prodname: 'NESCAFÉ Dolce Gusto Café Latte Macchiato Vainilla  Pack de 3 x 16 Cápsulas - Total: 48 Cápsulas de Café'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B003YVJIIC/?tag=tolees-21'
 descuento: '8.48'
 average: '13.7'

@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Taurus Cafetera Goteo Verona 12  680 W  1.2 litros  plástico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00VACSDYW/?tag=tolees-21'
 descuento: '27.79'
 average: '25.68692307692308'

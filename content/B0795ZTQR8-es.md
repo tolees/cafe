@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Nespresso De Longhi Lattisima Touch Animation EN560.W - Cafetera monodosis de cápsulas Nespresso con depósito de leche  6 recetas seleccionables  19 bares  apagado automático  color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0795ZTQR8/?tag=tolees-21'
 descuento: '3.23'
 average: '274.495'

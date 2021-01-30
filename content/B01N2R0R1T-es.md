@@ -16,6 +16,7 @@ comparePrice: 18.88 EUR
 prodname: 'Nescafé Dolce Gusto - Chococino - 3 Paquetes de 16 Cápsulas - Total: 48 Cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N2R0R1T/?tag=tolees-21'
 descuento: '20.60'
 average: '14.99'

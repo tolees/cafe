@@ -16,6 +16,7 @@ comparePrice: 34.35 EUR
 prodname: 'Panamami Acero Inoxidable Aislamiento Pot Doble vacío Hervidor Hogar Europea Cafetera Agua Fría Botella de Regalo - Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YVFQFFY/?tag=tolees-21'
 descuento: '34.99'
 average: '22.33'

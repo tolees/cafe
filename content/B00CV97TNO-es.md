@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'De Longhi Dolce Gusto Mini Me EDG305.WR - Cafetera de cápsulas  15 bares de presión  color blanco y rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CV97TNO/?tag=tolees-21'
 descuento: '20.88'
 average: '74.11'

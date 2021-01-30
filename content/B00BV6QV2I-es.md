@@ -16,6 +16,7 @@ comparePrice: 14.91 EUR
 prodname: 'Nescafé Dolce Gusto  Café Cortado Espresso Macchiato  Pack de 3 x 16 Cápsulas - Total: 48 Cápsulas de Café'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BV6QV2I/?tag=tolees-21'
 descuento: '11.13'
 average: '13.35'

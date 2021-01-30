@@ -16,6 +16,7 @@ comparePrice: 17.7 EUR
 prodname: 'Viaggio Espresso Cápsulas de café compatibles con máquinas Nespresso Ristretto  60 Cápsulas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00YA2QFHG/?tag=tolees-21'
 descuento: '15.03'
 average: '15.04'

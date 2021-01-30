@@ -16,6 +16,7 @@ comparePrice: 81.95 EUR
 prodname: 'IKOHS Máquina de Café Espresso Italiano - Cafetera Multi Cápsulas Compatible Nespresso 3 en 1  19 bares con 2 Programas de Café  deposito extraíble  0 6 L  compacto  1450 W  apagado automático Gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QK8GFPN/?tag=tolees-21'
 descuento: '18.30'
 average: '67.61666666666667'

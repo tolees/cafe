@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'De Longhi Dolce Gusto Infinissima EDG260.R - Cafetera de cápsulas  15 bares de presión  color rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G4P24SP/?tag=tolees-21'
 descuento: '39.33'
 average: '57.64142857142857'

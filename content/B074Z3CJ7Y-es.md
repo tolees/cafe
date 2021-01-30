@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'De Longhi Dolce Gusto Colors EDG355.B1 - Cafetera de cápsulas  15 bares de presión  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B074Z3CJ7Y/?tag=tolees-21'
 descuento: '40.51'
 average: '54.11'

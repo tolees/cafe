@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'KICHLY - 8 tazas  1 litro / 1000 ml  Cafetera Francesa espresso y tetera con triple filtro émbolo de acero inoxidable - Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07V6KD4ZY/?tag=tolees-21'
 descuento: '15.01'
 average: '11.89'

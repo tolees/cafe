@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Krups Dolce Gusto Infinissima KP1708 - Cafetera de cápsulas  15 bares de presión  color negro  Reacondicionado '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07PVYT722/?tag=tolees-21'
 descuento: '20.00'
 average: '51.99'

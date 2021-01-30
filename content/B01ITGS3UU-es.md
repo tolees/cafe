@@ -16,6 +16,7 @@ comparePrice: 202.06 EUR
 prodname: 'DeLonghi Nespresso Citiz EN267.BAE Cafetera con cápsulas  sistema de extracción especial  1710 W  1 L  plástico  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01ITGS3UU/?tag=tolees-21'
 descuento: '6.02'
 average: '200.81428571428572'

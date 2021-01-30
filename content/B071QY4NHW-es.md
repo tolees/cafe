@@ -16,6 +16,7 @@ comparePrice: 564.0 EUR
 prodname: 'De Longhi PrimaDonna S EVO - Cafetera Automática Controlable desde Smartphone  Espresso y Cappuccino  Pantalla LCD Táctil  Sistema Latte Crema  Limpieza Automática  ECAM 510.55.M  Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071QY4NHW/?tag=tolees-21'
 descuento: '37.41'
 average: '702.3737499999999'

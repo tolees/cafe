@@ -16,6 +16,7 @@ comparePrice: 16.0 EUR
 prodname: 'Krups MS-623241 - Recipiente para cápsulas de café Dolce Gusto Melody 3 / Genio/Drop'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BKKDCHG/?tag=tolees-21'
 descuento: '21.94'
 average: '12.49'

@@ -16,6 +16,7 @@ comparePrice: 25.75 EUR
 prodname: 'Tassimo Coffee L OR XL Bundle Cápsulas de Café - L OR Classique XL & Intense XL - 5 Paquetes  80 Porciones '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WVCJ8ZF/?tag=tolees-21'
 descuento: '14.99'
 average: '21.246666666666666'

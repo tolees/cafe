@@ -16,6 +16,7 @@ comparePrice: 25.2 EUR
 prodname: 'Tristar CM-1233 – Cafetera con Capacidad para 6 Tazas  Apta para Llevar de Acampada'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00U0ACJRM/?tag=tolees-21'
 descuento: '8.21'
 average: '22.308'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Krups KP1A01 Piccolo XS - Cafetera monodosis de plástico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VV37HYW/?tag=tolees-21'
 descuento: '18.32'
 average: '49.0'

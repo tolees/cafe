@@ -16,6 +16,7 @@ comparePrice: 22.87 EUR
 prodname: 'L Or Espresso Onyx - Paquete de 4 x 20 cápsulas - Total: 80 cápsulas   compatibles con cafeteras Nespresso'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H5TSC97/?tag=tolees-21'
 descuento: '19.90'
 average: '17.7375'

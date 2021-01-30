@@ -16,6 +16,7 @@ comparePrice: 5.55 EUR
 prodname: 'NESCAFÉ Dolce Gusto Espresso Bonka | Cápsulas de Café - 16 cápsulas de café'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007Y5S4VG/?tag=tolees-21'
 descuento: '7.21'
 average: '5.15'

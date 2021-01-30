@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Alessi Cafetera de espresso Pulcina  negro  300 ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B014HJ76EC/?tag=tolees-21'
 descuento: '27.40'
 average: '54.45'

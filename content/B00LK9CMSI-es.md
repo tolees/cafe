@@ -16,6 +16,7 @@ comparePrice: 57.9 EUR
 prodname: 'Bialetti Moka Induction Cafetera Italiana Espresso por Inducción  Aluminio  Oro  Champagne   6 Tazas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LK9CMSI/?tag=tolees-21'
 descuento: '22.68'
 average: '44.77'

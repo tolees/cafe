@@ -16,6 +16,7 @@ comparePrice: 134.99 EUR
 prodname: 'Solac S92011100 Ce4501 Squissita Cafetera  Doub Cream  Espresso y Cappuccino  1 Cups  Acero Inoxidable  Multicolor'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QMR7J33/?tag=tolees-21'
 descuento: '29.48'
 average: '79.56'

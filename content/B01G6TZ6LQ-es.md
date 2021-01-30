@@ -16,6 +16,7 @@ comparePrice: 23.0 EUR
 prodname: 'FRHOME - Nescafè Dolce Gusto 96 Càpsulas compatibles - Il Caffè Italiano - Mezcla Napoli Intensidad 12'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01G6TZ6LQ/?tag=tolees-21'
 descuento: '20.00'
 average: '18.4'

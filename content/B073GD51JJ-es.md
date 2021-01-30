@@ -16,6 +16,7 @@ comparePrice: 169 EUR
 prodname: 'Cafetera Expreso de Acero Emilia 1140 W  15 Bares  1 5 L con filtro  Máquina para café con función de espumador para leche y támper + Gratis Espresso-Guide  PDF '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B073GD51JJ/?tag=tolees-21'
 descuento: '53.25'
 average: '79'

@@ -16,6 +16,7 @@ comparePrice: 83.33 EUR
 prodname: 'BRA Bella - Cafetera  Capacidad 10 Tazas  Acero Inoxidable 18/10'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CWZK7B8/?tag=tolees-21'
 descuento: '22.64'
 average: '51.11'

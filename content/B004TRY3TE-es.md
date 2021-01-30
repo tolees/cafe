@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'De Longhi Dolce Gusto Piccolo EDG200.B - Cafetera de cápsulas  15 bares de presión  color negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B004TRY3TE/?tag=tolees-21'
 descuento: '12.36'
 average: '66.32521739130435'

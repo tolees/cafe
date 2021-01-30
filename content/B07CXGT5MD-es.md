@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Cafetera Café Portátil Aicok  K-Cup Cafetera Automatizada  Máquina de Café Eléctrica para Viajes  Operación Sencilla con un Solo Botón  Perfecta para Conducir un Automóvil y en Cualquier Lugar'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07CXGT5MD/?tag=tolees-21'
 descuento: '47.38'
 average: '31.990000000000002'

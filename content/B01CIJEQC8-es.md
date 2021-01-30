@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'BEPER Cafetera Espresso  Plateado  32 x 23.2 x 36.5 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01CIJEQC8/?tag=tolees-21'
 descuento: '52.15'
 average: '68.45'

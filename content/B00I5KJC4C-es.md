@@ -16,6 +16,7 @@ comparePrice: 499.0 EUR
 prodname: 'De longhi Nespresso Lattissima Pro EN750MB - Cafetera de cápsulas  19 bares  apagado automático  depósito de leche  pantalla táctil  color aluminio'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00I5KJC4C/?tag=tolees-21'
 descuento: '6.67'
 average: '422.99600000000004'

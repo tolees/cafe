@@ -16,6 +16,7 @@ comparePrice: 46.76 EUR
 prodname: 'Domoclip Cafetera Electric Rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00SN9EYYS/?tag=tolees-21'
 descuento: '12.53'
 average: '40.9'

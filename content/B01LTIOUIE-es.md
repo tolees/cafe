@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'TASSIMO L Or Café Splendente - 5 paquetes de 16 cápsulas: Total 80 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LTIOUIE/?tag=tolees-21'
 descuento: '4.61'
 average: '22.7975'

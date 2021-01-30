@@ -16,6 +16,7 @@ comparePrice: 34.29 EUR
 prodname: 'Bosch TAS1401 Tassimo Vivy 2 - Cafetera Multibebidas Automática de Cápsulas  Diseño Compacto  color Fucsia'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06VYHH6NB/?tag=tolees-21'
 descuento: '10.88'
 average: '31.466666666666665'

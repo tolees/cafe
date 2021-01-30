@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Dolce Gusto Krups KP1208 - Cafetera de cápsulas Mini Me  15 bares de presión  color negro y gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00EB1SWHW/?tag=tolees-21'
 descuento: '45.00'
 average: '54.43333333333334'

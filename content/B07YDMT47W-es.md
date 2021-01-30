@@ -16,6 +16,7 @@ comparePrice: 29.74 EUR
 prodname: 'Tassimo Kenco Lovers Coffee Bundle - Tassimo Kenco Cappuccino/Decaf/Flat White/Americano Grande/Colombian/Americano Smooth - 6 Paquetes  80 Porciones '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YDMT47W/?tag=tolees-21'
 descuento: '20.01'
 average: '23.79'

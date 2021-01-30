@@ -16,6 +16,7 @@ comparePrice: 25.69 EUR
 prodname: 'Filtro De Café Permanente Para Cafetera De Sifón  Inoxidable  Fácil Limpieza'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07T2PN9QL/?tag=tolees-21'
 descuento: '44.45'
 average: '14.27'

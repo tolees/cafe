@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Note D Espresso Cápsulas de Café de Guatemala - 96 Unidades de 7 g  Exclusivamente Compatibles con cafeteras de cápsulas Nescafé* y Dolce Gusto*'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WXLJT64/?tag=tolees-21'
 descuento: '21.06'
 average: '14.333333333333332'

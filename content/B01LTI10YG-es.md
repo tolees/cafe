@@ -16,6 +16,7 @@ comparePrice: 14.97 EUR
 prodname: 'Exclusivo Nescafé Dolce Gusto  Café con Leche  Pack de 3 x 16 Cápsulas - Total: 48 Cápsulas de Café'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01LTI10YG/?tag=tolees-21'
 descuento: '33.27'
 average: '12.485151515151516'

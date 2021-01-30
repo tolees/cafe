@@ -16,6 +16,7 @@ comparePrice: 129 EUR
 prodname: 'Melitta Elegance Therm Deluxe 1012-06  Cafetera Goteo  Programable  Jarra Termo  Control de Aroma  Pantalla LCD  10 Tazas  1450 W  Negro y Acero Inoxidable  1.25 litros'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XJ5E6MG/?tag=tolees-21'
 descuento: '17.36'
 average: '120.805'

@@ -16,6 +16,7 @@ comparePrice: 60.34 EUR
 prodname: 'Saeco 421944036871 Original Sistema de preparación unidad de preparación z.t. Intelia Evo Intuita Moltio Syntia Cafetera Cafetera Cafetera Eléctrica también Philips'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01GSKXW0A/?tag=tolees-21'
 descuento: '21.33'
 average: '47.47'

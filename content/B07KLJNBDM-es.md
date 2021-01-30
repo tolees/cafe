@@ -16,6 +16,7 @@ comparePrice: 14.97 EUR
 prodname: 'NESCAFÉ Dolce Gusto Café Latte Macchiato  Pack de 3x16 Cápsulas - Total: 48 Cápsulas de Café'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KLJNBDM/?tag=tolees-21'
 descuento: '19.91'
 average: '13.505833333333332'

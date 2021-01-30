@@ -16,6 +16,7 @@ comparePrice: 35.65 EUR
 prodname: 'Bialetti Moka Induction Cafetera Italiana Espresso por Inducción  Aluminio  Gris Antracita  3 Tazas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LK9CNG4/?tag=tolees-21'
 descuento: '11.50'
 average: '31.55'

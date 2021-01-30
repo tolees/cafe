@@ -16,6 +16,7 @@ comparePrice: 42.77 EUR
 prodname: 'Bosch TKA3A034 CompactClass Extra Cafetera de goteo  capacidad para 10 tazas 1 25 litros  color rojo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B008WK1O5A/?tag=tolees-21'
 descuento: '13.07'
 average: '38.09'

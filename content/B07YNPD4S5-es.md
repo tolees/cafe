@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Nespresso Krups Essenza Mini - Cafetera monodosis de cápsulas  Reacondicionado   Blanco '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YNPD4S5/?tag=tolees-21'
 descuento: '23.03'
 average: '49.99'

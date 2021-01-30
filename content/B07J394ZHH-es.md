@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Aicook Cafetera de Goteo  Mini Cafetera Portátil con Diseño Compacto  Cafetera de Filtro con Tecnologia de Preparación Rápida  Equipado con 2 Tazas de Cerámica  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07J394ZHH/?tag=tolees-21'
 descuento: '9.10'
 average: '20.614999999999995'

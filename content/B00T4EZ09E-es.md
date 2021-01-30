@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Philips HD7435 Cafetera Goteo  Color Metal  700 W  6 Cups  plástico  Negro y gris'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00T4EZ09E/?tag=tolees-21'
 descuento: '44.71'
 average: '23.895714285714284'

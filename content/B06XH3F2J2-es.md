@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Ninja CF060EU Cafetera Auto-IQ Brewer con Jarra de Vidrio  Silver'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XH3F2J2/?tag=tolees-21'
 descuento: '25.00'
 average: '63.32333333333333'

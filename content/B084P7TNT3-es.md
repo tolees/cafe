@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Brewsly Termo Cafe 600ml  12 h Caliente y 24 h Frío  Botella Termica de Acero Inoxidable  Aislamiento de Vacío de Doble Pared Vaso Termico  Sin BPA  Tapa a Prueba de Fugas  para Café  Té  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B084P7TNT3/?tag=tolees-21'
 descuento: '35.74'
 average: '16.99'

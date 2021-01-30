@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Rascador para Gatos Altura 72cm Rascadores Arbol Poste Juego Arañar Cafe'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01BG2IX3Q/?tag=tolees-21'
 descuento: '15.01'
 average: '23.79'

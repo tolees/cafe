@@ -16,6 +16,7 @@ comparePrice: 46.15 EUR
 prodname: 'Bialetti Moka Induction  cafetera con Base de Acero para inducción  Color Gris  6 Tazas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00LK9CO0E/?tag=tolees-21'
 descuento: '19.05'
 average: '37.36'

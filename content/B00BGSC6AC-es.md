@@ -16,6 +16,7 @@ comparePrice: 1399.9 EUR
 prodname: 'De Longhi PrimaDonna XS Deluxe - Cafetera Superautomática con 15 Bares de Presión  Espresso y Cappuccino  Muy Estrecha 19.5 cm  Pantalla Digital  Personalización Cafés  1450 W  ETAM 36.365.MB  Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00BGSC6AC/?tag=tolees-21'
 descuento: '40.66'
 average: '909.34'

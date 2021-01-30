@@ -16,6 +16,7 @@ comparePrice: 14.97 EUR
 prodname: 'NESCAFÉ Dolce Gusto | Capsulas de Café Cappuccino Ice | Pack de 3 x 16 Cápsulas - Total: 48 Cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000ODQRGE/?tag=tolees-21'
 descuento: '14.83'
 average: '14.310000000000002'

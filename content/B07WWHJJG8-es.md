@@ -16,6 +16,7 @@ comparePrice: 24.86 EUR
 prodname: 'Marca Amazon - Happy Belly Espresso Café UTZ molido de tueste natural en cápsulas de aluminio compatibles con Nespresso  120 cápsulas  4x30 '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WWHJJG8/?tag=tolees-21'
 descuento: '12.75'
 average: '21.84'

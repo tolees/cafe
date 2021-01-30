@@ -16,6 +16,7 @@ comparePrice: 219.0 EUR
 prodname: 'Alessi La Conica 90002/3 Cafetera para Café Exprés de Diseño  Acero Inoxidable y Fondo en Cobre  Plateado  3 Tazas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B000HWY2Q4/?tag=tolees-21'
 descuento: '19.71'
 average: '175.83'

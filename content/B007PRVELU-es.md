@@ -16,6 +16,7 @@ comparePrice: 16.74 EUR
 prodname: 'Cafe Dolce gusto CAFE CON LECHE | NESTLE Pack 3 cajas de 18 capsulas cada una'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B007PRVELU/?tag=tolees-21'
 descuento: '10.87'
 average: '14.92'

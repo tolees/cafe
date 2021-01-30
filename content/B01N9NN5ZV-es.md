@@ -16,6 +16,7 @@ comparePrice: 17.7 EUR
 prodname: 'Viaggio Espresso Cápsulas de café compatibles con máquinas Nespresso Mix intensos  60 Cápsulas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01N9NN5ZV/?tag=tolees-21'
 descuento: '15.03'
 average: '15.926666666666664'

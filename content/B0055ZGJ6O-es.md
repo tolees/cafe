@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'De Longhi Alicia EMKM 9 Cafetera Moka Eléctrica  550 w  Capacidad 9 Tazas  Función Autoapagado  Base Giratoria  Negro y Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0055ZGJ6O/?tag=tolees-21'
 descuento: '36.84'
 average: '56.315'

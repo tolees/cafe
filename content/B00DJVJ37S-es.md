@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'Bosch TCZ6004  Pastillas de Limpieza y Descalcificación para Cafeteras TASSIMO'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DJVJ37S/?tag=tolees-21'
 descuento: '47.04'
 average: '8.79181818181818'

@@ -16,6 +16,7 @@ comparePrice: 4.91 EUR
 prodname: 'Bosch T-Disc - Pieza de Repuesto para Tassimo T20  Color Amarillo'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002GT7Y0M/?tag=tolees-21'
 descuento: '48.47'
 average: '2.53'

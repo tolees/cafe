@@ -16,6 +16,7 @@ comparePrice: 2.99 EUR
 prodname: 'Cafés Baqué - 10 Capsulas Compatibles Nespresso  Ristretto - Intensidad 8 De 10 - Capsulas Compostables 50 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VH154FR/?tag=tolees-21'
 descuento: '33.44'
 average: '1.99'

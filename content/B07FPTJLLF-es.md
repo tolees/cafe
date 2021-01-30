@@ -16,6 +16,7 @@ comparePrice: 38.28 EUR
 prodname: 'Café FORTALEZA - Cápsulas de Café Descafeinado Forte Compatibles con Nespresso - Pack 12 x 10 - Total 120 cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07FPTJLLF/?tag=tolees-21'
 descuento: '50.08'
 average: '19.66'

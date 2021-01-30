@@ -16,6 +16,7 @@ comparePrice: 10.19 EUR
 prodname: 'M MAGEFESA - Cafetera Modelo Kenia de Aluminio Grueso  6 Tazas '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00KVEG5C2/?tag=tolees-21'
 descuento: '25.52'
 average: '7.59'

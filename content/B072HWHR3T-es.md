@@ -16,6 +16,7 @@ comparePrice: 15.79 EUR
 prodname: 'Cafetera de Vacío de Acero Inoxidable de Doble Vaso de Pared Aislados Thermos Jarro de Agua Caliente Botella Dispensador de Bebidas con Botón de Prensa 1.5L / 2L  2L  Azul '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072HWHR3T/?tag=tolees-21'
 descuento: '68.40'
 average: '4.99'

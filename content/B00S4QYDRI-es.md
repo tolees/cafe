@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'TASSIMO L Or Café Long Délicat - 5 paquetes de 16 cápsulas: Total 80 unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00S4QYDRI/?tag=tolees-21'
 descuento: '5.01'
 average: '21.763333333333335'

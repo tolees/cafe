@@ -16,6 +16,7 @@ comparePrice: 319.0 EUR
 prodname: 'Melitta Caffeo Solo E950-103 - Cafetera Automática  3 Grados de Intensidad  Modo 0 Vatios  1.2 Litros  Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B002NKR4VI/?tag=tolees-21'
 descuento: '12.61'
 average: '290.8'

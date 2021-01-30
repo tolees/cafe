@@ -16,6 +16,7 @@ comparePrice: 62.99 EUR
 prodname: 'Russell Hobbs Buckingham - Cafetera de Goteo  Jarra Cafetera para 10 Tazas  1000 W  Digital  Gris  Inox  - ref. 20680-56'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00MB6J36I/?tag=tolees-21'
 descuento: '4.91'
 average: '59.9'

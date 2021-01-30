@@ -16,6 +16,7 @@ comparePrice: 14.97 EUR
 prodname: 'NESCAFÉ Dolce Gusto Espresso Intenso Descafeinado | Pack de 3 x 16 Cápsulas - Total: 48 Cápsulas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07D31RY2G/?tag=tolees-21'
 descuento: '14.83'
 average: '12.370000000000001'

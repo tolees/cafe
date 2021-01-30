@@ -16,6 +16,7 @@ comparePrice: 149.9 EUR
 prodname: 'Severin KA 5994 Espresa - Cafetera espresso  1350 W  1.1 L  acero inoxidable cepillado  función descalcificación  color plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07XDT4MQN/?tag=tolees-21'
 descuento: '20.00'
 average: '132.92600000000002'

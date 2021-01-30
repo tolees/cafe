@@ -16,6 +16,7 @@ comparePrice: 33.51 EUR
 prodname: 'Regalo Botella de Acero Inoxidable de Aislamiento al vacío Pot Doble Caldera de Hogares Cafetera Agua Fría - Plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07YVFTV42/?tag=tolees-21'
 descuento: '35.00'
 average: '21.78'

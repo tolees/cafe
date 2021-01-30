@@ -16,6 +16,7 @@ comparePrice: 154.54 EUR
 prodname: 'Philips Grind & Brew HD7767/00 - Cafetera  Independiente  Cafetera de filtro  1 2 L  Molinillo integrado  1000 W  Negro  Acero inoxidable '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B079GYWYY8/?tag=tolees-21'
 descuento: '12.07'
 average: '162.96333333333334'

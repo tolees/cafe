@@ -16,6 +16,7 @@ comparePrice: 1.6 EUR
 prodname: 'ORYX Classic Mango Cafetera 9 y 12 Tazas  Negro  9x9x3 cm'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07B9KR2T2/?tag=tolees-21'
 descuento: '31.25'
 average: '1.1'

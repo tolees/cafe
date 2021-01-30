@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Ariete 1342 Cafetera de goteo vintage  2000 W  ACERO INOXIDABLE  Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01F8TYB0C/?tag=tolees-21'
 descuento: '23.65'
 average: '61.0'

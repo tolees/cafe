@@ -16,6 +16,7 @@ comparePrice: 32.9 EUR
 prodname: 'Cecotec Cafetera de Goteo Coffee 66 Smart. Programable con Tecnología ExtemAroma  Función AutoClean'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MLSZXZY/?tag=tolees-21'
 descuento: '7.93'
 average: '29.067142857142855'

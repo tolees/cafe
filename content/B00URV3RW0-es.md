@@ -16,6 +16,7 @@ comparePrice: 11.05 EUR
 prodname: 'Oroley - Cafetera de Émbolo Spezia de Acero Inoxidable Borosilicato y Base de Silicona  3 Tazas  350 Ml'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00URV3RW0/?tag=tolees-21'
 descuento: '18.19'
 average: '9.04'

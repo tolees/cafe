@@ -16,6 +16,7 @@ comparePrice: 619.0 EUR
 prodname: 'De longhi Magnifica S Ecam 22.110.SB - Cafetera superautomática  15 bares de presión  13 programas ajustables  limpieza automática  sistema cappuccino  color plata'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00400OMUK/?tag=tolees-21'
 descuento: '35.54'
 average: '399.0'

@@ -16,6 +16,7 @@ comparePrice: 3.99 EUR
 prodname: 'Toscaf 70232 Cápsulas Compostables Intenso Compatibles Nespresso 20 Unidades 189 g'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZJSPVFY/?tag=tolees-21'
 descuento: '29.82'
 average: '2.8'

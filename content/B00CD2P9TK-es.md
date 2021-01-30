@@ -16,6 +16,7 @@ comparePrice: 18.95 EUR
 prodname: 'N/a - Nescafe dolce gusto marrakesh style tea  pack of 3  by na'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00CD2P9TK/?tag=tolees-21'
 descuento: '26.12'
 average: '14.0'

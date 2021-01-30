@@ -16,6 +16,7 @@ comparePrice: 51.26 EUR
 prodname: 'Bosch TAS6002X Tassimo My Way Cafetera automática  color negro  incluye dos paquetes de cápsulas de café L Or  1500 W  1.3 litros  Plástico'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07VZQQPGR/?tag=tolees-21'
 descuento: '23.21'
 average: '43.629999999999995'

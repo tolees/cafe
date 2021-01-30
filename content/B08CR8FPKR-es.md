@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Krups Cafetera automática Movenza + 48 cápsulas Nescafé Dolce Gusto Espresso Intenso  3 x 16 cáp.   Black + 48 cápsulas Dolce Gusto Expresso Intenso '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CR8FPKR/?tag=tolees-21'
 descuento: '20.20'
 average: '79.0'

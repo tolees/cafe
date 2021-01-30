@@ -16,6 +16,7 @@ comparePrice: 145.99 EUR
 prodname: 'NMDD Ornament Modernen Minimalistischen Keramik Wassertropfen Handwerk Dekoration Wohnzimmer Restaurant Cafe Eingerichtet  Größe: 18 * 28 cm '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZM16B8W/?tag=tolees-21'
 descuento: '44.52'
 average: '80.99'
