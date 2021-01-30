@@ -27,11 +27,11 @@ En este momento está [Nescafé Dolce Gusto Café Espresso Intenso - 16 Cápsula
 
 🔎:
 
+- Máquina Express: sistema de café profesional de hasta 15 bares de presión
 - Las cápsulas Nescafé Dolce Gusto Espresso Intenso tienen un sabor a café intenso y aromático
-- Cápsulas de café inteligentes; su sellado hermético mantiene el café fresco conservando todos sus aromas
 - Cápsulas 100% reciclables depositándolas en nuestros puntos de recogida Nescafé Dolce Gusto
 - Café gourmet seleccionando los orígenes de mayor calidad con el inconfundible sabor Nescafé Dolce Gusto
-- Máquina Express: sistema de café profesional de hasta 15 bares de presión
 - Descubre nuestras más de 30 variedades de cápsulas de café, té, chocolate y especialidades de espresso con leche
+- Cápsulas de café inteligentes; su sellado hermético mantiene el café fresco conservando todos sus aromas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07CL328SJ/?tag=tolees-21)

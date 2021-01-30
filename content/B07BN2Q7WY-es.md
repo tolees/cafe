@@ -27,8 +27,8 @@ Ahora mismo tienes [Central Lechera Asturiana Cápsulas de Leche Semidesnatada -
 
 🔎:
 
+- Sin cafeína.
 - Cápsulas de leche en polvo semidesnatada
 - Cápsulas 100% naturales y sin E-s artificiales
-- Sin cafeína.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BN2Q7WY/?tag=tolees-21)
