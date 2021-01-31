@@ -28,10 +28,10 @@ Ahora mismo tienes [Bialetti Moka Elektrika  Cafetera espresso eléctrica de via
 
 🔎:
 
-- El fabricante de café espresso sobre la marcha y en el hogar
+- El Moka Express - la versión eléctrica clásica
 - Con la nueva válvula de seguridad
 - mango ergonómico
+- El fabricante de café espresso sobre la marcha y en el hogar
 - AC 110V / 230V
-- El Moka Express - la versión eléctrica clásica
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002EWANQS/?tag=tolees-21)
