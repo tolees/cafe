@@ -29,9 +29,9 @@ En este momento está [Nespresso Krups Essenza Mini XN1101 - Cafetera monodosis 
 🔎:
 
 - Capacidad del contenedor de capsuladas usadas: 9 cápsulas
-- Sistema Nespresso de 19 bares de presión y calentamiento rápido en sólo 25 segundos
-- La cafetera de Nespresso de diseño moderno ultracompacto para la máxima comodidad, ocupando el menor espacio posible con un tamaño de 33 x 8,4 x 20,4 cm
 - 2 programas de café para elegir la medida deseada: café corto o largo y también puedes personalizar las cantidades como más te guste
 - Ahorro de energía: activación del modo de bajo consumo de energía al cabo de 3 minutos y función de autoapagado tras 9 minutos de inactividad
+- La cafetera de Nespresso de diseño moderno ultracompacto para la máxima comodidad, ocupando el menor espacio posible con un tamaño de 33 x 8,4 x 20,4 cm
+- Sistema Nespresso de 19 bares de presión y calentamiento rápido en sólo 25 segundos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06XJ3MFMN/?tag=tolees-21)
