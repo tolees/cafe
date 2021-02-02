@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Central Lechera Asturiana Cápsulas de Le al 6.00 % de descuento'
-date: 2021-02-01 08:31:08
+date: 2021-02-02 09:16:08
 image: 'https://m.media-amazon.com/images/I/51InOZAqDLL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Central Lechera Asturiana'
 buyurl: 'https://www.amazon.es/dp/B07BN2Q7WY/?tag=tolees-21'
 descuento: '6.00'
-average: '13.0747208121826'
+average: '13.0755778894471'
 ---
 
 Ahora mismo tienes [Central Lechera Asturiana Cápsulas de Leche Semidesnatada - Compatibles con Dolce Gusto - 4 Paquetes de 16 Cápsulas - Total: 64 Cápsulas  28410297270035 ](https://www.amazon.es/dp/B07BN2Q7WY/?tag=tolees-21) a 13.16 EUR (original: 14.0 EUR) (6.00 %  de descuento) en el siguiente enlace!
@@ -28,8 +28,8 @@ Ahora mismo tienes [Central Lechera Asturiana Cápsulas de Leche Semidesnatada -
 
 🔎:
 
-- Cápsulas 100% naturales y sin E-s artificiales
 - Cápsulas de leche en polvo semidesnatada
 - Sin cafeína.
+- Cápsulas 100% naturales y sin E-s artificiales
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07BN2Q7WY/?tag=tolees-21)
