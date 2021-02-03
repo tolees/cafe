@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'L Or Espresso Café Ristretto Decaffeinat al 18.60 % de rebaja'
-date: 2020-10-07 19:02:41
+title: 'L Or Espresso Café Ristretto Decaffeinat al 4.11 % de rebaja'
+date: 2021-02-03 22:48:42
 image: 'https://m.media-amazon.com/images/I/410AjqcIoBL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,24 +9,29 @@ author: ring
 slug: 'B00I7Q4REE-es L Or Espresso Café Ristretto Decaffeinato Intensidad 9 -...'
 sku: 'B00I7Q4REE-es'
 tags: [ 'nespresso', ]
-actualPrice: 51.2 EUR
+actualPrice: 55.56 EUR
 currency: EUR
-price: 51.2
-comparePrice: 62.9 EUR
+price: 55.56
+comparePrice: 57.94 EUR
 prodname: 'L Or Espresso Café Ristretto Decaffeinato Intensidad 9 - 200 cápsulas de aluminio compatibles con máquinas Nespresso  10 Paquetes de 20 cápsulas '
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'LOR'
 buyurl: 'https://www.amazon.es/dp/B00I7Q4REE/?tag=tolees-21'
-descuento: '18.60'
-average: '51.2'
+descuento: '4.11'
+average: '52.6533333333333'
 ---
 
-Tienes [L Or Espresso Café Ristretto Decaffeinato Intensidad 9 - 200 cápsulas de aluminio compatibles con máquinas Nespresso  10 Paquetes de 20 cápsulas ](https://www.amazon.es/dp/B00I7Q4REE/?tag=tolees-21) con precio final de  51.2 EUR (original: 62.9 EUR) (18.60 %  de rebaja) aqui!
+Tienes [L Or Espresso Café Ristretto Decaffeinato Intensidad 9 - 200 cápsulas de aluminio compatibles con máquinas Nespresso  10 Paquetes de 20 cápsulas ](https://www.amazon.es/dp/B00I7Q4REE/?tag=tolees-21) con precio final de  55.56 EUR (original: 57.94 EUR) (4.11 %  de rebaja) aqui!
 
 [![L Or Espresso Café Ristretto Decaffeinat](https://m.media-amazon.com/images/I/410AjqcIoBL._SL200_.jpg)](https://www.amazon.es/dp/B00I7Q4REE/?tag=tolees-21)
 
 🔎:
 
+- Las cápsulas LOR de aluminio están diseñadas específicamente para su uso en cafeteras Nespresso
+- Marca de una compañía no relacionada con JACOBS DOUWE EGBERTS
+- Una mezcla que captura ligeros aromas a madera junto con notas de almendras tostadas
+- Sabor Agradable - Afrutado - Distinguido
+- Intensidad 9
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00I7Q4REE/?tag=tolees-21)
