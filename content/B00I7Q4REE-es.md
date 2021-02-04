@@ -28,10 +28,10 @@ Tienes [L Or Espresso Café Ristretto Decaffeinato Intensidad 9 - 200 cápsulas 
 
 🔎:
 
-- Las cápsulas LOR de aluminio están diseñadas específicamente para su uso en cafeteras Nespresso
 - Marca de una compañía no relacionada con JACOBS DOUWE EGBERTS
 - Una mezcla que captura ligeros aromas a madera junto con notas de almendras tostadas
-- Sabor Agradable - Afrutado - Distinguido
+- Las cápsulas LOR de aluminio están diseñadas específicamente para su uso en cafeteras Nespresso
 - Intensidad 9
+- Sabor Agradable - Afrutado - Distinguido
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00I7Q4REE/?tag=tolees-21)
