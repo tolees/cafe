@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B01JUC9CDY-es Nespresso Krups Citiz XN760B - Cafetera monodosis de...'
 sku: 'B01JUC9CDY-es'
-tags: [ 'cafetera','nespresso', ]
+tags: [ 'nespresso','cafetera', ]
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

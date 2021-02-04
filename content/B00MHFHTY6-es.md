@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00MHFHTY6-es Krups Dolce Gusto Oblo KP1105 - Cafetera de cápsulas 15...'
 sku: 'B00MHFHTY6-es'
-tags: [ 'cafetera','dolce','gusto', ]
+tags: [ 'dolce','gusto','cafetera', ]
 actualPrice: 76.29 EUR
 currency: EUR
 price: 76.29

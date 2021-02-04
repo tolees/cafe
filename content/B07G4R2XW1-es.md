@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07G4R2XW1-es De Longhi Dolce Gusto Infinissima EDG260.W - Cafetera de...'
 sku: 'B07G4R2XW1-es'
-tags: [ 'cafetera','dolce','gusto', ]
+tags: [ 'dolce','gusto','cafetera', ]
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

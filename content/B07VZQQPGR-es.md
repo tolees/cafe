@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07VZQQPGR-es Bosch TAS6002X Tassimo My Way Cafetera automática color...'
 sku: 'B07VZQQPGR-es'
-tags: [ 'cafetera','tassimo', ]
+tags: [ 'tassimo','cafetera', ]
 actualPrice: 39.36 EUR
 currency: EUR
 price: 39.36
