@@ -29,9 +29,9 @@ Tienes [Saimaza Café Fuerte Espresso 9 - 200 cápsulas de aluminio compatibles 
 ℹ️:
 
 - 200 cápsulas repartidas en 10 paquetes de 20 cápsulas cada uno. Peso neto de 1 paquete: 104 g. Total 4 paquetes = 1040gr
-- Las cápsulas Saimaza de aluminio están diseñadas específicamente para su uso en cafeteras Nespresso*(R)
 - Un café espresso fuerte para disfrutar solo o combinado con leche al gusto
 - *Marca de una compañía no relacionada con JACOBS DOUWE EGBERTS
 - Intensidad 9
+- Las cápsulas Saimaza de aluminio están diseñadas específicamente para su uso en cafeteras Nespresso*(R)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B079QMYB5C/?tag=tolees-21)
