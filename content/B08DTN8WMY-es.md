@@ -29,9 +29,9 @@ En este momento está [Solac CE4496 Stillo 20 Bar Cafetera espresso  850 W  1.5 
 🔎:
 
 - 20 BAR DE PRESIÓN + EXTRA CREAM: Cafetera espresso con bomba italiana de 20 bar de presión, potencia de 850W y sistema Extra Cream. Este sistema, incorporado en cada uno de los filtros, garantiza un café delicioso con todo su aroma, sabor y auténtica crema de cafetería
-- BANDEJA REPOSATAZAS: La superficie superior de la cafetera Stillo Espresso 20 bar te servirá para apoyar el café mientras te lo tomas y para tener las tazas atemperadas en el momento de su uso
 - PORTAFILTRO CON CACILLOS PARA 1 ó 2 CAFÉS: CE4496 cuenta con filtro de 1 ó 2 cafés. Con sus dos cacillos incluidos podrás elegir entre preparar un café suave (Filtro 1 café) o un café fuerte (Filtro 2 cafés) o bien, preparar dos cafés al mismo tiempo
 - DISEÑO COMPACTO Y ELEGANTE: CE4496 Stillo 20 bar ofrece líneas Vintage y a la vez elegantes que la hacen apta para cualquier cocina. Su depósito de 1.5 litros, con nivel de agua visible, los pies antideslizantes, el apagado automático, su manejo intuitivo y la rápida puesta en marcha harán más cómoda y práctica tu experiencia cafetera
+- BANDEJA REPOSATAZAS: La superficie superior de la cafetera Stillo Espresso 20 bar te servirá para apoyar el café mientras te lo tomas y para tener las tazas atemperadas en el momento de su uso
 - VAPORIZADOR/CAPUCCINADOR: La cafetera espresso de Solac cuenta con un vaporizador/capuccinador orientable que te permitirá calentar leche, hacer capuccinos y obtener agua caliente para tés e infusiones
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DTN8WMY/?tag=tolees-21)
