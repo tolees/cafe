@@ -28,10 +28,10 @@ Ahora mismo tienes [Monix Braisogona M640003 Vitro Noir – Cafetera Italiana de
 
 🔎:
 
-- Exterior resistente y diseño interior del calderín sin cantos para una limpieza más cómoda
-- Cafetera con asa de baquelita termo-resistente ergonómica para un agarre fácil y seguro
-- Acabado negro con efecto mate
-- Apta para todo tipo de encimeras, excepto inducción
 - Capacidad para 3 tazas de café - 150 ml
+- Acabado negro con efecto mate
+- Cafetera con asa de baquelita termo-resistente ergonómica para un agarre fácil y seguro
+- Exterior resistente y diseño interior del calderín sin cantos para una limpieza más cómoda
+- Apta para todo tipo de encimeras, excepto inducción
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B008KO2DYE/?tag=tolees-21)
