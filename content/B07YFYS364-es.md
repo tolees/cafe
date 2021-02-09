@@ -28,10 +28,10 @@ Tienes [Cecotec Cafetera Express Cafelizzia 790 Steel para espressos y cappuccin
 
 🔎:
 
+- Su sistema de calentamiento rápido y potente bomba de presión con tecnología ForceAroma de 20 bares consigue la mejor crema y aroma en cada café
+- Emite agua caliente para infusiones. Brazo portafiltros con doble salida y dos filtros.Depósito agua extraíble con 1,2 l
+- Cafetera espresso de acero inoxidable con diseño elegante y compacto para los amantes del buen café. Potencia de 1350 W
 - Incluye vaporizador orientable con protección para texturizar la leche a tu gusto y conseguir la mejor espuma para tu café.
 - Bandeja de goteo desmontable para una rápida limpieza. Sistema de ahorro energético con apagado automático y stand-by
-- Su sistema de calentamiento rápido y potente bomba de presión con tecnología ForceAroma de 20 bares consigue la mejor crema y aroma en cada café
-- Cafetera espresso de acero inoxidable con diseño elegante y compacto para los amantes del buen café. Potencia de 1350 W
-- Emite agua caliente para infusiones. Brazo portafiltros con doble salida y dos filtros.Depósito agua extraíble con 1,2 l
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07YFYS364/?tag=tolees-21)
