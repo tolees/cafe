@@ -28,9 +28,9 @@ Tienes [TASSIMO Marcilla Café con Leche - 5 paquetes de 16 cápsulas: Total 80 
 
 🔎:
 
-- Peso neto 1 paquete: 184 g (Peso 5 paquetes: 920 g)
-- Cápsulas compatibles con cafeteras Tassimo Bosch
 - Cremoso café con leche perfecto para tomar todos los días, con un sabor más intenso que el resto de bebidas con leche de TASSIMO.
+- Peso neto 1 paquete: 184 g (Peso 5 paquetes: 920 g)
 - Si algo nos caracteriza en Marcilla es nuestra pasión por elaborar el mejor café. Una pasión que empezó en 1907 y que ha servido para que hoy, más de cien años después, podamos seguir ofreciéndote a ti y a los tuyos todo el aroma y sabor del mejor café, ahora también en Tassimo.
+- Cápsulas compatibles con cafeteras Tassimo Bosch
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00O214UKO/?tag=tolees-21)
