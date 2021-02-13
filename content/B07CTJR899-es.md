@@ -28,10 +28,10 @@ Tienes [Monix Induction Express - Cafetera italiana inducción  aluminio  capaci
 
 🔎:
 
-- Monix presenta induction Express, la nueva cafetera de aluminio con fondo difusor adaptado para todo tipo de fuegos incluido los de inducción
-- Diámetro superior 16.3 cm y diámetro inferior 11.8 cm
 - Mango ergonómico de baquelita con inserto azul y un interior pulido sin cantos, lo que fácil ita al máximo su limpieza
+- Monix presenta induction Express, la nueva cafetera de aluminio con fondo difusor adaptado para todo tipo de fuegos incluido los de inducción
 - 12 tazas = 12 cafés ristretto = 6 tazas café con leche
+- Diámetro superior 16.3 cm y diámetro inferior 11.8 cm
 - Sistema full induction sin agujeros que incrementa la conectividad a todo tipo de placas de inducción
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07CTJR899/?tag=tolees-21)
