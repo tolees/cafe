@@ -28,10 +28,10 @@ Ahora mismo tienes [Cecotec Cafetera de Goteo Coffee 66 Heat. 950 W  Tecnología
 
 🔎:
 
-- Jarra de vidrio extrafuerte, de alta resistencia a la temperatura y a los impactos con capacidad de 1,5 litros para preparar hasta 12 tazas de café, con boquilla antigoteo para verter el café a la taza de una manera cómoda y limpia.
 - Incluye cucharilla dosificadora para ayudarte a preparar y calcular la cantidad de café.
+- Cafetera de goteo de 950W con acabados en acero inoxidable y tecnología ExtremeAroma que consigue un sabor más intenso del café mediante el rociado y goteo continuo.
 - Función recalentar y Función mantener caliente con función de autoapagado.
 - Depósito con ventana que permite controlar el nivel del agua en todo momento y filtro permanente para el café molido que se puede quitar y limpiar. También permite usar filtros de papel.
-- Cafetera de goteo de 950W con acabados en acero inoxidable y tecnología ExtremeAroma que consigue un sabor más intenso del café mediante el rociado y goteo continuo.
+- Jarra de vidrio extrafuerte, de alta resistencia a la temperatura y a los impactos con capacidad de 1,5 litros para preparar hasta 12 tazas de café, con boquilla antigoteo para verter el café a la taza de una manera cómoda y limpia.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07MQ23F7Q/?tag=tolees-21)
