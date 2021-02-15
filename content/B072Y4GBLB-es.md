@@ -28,10 +28,10 @@ Tienes [Caso Coffee Compact Diseño – Cafetera con molinillo  para hasta 4 
 
 🔎:
 
-- Ahorro de espacio compacta de máquina de café con molinillo integrado
+- Procesa también vorgemahlenes de café en polvo
 - Fácil limpieza por completo entnahmbares de preparación y de mecanismo
 - Dos ajustable moliendas para adaptar el sabor del café
+- Ahorro de espacio compacta de máquina de café con molinillo integrado
 - Para hasta 4.tazas gorda café recién
-- Procesa también vorgemahlenes de café en polvo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B072Y4GBLB/?tag=tolees-21)
