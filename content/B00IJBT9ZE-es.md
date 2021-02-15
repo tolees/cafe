@@ -28,8 +28,8 @@ Tienes [TASSIMO L Or Café Lungo Profondo - 5 paquetes de 16 cápsulas: Total 80
 
 🔎:
 
-- Cápsulas compatibles con cafeteras Tassimo Bosch
 - El café LUNGO PROFONDO te ofrece un café largo con un sabor único: intenso, fragante y seductor.
+- Cápsulas compatibles con cafeteras Tassimo Bosch
 - Peso neto 1 paquete: 124.8 g (Peso 5 paquetes: 624 g)
 - Intensidad 08
 

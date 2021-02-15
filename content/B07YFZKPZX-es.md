@@ -28,10 +28,10 @@ Ahora mismo tienes [Cecotec Cafetera Express Cafelizzia 790 Steel Pro. Acero Ino
 
 🔎:
 
+- Bandeja de goteo desmontable para rápida limpieza.Sistema de ahorro energético con apagado automático y stand-by.Indicadores luminosos de cada función
+- Brazo portafiltros con doble salida y dos filtros para preparar cafés automáticamente. Depósito de agua extraíble con 1,2 litros de capacidad.
+- Sistema de calentamiento rápido por Thermoblock y potente bomba de presión de 20 bares consigue la mejor crema y aroma en cada café.
 - Manómetro de control para comprobar la presión en tiempo real. Incluye vaporizador orientable con protección para texturizar la leche
 - Cafetera espresso de acero inoxidable con diseño elegante y compacto. Potencia máxima de 1350 W
-- Sistema de calentamiento rápido por Thermoblock y potente bomba de presión de 20 bares consigue la mejor crema y aroma en cada café.
-- Brazo portafiltros con doble salida y dos filtros para preparar cafés automáticamente. Depósito de agua extraíble con 1,2 litros de capacidad.
-- Bandeja de goteo desmontable para rápida limpieza.Sistema de ahorro energético con apagado automático y stand-by.Indicadores luminosos de cada función
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YFZKPZX/?tag=tolees-21)

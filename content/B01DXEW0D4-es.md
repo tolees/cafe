@@ -28,9 +28,9 @@ Tienes [Ariete 1389 Cafetera espresso vintage  900 W  2 Cups  plástico  Verde](
 
 🔎:
 
-- Its big advantage is the possibility of removing the metal base which will certainly help to keep clean.
 - Additional functions: hot water function, Thermoblock - heating system.
 - The water container has a capacity of 0.9 liters and has the ability to remove the tank so you can easily keep it clean. Power: 900 W. Coffee use: ground, sachets.
 - Foaming nozzle foaming system with adjustable steam emission. Automatic preparation of Espresso.
+- Its big advantage is the possibility of removing the metal base which will certainly help to keep clean.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01DXEW0D4/?tag=tolees-21)
