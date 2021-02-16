@@ -28,9 +28,9 @@ En este momento está [TASSIMO Marcilla Café Cortado - 5 paquetes de 16 cápsul
 
 🔎:
 
-- Todo el sabor y el aroma del café Marcilla, cubierto por una deliciosa capa de espuma.
 - Cápsulas compatibles con cafeteras Tassimo Bosch
-- Peso neto 1 paquete: 184 g (Peso 5 paquetes: 920 g)
 - Si algo nos caracteriza en Marcilla es nuestra pasión por elaborar el mejor café. Una pasión que empezó en 1907 y que ha servido para que hoy, más de cien años después, podamos seguir ofreciéndote a ti y a los tuyos todo el aroma y sabor del mejor café, ahora también en Tassimo.
+- Peso neto 1 paquete: 184 g (Peso 5 paquetes: 920 g)
+- Todo el sabor y el aroma del café Marcilla, cubierto por una deliciosa capa de espuma.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B071JJ2D3W/?tag=tolees-21)
