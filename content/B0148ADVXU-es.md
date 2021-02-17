@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AEG KF3300 Cafetera Serie 3 de 12 Tazas  con un 23.11 % de descuento'
-date: 2021-02-15 13:05:27
+date: 2021-02-17 10:09:02
 image: 'https://m.media-amazon.com/images/I/31hCH-zE7-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ En este momento está [AEG KF3300 Cafetera Serie 3 de 12 Tazas  Jarra de Cristal
 
 🔎:
 
-- Dispone de una jarra de cristal con una capacidad máxima de 1.4 Litros con indicador de nivel de café y apta para el lavavajillas
 - Sistema antigoteo y compartimento para guardar el cable
 - Función de apagado automático interrumpe automáticamente el funcionamiento después de 40 minutos
+- Dispone de una jarra de cristal con una capacidad máxima de 1.4 Litros con indicador de nivel de café y apta para el lavavajillas
 - Jarra para zurdos y diestros
 - Esta cafetera de hasta 12 taza, será el mejor aliado para un buen café por su depósito con filtro extráible
 
