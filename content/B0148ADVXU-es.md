@@ -28,10 +28,10 @@ En este momento está [AEG KF3300 Cafetera Serie 3 de 12 Tazas  Jarra de Cristal
 
 🔎:
 
-- Sistema antigoteo y compartimento para guardar el cable
-- Función de apagado automático interrumpe automáticamente el funcionamiento después de 40 minutos
-- Dispone de una jarra de cristal con una capacidad máxima de 1.4 Litros con indicador de nivel de café y apta para el lavavajillas
 - Jarra para zurdos y diestros
+- Dispone de una jarra de cristal con una capacidad máxima de 1.4 Litros con indicador de nivel de café y apta para el lavavajillas
 - Esta cafetera de hasta 12 taza, será el mejor aliado para un buen café por su depósito con filtro extráible
+- Función de apagado automático interrumpe automáticamente el funcionamiento después de 40 minutos
+- Sistema antigoteo y compartimento para guardar el cable
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0148ADVXU/?tag=tolees-21)
