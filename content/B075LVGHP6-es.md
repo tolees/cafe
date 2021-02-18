@@ -28,10 +28,10 @@ Está [Lavazza Cápsulas de Café Compatibles Nespresso Espresso Deciso  Paquete
 
 ℹ️:
 
-- AROMÁTICO: un café de Brasil suave y de gran cuerpo con notas orientales de cacao y madera para un blend de sabores intensos y aterciopelados
+- CALIDAD LAVAZZA: espresso Deciso nace de la combinación de granos de primera calidad de Brasil y del sudeste asiático
 - ASPECTO: espuma oscura y aterciopelada - AROMA: notas de cacao y madera - SABOR: distintivo y aterciopelado
+- AROMÁTICO: un café de Brasil suave y de gran cuerpo con notas orientales de cacao y madera para un blend de sabores intensos y aterciopelados
 - ENVASE: 10 paquetes de 10 cápsulas - Total: 100 cápsulas
 - MEZCLA: Arábica y Robusta - Tueste: Oscuro - Intensidad: 10 Intensidad media
-- CALIDAD LAVAZZA: espresso Deciso nace de la combinación de granos de primera calidad de Brasil y del sudeste asiático
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B075LVGHP6/?tag=tolees-21)
