@@ -28,11 +28,11 @@ Ahora mismo tienes [De longhi ECAM 23.420.SB - Cafetera Superautomática 15 Bare
 
 🔎:
 
-- Pantalla Led con 2 líneas de texto, gracias a sus controles digitales, simples pero eficientes, podrás preparar cualquier tipo de café solo presionando un botón
-- Sistema "Cappuccino Automático": colocar la taza y presionar el botón Cappuccino, el resultado es un Cappuccino óptimo
-- El dispensador doble te permite preparar dos cafés, tés o infusiones al mismo tiempo y la bandeja es regulable en altura
-- Puedes personalizar la cantidad de agua y la intensidad del aroma aroma para preparar gran variedad de cafés
-- Dimensiones del producto: 43 x 23.8 x 33.8 cm
 - El depósito de agua se extrae frontalmente de forma muy sencilla para que puedas rellenarlo de la manera más cómoda, tiene una capacidad de hasta 1.8 litros
+- Pantalla Led con 2 líneas de texto, gracias a sus controles digitales, simples pero eficientes, podrás preparar cualquier tipo de café solo presionando un botón
+- Dimensiones del producto: 43 x 23.8 x 33.8 cm
+- Puedes personalizar la cantidad de agua y la intensidad del aroma aroma para preparar gran variedad de cafés
+- El dispensador doble te permite preparar dos cafés, tés o infusiones al mismo tiempo y la bandeja es regulable en altura
+- Sistema "Cappuccino Automático": colocar la taza y presionar el botón Cappuccino, el resultado es un Cappuccino óptimo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B002OHDBLW/?tag=tolees-21)
