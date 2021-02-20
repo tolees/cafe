@@ -28,11 +28,11 @@ En este momento está [L Or Espresso Café Colombia Intensidad 8 - 200 cápsulas
 
 🔎:
 
+- 200 cápsulas repartidas en 20 paquetes de 10 cápsulas cada uno. Peso neto de 1 paquete: 52 g. Total 20 paquetes = 1040 gr
 - Marca de una compañía no relacionada con JACOBS DOUWE EGBERTS
-- Intensidad 8
-- SOFISTICADO - EXTREMADO - MÍSTICO
 - COLOMBIA encuentra su inspiración en la campiña colombiana, sus exuberantes paisajes y la leyenda de El Dorado. Este espresso de gran cuerpo tiene una personalidad sofisticada y extremada con aromas
 - Las cápsulas LOR de aluminio están diseñadas específicamente para su uso en cafeteras Nespresso
-- 200 cápsulas repartidas en 20 paquetes de 10 cápsulas cada uno. Peso neto de 1 paquete: 52 g. Total 20 paquetes = 1040 gr
+- SOFISTICADO - EXTREMADO - MÍSTICO
+- Intensidad 8
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08CBT2RG3/?tag=tolees-21)
