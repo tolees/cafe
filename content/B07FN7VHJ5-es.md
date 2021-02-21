@@ -28,9 +28,9 @@ Tienes [Café FORTALEZA - Cápsulas de café Natural Compatibles con Nespresso -
 
 ℹ️:
 
-- Ingredientes: Café molido 100% arábica
-- País de origen: España
-- Compatible con sistema Nespresso
 - Conservar en un lugar fresco, seco y protegido del sol
+- Ingredientes: Café molido 100% arábica
+- Compatible con sistema Nespresso
+- País de origen: España
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07FN7VHJ5/?tag=tolees-21)
