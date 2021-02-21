@@ -2,7 +2,7 @@
 layout: post
 title: 'KICHLY - 8 tazas  1 litro / 1000 ml  Caf al 15.01 % de rebaja'
 date: 2020-08-21 19:22:15
-image: 'https://m.media-amazon.com/images/I/415p3AsEnsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415p3AsEnsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.89'
 
 Tienes [KICHLY - 8 tazas  1 litro / 1000 ml  Cafetera Francesa espresso y tetera con triple filtro émbolo de acero inoxidable - Negro](https://www.amazon.es/dp/B07V6KD4ZY/?tag=tolees-21) con precio final de  11.89 EUR (original: 13.99 EUR) (15.01 %  de rebaja) aqui!
 
-[![KICHLY - 8 tazas  1 litro / 1000 ml  Caf](https://m.media-amazon.com/images/I/415p3AsEnsL._SL200_.jpg)](https://www.amazon.es/dp/B07V6KD4ZY/?tag=tolees-21)
+[![KICHLY - 8 tazas  1 litro / 1000 ml  Caf](https://m.media-amazon.com/images/I/415p3AsEnsL._SL400_.jpg)](https://www.amazon.es/dp/B07V6KD4ZY/?tag=tolees-21)
 
 🔎:
 

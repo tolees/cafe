@@ -2,7 +2,7 @@
 layout: post
 title: 'Philips SENSEO Original HD6554/91 - Cafe con un 20.09 % de descuento'
 date: 2020-09-28 14:14:25
-image: 'https://m.media-amazon.com/images/I/418lPfUQ9TL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418lPfUQ9TL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '66.95714285714286'
 
 En este momento está [Philips SENSEO Original HD6554/91 - Cafetera monodosis con tecnología Coffee Boost y Crema Plus  selección de intensidad  color rojo](https://www.amazon.es/dp/B074KN3GDW/?tag=tolees-21) a 63.92 EUR (original: 79.99 EUR) (20.09 %  de descuento) en el siguiente enlace!
 
-[![Philips SENSEO Original HD6554/91 - Cafe](https://m.media-amazon.com/images/I/418lPfUQ9TL._SL200_.jpg)](https://www.amazon.es/dp/B074KN3GDW/?tag=tolees-21)
+[![Philips SENSEO Original HD6554/91 - Cafe](https://m.media-amazon.com/images/I/418lPfUQ9TL._SL400_.jpg)](https://www.amazon.es/dp/B074KN3GDW/?tag=tolees-21)
 
 🔎:
 

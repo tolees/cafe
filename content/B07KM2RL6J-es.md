@@ -2,7 +2,7 @@
 layout: post
 title: 'NESACAFÉ Dolce Gusto | Capsulas de Café  al 14.83 % de descuento'
 date: 2020-01-31 07:07:15
-image: 'https://m.media-amazon.com/images/I/51M1d2e7qML._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51M1d2e7qML._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.86'
 
 Está [NESACAFÉ Dolce Gusto | Capsulas de Café Latte Macchiato Light - Pack de 3 x 16 Cápsulas - Total: 48 Cápsulas](https://www.amazon.es/dp/B07KM2RL6J/?tag=tolees-21) con 14.83 de descuento por 12.75 EUR (original: 14.97 EUR) en el siguiente enlace!
 
-[![NESACAFÉ Dolce Gusto | Capsulas de Café ](https://m.media-amazon.com/images/I/51M1d2e7qML._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07KM2RL6J/?tag=tolees-21)
+[![NESACAFÉ Dolce Gusto | Capsulas de Café ](https://m.media-amazon.com/images/I/51M1d2e7qML._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07KM2RL6J/?tag=tolees-21)
 
 ℹ️:
 

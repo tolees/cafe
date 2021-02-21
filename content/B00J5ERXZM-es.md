@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 13.06 % en De Longhi Dolce Gusto Jovia EDG250.B - C'
 date: 2020-08-06 15:00:46
-image: 'https://m.media-amazon.com/images/I/41Vogh5zT-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Vogh5zT-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.305'
 
 Tienes [De Longhi Dolce Gusto Jovia EDG250.B - Cafetera de cápsulas  15 bares de presión  color negro](https://www.amazon.es/dp/B00J5ERXZM/?tag=tolees-21) con un 13.06 % de descuento con precio de oferta de 77.38 EUR (original: 89.0 EUR) en el siguiente enlace!
 
-[![De Longhi Dolce Gusto Jovia EDG250.B - C](https://m.media-amazon.com/images/I/41Vogh5zT-L._SL200_.jpg)](https://www.amazon.es/dp/B00J5ERXZM/?tag=tolees-21)
+[![De Longhi Dolce Gusto Jovia EDG250.B - C](https://m.media-amazon.com/images/I/41Vogh5zT-L._SL400_.jpg)](https://www.amazon.es/dp/B00J5ERXZM/?tag=tolees-21)
 
 ℹ️:
 

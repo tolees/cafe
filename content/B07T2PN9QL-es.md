@@ -2,7 +2,7 @@
 layout: post
 title: 'Filtro De Café Permanente Para Cafetera  al 44.45 % de rebaja'
 date: 2020-05-17 17:45:24
-image: 'https://m.media-amazon.com/images/I/41Xvyx84ASL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Xvyx84ASL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.27'
 
 Tienes [Filtro De Café Permanente Para Cafetera De Sifón  Inoxidable  Fácil Limpieza](https://www.amazon.es/dp/B07T2PN9QL/?tag=tolees-21) con precio final de  14.27 EUR (original: 25.69 EUR) (44.45 %  de rebaja) aqui!
 
-[![Filtro De Café Permanente Para Cafetera ](https://m.media-amazon.com/images/I/41Xvyx84ASL._SL200_.jpg)](https://www.amazon.es/dp/B07T2PN9QL/?tag=tolees-21)
+[![Filtro De Café Permanente Para Cafetera ](https://m.media-amazon.com/images/I/41Xvyx84ASL._SL400_.jpg)](https://www.amazon.es/dp/B07T2PN9QL/?tag=tolees-21)
 
 🔎:
 

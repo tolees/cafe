@@ -2,7 +2,7 @@
 layout: post
 title: 'Bosch TAS6004 Tassimo My Way Cafetera de al 36.85 % de descuento'
 date: 2020-09-21 11:44:47
-image: 'https://m.media-amazon.com/images/I/41ZGJazZ+dL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZGJazZ+dL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '63.292142857142856'
 
 Está [Bosch TAS6004 Tassimo My Way Cafetera de cápsulas 1500 W  color blanco](https://www.amazon.es/dp/B0749Q6LRQ/?tag=tolees-21) con 36.85 de descuento por 57.58 EUR (original: 91.18 EUR) en el siguiente enlace!
 
-[![Bosch TAS6004 Tassimo My Way Cafetera de](https://m.media-amazon.com/images/I/41ZGJazZ+dL._SL200_.jpg)](https://www.amazon.es/dp/B0749Q6LRQ/?tag=tolees-21)
+[![Bosch TAS6004 Tassimo My Way Cafetera de](https://m.media-amazon.com/images/I/41ZGJazZ+dL._SL400_.jpg)](https://www.amazon.es/dp/B0749Q6LRQ/?tag=tolees-21)
 
 ℹ️:
 

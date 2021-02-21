@@ -2,7 +2,7 @@
 layout: post
 title: 'Rascador para Gatos Altura 72cm Rascador con un 15.01 % de descuento'
 date: 2020-06-06 19:17:45
-image: 'https://m.media-amazon.com/images/I/417+WY0VxCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417+WY0VxCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.79'
 
 En este momento está [Rascador para Gatos Altura 72cm Rascadores Arbol Poste Juego Arañar Cafe](https://www.amazon.es/dp/B01BG2IX3Q/?tag=tolees-21) a 23.79 EUR (original: 27.99 EUR) (15.01 %  de descuento) en el siguiente enlace!
 
-[![Rascador para Gatos Altura 72cm Rascador](https://m.media-amazon.com/images/I/417+WY0VxCL._SL200_.jpg)](https://www.amazon.es/dp/B01BG2IX3Q/?tag=tolees-21)
+[![Rascador para Gatos Altura 72cm Rascador](https://m.media-amazon.com/images/I/417+WY0VxCL._SL400_.jpg)](https://www.amazon.es/dp/B01BG2IX3Q/?tag=tolees-21)
 
 🔎:
 

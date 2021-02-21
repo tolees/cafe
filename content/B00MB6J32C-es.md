@@ -2,7 +2,7 @@
 layout: post
 title: 'Russell Hobbs Grind & Brew - Cafetera de al 27.96 % de descuento'
 date: 2020-04-25 12:33:13
-image: 'https://m.media-amazon.com/images/I/41MsGbl9RQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MsGbl9RQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '161.4925'
 
 Ahora mismo tienes [Russell Hobbs Grind & Brew - Cafetera de Goteo  Jarra Cafetera Térmica para 10 Tazas  1000 W  Gris  - ref. 21430-56](https://www.amazon.es/dp/B00MB6J32C/?tag=tolees-21) a 158.49 EUR (original: 219.99 EUR) (27.96 %  de descuento) en el siguiente enlace!
 
-[![Russell Hobbs Grind & Brew - Cafetera de](https://m.media-amazon.com/images/I/41MsGbl9RQL._SL200_.jpg)](https://www.amazon.es/dp/B00MB6J32C/?tag=tolees-21)
+[![Russell Hobbs Grind & Brew - Cafetera de](https://m.media-amazon.com/images/I/41MsGbl9RQL._SL400_.jpg)](https://www.amazon.es/dp/B00MB6J32C/?tag=tolees-21)
 
 🔎:
 

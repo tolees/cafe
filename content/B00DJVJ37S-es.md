@@ -2,7 +2,7 @@
 layout: post
 title: 'Bosch TCZ6004  Pastillas de Limpieza y D al 47.04 % de descuento'
 date: 2020-08-20 01:53:57
-image: 'https://m.media-amazon.com/images/I/311Wv5-qZKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/311Wv5-qZKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '8.79181818181818'
 
 Ahora mismo tienes [Bosch TCZ6004  Pastillas de Limpieza y Descalcificación para Cafeteras TASSIMO](https://www.amazon.es/dp/B00DJVJ37S/?tag=tolees-21) a 8.95 EUR (original: 16.9 EUR) (47.04 %  de descuento) en el siguiente enlace!
 
-[![Bosch TCZ6004  Pastillas de Limpieza y D](https://m.media-amazon.com/images/I/311Wv5-qZKL._SL200_.jpg)](https://www.amazon.es/dp/B00DJVJ37S/?tag=tolees-21)
+[![Bosch TCZ6004  Pastillas de Limpieza y D](https://m.media-amazon.com/images/I/311Wv5-qZKL._SL400_.jpg)](https://www.amazon.es/dp/B00DJVJ37S/?tag=tolees-21)
 
 🔎:
 

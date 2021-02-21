@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 73.85 % en Ufesa Cafetera expreso Duetto Creme CE71'
 date: 2020-04-09 17:58:09
-image: 'https://m.media-amazon.com/images/I/51psgU8HpAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51psgU8HpAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.5'
 
 Tienes [Ufesa Cafetera expreso Duetto Creme CE7141  500 W  Acero Inoxidable  Gris](https://www.amazon.es/dp/B0055ZGJCS/?tag=tolees-21) con un 73.85 % de descuento con precio de oferta de 28.5 EUR (original: 109.0 EUR) en el siguiente enlace!
 
-[![Ufesa Cafetera expreso Duetto Creme CE71](https://m.media-amazon.com/images/I/51psgU8HpAL._SL200_.jpg)](https://www.amazon.es/dp/B0055ZGJCS/?tag=tolees-21)
+[![Ufesa Cafetera expreso Duetto Creme CE71](https://m.media-amazon.com/images/I/51psgU8HpAL._SL400_.jpg)](https://www.amazon.es/dp/B0055ZGJCS/?tag=tolees-21)
 
 ℹ️:
 

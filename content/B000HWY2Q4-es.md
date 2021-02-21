@@ -2,7 +2,7 @@
 layout: post
 title: 'Alessi La Conica 90002/3 Cafetera para C al 19.71 % de rebaja'
 date: 2020-05-28 11:37:46
-image: 'https://m.media-amazon.com/images/I/21dJmaQcRqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21dJmaQcRqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '175.83'
 
 Tienes [Alessi La Conica 90002/3 Cafetera para Café Exprés de Diseño  Acero Inoxidable y Fondo en Cobre  Plateado  3 Tazas](https://www.amazon.es/dp/B000HWY2Q4/?tag=tolees-21) con precio final de  175.83 EUR (original: 219.0 EUR) (19.71 %  de rebaja) aqui!
 
-[![Alessi La Conica 90002/3 Cafetera para C](https://m.media-amazon.com/images/I/21dJmaQcRqL._SL200_.jpg)](https://www.amazon.es/dp/B000HWY2Q4/?tag=tolees-21)
+[![Alessi La Conica 90002/3 Cafetera para C](https://m.media-amazon.com/images/I/21dJmaQcRqL._SL400_.jpg)](https://www.amazon.es/dp/B000HWY2Q4/?tag=tolees-21)
 
 🔎:
 

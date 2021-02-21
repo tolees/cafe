@@ -2,7 +2,7 @@
 layout: post
 title: 'Nespresso De Longhi Lattisima Touch Anim con un 3.23 % de descuento'
 date: 2020-05-19 21:49:03
-image: 'https://m.media-amazon.com/images/I/3167EnsLCdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/3167EnsLCdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '274.495'
 
 En este momento está [Nespresso De Longhi Lattisima Touch Animation EN560.W - Cafetera monodosis de cápsulas Nespresso con depósito de leche  6 recetas seleccionables  19 bares  apagado automático  color blanco](https://www.amazon.es/dp/B0795ZTQR8/?tag=tolees-21) a 269.99 EUR (original: 279.0 EUR) (3.23 %  de descuento) en el siguiente enlace!
 
-[![Nespresso De Longhi Lattisima Touch Anim](https://m.media-amazon.com/images/I/3167EnsLCdL._SL200_.jpg)](https://www.amazon.es/dp/B0795ZTQR8/?tag=tolees-21)
+[![Nespresso De Longhi Lattisima Touch Anim](https://m.media-amazon.com/images/I/3167EnsLCdL._SL400_.jpg)](https://www.amazon.es/dp/B0795ZTQR8/?tag=tolees-21)
 
 🔎:
 

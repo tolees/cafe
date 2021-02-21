@@ -2,7 +2,7 @@
 layout: post
 title: 'Monix M620009 Cafetera  Aluminio  Plata  al 40.80 % de descuento'
 date: 2020-08-31 17:12:32
-image: 'https://m.media-amazon.com/images/I/41gq0Fh96ZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gq0Fh96ZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.966666666666667'
 
 Está [Monix M620009 Cafetera  Aluminio  Plata  9 Tazas](https://www.amazon.es/dp/B008KO2DH6/?tag=tolees-21) con 40.80 de descuento por 9.75 EUR (original: 16.47 EUR) en el siguiente enlace!
 
-[![Monix M620009 Cafetera  Aluminio  Plata ](https://m.media-amazon.com/images/I/41gq0Fh96ZL._SL200_.jpg)](https://www.amazon.es/dp/B008KO2DH6/?tag=tolees-21)
+[![Monix M620009 Cafetera  Aluminio  Plata ](https://m.media-amazon.com/images/I/41gq0Fh96ZL._SL400_.jpg)](https://www.amazon.es/dp/B008KO2DH6/?tag=tolees-21)
 
 ℹ️:
 

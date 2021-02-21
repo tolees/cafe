@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 19.96 % en Oroley - Cafetera Italiana Touareg de Al'
 date: 2020-06-09 11:32:45
-image: 'https://m.media-amazon.com/images/I/31XLCxEClZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31XLCxEClZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.48'
 
 Tienes [Oroley - Cafetera Italiana Touareg de Aluminio  9 Tazas](https://www.amazon.es/dp/B006W5PHIC/?tag=tolees-21) con un 19.96 % de descuento con precio de oferta de 15.48 EUR (original: 19.34 EUR) en el siguiente enlace!
 
-[![Oroley - Cafetera Italiana Touareg de Al](https://m.media-amazon.com/images/I/31XLCxEClZL._SL200_.jpg)](https://www.amazon.es/dp/B006W5PHIC/?tag=tolees-21)
+[![Oroley - Cafetera Italiana Touareg de Al](https://m.media-amazon.com/images/I/31XLCxEClZL._SL400_.jpg)](https://www.amazon.es/dp/B006W5PHIC/?tag=tolees-21)
 
 ℹ️:
 

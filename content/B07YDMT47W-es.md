@@ -2,7 +2,7 @@
 layout: post
 title: 'Tassimo Kenco Lovers Coffee Bundle - Tas al 20.01 % de descuento'
 date: 2020-02-14 14:43:17
-image: 'https://m.media-amazon.com/images/I/51N+u4jIK6L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51N+u4jIK6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.79'
 
 Ahora mismo tienes [Tassimo Kenco Lovers Coffee Bundle - Tassimo Kenco Cappuccino/Decaf/Flat White/Americano Grande/Colombian/Americano Smooth - 6 Paquetes  80 Porciones ](https://www.amazon.es/dp/B07YDMT47W/?tag=tolees-21) a 23.79 EUR (original: 29.74 EUR) (20.01 %  de descuento) en el siguiente enlace!
 
-[![Tassimo Kenco Lovers Coffee Bundle - Tas](https://m.media-amazon.com/images/I/51N+u4jIK6L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07YDMT47W/?tag=tolees-21)
+[![Tassimo Kenco Lovers Coffee Bundle - Tas](https://m.media-amazon.com/images/I/51N+u4jIK6L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07YDMT47W/?tag=tolees-21)
 
 🔎:
 

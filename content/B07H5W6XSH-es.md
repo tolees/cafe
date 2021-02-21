@@ -2,7 +2,7 @@
 layout: post
 title: 'L Or Espresso Café Ristretto Decaffeinat al 23.41 % de descuento'
 date: 2020-01-13 09:48:43
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41KGtkScCBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41KGtkScCBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.436666666666666'
 
 Está [L Or Espresso Café Ristretto Decaffeinato Intensidad 9 - 40 cápsulas de aluminio compatibles con máquinas Nespresso  R *  4 Paquetes de 10 cápsulas ](https://www.amazon.es/dp/B07H5W6XSH/?tag=tolees-21) con 23.41 de descuento por 9.16 EUR (original: 11.96 EUR) en el siguiente enlace!
 
-[![L Or Espresso Café Ristretto Decaffeinat](https://images-eu.ssl-images-amazon.com/images/I/41KGtkScCBL._SL200_.jpg)](https://www.amazon.es/dp/B07H5W6XSH/?tag=tolees-21)
+[![L Or Espresso Café Ristretto Decaffeinat](https://images-eu.ssl-images-amazon.com/images/I/41KGtkScCBL._SL400_.jpg)](https://www.amazon.es/dp/B07H5W6XSH/?tag=tolees-21)
 
 ℹ️:
 

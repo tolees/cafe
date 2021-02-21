@@ -2,7 +2,7 @@
 layout: post
 title: 'Tassimo Coffee L OR Espresso Bundle Cáps al 20.01 % de rebaja'
 date: 2020-02-14 09:34:15
-image: 'https://m.media-amazon.com/images/I/51WsoqVFY9L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51WsoqVFY9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '23.95'
 
 Tienes [Tassimo Coffee L OR Espresso Bundle Cápsulas de Café - L OR Decaffeinato  Delizioso  Fortissimo - 6 Paquetes  96 Porciones ](https://www.amazon.es/dp/B07WXHS259/?tag=tolees-21) con precio final de  23.95 EUR (original: 29.94 EUR) (20.01 %  de rebaja) aqui!
 
-[![Tassimo Coffee L OR Espresso Bundle Cáps](https://m.media-amazon.com/images/I/51WsoqVFY9L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07WXHS259/?tag=tolees-21)
+[![Tassimo Coffee L OR Espresso Bundle Cáps](https://m.media-amazon.com/images/I/51WsoqVFY9L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07WXHS259/?tag=tolees-21)
 
 🔎:
 

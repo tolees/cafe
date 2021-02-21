@@ -2,7 +2,7 @@
 layout: post
 title: 'BRA Bella - Cafetera  Capacidad 10 Tazas con un 22.64 % de descuento'
 date: 2020-03-16 04:32:26
-image: 'https://m.media-amazon.com/images/I/31ZRW8HdFRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ZRW8HdFRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '51.11'
 
 En este momento está [BRA Bella - Cafetera  Capacidad 10 Tazas  Acero Inoxidable 18/10](https://www.amazon.es/dp/B00CWZK7B8/?tag=tolees-21) a 64.46 EUR (original: 83.33 EUR) (22.64 %  de descuento) en el siguiente enlace!
 
-[![BRA Bella - Cafetera  Capacidad 10 Tazas](https://m.media-amazon.com/images/I/31ZRW8HdFRL._SL200_.jpg)](https://www.amazon.es/dp/B00CWZK7B8/?tag=tolees-21)
+[![BRA Bella - Cafetera  Capacidad 10 Tazas](https://m.media-amazon.com/images/I/31ZRW8HdFRL._SL400_.jpg)](https://www.amazon.es/dp/B00CWZK7B8/?tag=tolees-21)
 
 🔎:
 

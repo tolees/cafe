@@ -2,7 +2,7 @@
 layout: post
 title: 'Bosch Cafetera TASSIMO My Way TAS6002 -  con un 57.33 % de descuento'
 date: 2020-02-15 03:31:11
-image: 'https://m.media-amazon.com/images/I/41hilDtwW5L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hilDtwW5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '66.985'
 
 En este momento está [Bosch Cafetera TASSIMO My Way TAS6002 - Cafetera de cápsulas  color negro](https://www.amazon.es/dp/B0748NLHNN/?tag=tolees-21) a 64.0 EUR (original: 149.99 EUR) (57.33 %  de descuento) en el siguiente enlace!
 
-[![Bosch Cafetera TASSIMO My Way TAS6002 - ](https://m.media-amazon.com/images/I/41hilDtwW5L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B0748NLHNN/?tag=tolees-21)
+[![Bosch Cafetera TASSIMO My Way TAS6002 - ](https://m.media-amazon.com/images/I/41hilDtwW5L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B0748NLHNN/?tag=tolees-21)
 
 🔎:
 

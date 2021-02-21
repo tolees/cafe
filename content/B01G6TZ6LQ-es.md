@@ -2,7 +2,7 @@
 layout: post
 title: 'FRHOME - Nescafè Dolce Gusto 96 Càpsulas al 20.00 % de descuento'
 date: 2020-05-23 09:32:47
-image: 'https://m.media-amazon.com/images/I/41TAR2eOFGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41TAR2eOFGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.4'
 
 Está [FRHOME - Nescafè Dolce Gusto 96 Càpsulas compatibles - Il Caffè Italiano - Mezcla Napoli Intensidad 12](https://www.amazon.es/dp/B01G6TZ6LQ/?tag=tolees-21) con 20.00 de descuento por 18.4 EUR (original: 23.0 EUR) en el siguiente enlace!
 
-[![FRHOME - Nescafè Dolce Gusto 96 Càpsulas](https://m.media-amazon.com/images/I/41TAR2eOFGL._SL200_.jpg)](https://www.amazon.es/dp/B01G6TZ6LQ/?tag=tolees-21)
+[![FRHOME - Nescafè Dolce Gusto 96 Càpsulas](https://m.media-amazon.com/images/I/41TAR2eOFGL._SL400_.jpg)](https://www.amazon.es/dp/B01G6TZ6LQ/?tag=tolees-21)
 
 ℹ️:
 

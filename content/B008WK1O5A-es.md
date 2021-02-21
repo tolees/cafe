@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 13.07 % en Bosch TKA3A034 CompactClass Extra Cafete'
 date: 2020-09-05 16:00:09
-image: 'https://m.media-amazon.com/images/I/41lZKPQf0WL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lZKPQf0WL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.09'
 
 Tienes [Bosch TKA3A034 CompactClass Extra Cafetera de goteo  capacidad para 10 tazas 1 25 litros  color rojo](https://www.amazon.es/dp/B008WK1O5A/?tag=tolees-21) con un 13.07 % de descuento con precio de oferta de 37.18 EUR (original: 42.77 EUR) en el siguiente enlace!
 
-[![Bosch TKA3A034 CompactClass Extra Cafete](https://m.media-amazon.com/images/I/41lZKPQf0WL._SL200_.jpg)](https://www.amazon.es/dp/B008WK1O5A/?tag=tolees-21)
+[![Bosch TKA3A034 CompactClass Extra Cafete](https://m.media-amazon.com/images/I/41lZKPQf0WL._SL400_.jpg)](https://www.amazon.es/dp/B008WK1O5A/?tag=tolees-21)
 
 ℹ️:
 

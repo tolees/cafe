@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 8.21 % en Tristar CM-1233 – Cafetera con Capacidad'
 date: 2020-06-18 07:10:46
-image: 'https://m.media-amazon.com/images/I/41rtKEOIoFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rtKEOIoFL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.308'
 
 Tienes [Tristar CM-1233 – Cafetera con Capacidad para 6 Tazas  Apta para Llevar de Acampada](https://www.amazon.es/dp/B00U0ACJRM/?tag=tolees-21) con un 8.21 % de descuento con precio de oferta de 23.13 EUR (original: 25.2 EUR) en el siguiente enlace!
 
-[![Tristar CM-1233 – Cafetera con Capacidad](https://m.media-amazon.com/images/I/41rtKEOIoFL._SL200_.jpg)](https://www.amazon.es/dp/B00U0ACJRM/?tag=tolees-21)
+[![Tristar CM-1233 – Cafetera con Capacidad](https://m.media-amazon.com/images/I/41rtKEOIoFL._SL400_.jpg)](https://www.amazon.es/dp/B00U0ACJRM/?tag=tolees-21)
 
 ℹ️:
 

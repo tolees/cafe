@@ -2,7 +2,7 @@
 layout: post
 title: 'Ninja CF060EU Cafetera Auto-IQ Brewer co al 25.00 % de descuento'
 date: 2020-01-20 17:53:44
-image: 'https://images-eu.ssl-images-amazon.com/images/I/41LXGVFKlVL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41LXGVFKlVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '63.32333333333333'
 
 Ahora mismo tienes [Ninja CF060EU Cafetera Auto-IQ Brewer con Jarra de Vidrio  Silver](https://www.amazon.es/dp/B06XH3F2J2/?tag=tolees-21) a 59.99 EUR (original: 79.99 EUR) (25.00 %  de descuento) en el siguiente enlace!
 
-[![Ninja CF060EU Cafetera Auto-IQ Brewer co](https://images-eu.ssl-images-amazon.com/images/I/41LXGVFKlVL._SL200_.jpg)](https://www.amazon.es/dp/B06XH3F2J2/?tag=tolees-21)
+[![Ninja CF060EU Cafetera Auto-IQ Brewer co](https://images-eu.ssl-images-amazon.com/images/I/41LXGVFKlVL._SL400_.jpg)](https://www.amazon.es/dp/B06XH3F2J2/?tag=tolees-21)
 
 🔎:
 

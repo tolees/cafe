@@ -2,7 +2,7 @@
 layout: post
 title: 'Descuento del 4.02 % en DeLonghi ECOV311.BK Cafetera Espresso Vi'
 date: 2020-04-26 07:07:23
-image: 'https://m.media-amazon.com/images/I/41wt0lT2+3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wt0lT2+3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '159.94'
 
 Tienes [DeLonghi ECOV311.BK Cafetera Espresso Vintage Icona  Independiente  Semi-autom?tica  1050 W  1.4 L  15 bares  color negro](https://www.amazon.es/dp/B00T0HSAGA/?tag=tolees-21) con un 4.02 % de descuento con precio de oferta de 191.0 EUR (original: 199.0 EUR) en el siguiente enlace!
 
-[![DeLonghi ECOV311.BK Cafetera Espresso Vi](https://m.media-amazon.com/images/I/41wt0lT2+3L._SL200_.jpg)](https://www.amazon.es/dp/B00T0HSAGA/?tag=tolees-21)
+[![DeLonghi ECOV311.BK Cafetera Espresso Vi](https://m.media-amazon.com/images/I/41wt0lT2+3L._SL400_.jpg)](https://www.amazon.es/dp/B00T0HSAGA/?tag=tolees-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Nespresso De Longhi Citiz EN167.W - Cafe al 22.35 % de descuento'
 date: 2020-10-12 10:11:54
-image: 'https://m.media-amazon.com/images/I/417fk-+IQML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417fk-+IQML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '139.67666666666665'
 
 Está [Nespresso De Longhi Citiz EN167.W - Cafetera monodosis de cápsulas Nespresso  compacta  19 bares  apagado automático  color blanco](https://www.amazon.es/dp/B01ITGGKBY/?tag=tolees-21) con 22.35 de descuento por 139.0 EUR (original: 179.0 EUR) en el siguiente enlace!
 
-[![Nespresso De Longhi Citiz EN167.W - Cafe](https://m.media-amazon.com/images/I/417fk-+IQML._SL200_.jpg)](https://www.amazon.es/dp/B01ITGGKBY/?tag=tolees-21)
+[![Nespresso De Longhi Citiz EN167.W - Cafe](https://m.media-amazon.com/images/I/417fk-+IQML._SL400_.jpg)](https://www.amazon.es/dp/B01ITGGKBY/?tag=tolees-21)
 
 ℹ️:
 

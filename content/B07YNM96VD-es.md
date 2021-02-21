@@ -2,7 +2,7 @@
 layout: post
 title: 'Nespresso Krups Essenza Mini - Cafetera  al 23.03 % de descuento'
 date: 2020-02-25 07:53:15
-image: 'https://m.media-amazon.com/images/I/31mK4Eh2iZL._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31mK4Eh2iZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.99'
 
 Está [Nespresso Krups Essenza Mini - Cafetera monodosis de cápsulas  Reacondicionado   Negro ](https://www.amazon.es/dp/B07YNM96VD/?tag=tolees-21) con 23.03 de descuento por 49.99 EUR (original: 64.95 EUR) en el siguiente enlace!
 
-[![Nespresso Krups Essenza Mini - Cafetera ](https://m.media-amazon.com/images/I/31mK4Eh2iZL._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07YNM96VD/?tag=tolees-21)
+[![Nespresso Krups Essenza Mini - Cafetera ](https://m.media-amazon.com/images/I/31mK4Eh2iZL._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07YNM96VD/?tag=tolees-21)
 
 ℹ️:
 

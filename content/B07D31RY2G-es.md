@@ -2,7 +2,7 @@
 layout: post
 title: 'NESCAFÉ Dolce Gusto Espresso Intenso Des al 14.83 % de descuento'
 date: 2020-01-31 07:06:26
-image: 'https://m.media-amazon.com/images/I/51YBGTNRa5L._AC_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51YBGTNRa5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.370000000000001'
 
 Ahora mismo tienes [NESCAFÉ Dolce Gusto Espresso Intenso Descafeinado | Pack de 3 x 16 Cápsulas - Total: 48 Cápsulas](https://www.amazon.es/dp/B07D31RY2G/?tag=tolees-21) a 12.75 EUR (original: 14.97 EUR) (14.83 %  de descuento) en el siguiente enlace!
 
-[![NESCAFÉ Dolce Gusto Espresso Intenso Des](https://m.media-amazon.com/images/I/51YBGTNRa5L._AC_._SL200_.jpg)](https://www.amazon.es/dp/B07D31RY2G/?tag=tolees-21)
+[![NESCAFÉ Dolce Gusto Espresso Intenso Des](https://m.media-amazon.com/images/I/51YBGTNRa5L._AC_._SL400_.jpg)](https://www.amazon.es/dp/B07D31RY2G/?tag=tolees-21)
 
 🔎:
 
