@@ -28,9 +28,9 @@ Tienes [Café FORTALEZA - Cápsulas de Café Despertar Compatibles con Nespresso
 
 🔎:
 
-- Ingredientes: Café molido 100% arábica
-- Conservar en un lugar fresco, seco y protegido del sol
-- Compatible con sistema Nespresso
 - País de origen: España
+- Conservar en un lugar fresco, seco y protegido del sol
+- Ingredientes: Café molido 100% arábica
+- Compatible con sistema Nespresso
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07FNDYT9Z/?tag=tolees-21)
