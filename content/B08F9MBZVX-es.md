@@ -28,9 +28,9 @@ Tienes [Resnnih Moka Express Cafetera Italiana Espresso 150ml Aluminio  Plateado
 
 🔎:
 
-- Simplemente llene la parte inferior de la cafetera con agua, llene el filtro con café molido y coloque a fuego medio alto.
-- Sirve tanto para cocina de gas como para eléctrica y de inducción.
 - Esta cafetera es hecha de aluminio resistente y cuenta con una tapa flip-top duradero y una perilla resistente a la temperature.
+- Sirve tanto para cocina de gas como para eléctrica y de inducción.
 - El paquete también incluye un anillo de goma y 50 piezas de papel de filtro.
+- Simplemente llene la parte inferior de la cafetera con agua, llene el filtro con café molido y coloque a fuego medio alto.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08F9MBZVX/?tag=tolees-21)

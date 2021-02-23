@@ -28,10 +28,10 @@ Tienes [Oroley - Cafetera Italiana Inducción Blue Induction para Todo tipo de C
 
 🔎:
 
+- ☕ USO: Cafetera tradicional apta para todo tipo de cocinas: Inducción,vitrocerámica, fuego eléctrico y gas.
 - 💯MATERIALES: La cafetera de inducción Blue Induction contiene una placa ferromagnética que permite que se genere la fuente de calor de forma segura
 - ✨ CARACTERÍSTICAS: Cafetera Italiana con capacidad de hasta 6 tazas de café
-- ⚠️ALERTA: Debido a que la cafetera tiene un diámetro pequeño, es imprescindible que compruebe que su placa de inducción, llegue a detectarla. Depende del diámetro que tenga su placa, detectara o no la cafetera. La placa de inducción debe tener una zona de cocción apta para recipientes pequeños, con un diámetro de 14,5 cm máximo
-- ☕ USO: Cafetera tradicional apta para todo tipo de cocinas: Inducción,vitrocerámica, fuego eléctrico y gas.
 - ✅ PRODUCTO: Cafetera Italiana modelo "Blue Induction". Contiene base de acero inoxidable. Producto de alta calidad. Color azul
+- ⚠️ALERTA: Debido a que la cafetera tiene un diámetro pequeño, es imprescindible que compruebe que su placa de inducción, llegue a detectarla. Depende del diámetro que tenga su placa, detectara o no la cafetera. La placa de inducción debe tener una zona de cocción apta para recipientes pequeños, con un diámetro de 14,5 cm máximo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00CWZQ834/?tag=tolees-21)
