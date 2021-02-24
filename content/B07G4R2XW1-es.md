@@ -29,9 +29,9 @@ Está [Dolce Gusto Delonghi - De Longhi Dolce Gusto Infinissima EDG260.W - Cafet
 ℹ️:
 
 - Bandeja recogegotas ajustable a 3 alturas para utilizar con diferentes tamaños de taza
-- Disfruta de más de 30 creaciones de café de calidad desde el carácter de un Espresso Intenso o el cuerpo de un Lungo, hasta el espumoso Cappuccino; además del chocolate caliente o los tés aromáticos
+- Cafetera manual de sistema de cápsulas de 15 bares de presión; capaz de hacer café de calidad profesional, caliente desde la primera taza gracias a su sistema Thermoblock
 - Cada cápsula de Dolce Gusto está diseñada para ajustar automáticamente la presión en función del tipo de bebida
 - Depósito extraíble de 1.2 l muy fácil de llenar
-- Cafetera manual de sistema de cápsulas de 15 bares de presión; capaz de hacer café de calidad profesional, caliente desde la primera taza gracias a su sistema Thermoblock
+- Disfruta de más de 30 creaciones de café de calidad desde el carácter de un Espresso Intenso o el cuerpo de un Lungo, hasta el espumoso Cappuccino; además del chocolate caliente o los tés aromáticos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07G4R2XW1/?tag=tolees-21)
