@@ -28,10 +28,10 @@ En este momento está [Bialetti Moka Express Cafetera Italiana Espresso  18 Taza
 
 🔎:
 
-- Hecha de aluminio fundido sólido con mango de acrílico negro
-- Calidad y seguridad Made in Italy: válvula de seguridad patentada por Bialetti, inspeccionable y fácil de limpiar
-- Apta para todas las placas excepto las placas de inducción
-- El ritual tradicional italiano: adecuado para la preparación del auténtico café italiano
 - Un icono italiano: desde 1933, símbolo del Made in Italy en todo el mundo
+- Calidad y seguridad Made in Italy: válvula de seguridad patentada por Bialetti, inspeccionable y fácil de limpiar
+- El ritual tradicional italiano: adecuado para la preparación del auténtico café italiano
+- Hecha de aluminio fundido sólido con mango de acrílico negro
+- Apta para todas las placas excepto las placas de inducción
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0000AN3QK/?tag=tolees-21)
