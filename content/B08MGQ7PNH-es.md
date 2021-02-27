@@ -28,10 +28,10 @@ Ahora mismo tienes [GRANELL CAFES-1940 - Cafés Granell - Exotic Collection | Re
 
 🔎:
 
-- Jamaica Blue Mountain: café premium cultivado en las Montañas Azules de Jamaica | Tiene un aroma achocolatado único, un sabor suave a nuez y un dulzor y acidez equilibrada
-- Regalos para Amantes del Café | Café en Grano Natural - Café Arabica 100%: este pack Gourmet incluye los mejores cafés en grano de la variedad arabica
-- Kopi Luwak: considerado el café más caro del mundo. Gracias a las enzimas del estómago de la civeta, el café Kopi Luwak tiene una reducción de amargor que se mezcla con tonos especiados - Libre de Maltrato Animal
 - Regalos Café: el regalo para amantes del café con el que no fallarás - Contiene los mejores cafés del mundo | Todos los cafés de este pack han sido envasados inmediatamente después del proceso de tostado para conservar todo el sabor y el aroma de estos preciados cafés
+- Jamaica Blue Mountain: café premium cultivado en las Montañas Azules de Jamaica | Tiene un aroma achocolatado único, un sabor suave a nuez y un dulzor y acidez equilibrada
 - Hawaii Kona: cultivado a gran altitud en el suelo volcánico del volcán Hualalai | El resultado es un café lleno de sabor y ahora
+- Kopi Luwak: considerado el café más caro del mundo. Gracias a las enzimas del estómago de la civeta, el café Kopi Luwak tiene una reducción de amargor que se mezcla con tonos especiados - Libre de Maltrato Animal
+- Regalos para Amantes del Café | Café en Grano Natural - Café Arabica 100%: este pack Gourmet incluye los mejores cafés en grano de la variedad arabica
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08MGQ7PNH/?tag=tolees-21)
