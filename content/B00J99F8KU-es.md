@@ -29,9 +29,9 @@ En este momento está [Krups KP100B Cafetera Dolce Gusto cápsulas  monodosis  1
 🔎:
 
 - Simplemente inserta tu cápsula y, con un sencillo movimiento de la palanca manual, podrás preparar de forma perfecta la bebida que deseas
-- Piccolo es tan versátil que también podrás preparar deliciosas bebidas frías con facilidad
-- El modo ecológico hace que la cafetera NESCAFÉ Dolce Gusto Piccolo se apague tras 5 minutos de inactividad
-- Café de calidad profesional con una capa densa y cremosa gracias al sistema de alta presión de las máquinas (más de 15 bares)
 - Ultra compacta, de pequeño y moderno diseño (medidas: 16 cm x 29 cm x 22 cm)
+- Piccolo es tan versátil que también podrás preparar deliciosas bebidas frías con facilidad
+- Café de calidad profesional con una capa densa y cremosa gracias al sistema de alta presión de las máquinas (más de 15 bares)
+- El modo ecológico hace que la cafetera NESCAFÉ Dolce Gusto Piccolo se apague tras 5 minutos de inactividad
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00J99F8KU/?tag=tolees-21)
