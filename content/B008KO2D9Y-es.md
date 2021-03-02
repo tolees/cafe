@@ -29,8 +29,8 @@ Tienes [Monix Cafetera  Aluminio  Plata  6 Tazas](https://www.amazon.es/dp/B008K
 🔎:
 
 - Acabado aluminio efecto mate
-- Apta para todo tipo de encimeras, excepto inducción. No limpiar en lavavajillas
 - Exterior súper resistente y diseño interior del calderín sin cantos para una limpieza más cómoda
+- Apta para todo tipo de encimeras, excepto inducción. No limpiar en lavavajillas
 - Capacidad para 6 tazas de café - 300 ml
 - Cafetera con asa de baquelita termo-resistente ergonómica para un agarre fácil y seguro
 
