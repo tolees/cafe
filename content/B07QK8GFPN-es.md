@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'IKOHS Máquina de Café Espresso Italiano  con un 18.30 % de descuento'
-date: 2020-08-24 13:46:07
-image: 'https://m.media-amazon.com/images/I/41y+3wo03KL._SL400_.jpg'
+title: 'CREATE IKOHS Máquina de Café Espresso It con un 4.82 % de descuento'
+date: 2021-03-04 07:17:09
+image: 'https://m.media-amazon.com/images/I/31eLXT1JmIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QK8GFPN-es IKOHS Máquina de Café Espresso Italiano - Cafetera Multi...'
+slug: 'B07QK8GFPN-es CREATE IKOHS Máquina de Café Espresso Italiano - Cafetera...'
 sku: 'B07QK8GFPN-es'
 tags: [ 'nespresso','cafetera', ]
-actualPrice: 66.95 EUR
+actualPrice: 78.95 EUR
 currency: EUR
-price: 66.95
-comparePrice: 81.95 EUR
-prodname: 'IKOHS Máquina de Café Espresso Italiano - Cafetera Multi Cápsulas Compatible Nespresso 3 en 1  19 bares con 2 Programas de Café  deposito extraíble  0 6 L  compacto  1450 W  apagado automático Gris'
+price: 78.95
+comparePrice: 82.95 EUR
+prodname: 'CREATE IKOHS Máquina de Café Espresso Italiano - Cafetera Multi Cápsulas Compatible Nespresso 3 en 1  19 Bares con 2 Programas de Café  deposito extraíble  0 6 L  450 W  Gris '
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'IKOHS'
 buyurl: 'https://www.amazon.es/dp/B07QK8GFPN/?tag=tolees-21'
-descuento: '18.30'
-average: '67.61666666666667'
+descuento: '4.82'
+average: '72.15'
 ---
 
-En este momento está [IKOHS Máquina de Café Espresso Italiano - Cafetera Multi Cápsulas Compatible Nespresso 3 en 1  19 bares con 2 Programas de Café  deposito extraíble  0 6 L  compacto  1450 W  apagado automático Gris](https://www.amazon.es/dp/B07QK8GFPN/?tag=tolees-21) a 66.95 EUR (original: 81.95 EUR) (18.30 %  de descuento) en el siguiente enlace!
+En este momento está [CREATE IKOHS Máquina de Café Espresso Italiano - Cafetera Multi Cápsulas Compatible Nespresso 3 en 1  19 Bares con 2 Programas de Café  deposito extraíble  0 6 L  450 W  Gris ](https://www.amazon.es/dp/B07QK8GFPN/?tag=tolees-21) a 78.95 EUR (original: 82.95 EUR) (4.82 %  de descuento) en el siguiente enlace!
 
-[![IKOHS Máquina de Café Espresso Italiano ](https://m.media-amazon.com/images/I/41y+3wo03KL._SL400_.jpg)](https://www.amazon.es/dp/B07QK8GFPN/?tag=tolees-21)
+[![CREATE IKOHS Máquina de Café Espresso It](https://m.media-amazon.com/images/I/31eLXT1JmIL._SL400_.jpg)](https://www.amazon.es/dp/B07QK8GFPN/?tag=tolees-21)
 
 🔎:
 
+- 19 bares de presión y una potencia de 1450W, perfecto para aprovechar al máximo el sabor del café.
+- Multicápsula: Adaptadores para cápsulas de Nespresso, Dolce gusto o sus compatibles, Starbucks e infusiones.
+- De tamaño reducido, ligera y compacta. Perfecta para cocinas pequeñas o transportar. Disponible en varios colores
+- Programable: elige cómo de largo o corto quieres tu café, puedes programarla para que siempre salga igual, o cambiar al modo manual cuando lo quieras diferente
+- Café molido: Adaptador para el café de siempre, con un accesorio de cuchara dosificadora y pala prensadora.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QK8GFPN/?tag=tolees-21)
