@@ -28,13 +28,13 @@ Tienes [Ufesa CE7238 CREAM - Cafetera Espresso  para preparar Cappuccino e infus
 
 🔎:
 
-- 850W de potencia
-- Depósito de agua extraíble de 1,2l
+- Vaporizador orientable para preparar Cappuccino, Infusiones
 - Bomba a presión de 20 bares
-- Portafiltro metálico con 3 filtros incluidos (1 café, 2 cafés y monodosis)
+- Depósito de agua extraíble de 1,2l
+- 850W de potencia
 - Bandeja calienta tazas
 - Bandeja recoge gota extraíble
+- Portafiltro metálico con 3 filtros incluidos (1 café, 2 cafés y monodosis)
 - 2 opciones de preparación de café: Sistema tradicional con café molido y con monodosis
-- Vaporizador orientable para preparar Cappuccino, Infusiones
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08H8F74MW/?tag=tolees-21)

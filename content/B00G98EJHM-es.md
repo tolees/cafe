@@ -28,12 +28,12 @@ En este momento está [Krups Nespresso Inissia XN1001 - Cafetera monodosis de c�
 
 🔎:
 
-- La bandeja antigoteo plegable permite utilizar tazas más grandes y se despliega automáticamente al retirar la taza para recoger las gotas
-- Con solo pulsar un botón y en 25 segundos, el agua alcanza la temperatura ideal para preparar hasta nueve cafés sin necesidad de rellenar el depósito de 0.7 L; puede ajustar el tamaño de la taza con dos botones programables (Espresso y Lungo)
+- Gracias a su sencillo sistema de extracción patentado, que se activa con solo pulsar un botón y que produce una presión de hasta 19 bares, la máquina puede preparar con facilidad cafés perfectos taza tras taza
 - Apta para el café de acuerdo con estrictos criterios de calidad; esto le permite ofrecer un sabor y unos aromas excepcionales en sus cápsulas de aluminio reciclable selladas herméticamente para conservar la frescura del café y disfrutar al máximo de cada degustación
+- Con solo pulsar un botón y en 25 segundos, el agua alcanza la temperatura ideal para preparar hasta nueve cafés sin necesidad de rellenar el depósito de 0.7 L; puede ajustar el tamaño de la taza con dos botones programables (Espresso y Lungo)
+- La bandeja antigoteo plegable permite utilizar tazas más grandes y se despliega automáticamente al retirar la taza para recoger las gotas
 - Café caliente desde la primera taza gracias a sus sistema thermoblock que permite estar lista y calentar el agua desde la primera gota de café hasta la última
 - El modo de ahorro de energía hace que la máquina se apague automáticamente si no se utiliza durante 9 minutos
 - Máquina de cápsulas de café monodosis de Nespresso con diseño compacto y ligero; asa ergonómica, se ajusta óptimamente a cualquier configuración interior para adaptarse a toda tu cocina con su diseño color blanco y reducido
-- Gracias a su sencillo sistema de extracción patentado, que se activa con solo pulsar un botón y que produce una presión de hasta 19 bares, la máquina puede preparar con facilidad cafés perfectos taza tras taza
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00G98EJHM/?tag=tolees-21)
