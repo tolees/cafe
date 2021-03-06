@@ -28,7 +28,7 @@ Está [SZXCX Juego de Tazas de Filtro de cápsulas de café Reutilizables con Ce
 
 ℹ️:
 
-- 2. Buen efecto de filtrado: la fina malla de filtro de acero inoxidable garantiza una buena filtración y un sabor fuerte y original
 - 1. Material seguro: la cápsula de café está hecha de plástico y malla de filtro de acero inoxidable, segura, no tóxica y duradera
+- 2. Buen efecto de filtrado: la fina malla de filtro de acero inoxidable garantiza una buena filtración y un sabor fuerte y original
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08M5YBV1H/?tag=tolees-21)
