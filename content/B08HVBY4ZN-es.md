@@ -28,10 +28,10 @@ Tienes [PURLINE Cafetera de Goteo Digital programable para 12 Tazas de café HOM
 
 🔎:
 
+- Es programable, por lo que puedes tener el café listo a la hora que quieras
+- Control digital con display LCD.
 - Cafetera y jarra de cristal de gran capacidad 1,2L para 12 tazas.
 - Sistema antigoteo y filtro extraíble para una fácil limpieza
 - Plato calefactor para mantener el café caliente en la jarra
-- Control digital con display LCD.
-- Es programable, por lo que puedes tener el café listo a la hora que quieras
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08HVBY4ZN/?tag=tolees-21)
