@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'BRA CAFETERA DE Luxe 2  Aluminio  Plata  al 12.05 % de descuento'
+date: 2021-03-14 15:27:04
+image: 'https://m.media-amazon.com/images/I/41W-a3KajFL._SL400_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B00K85SWF2-es BRA CAFETERA DE Luxe 2 Aluminio Plata 12 Tazas'
+sku: 'B00K85SWF2-es'
+tags: [ 'cafetera', ]
+actualPrice: 24.37 EUR
+currency: EUR
+price: 24.37
+comparePrice: 27.71 EUR
+prodname: 'BRA CAFETERA DE Luxe 2  Aluminio  Plata  12 Tazas'
+country: 'es'
+flag: '🇪🇸'
+brand: 'BRA'
+buyurl: 'https://www.amazon.es/dp/B00K85SWF2/?tag=tolees-21'
+descuento: '12.05'
+average: '22.86'
+---
+
+Ahora mismo tienes [BRA CAFETERA DE Luxe 2  Aluminio  Plata  12 Tazas](https://www.amazon.es/dp/B00K85SWF2/?tag=tolees-21) a 24.37 EUR (original: 27.71 EUR) (12.05 %  de descuento) en el siguiente enlace!
+
+[![BRA CAFETERA DE Luxe 2  Aluminio  Plata ](https://m.media-amazon.com/images/I/41W-a3KajFL._SL400_.jpg)](https://www.amazon.es/dp/B00K85SWF2/?tag=tolees-21)
+
+🔎:
+
+- Incluye un mango con diseño ergonómico e inserción de silicona para un agarre más fácil y seguro
+- Cafetera italiana fabricada en aluminio de alta calidad con diseño vanguardista
+- No válida para inducción
+- No limpiar lavavajillas
+- El uso de materiales de gran calidad junto con su esmerado diseño y elaboración, proporcionan a la cafetera una gran polivalencia, seguridad y resistencia al uso
+
+[🛒 Visítala!!!](https://www.amazon.es/dp/B00K85SWF2/?tag=tolees-21)
