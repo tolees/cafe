@@ -28,10 +28,10 @@ Tienes [Melitta Caffeo Solo Cafetera automática  1400 W  1.2 litros  Stainless 
 
 🔎:
 
-- COMPACTA: La cafetera automática prepara un magnífico café en sólo 20 centímetros de ancho.
-- CONFIGURABLE: El molinillo cónico tiene 3 grados de molienda. El café hasta 3 niveles de intensidad.
-- LIMPIEZA: Programas automáticos de descalcificación y limpieza cada 200 cafés.
 - CAFÉ EN GRANO: Utiliza exclusivamente café de tueste 100% natural en tu cafetera Caffeo Solo E950-103.
 - INTUITIVA: Personaliza tu bebida y prepara tu taza de café ya programada con un sólo toque.
+- CONFIGURABLE: El molinillo cónico tiene 3 grados de molienda. El café hasta 3 niveles de intensidad.
+- LIMPIEZA: Programas automáticos de descalcificación y limpieza cada 200 cafés.
+- COMPACTA: La cafetera automática prepara un magnífico café en sólo 20 centímetros de ancho.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B002NKR4VI/?tag=tolees-21)
