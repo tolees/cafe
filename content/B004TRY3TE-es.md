@@ -5,7 +5,7 @@ date: 2020-06-12 11:57:01
 image: 'https://m.media-amazon.com/images/I/41Q2-cbHhLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004TRY3TE-es De Longhi Dolce Gusto Piccolo EDG200.B - Cafetera de...'
 sku: 'B004TRY3TE-es'
 tags: [ 'cafetera','dolce','gusto', ]

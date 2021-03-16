@@ -5,7 +5,7 @@ date: 2020-02-27 13:11:45
 image: 'https://m.media-amazon.com/images/I/3189eFTNNHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084JSHQG7-es Krups Dolce Gusto Lumio KP130810 15 Bares de presión -...'
 sku: 'B084JSHQG7-es'
 tags: [ 'cafetera','dolce','gusto', ]

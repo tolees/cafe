@@ -5,7 +5,7 @@ date: 2020-09-08 16:26:40
 image: 'https://m.media-amazon.com/images/I/31dE6y2R+XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WD7Z8GD-es De longhi Dedica - Cafetera de Bomba de Acero Inoxidable...'
 sku: 'B06WD7Z8GD-es'
 tags: [ 'cafetera', ]

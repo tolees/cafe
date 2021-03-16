@@ -5,7 +5,7 @@ date: 2020-04-19 15:08:56
 image: 'https://m.media-amazon.com/images/I/413syvSLP2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GSKXW0A-es Saeco 421944036871 Original Sistema de preparación unidad...'
 sku: 'B01GSKXW0A-es'
 tags: [ 'cafetera', ]

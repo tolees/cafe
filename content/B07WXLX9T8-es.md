@@ -5,7 +5,7 @@ date: 2020-09-25 09:23:59
 image: 'https://m.media-amazon.com/images/I/51vZoud9udL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WXLX9T8-es Marca Amazon - Happy Belly Espresso Decaffeinato- Café UTZ...'
 sku: 'B07WXLX9T8-es'
 tags: [ 'nespresso', ]

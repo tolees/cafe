@@ -5,7 +5,7 @@ date: 2020-09-12 01:00:26
 image: 'https://m.media-amazon.com/images/I/41SZksk9sJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCSS74V-es Mellerware Bari Legend cafetera espresso programable 20...'
 sku: 'B07VCSS74V-es'
 tags: [ 'cafetera', ]

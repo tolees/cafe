@@ -5,7 +5,7 @@ date: 2020-04-24 11:08:56
 image: 'https://m.media-amazon.com/images/I/31Le1NlbCwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SN9EYYS-es Domoclip Cafetera Electric Rojo'
 sku: 'B00SN9EYYS-es'
 tags: [ 'cafetera', ]

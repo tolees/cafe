@@ -5,7 +5,7 @@ date: 2020-09-28 14:14:25
 image: 'https://m.media-amazon.com/images/I/418lPfUQ9TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074KN3GDW-es Philips SENSEO Original HD6554/91 - Cafetera monodosis con...'
 sku: 'B074KN3GDW-es'
 tags: [ 'cafetera', ]

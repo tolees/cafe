@@ -5,7 +5,7 @@ date: 2020-09-03 13:08:59
 image: 'https://m.media-amazon.com/images/I/41h2f61NU+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VYHH6NB-es Bosch TAS1401 Tassimo Vivy 2 - Cafetera Multibebidas...'
 sku: 'B06VYHH6NB-es'
 tags: [ 'cafetera','tassimo', ]

@@ -5,7 +5,7 @@ date: 2020-03-10 14:32:06
 image: 'https://m.media-amazon.com/images/I/41Ufuuy3SqL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JUC9CDY-es Nespresso Krups Citiz XN760B - Cafetera monodosis de...'
 sku: 'B01JUC9CDY-es'
 tags: [ 'cafetera','nespresso', ]

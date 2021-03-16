@@ -5,7 +5,7 @@ date: 2020-01-27 19:01:35
 image: 'https://m.media-amazon.com/images/I/51MhUEc0rNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N2R0R1T-es Nescafé Dolce Gusto - Chococino - 3 Paquetes de 16...'
 sku: 'B01N2R0R1T-es'
 tags: [ 'dolce','gusto', ]

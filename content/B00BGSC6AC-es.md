@@ -5,7 +5,7 @@ date: 2020-10-07 19:02:43
 image: 'https://m.media-amazon.com/images/I/41czyTVIQ9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BGSC6AC-es De Longhi PrimaDonna XS Deluxe - Cafetera Superautomática...'
 sku: 'B00BGSC6AC-es'
 tags: [ 'cafetera', ]

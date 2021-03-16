@@ -5,7 +5,7 @@ date: 2020-02-23 08:06:58
 image: 'https://m.media-amazon.com/images/I/41TsVNpBWNL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YNR26HL-es Krups EA82F0 - Cafetera Superautomática 1450 W 15 bares 1...'
 sku: 'B07YNR26HL-es'
 tags: [ 'cafetera', ]

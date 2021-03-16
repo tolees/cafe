@@ -5,7 +5,7 @@ date: 2020-04-02 08:39:34
 image: 'https://m.media-amazon.com/images/I/41kGvGPamLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00URV3RW0-es Oroley - Cafetera de Émbolo Spezia de Acero Inoxidable...'
 sku: 'B00URV3RW0-es'
 tags: [ 'cafetera', ]

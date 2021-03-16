@@ -5,7 +5,7 @@ date: 2020-04-26 07:07:23
 image: 'https://m.media-amazon.com/images/I/41wt0lT2+3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00T0HSAGA-es DeLonghi ECOV311.BK Cafetera Espresso Vintage Icona...'
 sku: 'B00T0HSAGA-es'
 tags: [ 'cafetera', ]

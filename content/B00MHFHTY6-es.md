@@ -5,7 +5,7 @@ date: 2020-05-29 14:14:59
 image: 'https://m.media-amazon.com/images/I/41Se-vNYLnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MHFHTY6-es Krups Dolce Gusto Oblo KP1105 - Cafetera de cápsulas 15...'
 sku: 'B00MHFHTY6-es'
 tags: [ 'cafetera','dolce','gusto', ]

@@ -5,7 +5,7 @@ date: 2020-08-06 19:04:16
 image: 'https://m.media-amazon.com/images/I/51toPDBPuFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FPTGKWR-es Café FORTALEZA - Cápsulas de Café Intenssísimo Compatibles...'
 sku: 'B07FPTGKWR-es'
 tags: [ 'dolce','gusto', ]

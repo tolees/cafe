@@ -5,7 +5,7 @@ date: 2020-09-22 20:41:27
 image: 'https://m.media-amazon.com/images/I/41Ef95QuB6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QMR7J33-es Solac S92011100 Ce4501 Squissita Cafetera Doub Cream...'
 sku: 'B07QMR7J33-es'
 tags: [ 'cafetera', ]

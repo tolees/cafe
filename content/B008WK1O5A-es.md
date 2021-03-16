@@ -5,7 +5,7 @@ date: 2020-09-05 16:00:09
 image: 'https://m.media-amazon.com/images/I/41lZKPQf0WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008WK1O5A-es Bosch TKA3A034 CompactClass Extra Cafetera de goteo...'
 sku: 'B008WK1O5A-es'
 tags: [ 'cafetera', ]

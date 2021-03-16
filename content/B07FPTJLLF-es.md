@@ -5,7 +5,7 @@ date: 2020-03-08 11:52:41
 image: 'https://m.media-amazon.com/images/I/410UAag3a4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FPTJLLF-es Café FORTALEZA - Cápsulas de Café Descafeinado Forte...'
 sku: 'B07FPTJLLF-es'
 tags: [ 'nespresso', ]

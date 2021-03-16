@@ -5,7 +5,7 @@ date: 2020-02-03 20:02:01
 image: 'https://m.media-amazon.com/images/I/51vm8Q8BbdL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CD2P9TK-es N/a - Nescafe dolce gusto marrakesh style tea pack of 3 by na'
 sku: 'B00CD2P9TK-es'
 tags: [ 'dolce','gusto', ]

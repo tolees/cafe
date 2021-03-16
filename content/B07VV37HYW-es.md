@@ -5,7 +5,7 @@ date: 2020-01-29 17:18:59
 image: 'https://m.media-amazon.com/images/I/31ojYfWwkwL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VV37HYW-es Krups KP1A01 Piccolo XS - Cafetera monodosis de plástico'
 sku: 'B07VV37HYW-es'
 tags: [ 'cafetera', ]

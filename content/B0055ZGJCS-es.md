@@ -5,7 +5,7 @@ date: 2020-04-09 17:58:09
 image: 'https://m.media-amazon.com/images/I/51psgU8HpAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0055ZGJCS-es Ufesa Cafetera expreso Duetto Creme CE7141 500 W Acero...'
 sku: 'B0055ZGJCS-es'
 tags: [ 'cafetera', ]

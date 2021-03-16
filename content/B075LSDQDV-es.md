@@ -5,7 +5,7 @@ date: 2020-06-12 15:46:15
 image: 'https://m.media-amazon.com/images/I/41s6G6okzFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075LSDQDV-es Lavazza Cápsulas de Café Compatibles Nespresso Espresso...'
 sku: 'B075LSDQDV-es'
 tags: [ 'nespresso', ]

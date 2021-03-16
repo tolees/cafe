@@ -5,7 +5,7 @@ date: 2020-03-24 15:32:13
 image: 'https://m.media-amazon.com/images/I/41IX8mGqU0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000ODTUHW-es Nestle - Cafe Capuccino Dolce Gusto 3 x 16 Capsulas.'
 sku: 'B000ODTUHW-es'
 tags: [ 'cafe','dolce','gusto', ]

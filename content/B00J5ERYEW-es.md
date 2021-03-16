@@ -5,7 +5,7 @@ date: 2020-01-10 11:07:30
 image: 'https://images-eu.ssl-images-amazon.com/images/I/418VJyzI3QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00J5ERYEW-es De Longhi Dolce Gusto Jovia EDG250.W - Cafetera de...'
 sku: 'B00J5ERYEW-es'
 tags: [ 'cafetera','dolce','gusto', ]

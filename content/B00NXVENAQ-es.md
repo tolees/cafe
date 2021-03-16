@@ -5,7 +5,7 @@ date: 2020-10-10 21:18:15
 image: 'https://m.media-amazon.com/images/I/410Qy1WubfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00NXVENAQ-es Melitta Passione F530-101 Cafetera Automática con...'
 sku: 'B00NXVENAQ-es'
 tags: [ 'cafetera', ]

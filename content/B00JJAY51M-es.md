@@ -5,7 +5,7 @@ date: 2020-06-01 06:39:16
 image: 'https://m.media-amazon.com/images/I/31A8zlVPI1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JJAY51M-es WMF Stelio Aroma Cafetera de 1000 W con jarra térmica de 1...'
 sku: 'B00JJAY51M-es'
 tags: [ 'cafetera', ]

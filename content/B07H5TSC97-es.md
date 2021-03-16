@@ -5,7 +5,7 @@ date: 2020-01-15 18:18:16
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51hrzJmpqCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H5TSC97-es L Or Espresso Onyx - Paquete de 4 x 20 cápsulas - Total:...'
 sku: 'B07H5TSC97-es'
 tags: [ 'nespresso', ]

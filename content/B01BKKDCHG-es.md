@@ -5,7 +5,7 @@ date: 2020-03-19 12:31:22
 image: 'https://m.media-amazon.com/images/I/41uDH9WjvLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BKKDCHG-es Krups MS-623241 - Recipiente para cápsulas de café Dolce...'
 sku: 'B01BKKDCHG-es'
 tags: [ 'dolce','gusto', ]

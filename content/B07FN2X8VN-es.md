@@ -5,7 +5,7 @@ date: 2020-01-21 11:11:04
 image: 'None._SL400_'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FN2X8VN-es Café FORTALEZA - Surtido de Cápsulas de Café Orígenes...'
 sku: 'B07FN2X8VN-es'
 tags: [ 'nespresso', ]

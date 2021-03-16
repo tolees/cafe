@@ -5,7 +5,7 @@ date: 2020-04-18 01:21:03
 image: 'https://m.media-amazon.com/images/I/41kNCuzkizL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002GT7Y0M-es Bosch T-Disc - Pieza de Repuesto para Tassimo T20 Color...'
 sku: 'B002GT7Y0M-es'
 tags: [ 'tassimo', ]

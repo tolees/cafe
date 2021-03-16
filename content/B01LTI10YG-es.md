@@ -5,7 +5,7 @@ date: 2020-07-24 12:33:58
 image: 'https://m.media-amazon.com/images/I/41oi65ZWqIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LTI10YG-es Exclusivo Nescafé Dolce Gusto Café con Leche Pack de 3 x...'
 sku: 'B01LTI10YG-es'
 tags: [ 'dolce','gusto', ]

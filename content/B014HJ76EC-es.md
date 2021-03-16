@@ -5,7 +5,7 @@ date: 2020-02-14 22:45:54
 image: 'https://m.media-amazon.com/images/I/41zkPQGG2oL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014HJ76EC-es Alessi Cafetera de espresso Pulcina negro 300 ml'
 sku: 'B014HJ76EC-es'
 tags: [ 'cafetera', ]

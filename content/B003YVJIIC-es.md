@@ -5,7 +5,7 @@ date: 2020-01-20 10:09:17
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41ad67fj1FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003YVJIIC-es NESCAFÉ Dolce Gusto Café Latte Macchiato Vainilla Pack de...'
 sku: 'B003YVJIIC-es'
 tags: [ 'dolce','gusto', ]

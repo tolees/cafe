@@ -5,7 +5,7 @@ date: 2020-10-12 10:11:54
 image: 'https://m.media-amazon.com/images/I/417fk-+IQML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ITGGKBY-es Nespresso De Longhi Citiz EN167.W - Cafetera monodosis de...'
 sku: 'B01ITGGKBY-es'
 tags: [ 'cafetera','nespresso', ]

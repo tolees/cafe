@@ -5,7 +5,7 @@ date: 2020-09-03 15:52:11
 image: 'https://m.media-amazon.com/images/I/41fRoqFPRFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I5KJC4C-es De longhi Nespresso Lattissima Pro EN750MB - Cafetera de...'
 sku: 'B00I5KJC4C-es'
 tags: [ 'cafetera','nespresso', ]

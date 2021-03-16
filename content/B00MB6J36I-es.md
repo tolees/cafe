@@ -5,7 +5,7 @@ date: 2020-10-02 21:50:19
 image: 'https://m.media-amazon.com/images/I/41EjxpNmVyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MB6J36I-es Russell Hobbs Buckingham - Cafetera de Goteo Jarra...'
 sku: 'B00MB6J36I-es'
 tags: [ 'cafetera', ]

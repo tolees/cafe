@@ -5,7 +5,7 @@ date: 2020-02-25 07:53:15
 image: 'https://m.media-amazon.com/images/I/31mK4Eh2iZL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YNM96VD-es Nespresso Krups Essenza Mini - Cafetera monodosis de...'
 sku: 'B07YNM96VD-es'
 tags: [ 'cafetera','nespresso', ]

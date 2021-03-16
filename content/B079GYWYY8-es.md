@@ -5,7 +5,7 @@ date: 2020-05-12 16:16:44
 image: 'https://m.media-amazon.com/images/I/410NgG4QNRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079GYWYY8-es Philips Grind & Brew HD7767/00 - Cafetera Independiente...'
 sku: 'B079GYWYY8-es'
 tags: [ 'cafetera', ]

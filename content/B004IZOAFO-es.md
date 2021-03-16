@@ -5,7 +5,7 @@ date: 2020-03-11 15:57:27
 image: 'https://m.media-amazon.com/images/I/41Q3ObXx1wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004IZOAFO-es Nespresso Krups Pixie XN3005 - Cafetera monodosis de...'
 sku: 'B004IZOAFO-es'
 tags: [ 'cafetera','nespresso', ]

@@ -5,7 +5,7 @@ date: 2020-03-31 12:03:12
 image: 'https://m.media-amazon.com/images/I/51YBuhF18oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000ODTSW4-es Nescaf Dolce Gusto - Lungo - 3 Paquetes de 16 Cpsulas -...'
 sku: 'B000ODTSW4-es'
 tags: [ 'dolce','gusto', ]

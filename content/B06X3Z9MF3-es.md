@@ -5,7 +5,7 @@ date: 2020-08-21 17:29:00
 image: 'https://m.media-amazon.com/images/I/31ur-7OXsdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X3Z9MF3-es De longhi Dedica - Cafetera de Bomba de Acero Inoxidable...'
 sku: 'B06X3Z9MF3-es'
 tags: [ 'cafetera', ]

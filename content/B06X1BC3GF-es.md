@@ -5,7 +5,7 @@ date: 2020-09-03 18:14:08
 image: 'https://m.media-amazon.com/images/I/41cMcgJwnWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X1BC3GF-es Alessi - Pulcina MDL02/6 R - Cafetera Inducción de Diseño...'
 sku: 'B06X1BC3GF-es'
 tags: [ 'cafetera', ]

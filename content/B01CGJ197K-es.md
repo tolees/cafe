@@ -5,7 +5,7 @@ date: 2020-03-23 16:27:27
 image: 'https://m.media-amazon.com/images/I/41Y5Uk+4aQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CGJ197K-es Mini Moka Minimoka CM-1622 Cafetera Espreso 15 Bar / 1050...'
 sku: 'B01CGJ197K-es'
 tags: [ 'cafetera', ]

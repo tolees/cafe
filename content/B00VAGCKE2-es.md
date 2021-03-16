@@ -5,7 +5,7 @@ date: 2020-07-12 02:47:10
 image: 'https://m.media-amazon.com/images/I/41OPxB681xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VAGCKE2-es Taurus Cafetera Goteo Verona 6 6 Tazas 600 W 6 Cups...'
 sku: 'B00VAGCKE2-es'
 tags: [ 'cafetera', ]

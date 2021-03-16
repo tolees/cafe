@@ -5,7 +5,7 @@ date: 2020-09-13 18:56:39
 image: 'https://m.media-amazon.com/images/I/41h7umJtS6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00S4QYDRI-es TASSIMO L Or Café Long Délicat - 5 paquetes de 16...'
 sku: 'B00S4QYDRI-es'
 tags: [ 'tassimo', ]

@@ -5,7 +5,7 @@ date: 2020-02-14 14:43:17
 image: 'https://m.media-amazon.com/images/I/51N+u4jIK6L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YDMT47W-es Tassimo Kenco Lovers Coffee Bundle - Tassimo Kenco...'
 sku: 'B07YDMT47W-es'
 tags: [ 'tassimo', ]

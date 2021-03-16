@@ -5,7 +5,7 @@ date: 2020-04-25 12:33:13
 image: 'https://m.media-amazon.com/images/I/41MsGbl9RQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MB6J32C-es Russell Hobbs Grind & Brew - Cafetera de Goteo Jarra...'
 sku: 'B00MB6J32C-es'
 tags: [ 'cafetera', ]

@@ -5,7 +5,7 @@ date: 2020-08-27 11:01:31
 image: 'https://m.media-amazon.com/images/I/41h6yDcpkmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CV97QBE-es De Longhi Dolce Gusto Mini Me EDG305.BG - Cafetera de...'
 sku: 'B00CV97QBE-es'
 tags: [ 'cafetera','dolce','gusto', ]

@@ -5,7 +5,7 @@ date: 2020-04-24 12:36:23
 image: 'https://m.media-amazon.com/images/I/419xZjT+p4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VH154FR-es Cafés Baqué - 10 Capsulas Compatibles Nespresso Ristretto...'
 sku: 'B07VH154FR-es'
 tags: [ 'nespresso', ]

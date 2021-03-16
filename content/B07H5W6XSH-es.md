@@ -5,7 +5,7 @@ date: 2020-01-13 09:48:43
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41KGtkScCBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H5W6XSH-es L Or Espresso Café Ristretto Decaffeinato Intensidad 9 -...'
 sku: 'B07H5W6XSH-es'
 tags: [ 'nespresso', ]

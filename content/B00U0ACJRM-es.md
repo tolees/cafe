@@ -5,7 +5,7 @@ date: 2020-06-18 07:10:46
 image: 'https://m.media-amazon.com/images/I/41rtKEOIoFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U0ACJRM-es Tristar CM-1233 – Cafetera con Capacidad para 6 Tazas Apta...'
 sku: 'B00U0ACJRM-es'
 tags: [ 'cafetera', ]

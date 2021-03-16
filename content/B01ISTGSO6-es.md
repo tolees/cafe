@@ -5,7 +5,7 @@ date: 2020-02-23 09:03:32
 image: 'https://m.media-amazon.com/images/I/41dNjMfvljL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ISTGSO6-es Bosch Comfort Line TKA6A683 - Cafetera de filtro / goteo...'
 sku: 'B01ISTGSO6-es'
 tags: [ 'cafetera', ]

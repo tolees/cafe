@@ -5,7 +5,7 @@ date: 2020-07-23 23:09:33
 image: 'https://m.media-amazon.com/images/I/31BaPKEz2cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BL4FXSM-es VeoHome - Cafetera Italiana de Acero Inoxidable 10 tazas...'
 sku: 'B08BL4FXSM-es'
 tags: [ 'cafetera', ]

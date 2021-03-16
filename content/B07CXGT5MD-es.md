@@ -5,7 +5,7 @@ date: 2020-04-16 18:57:26
 image: 'https://m.media-amazon.com/images/I/31Pi157Ea4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CXGT5MD-es Cafetera Café Portátil Aicok K-Cup Cafetera Automatizada...'
 sku: 'B07CXGT5MD-es'
 tags: [ 'cafetera', ]

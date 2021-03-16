@@ -5,7 +5,7 @@ date: 2020-05-24 14:45:37
 image: 'https://m.media-amazon.com/images/I/41GnCFKOVZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084P7TNT3-es Brewsly Termo Cafe 600ml 12 h Caliente y 24 h Frío Botella...'
 sku: 'B084P7TNT3-es'
 tags: [ 'cafe', ]

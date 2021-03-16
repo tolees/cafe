@@ -5,7 +5,7 @@ date: 2020-09-03 09:08:28
 image: 'https://m.media-amazon.com/images/I/41lx5eWzHGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01794DZRY-es Jata CA290 Cafetera de Goteo Filtro permanente Antigoteo...'
 sku: 'B01794DZRY-es'
 tags: [ 'cafetera', ]

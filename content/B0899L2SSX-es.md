@@ -5,7 +5,7 @@ date: 2020-07-17 10:33:44
 image: 'https://m.media-amazon.com/images/I/41GnCFKOVZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0899L2SSX-es Brewsly Termo Cafe 900ml 6 h Caliente y 12 h Frío Botella...'
 sku: 'B0899L2SSX-es'
 tags: [ 'cafe', ]

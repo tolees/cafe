@@ -5,7 +5,7 @@ date: 2020-09-24 10:09:20
 image: 'https://m.media-amazon.com/images/I/41wJnmWKOPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WWHJJG8-es Marca Amazon - Happy Belly Espresso Café UTZ molido de...'
 sku: 'B07WWHJJG8-es'
 tags: [ 'nespresso', ]

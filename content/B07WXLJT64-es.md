@@ -5,7 +5,7 @@ date: 2020-09-23 16:15:06
 image: 'https://m.media-amazon.com/images/I/51BousWC18L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WXLJT64-es Note D Espresso Cápsulas de Café de Guatemala - 96...'
 sku: 'B07WXLJT64-es'
 tags: [ 'dolce','gusto', ]

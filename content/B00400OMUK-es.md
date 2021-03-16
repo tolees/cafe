@@ -5,7 +5,7 @@ date: 2020-03-03 20:48:00
 image: 'https://m.media-amazon.com/images/I/41UdV-k250L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00400OMUK-es De longhi Magnifica S Ecam 22.110.SB - Cafetera...'
 sku: 'B00400OMUK-es'
 tags: [ 'cafetera', ]

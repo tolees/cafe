@@ -5,7 +5,7 @@ date: 2020-01-31 05:14:22
 image: 'https://m.media-amazon.com/images/I/31WPMuq8i4L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LK9CO0E-es Bialetti Moka Induction cafetera con Base de Acero para...'
 sku: 'B00LK9CO0E-es'
 tags: [ 'cafetera', ]

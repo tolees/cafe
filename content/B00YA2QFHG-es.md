@@ -5,7 +5,7 @@ date: 2020-09-30 17:38:20
 image: 'https://m.media-amazon.com/images/I/410gYbjjHmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YA2QFHG-es Viaggio Espresso Cápsulas de café compatibles con máquinas...'
 sku: 'B00YA2QFHG-es'
 tags: [ 'nespresso', ]

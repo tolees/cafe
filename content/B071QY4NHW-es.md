@@ -5,7 +5,7 @@ date: 2020-07-09 22:32:33
 image: 'https://m.media-amazon.com/images/I/516HVC7rBHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071QY4NHW-es De Longhi PrimaDonna S EVO - Cafetera Automática...'
 sku: 'B071QY4NHW-es'
 tags: [ 'cafetera', ]

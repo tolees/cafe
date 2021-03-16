@@ -5,7 +5,7 @@ date: 2020-09-12 10:45:52
 image: 'https://m.media-amazon.com/images/I/31Oo3n+MgiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LK9CNG4-es Bialetti Moka Induction Cafetera Italiana Espresso por...'
 sku: 'B00LK9CNG4-es'
 tags: [ 'cafetera', ]

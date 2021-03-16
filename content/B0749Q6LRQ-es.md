@@ -5,7 +5,7 @@ date: 2020-09-21 11:44:47
 image: 'https://m.media-amazon.com/images/I/41ZGJazZ+dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0749Q6LRQ-es Bosch TAS6004 Tassimo My Way Cafetera de cápsulas 1500 W...'
 sku: 'B0749Q6LRQ-es'
 tags: [ 'cafetera','tassimo', ]

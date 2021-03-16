@@ -5,7 +5,7 @@ date: 2020-02-14 15:14:54
 image: 'https://m.media-amazon.com/images/I/51WxcYYvnHL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YDLYV9S-es Tassimo Discover Bundle - Tassimo Coffee Shop Selections...'
 sku: 'B07YDLYV9S-es'
 tags: [ 'tassimo', ]

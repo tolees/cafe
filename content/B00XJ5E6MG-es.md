@@ -5,7 +5,7 @@ date: 2020-01-11 17:18:46
 image: 'https://images-eu.ssl-images-amazon.com/images/I/51cYyaHdYOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XJ5E6MG-es Melitta Elegance Therm Deluxe 1012-06 Cafetera Goteo...'
 sku: 'B00XJ5E6MG-es'
 tags: [ 'cafetera', ]

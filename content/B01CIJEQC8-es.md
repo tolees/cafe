@@ -5,7 +5,7 @@ date: 2020-03-26 13:27:23
 image: 'https://m.media-amazon.com/images/I/317WRLLWd-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CIJEQC8-es BEPER Cafetera Espresso Plateado 32 x 23.2 x 36.5 cm'
 sku: 'B01CIJEQC8-es'
 tags: [ 'cafetera', ]

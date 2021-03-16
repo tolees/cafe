@@ -5,7 +5,7 @@ date: 2020-02-03 20:52:00
 image: 'https://m.media-amazon.com/images/I/4129vik2jTL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VZQQPGR-es Bosch TAS6002X Tassimo My Way Cafetera automática color...'
 sku: 'B07VZQQPGR-es'
 tags: [ 'cafetera','tassimo', ]

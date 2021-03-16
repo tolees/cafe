@@ -5,7 +5,7 @@ date: 2020-01-31 07:06:26
 image: 'https://m.media-amazon.com/images/I/51YBGTNRa5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D31RY2G-es NESCAFÉ Dolce Gusto Espresso Intenso Descafeinado | Pack...'
 sku: 'B07D31RY2G-es'
 tags: [ 'dolce','gusto', ]

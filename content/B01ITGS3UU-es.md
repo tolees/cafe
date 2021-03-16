@@ -5,7 +5,7 @@ date: 2020-04-14 11:33:32
 image: 'https://m.media-amazon.com/images/I/41jUZCG6neL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ITGS3UU-es DeLonghi Nespresso Citiz EN267.BAE Cafetera con cápsulas...'
 sku: 'B01ITGS3UU-es'
 tags: [ 'cafetera','nespresso', ]

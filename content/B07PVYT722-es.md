@@ -5,7 +5,7 @@ date: 2020-02-27 09:31:58
 image: 'https://m.media-amazon.com/images/I/31dzz2MCNlL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PVYT722-es Krups Dolce Gusto Infinissima KP1708 - Cafetera de...'
 sku: 'B07PVYT722-es'
 tags: [ 'cafetera','dolce','gusto', ]

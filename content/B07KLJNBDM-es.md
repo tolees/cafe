@@ -5,7 +5,7 @@ date: 2020-06-19 15:39:15
 image: 'https://m.media-amazon.com/images/I/41upUQUiIyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KLJNBDM-es NESCAFÉ Dolce Gusto Café Latte Macchiato Pack de 3x16...'
 sku: 'B07KLJNBDM-es'
 tags: [ 'dolce','gusto', ]

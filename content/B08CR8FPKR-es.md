@@ -5,7 +5,7 @@ date: 2020-09-28 06:48:05
 image: 'https://m.media-amazon.com/images/I/41o9QfUm-bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CR8FPKR-es Krups Cafetera automática Movenza + 48 cápsulas Nescafé...'
 sku: 'B08CR8FPKR-es'
 tags: [ 'cafetera','dolce','gusto', ]

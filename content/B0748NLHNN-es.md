@@ -5,7 +5,7 @@ date: 2020-02-15 03:31:11
 image: 'https://m.media-amazon.com/images/I/41hilDtwW5L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0748NLHNN-es Bosch Cafetera TASSIMO My Way TAS6002 - Cafetera de...'
 sku: 'B0748NLHNN-es'
 tags: [ 'cafetera','tassimo', ]

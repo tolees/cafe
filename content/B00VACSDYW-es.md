@@ -5,7 +5,7 @@ date: 2020-10-05 13:27:42
 image: 'https://m.media-amazon.com/images/I/415KgrfK+WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VACSDYW-es Taurus Cafetera Goteo Verona 12 680 W 1.2 litros plástico'
 sku: 'B00VACSDYW-es'
 tags: [ 'cafetera', ]

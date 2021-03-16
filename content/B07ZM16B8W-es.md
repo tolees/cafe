@@ -5,7 +5,7 @@ date: 2020-04-14 16:34:21
 image: 'https://m.media-amazon.com/images/I/31IRzp5sw+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZM16B8W-es NMDD Ornament Modernen Minimalistischen Keramik...'
 sku: 'B07ZM16B8W-es'
 tags: [ 'cafe', ]

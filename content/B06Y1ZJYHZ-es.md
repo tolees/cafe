@@ -5,7 +5,7 @@ date: 2020-06-11 01:13:13
 image: 'https://m.media-amazon.com/images/I/41nFNDQV9sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y1ZJYHZ-es Nescafé Dolce Gusto Café con leche descafeinado - 16...'
 sku: 'B06Y1ZJYHZ-es'
 tags: [ 'dolce','gusto', ]

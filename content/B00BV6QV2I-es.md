@@ -5,7 +5,7 @@ date: 2020-01-31 07:07:30
 image: 'https://m.media-amazon.com/images/I/41cCS1v2MRL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BV6QV2I-es Nescafé Dolce Gusto Café Cortado Espresso Macchiato Pack...'
 sku: 'B00BV6QV2I-es'
 tags: [ 'dolce','gusto', ]

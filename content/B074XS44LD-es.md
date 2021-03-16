@@ -5,7 +5,7 @@ date: 2020-04-16 07:06:15
 image: 'https://m.media-amazon.com/images/I/51AvrGxaHyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074XS44LD-es Tristar CM-1248 Cafetera 900 W 1.5 litros De plástico...'
 sku: 'B074XS44LD-es'
 tags: [ 'cafetera', ]

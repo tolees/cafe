@@ -5,7 +5,7 @@ date: 2020-01-31 07:05:54
 image: 'https://m.media-amazon.com/images/I/41+rM+5UnBL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004MZA4R8-es NESCAFÉ Dolce Gusto Café Cappuccino Pack de 3 x 16...'
 sku: 'B004MZA4R8-es'
 tags: [ 'dolce','gusto', ]

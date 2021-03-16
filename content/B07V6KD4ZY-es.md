@@ -5,7 +5,7 @@ date: 2020-08-21 19:22:15
 image: 'https://m.media-amazon.com/images/I/415p3AsEnsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V6KD4ZY-es KICHLY - 8 tazas 1 litro / 1000 ml Cafetera Francesa...'
 sku: 'B07V6KD4ZY-es'
 tags: [ 'cafetera', ]

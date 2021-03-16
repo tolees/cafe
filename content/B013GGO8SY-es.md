@@ -5,7 +5,7 @@ date: 2020-05-14 13:07:54
 image: 'https://m.media-amazon.com/images/I/41Fc1ajyjzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013GGO8SY-es De Longhi Dolce Gusto Stelia EDG636.S - Cafetera de...'
 sku: 'B013GGO8SY-es'
 tags: [ 'cafetera','dolce','gusto', ]

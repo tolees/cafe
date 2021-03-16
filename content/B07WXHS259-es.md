@@ -5,7 +5,7 @@ date: 2020-02-14 09:34:15
 image: 'https://m.media-amazon.com/images/I/51WsoqVFY9L._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WXHS259-es Tassimo Coffee L OR Espresso Bundle Cápsulas de Café - L...'
 sku: 'B07WXHS259-es'
 tags: [ 'tassimo', ]

@@ -5,7 +5,7 @@ date: 2020-02-12 20:02:28
 image: 'https://m.media-amazon.com/images/I/41Q-X++2FhL._AC_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KVEG5C2-es M MAGEFESA - Cafetera Modelo Kenia de Aluminio Grueso 6 Tazas'
 sku: 'B00KVEG5C2-es'
 tags: [ 'cafetera', ]

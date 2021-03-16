@@ -5,7 +5,7 @@ date: 2020-05-17 17:45:24
 image: 'https://m.media-amazon.com/images/I/41Xvyx84ASL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T2PN9QL-es Filtro De Café Permanente Para Cafetera De Sifón...'
 sku: 'B07T2PN9QL-es'
 tags: [ 'cafetera', ]

@@ -5,7 +5,7 @@ date: 2020-07-24 14:32:39
 image: 'https://m.media-amazon.com/images/I/41bXxqYGLcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YVFQFFY-es Panamami Acero Inoxidable Aislamiento Pot Doble vacío...'
 sku: 'B07YVFQFFY-es'
 tags: [ 'cafetera', ]

@@ -5,7 +5,7 @@ date: 2020-05-19 21:49:03
 image: 'https://m.media-amazon.com/images/I/3167EnsLCdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0795ZTQR8-es Nespresso De Longhi Lattisima Touch Animation EN560.W -...'
 sku: 'B0795ZTQR8-es'
 tags: [ 'cafetera','nespresso', ]

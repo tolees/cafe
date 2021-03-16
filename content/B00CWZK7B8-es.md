@@ -5,7 +5,7 @@ date: 2020-03-16 04:32:26
 image: 'https://m.media-amazon.com/images/I/31ZRW8HdFRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CWZK7B8-es BRA Bella - Cafetera Capacidad 10 Tazas Acero Inoxidable...'
 sku: 'B00CWZK7B8-es'
 tags: [ 'cafetera', ]

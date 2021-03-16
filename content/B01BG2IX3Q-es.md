@@ -5,7 +5,7 @@ date: 2020-06-06 19:17:45
 image: 'https://m.media-amazon.com/images/I/417+WY0VxCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BG2IX3Q-es Rascador para Gatos Altura 72cm Rascadores Arbol Poste...'
 sku: 'B01BG2IX3Q-es'
 tags: [ 'cafe', ]

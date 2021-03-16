@@ -5,7 +5,7 @@ date: 2020-09-05 12:12:40
 image: 'https://m.media-amazon.com/images/I/41pw36xicPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082LW6S6Y-es Aigostar Benno 30QUJ - Cafetera de goteo filtro...'
 sku: 'B082LW6S6Y-es'
 tags: [ 'cafetera', ]

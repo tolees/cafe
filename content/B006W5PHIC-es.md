@@ -5,7 +5,7 @@ date: 2020-06-09 11:32:45
 image: 'https://m.media-amazon.com/images/I/31XLCxEClZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006W5PHIC-es Oroley - Cafetera Italiana Touareg de Aluminio 9 Tazas'
 sku: 'B006W5PHIC-es'
 tags: [ 'cafetera', ]

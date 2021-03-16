@@ -5,7 +5,7 @@ date: 2020-08-21 16:01:54
 image: 'https://m.media-amazon.com/images/I/41R8ML5TeCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0055ZGJ6O-es De Longhi Alicia EMKM 9 Cafetera Moka Eléctrica 550 w...'
 sku: 'B0055ZGJ6O-es'
 tags: [ 'cafetera', ]

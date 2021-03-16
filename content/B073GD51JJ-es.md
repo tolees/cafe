@@ -5,7 +5,7 @@ date: 2020-01-15 08:05:59
 image: 'https://images-eu.ssl-images-amazon.com/images/I/41fc0K7x3vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073GD51JJ-es Cafetera Expreso de Acero Emilia 1140 W 15 Bares 1 5 L con...'
 sku: 'B073GD51JJ-es'
 tags: [ 'cafetera', ]
