@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00I5KJC4C-es De longhi Nespresso Lattissima Pro EN750MB - Cafetera de...'
 sku: 'B00I5KJC4C-es'
-tags: [ 'nespresso','cafetera', ]
+tags: [ 'cafetera','nespresso', ]
 actualPrice: 465.7 EUR
 currency: EUR
 price: 465.7

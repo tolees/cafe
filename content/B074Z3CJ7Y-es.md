@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B074Z3CJ7Y-es De Longhi Dolce Gusto Colors EDG355.B1 - Cafetera de...'
 sku: 'B074Z3CJ7Y-es'
-tags: [ 'dolce','gusto','cafetera', ]
+tags: [ 'cafetera','dolce','gusto', ]
 actualPrice: 58.9 EUR
 currency: EUR
 price: 58.9

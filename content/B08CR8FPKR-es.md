@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B08CR8FPKR-es Krups Cafetera automática Movenza + 48 cápsulas Nescafé...'
 sku: 'B08CR8FPKR-es'
-tags: [ 'dolce','gusto','cafetera', ]
+tags: [ 'cafetera','dolce','gusto', ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

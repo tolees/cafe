@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B00J5ERXZM-es De Longhi Dolce Gusto Jovia EDG250.B - Cafetera de...'
 sku: 'B00J5ERXZM-es'
-tags: [ 'dolce','gusto','cafetera', ]
+tags: [ 'cafetera','dolce','gusto', ]
 actualPrice: 77.38 EUR
 currency: EUR
 price: 77.38

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B004IZOAFO-es Nespresso Krups Pixie XN3005 - Cafetera monodosis de...'
 sku: 'B004IZOAFO-es'
-tags: [ 'nespresso','cafetera', ]
+tags: [ 'cafetera','nespresso', ]
 actualPrice: 88.72 EUR
 currency: EUR
 price: 88.72
