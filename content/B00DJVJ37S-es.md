@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DJVJ37S-es Bosch TCZ6004 Pastillas de Limpieza y Descalcificación...'
 sku: 'B00DJVJ37S-es'
-tags: [ 'Cafeteras automáticas','Cafeteras integrables','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','tassimo', ]
+tags: [ 'tassimo', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

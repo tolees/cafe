@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WXLJT64-es Note D Espresso Cápsulas de Café de Guatemala - 96...'
 sku: 'B07WXLJT64-es'
-tags: [ 'Cafeteras automáticas','Cafeteras integrables','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','dolce','gusto', ]
+tags: [ 'dolce','gusto', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

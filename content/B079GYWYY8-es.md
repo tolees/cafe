@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079GYWYY8-es Philips Grind & Brew HD7767/00 - Cafetera Independiente...'
 sku: 'B079GYWYY8-es'
-tags: [ 'Cafeteras automáticas','Cafeteras integrables','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
+tags: [ 'cafetera', ]
 actualPrice: 135.88 EUR
 currency: EUR
 price: 135.88

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KM2RL6J-es NESACAFÉ Dolce Gusto | Capsulas de Café Latte Macchiato...'
 sku: 'B07KM2RL6J-es'
-tags: [ 'Cafeteras automáticas','Cafeteras integrables','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','dolce','gusto', ]
+tags: [ 'dolce','gusto', ]
 actualPrice: 12.75 EUR
 currency: EUR
 price: 12.75

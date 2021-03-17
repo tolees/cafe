@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GKFLMNC-es Krups Dolce Gusto Infinissima KP1708 - Cafetera de...'
 sku: 'B07GKFLMNC-es'
-tags: [ 'Cafeteras automáticas','Cafeteras integrables','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera','dolce','gusto', ]
+tags: [ 'cafetera','dolce','gusto', ]
 actualPrice: 64.8 EUR
 currency: EUR
 price: 64.8

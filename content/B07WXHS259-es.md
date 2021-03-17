@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WXHS259-es Tassimo Coffee L OR Espresso Bundle Cápsulas de Café - L...'
 sku: 'B07WXHS259-es'
-tags: [ 'Cafeteras automáticas','Cafeteras integrables','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','tassimo', ]
+tags: [ 'tassimo', ]
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J5ERY7O-es De Longhi Dolce Gusto Jovia EDG250.R - Cafetera de...'
 sku: 'B00J5ERY7O-es'
-tags: [ 'Cafeteras automáticas','Cafeteras integrables','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera','dolce','gusto', ]
+tags: [ 'cafetera','dolce','gusto', ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

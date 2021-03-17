@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V6KD4ZY-es KICHLY - 8 tazas 1 litro / 1000 ml Cafetera Francesa...'
 sku: 'B07V6KD4ZY-es'
-tags: [ 'Cafeteras automáticas','Cafeteras integrables','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
+tags: [ 'cafetera', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

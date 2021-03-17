@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075LSDQDV-es Lavazza Cápsulas de Café Compatibles Nespresso Espresso...'
 sku: 'B075LSDQDV-es'
-tags: [ 'Cafeteras automáticas','Cafeteras integrables','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','nespresso', ]
+tags: [ 'nespresso', ]
 actualPrice: 24.39 EUR
 currency: EUR
 price: 24.39

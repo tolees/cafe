@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00S4QYDRI-es TASSIMO L Or Café Long Délicat - 5 paquetes de 16...'
 sku: 'B00S4QYDRI-es'
-tags: [ 'Cafeteras automáticas','Cafeteras integrables','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','tassimo', ]
+tags: [ 'tassimo', ]
 actualPrice: 23.7 EUR
 currency: EUR
 price: 23.7

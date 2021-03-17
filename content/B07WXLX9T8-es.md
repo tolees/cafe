@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WXLX9T8-es Marca Amazon - Happy Belly Espresso Decaffeinato- Café UTZ...'
 sku: 'B07WXLX9T8-es'
-tags: [ 'Cafeteras automáticas','Cafeteras integrables','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','nespresso', ]
+tags: [ 'nespresso', ]
 actualPrice: 21.69 EUR
 currency: EUR
 price: 21.69

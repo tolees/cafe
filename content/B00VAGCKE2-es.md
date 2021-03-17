@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VAGCKE2-es Taurus Cafetera Goteo Verona 6 6 Tazas 600 W 6 Cups...'
 sku: 'B00VAGCKE2-es'
-tags: [ 'Cafeteras automáticas','Cafeteras integrables','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
+tags: [ 'cafetera', ]
 actualPrice: 22.93 EUR
 currency: EUR
 price: 22.93

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FF319TY-es Mellerware Mmmm! Cafetera Superautomática. Grano molido...'
 sku: 'B08FF319TY-es'
-tags: [ 'Cafeteras automáticas','Cafeteras integrables','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
+tags: [ 'cafetera', ]
 actualPrice: 259.99 EUR
 currency: EUR
 price: 259.99
