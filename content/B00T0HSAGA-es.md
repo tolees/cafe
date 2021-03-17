@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00T0HSAGA-es DeLonghi ECOV311.BK Cafetera Espresso Vintage Icona...'
 sku: 'B00T0HSAGA-es'
-tags: [ 'cafetera', ]
+tags: [ 'Cafeteras individuales','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
 actualPrice: 191.0 EUR
 currency: EUR
 price: 191.0

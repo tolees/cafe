@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X3Z9MF3-es De longhi Dedica - Cafetera de Bomba de Acero Inoxidable...'
 sku: 'B06X3Z9MF3-es'
-tags: [ 'cafetera', ]
+tags: [ 'Cafeteras individuales','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
 actualPrice: 143.65 EUR
 currency: EUR
 price: 143.65

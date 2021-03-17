@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZJSPVFY-es Toscaf 70232 Cápsulas Compostables Intenso Compatibles...'
 sku: 'B07ZJSPVFY-es'
-tags: [ 'nespresso', ]
+tags: [ 'Cafeteras individuales','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','nespresso', ]
 actualPrice: 2.8 EUR
 currency: EUR
 price: 2.8

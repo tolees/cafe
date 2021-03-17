@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074KN3GDW-es Philips SENSEO Original HD6554/91 - Cafetera monodosis con...'
 sku: 'B074KN3GDW-es'
-tags: [ 'cafetera', ]
+tags: [ 'Cafeteras individuales','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
 actualPrice: 63.92 EUR
 currency: EUR
 price: 63.92

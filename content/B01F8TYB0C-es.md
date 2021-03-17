@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01F8TYB0C-es Ariete 1342 Cafetera de goteo vintage 2000 W ACERO...'
 sku: 'B01F8TYB0C-es'
-tags: [ 'cafetera', ]
+tags: [ 'Cafeteras individuales','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
 actualPrice: 61.0 EUR
 currency: EUR
 price: 61.0

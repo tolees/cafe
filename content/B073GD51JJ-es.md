@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073GD51JJ-es Cafetera Expreso de Acero Emilia 1140 W 15 Bares 1 5 L con...'
 sku: 'B073GD51JJ-es'
-tags: [ 'cafetera', ]
+tags: [ 'Cafeteras individuales','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
 actualPrice: 79 EUR
 currency: EUR
 price: 79

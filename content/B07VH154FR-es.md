@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VH154FR-es Cafés Baqué - 10 Capsulas Compatibles Nespresso Ristretto...'
 sku: 'B07VH154FR-es'
-tags: [ 'nespresso', ]
+tags: [ 'Cafeteras individuales','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','nespresso', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

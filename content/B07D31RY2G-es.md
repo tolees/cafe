@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D31RY2G-es NESCAFÉ Dolce Gusto Espresso Intenso Descafeinado | Pack...'
 sku: 'B07D31RY2G-es'
-tags: [ 'dolce','gusto', ]
+tags: [ 'Cafeteras individuales','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','dolce','gusto', ]
 actualPrice: 12.75 EUR
 currency: EUR
 price: 12.75

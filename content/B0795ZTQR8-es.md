@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0795ZTQR8-es Nespresso De Longhi Lattisima Touch Animation EN560.W -...'
 sku: 'B0795ZTQR8-es'
-tags: [ 'cafetera','nespresso', ]
+tags: [ 'Cafeteras individuales','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera','nespresso', ]
 actualPrice: 269.99 EUR
 currency: EUR
 price: 269.99

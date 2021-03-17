@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZM16B8W-es NMDD Ornament Modernen Minimalistischen Keramik...'
 sku: 'B07ZM16B8W-es'
-tags: [ 'cafe', ]
+tags: [ 'Cafeteras individuales','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafe', ]
 actualPrice: 80.99 EUR
 currency: EUR
 price: 80.99

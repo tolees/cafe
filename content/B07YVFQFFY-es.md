@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YVFQFFY-es Panamami Acero Inoxidable Aislamiento Pot Doble vacío...'
 sku: 'B07YVFQFFY-es'
-tags: [ 'cafetera', ]
+tags: [ 'Cafeteras individuales','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
 actualPrice: 22.33 EUR
 currency: EUR
 price: 22.33

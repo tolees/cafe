@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000ODTUHW-es Nestle - Cafe Capuccino Dolce Gusto 3 x 16 Capsulas.'
 sku: 'B000ODTUHW-es'
-tags: [ 'cafe','dolce','gusto', ]
+tags: [ 'Cafeteras individuales','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafe','dolce','gusto', ]
 actualPrice: 14.0 EUR
 currency: EUR
 price: 14.0

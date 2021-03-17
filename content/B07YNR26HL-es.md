@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YNR26HL-es Krups EA82F0 - Cafetera Superautomática 1450 W 15 bares 1...'
 sku: 'B07YNR26HL-es'
-tags: [ 'cafetera', ]
+tags: [ 'Cafeteras individuales','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

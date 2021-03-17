@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00U0ACJRM-es Tristar CM-1233 – Cafetera con Capacidad para 6 Tazas Apta...'
 sku: 'B00U0ACJRM-es'
-tags: [ 'cafetera', ]
+tags: [ 'Cafeteras individuales','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
 actualPrice: 23.13 EUR
 currency: EUR
 price: 23.13

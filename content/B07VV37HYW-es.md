@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VV37HYW-es Krups KP1A01 Piccolo XS - Cafetera monodosis de plástico'
 sku: 'B07VV37HYW-es'
-tags: [ 'cafetera', ]
+tags: [ 'Cafeteras individuales','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

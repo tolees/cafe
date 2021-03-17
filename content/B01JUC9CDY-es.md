@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JUC9CDY-es Nespresso Krups Citiz XN760B - Cafetera monodosis de...'
 sku: 'B01JUC9CDY-es'
-tags: [ 'cafetera','nespresso', ]
+tags: [ 'Cafeteras individuales','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera','nespresso', ]
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

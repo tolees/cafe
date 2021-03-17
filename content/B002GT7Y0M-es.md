@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002GT7Y0M-es Bosch T-Disc - Pieza de Repuesto para Tassimo T20 Color...'
 sku: 'B002GT7Y0M-es'
-tags: [ 'tassimo', ]
+tags: [ 'Cafeteras individuales','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','tassimo', ]
 actualPrice: 2.53 EUR
 currency: EUR
 price: 2.53

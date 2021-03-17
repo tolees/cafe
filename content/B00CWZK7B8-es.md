@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CWZK7B8-es BRA Bella - Cafetera Capacidad 10 Tazas Acero Inoxidable...'
 sku: 'B00CWZK7B8-es'
-tags: [ 'cafetera', ]
+tags: [ 'Cafeteras individuales','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
 actualPrice: 64.46 EUR
 currency: EUR
 price: 64.46
