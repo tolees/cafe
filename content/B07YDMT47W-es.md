@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YDMT47W-es Tassimo Kenco Lovers Coffee Bundle - Tassimo Kenco...'
 sku: 'B07YDMT47W-es'
-tags: [ 'Alimentación y bebidas','Cafeteras automáticas','Cafeteras italianas','Café y expreso','Café, té y bebidas','Cápsulas de café','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','tassimo', ]
+tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café', ]
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

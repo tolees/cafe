@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084NXS7PF-es Brewsly Termo Cafe 600ml 12 h Caliente y 24 h Frío Botella...'
 sku: 'B084NXS7PF-es'
-tags: [ 'Alimentación y bebidas','Cafeteras automáticas','Cafeteras italianas','Café y expreso','Café, té y bebidas','Cápsulas de café','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafe', ]
+tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

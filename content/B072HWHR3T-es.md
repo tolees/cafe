@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072HWHR3T-es Cafetera de Vacío de Acero Inoxidable de Doble Vaso de...'
 sku: 'B072HWHR3T-es'
-tags: [ 'Alimentación y bebidas','Cafeteras automáticas','Cafeteras italianas','Café y expreso','Café, té y bebidas','Cápsulas de café','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
+tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013GGO8SY-es De Longhi Dolce Gusto Stelia EDG636.S - Cafetera de...'
 sku: 'B013GGO8SY-es'
-tags: [ 'Alimentación y bebidas','Cafeteras automáticas','Cafeteras italianas','Café y expreso','Café, té y bebidas','Cápsulas de café','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera','dolce','gusto', ]
+tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café', ]
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

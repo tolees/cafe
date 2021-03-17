@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J5ERXZM-es De Longhi Dolce Gusto Jovia EDG250.B - Cafetera de...'
 sku: 'B00J5ERXZM-es'
-tags: [ 'Alimentación y bebidas','Cafeteras automáticas','Cafeteras italianas','Café y expreso','Café, té y bebidas','Cápsulas de café','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera','dolce','gusto', ]
+tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café', ]
 actualPrice: 77.38 EUR
 currency: EUR
 price: 77.38

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GSKXW0A-es Saeco 421944036871 Original Sistema de preparación unidad...'
 sku: 'B01GSKXW0A-es'
-tags: [ 'Alimentación y bebidas','Cafeteras automáticas','Cafeteras italianas','Café y expreso','Café, té y bebidas','Cápsulas de café','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
+tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café', ]
 actualPrice: 47.47 EUR
 currency: EUR
 price: 47.47

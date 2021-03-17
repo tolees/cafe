@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000ODQRGE-es NESCAFÉ Dolce Gusto | Capsulas de Café Cappuccino Ice |...'
 sku: 'B000ODQRGE-es'
-tags: [ 'Alimentación y bebidas','Cafeteras automáticas','Cafeteras italianas','Café y expreso','Café, té y bebidas','Cápsulas de café','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','dolce','gusto', ]
+tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café', ]
 actualPrice: 12.75 EUR
 currency: EUR
 price: 12.75

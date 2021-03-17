@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00SN9EYYS-es Domoclip Cafetera Electric Rojo'
 sku: 'B00SN9EYYS-es'
-tags: [ 'Alimentación y bebidas','Cafeteras automáticas','Cafeteras italianas','Café y expreso','Café, té y bebidas','Cápsulas de café','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
+tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café', ]
 actualPrice: 40.9 EUR
 currency: EUR
 price: 40.9

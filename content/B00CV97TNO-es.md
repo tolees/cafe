@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CV97TNO-es De Longhi Dolce Gusto Mini Me EDG305.WR - Cafetera de...'
 sku: 'B00CV97TNO-es'
-tags: [ 'Alimentación y bebidas','Cafeteras automáticas','Cafeteras italianas','Café y expreso','Café, té y bebidas','Cápsulas de café','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera','dolce','gusto', ]
+tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café', ]
 actualPrice: 78.33 EUR
 currency: EUR
 price: 78.33
