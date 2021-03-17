@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BKKDCHG-es Krups MS-623241 - Recipiente para cápsulas de café Dolce...'
 sku: 'B01BKKDCHG-es'
-tags: [ 'Cafeteras automáticas','Cafeteras italianas','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','dolce','gusto', ]
+tags: [ 'Alimentación y bebidas','Cafeteras automáticas','Cafeteras italianas','Café y expreso','Café, té y bebidas','Cápsulas de café','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','dolce','gusto', ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

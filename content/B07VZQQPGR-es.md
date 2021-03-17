@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VZQQPGR-es Bosch TAS6002X Tassimo My Way Cafetera automática color...'
 sku: 'B07VZQQPGR-es'
-tags: [ 'Cafeteras automáticas','Cafeteras italianas','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera','tassimo', ]
+tags: [ 'Alimentación y bebidas','Cafeteras automáticas','Cafeteras italianas','Café y expreso','Café, té y bebidas','Cápsulas de café','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera','tassimo', ]
 actualPrice: 39.36 EUR
 currency: EUR
 price: 39.36

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LK9CMSI-es Bialetti Moka Induction Cafetera Italiana Espresso por...'
 sku: 'B00LK9CMSI-es'
-tags: [ 'Cafeteras automáticas','Cafeteras italianas','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
+tags: [ 'Alimentación y bebidas','Cafeteras automáticas','Cafeteras italianas','Café y expreso','Café, té y bebidas','Cápsulas de café','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
 actualPrice: 44.77 EUR
 currency: EUR
 price: 44.77

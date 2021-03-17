@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01794DZRY-es Jata CA290 Cafetera de Goteo Filtro permanente Antigoteo...'
 sku: 'B01794DZRY-es'
-tags: [ 'Cafeteras automáticas','Cafeteras italianas','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
+tags: [ 'Alimentación y bebidas','Cafeteras automáticas','Cafeteras italianas','Café y expreso','Café, té y bebidas','Cápsulas de café','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
 actualPrice: 21.2 EUR
 currency: EUR
 price: 21.2

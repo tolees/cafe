@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014HJ76EC-es Alessi Cafetera de espresso Pulcina negro 300 ml'
 sku: 'B014HJ76EC-es'
-tags: [ 'Cafeteras automáticas','Cafeteras italianas','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
+tags: [ 'Alimentación y bebidas','Cafeteras automáticas','Cafeteras italianas','Café y expreso','Café, té y bebidas','Cápsulas de café','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
 actualPrice: 54.45 EUR
 currency: EUR
 price: 54.45

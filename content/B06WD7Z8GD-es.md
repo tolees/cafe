@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WD7Z8GD-es De longhi Dedica - Cafetera de Bomba de Acero Inoxidable...'
 sku: 'B06WD7Z8GD-es'
-tags: [ 'Cafeteras automáticas','Cafeteras italianas','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
+tags: [ 'Alimentación y bebidas','Cafeteras automáticas','Cafeteras italianas','Café y expreso','Café, té y bebidas','Cápsulas de café','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0
