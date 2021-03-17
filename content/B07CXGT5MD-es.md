@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CXGT5MD-es Cafetera Café Portátil Aicok K-Cup Cafetera Automatizada...'
 sku: 'B07CXGT5MD-es'
-tags: [ 'Cafeteras individuales','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
+tags: [ 'Cafeteras automáticas','Cafeteras italianas','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00URV3RW0-es Oroley - Cafetera de Émbolo Spezia de Acero Inoxidable...'
 sku: 'B00URV3RW0-es'
-tags: [ 'Cafeteras individuales','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
+tags: [ 'Cafeteras automáticas','Cafeteras italianas','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
 actualPrice: 9.04 EUR
 currency: EUR
 price: 9.04

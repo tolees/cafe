@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007PRVELU-es Cafe Dolce gusto CAFE CON LECHE | NESTLE Pack 3 cajas de...'
 sku: 'B007PRVELU-es'
-tags: [ 'Cafeteras individuales','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafe','dolce','gusto', ]
+tags: [ 'Cafeteras automáticas','Cafeteras italianas','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafe','dolce','gusto', ]
 actualPrice: 14.92 EUR
 currency: EUR
 price: 14.92

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MB6J32C-es Russell Hobbs Grind & Brew - Cafetera de Goteo Jarra...'
 sku: 'B00MB6J32C-es'
-tags: [ 'Cafeteras individuales','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
+tags: [ 'Cafeteras automáticas','Cafeteras italianas','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
 actualPrice: 158.49 EUR
 currency: EUR
 price: 158.49
