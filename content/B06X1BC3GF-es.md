@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X1BC3GF-es Alessi - Pulcina MDL02/6 R - Cafetera Inducción de Diseño...'
 sku: 'B06X1BC3GF-es'
-tags: [ 'cafetera', ]
+tags: [ 'Alimentación y bebidas','Cafeteras automáticas','Cafeteras integrables','Cafeteras para espresso','Café y expreso','Café, té y bebidas','Cápsulas de café','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

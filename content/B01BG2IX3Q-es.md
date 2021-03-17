@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BG2IX3Q-es Rascador para Gatos Altura 72cm Rascadores Arbol Poste...'
 sku: 'B01BG2IX3Q-es'
-tags: [ 'cafe', ]
+tags: [ 'Alimentación y bebidas','Cafeteras automáticas','Cafeteras integrables','Cafeteras para espresso','Café y expreso','Café, té y bebidas','Cápsulas de café','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafe', ]
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

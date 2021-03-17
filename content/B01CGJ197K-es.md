@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CGJ197K-es Mini Moka Minimoka CM-1622 Cafetera Espreso 15 Bar / 1050...'
 sku: 'B01CGJ197K-es'
-tags: [ 'cafetera', ]
+tags: [ 'Alimentación y bebidas','Cafeteras automáticas','Cafeteras integrables','Cafeteras para espresso','Café y expreso','Café, té y bebidas','Cápsulas de café','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
 actualPrice: 75.1 EUR
 currency: EUR
 price: 75.1

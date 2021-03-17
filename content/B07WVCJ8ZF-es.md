@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WVCJ8ZF-es Tassimo Coffee L OR XL Bundle Cápsulas de Café - L OR...'
 sku: 'B07WVCJ8ZF-es'
-tags: [ 'tassimo', ]
+tags: [ 'Alimentación y bebidas','Cafeteras automáticas','Cafeteras integrables','Cafeteras para espresso','Café y expreso','Café, té y bebidas','Cápsulas de café','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','tassimo', ]
 actualPrice: 21.89 EUR
 currency: EUR
 price: 21.89

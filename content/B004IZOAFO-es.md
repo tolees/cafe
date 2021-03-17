@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004IZOAFO-es Nespresso Krups Pixie XN3005 - Cafetera monodosis de...'
 sku: 'B004IZOAFO-es'
-tags: [ 'cafetera','nespresso', ]
+tags: [ 'Alimentación y bebidas','Cafeteras automáticas','Cafeteras integrables','Cafeteras para espresso','Café y expreso','Café, té y bebidas','Cápsulas de café','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera','nespresso', ]
 actualPrice: 88.72 EUR
 currency: EUR
 price: 88.72

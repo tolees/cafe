@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FPTGKWR-es Café FORTALEZA - Cápsulas de Café Intenssísimo Compatibles...'
 sku: 'B07FPTGKWR-es'
-tags: [ 'dolce','gusto', ]
+tags: [ 'Alimentación y bebidas','Cafeteras automáticas','Cafeteras integrables','Cafeteras para espresso','Café y expreso','Café, té y bebidas','Cápsulas de café','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','dolce','gusto', ]
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

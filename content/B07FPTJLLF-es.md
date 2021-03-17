@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FPTJLLF-es Café FORTALEZA - Cápsulas de Café Descafeinado Forte...'
 sku: 'B07FPTJLLF-es'
-tags: [ 'nespresso', ]
+tags: [ 'Alimentación y bebidas','Cafeteras automáticas','Cafeteras integrables','Cafeteras para espresso','Café y expreso','Café, té y bebidas','Cápsulas de café','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','nespresso', ]
 actualPrice: 19.11 EUR
 currency: EUR
 price: 19.11

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YNPD4S5-es Nespresso Krups Essenza Mini - Cafetera monodosis de...'
 sku: 'B07YNPD4S5-es'
-tags: [ 'cafetera','nespresso', ]
+tags: [ 'Alimentación y bebidas','Cafeteras automáticas','Cafeteras integrables','Cafeteras para espresso','Café y expreso','Café, té y bebidas','Cápsulas de café','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera','nespresso', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

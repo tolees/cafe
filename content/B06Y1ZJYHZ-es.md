@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y1ZJYHZ-es Nescafé Dolce Gusto Café con leche descafeinado - 16...'
 sku: 'B06Y1ZJYHZ-es'
-tags: [ 'dolce','gusto', ]
+tags: [ 'Alimentación y bebidas','Cafeteras automáticas','Cafeteras integrables','Cafeteras para espresso','Café y expreso','Café, té y bebidas','Cápsulas de café','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','dolce','gusto', ]
 actualPrice: 3.34 EUR
 currency: EUR
 price: 3.34

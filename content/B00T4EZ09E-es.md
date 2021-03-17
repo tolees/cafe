@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00T4EZ09E-es Philips HD7435 Cafetera Goteo Color Metal 700 W 6 Cups...'
 sku: 'B00T4EZ09E-es'
-tags: [ 'cafetera', ]
+tags: [ 'Alimentación y bebidas','Cafeteras automáticas','Cafeteras integrables','Cafeteras para espresso','Café y expreso','Café, té y bebidas','Cápsulas de café','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9
