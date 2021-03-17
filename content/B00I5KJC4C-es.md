@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I5KJC4C-es De longhi Nespresso Lattissima Pro EN750MB - Cafetera de...'
 sku: 'B00I5KJC4C-es'
-tags: [ 'Alimentación y bebidas','Cafeteras automáticas','Cafeteras integrables','Cafeteras para espresso','Café y expreso','Café, té y bebidas','Cápsulas de café','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera','nespresso', ]
+tags: [ 'Cafeteras automáticas','Cafeteras integrables','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera','nespresso', ]
 actualPrice: 465.7 EUR
 currency: EUR
 price: 465.7

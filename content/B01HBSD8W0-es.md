@@ -28,8 +28,8 @@ Tienes [Siemens CT636LES6 Cafetera integrable  19 bares negro  inox h.connect](h
 
 ℹ️:
 
+- Alto rendimiento
 - Siemens
 - Hogar y cocina
-- Alto rendimiento
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01HBSD8W0/?tag=tolees-21)

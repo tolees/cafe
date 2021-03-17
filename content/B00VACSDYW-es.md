@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VACSDYW-es Taurus Cafetera Goteo Verona 12 680 W 1.2 litros plástico'
 sku: 'B00VACSDYW-es'
-tags: [ 'Alimentación y bebidas','Cafeteras automáticas','Cafeteras integrables','Cafeteras para espresso','Café y expreso','Café, té y bebidas','Cápsulas de café','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
+tags: [ 'Cafeteras automáticas','Cafeteras integrables','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

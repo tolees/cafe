@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06VYHH6NB-es Bosch TAS1401 Tassimo Vivy 2 - Cafetera Multibebidas...'
 sku: 'B06VYHH6NB-es'
-tags: [ 'Alimentación y bebidas','Cafeteras automáticas','Cafeteras integrables','Cafeteras para espresso','Café y expreso','Café, té y bebidas','Cápsulas de café','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera','tassimo', ]
+tags: [ 'Cafeteras automáticas','Cafeteras integrables','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera','tassimo', ]
 actualPrice: 30.56 EUR
 currency: EUR
 price: 30.56

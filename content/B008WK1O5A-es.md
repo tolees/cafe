@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008WK1O5A-es Bosch TKA3A034 CompactClass Extra Cafetera de goteo...'
 sku: 'B008WK1O5A-es'
-tags: [ 'Alimentación y bebidas','Cafeteras automáticas','Cafeteras integrables','Cafeteras para espresso','Café y expreso','Café, té y bebidas','Cápsulas de café','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
+tags: [ 'Cafeteras automáticas','Cafeteras integrables','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
 actualPrice: 37.18 EUR
 currency: EUR
 price: 37.18

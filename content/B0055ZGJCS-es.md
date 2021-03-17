@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0055ZGJCS-es Ufesa Cafetera expreso Duetto Creme CE7141 500 W Acero...'
 sku: 'B0055ZGJCS-es'
-tags: [ 'Alimentación y bebidas','Cafeteras automáticas','Cafeteras integrables','Cafeteras para espresso','Café y expreso','Café, té y bebidas','Cápsulas de café','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
+tags: [ 'Cafeteras automáticas','Cafeteras integrables','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera', ]
 actualPrice: 28.5 EUR
 currency: EUR
 price: 28.5
