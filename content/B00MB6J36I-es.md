@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MB6J36I-es Russell Hobbs Buckingham - Cafetera de Goteo Jarra...'
 sku: 'B00MB6J36I-es'
-tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café', ]
+tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café','cafetera', ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

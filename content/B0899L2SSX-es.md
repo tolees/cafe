@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0899L2SSX-es Brewsly Termo Cafe 900ml 6 h Caliente y 12 h Frío Botella...'
 sku: 'B0899L2SSX-es'
-tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café', ]
+tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café','cafe', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

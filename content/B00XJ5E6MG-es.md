@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XJ5E6MG-es Melitta Elegance Therm Deluxe 1012-06 Cafetera Goteo...'
 sku: 'B00XJ5E6MG-es'
-tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café', ]
+tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café','cafetera', ]
 actualPrice: 106.61 EUR
 currency: EUR
 price: 106.61

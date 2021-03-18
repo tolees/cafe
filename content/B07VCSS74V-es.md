@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VCSS74V-es Mellerware Bari Legend cafetera espresso programable 20...'
 sku: 'B07VCSS74V-es'
-tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café', ]
+tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café','cafetera', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CV97QBE-es De Longhi Dolce Gusto Mini Me EDG305.BG - Cafetera de...'
 sku: 'B00CV97QBE-es'
-tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café', ]
+tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café','cafetera','dolce','gusto', ]
 actualPrice: 63.84 EUR
 currency: EUR
 price: 63.84

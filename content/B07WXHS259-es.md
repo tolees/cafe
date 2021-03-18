@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WXHS259-es Tassimo Coffee L OR Espresso Bundle Cápsulas de Café - L...'
 sku: 'B07WXHS259-es'
-tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café', ]
+tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café','tassimo', ]
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

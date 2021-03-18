@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E5ZA8US-es Russell Hobbs Buckingham Grind & Brew - Cafetera de Goteo...'
 sku: 'B00E5ZA8US-es'
-tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café', ]
+tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café','cafetera', ]
 actualPrice: 149.9 EUR
 currency: EUR
 price: 149.9

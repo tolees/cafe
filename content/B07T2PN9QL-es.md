@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T2PN9QL-es Filtro De Café Permanente Para Cafetera De Sifón...'
 sku: 'B07T2PN9QL-es'
-tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café', ]
+tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café','cafetera', ]
 actualPrice: 14.27 EUR
 currency: EUR
 price: 14.27

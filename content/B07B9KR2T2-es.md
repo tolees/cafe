@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B9KR2T2-es ORYX Classic Mango Cafetera 9 y 12 Tazas Negro 9x9x3 cm'
 sku: 'B07B9KR2T2-es'
-tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café', ]
+tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café','cafetera', ]
 actualPrice: 1.1 EUR
 currency: EUR
 price: 1.1

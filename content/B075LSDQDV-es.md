@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075LSDQDV-es Lavazza Cápsulas de Café Compatibles Nespresso Espresso...'
 sku: 'B075LSDQDV-es'
-tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café', ]
+tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café','nespresso', ]
 actualPrice: 24.39 EUR
 currency: EUR
 price: 24.39

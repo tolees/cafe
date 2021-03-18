@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006W5PHIC-es Oroley - Cafetera Italiana Touareg de Aluminio 9 Tazas'
 sku: 'B006W5PHIC-es'
-tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café', ]
+tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café','cafetera', ]
 actualPrice: 15.48 EUR
 currency: EUR
 price: 15.48

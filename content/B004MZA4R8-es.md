@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004MZA4R8-es NESCAFÉ Dolce Gusto Café Cappuccino Pack de 3 x 16...'
 sku: 'B004MZA4R8-es'
-tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café', ]
+tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café','dolce','gusto', ]
 actualPrice: 13.25 EUR
 currency: EUR
 price: 13.25
