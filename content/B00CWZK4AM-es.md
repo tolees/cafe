@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CWZK4AM-es BRA Bella - Cafetera capacidad 4 tazas acero inoxidable 18/10'
 sku: 'B00CWZK4AM-es'
-tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café','cafetera', ]
+tags: [ 'cafetera', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

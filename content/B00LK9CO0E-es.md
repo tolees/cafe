@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LK9CO0E-es Bialetti Moka Induction cafetera con Base de Acero para...'
 sku: 'B00LK9CO0E-es'
-tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café','cafetera', ]
+tags: [ 'cafetera', ]
 actualPrice: 37.36 EUR
 currency: EUR
 price: 37.36

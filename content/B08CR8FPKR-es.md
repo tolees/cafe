@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CR8FPKR-es Krups Cafetera automática Movenza + 48 cápsulas Nescafé...'
 sku: 'B08CR8FPKR-es'
-tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café','cafetera','dolce','gusto', ]
+tags: [ 'cafetera','dolce','gusto', ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

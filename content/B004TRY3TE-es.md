@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004TRY3TE-es De Longhi Dolce Gusto Piccolo EDG200.B - Cafetera de...'
 sku: 'B004TRY3TE-es'
-tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café','cafetera','dolce','gusto', ]
+tags: [ 'cafetera','dolce','gusto', ]
 actualPrice: 78.0 EUR
 currency: EUR
 price: 78.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BL4FXSM-es VeoHome - Cafetera Italiana de Acero Inoxidable 10 tazas...'
 sku: 'B08BL4FXSM-es'
-tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café','cafetera', ]
+tags: [ 'cafetera', ]
 actualPrice: 44.97 EUR
 currency: EUR
 price: 44.97

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H5W6XSH-es L Or Espresso Café Ristretto Decaffeinato Intensidad 9 -...'
 sku: 'B07H5W6XSH-es'
-tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café','nespresso', ]
+tags: [ 'nespresso', ]
 actualPrice: 9.16 EUR
 currency: EUR
 price: 9.16

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WWHJJG8-es Marca Amazon - Happy Belly Espresso Café UTZ molido de...'
 sku: 'B07WWHJJG8-es'
-tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café','nespresso', ]
+tags: [ 'nespresso', ]
 actualPrice: 21.69 EUR
 currency: EUR
 price: 21.69

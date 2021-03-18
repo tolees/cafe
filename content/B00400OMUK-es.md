@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00400OMUK-es De longhi Magnifica S Ecam 22.110.SB - Cafetera...'
 sku: 'B00400OMUK-es'
-tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café','cafetera', ]
+tags: [ 'cafetera', ]
 actualPrice: 399.0 EUR
 currency: EUR
 price: 399.0

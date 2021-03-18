@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LTIOUIE-es TASSIMO L Or Café Splendente - 5 paquetes de 16 cápsulas:...'
 sku: 'B01LTIOUIE-es'
-tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café','tassimo', ]
+tags: [ 'tassimo', ]
 actualPrice: 23.8 EUR
 currency: EUR
 price: 23.8

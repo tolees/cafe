@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ISTGSO6-es Bosch Comfort Line TKA6A683 - Cafetera de filtro / goteo...'
 sku: 'B01ISTGSO6-es'
-tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café','cafetera', ]
+tags: [ 'cafetera', ]
 actualPrice: 63.82 EUR
 currency: EUR
 price: 63.82

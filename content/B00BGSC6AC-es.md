@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BGSC6AC-es De Longhi PrimaDonna XS Deluxe - Cafetera Superautomática...'
 sku: 'B00BGSC6AC-es'
-tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café','cafetera', ]
+tags: [ 'cafetera', ]
 actualPrice: 830.74 EUR
 currency: EUR
 price: 830.74

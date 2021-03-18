@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000HWY2Q4-es Alessi La Conica 90002/3 Cafetera para Café Exprés de...'
 sku: 'B000HWY2Q4-es'
-tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café','cafetera', ]
+tags: [ 'cafetera', ]
 actualPrice: 175.83 EUR
 currency: EUR
 price: 175.83

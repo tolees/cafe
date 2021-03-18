@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01ITGGKBY-es Nespresso De Longhi Citiz EN167.W - Cafetera monodosis de...'
 sku: 'B01ITGGKBY-es'
-tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café','cafetera','nespresso', ]
+tags: [ 'cafetera','nespresso', ]
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0
