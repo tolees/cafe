@@ -28,10 +28,10 @@ Está [Jata Hogar Cafetera Italiana Full Induction  Aluminio  Negro  14.5x12x20.
 
 ℹ️:
 
+- Asa sólida; junta de silicona
+- Cuerpo de aluminio; interior pulido
+- Fondo difusor inducción total
 - Tratamiento interior especial antióxido
 - Apta para todas las cocinas, incluida inducción; capacidad de 6 tazas
-- Fondo difusor inducción total
-- Cuerpo de aluminio; interior pulido
-- Asa sólida; junta de silicona
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B079FZYDG1/?tag=tolees-21)

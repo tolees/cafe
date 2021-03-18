@@ -29,9 +29,9 @@ Ahora mismo tienes [Bialetti Moka Express Cafetera Italiana Espresso  4 Tazas  A
 🔎:
 
 - Apta para todas las placas excepto las placas de inducción
+- Hecha de aluminio fundido sólido con mango de acrílico negro
 - Un icono italiano: desde 1933, símbolo del Made in Italy en todo el mundo
 - Calidad y seguridad Made in Italy: válvula de seguridad patentada por Bialetti, inspeccionable y fácil de limpiar
 - El ritual tradicional italiano: adecuado para la preparación del auténtico café italiano
-- Hecha de aluminio fundido sólido con mango de acrílico negro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0016H2PLS/?tag=tolees-21)
