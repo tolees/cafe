@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0748NLHNN-es Bosch Cafetera TASSIMO My Way TAS6002 - Cafetera de...'
 sku: 'B0748NLHNN-es'
+tags: [ 'cafetera','tassimo', ]
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

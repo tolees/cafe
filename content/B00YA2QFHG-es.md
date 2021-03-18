@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YA2QFHG-es Viaggio Espresso Cápsulas de café compatibles con máquinas...'
 sku: 'B00YA2QFHG-es'
+tags: [ 'nespresso', ]
 actualPrice: 15.04 EUR
 currency: EUR
 price: 15.04

@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Jata Hogar Cafetera Italiana Full Induct al 20.32 % de descuento'
-date: 2021-03-10 08:24:25
+date: 2021-03-18 14:40:56
 image: 'https://m.media-amazon.com/images/I/31giyzOf0GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079FZYDG1-es Jata Hogar Cafetera Italiana Full Induction Aluminio Negro...'
 sku: 'B079FZYDG1-es'
+tags: [ 'Cafeteras italianas','Hogar y cocina','Utensilios para café y té','cafetera','jata hogar', ]
 actualPrice: 17.45 EUR
 currency: EUR
 price: 17.45
@@ -18,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Jata Hogar'
 buyurl: 'https://www.amazon.es/dp/B079FZYDG1/?tag=tolees-21'
 descuento: '20.32'
-average: '16.47'
+average: '16.715'
 ---
 
 Está [Jata Hogar Cafetera Italiana Full Induction  Aluminio  Negro  14.5x12x20.3 cm](https://www.amazon.es/dp/B079FZYDG1/?tag=tolees-21) con 20.32 de descuento por 17.45 EUR (original: 21.9 EUR) en el siguiente enlace!

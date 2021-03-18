@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071QY4NHW-es De Longhi PrimaDonna S EVO - Cafetera Automática...'
 sku: 'B071QY4NHW-es'
+tags: [ 'cafetera', ]
 actualPrice: 353.0 EUR
 currency: EUR
 price: 353.0

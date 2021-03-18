@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NXVENAQ-es Melitta Passione F530-101 Cafetera Automática con...'
 sku: 'B00NXVENAQ-es'
+tags: [ 'cafetera', ]
 actualPrice: 529.43 EUR
 currency: EUR
 price: 529.43

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KLJNBDM-es NESCAFÉ Dolce Gusto Café Latte Macchiato Pack de 3x16...'
 sku: 'B07KLJNBDM-es'
+tags: [ 'dolce','gusto', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

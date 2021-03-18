@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PVYT722-es Krups Dolce Gusto Infinissima KP1708 - Cafetera de...'
 sku: 'B07PVYT722-es'
+tags: [ 'cafetera','dolce','gusto', ]
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

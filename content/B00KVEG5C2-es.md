@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KVEG5C2-es M MAGEFESA - Cafetera Modelo Kenia de Aluminio Grueso 6 Tazas'
 sku: 'B00KVEG5C2-es'
+tags: [ 'cafetera', ]
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

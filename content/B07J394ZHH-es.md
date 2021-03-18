@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J394ZHH-es Aicook Cafetera de Goteo Mini Cafetera Portátil con Diseño...'
 sku: 'B07J394ZHH-es'
+tags: [ 'cafetera', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

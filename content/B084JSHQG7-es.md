@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084JSHQG7-es Krups Dolce Gusto Lumio KP130810 15 Bares de presión -...'
 sku: 'B084JSHQG7-es'
+tags: [ 'cafetera','dolce','gusto', ]
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074XS44LD-es Tristar CM-1248 Cafetera 900 W 1.5 litros De plástico...'
 sku: 'B074XS44LD-es'
+tags: [ 'cafetera', ]
 actualPrice: 22.31 EUR
 currency: EUR
 price: 22.31

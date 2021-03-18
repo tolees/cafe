@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082LW6S6Y-es Aigostar Benno 30QUJ - Cafetera de goteo filtro...'
 sku: 'B082LW6S6Y-es'
+tags: [ 'cafetera', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

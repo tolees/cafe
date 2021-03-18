@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QMR7J33-es Solac S92011100 Ce4501 Squissita Cafetera Doub Cream...'
 sku: 'B07QMR7J33-es'
+tags: [ 'cafetera', ]
 actualPrice: 95.2 EUR
 currency: EUR
 price: 95.2
