@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01J5FH8L4-es Philips hd7866/61 Senseo Quadrante cafetera monodosis negro'
 sku: 'B01J5FH8L4-es'
-tags: [ 'cafetera', ]
 actualPrice: 82.99 EUR
 currency: EUR
 price: 82.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000HWY2QE-es Alessi 9090/6 - Cafetera italiana de acero inoxidable...'
 sku: 'B000HWY2QE-es'
-tags: [ 'cafetera', ]
 actualPrice: 113.25 EUR
 currency: EUR
 price: 113.25

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00CWZQ834-es Oroley - Cafetera Italiana Inducción Blue Induction para...'
 sku: 'B00CWZQ834-es'
-tags: [ 'cafetera', ]
 actualPrice: 20.7 EUR
 currency: EUR
 price: 20.7

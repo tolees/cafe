@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GJVY4D1-es Krups Dolce Gusto Infinissima KP1705 - Cafetera de...'
 sku: 'B07GJVY4D1-es'
-tags: [ 'dolce','gusto','cafetera', ]
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088TSJCMH-es Bosch Tassimo My Way TAS6504 color blanco + cupones en café'
 sku: 'B088TSJCMH-es'
-tags: [ 'tassimo', ]
 actualPrice: 68.0 EUR
 currency: EUR
 price: 68.0

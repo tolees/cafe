@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CIJEQC8-es BEPER Cafetera Espresso Plateado 32 x 23.2 x 36.5 cm'
 sku: 'B01CIJEQC8-es'
-tags: [ 'cafetera', ]
 actualPrice: 66.51 EUR
 currency: EUR
 price: 66.51

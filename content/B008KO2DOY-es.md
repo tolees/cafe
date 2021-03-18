@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008KO2DOY-es Monix M620012 Cafetera Aluminio Plata 12 Tazas'
 sku: 'B008KO2DOY-es'
-tags: [ 'cafetera', ]
 actualPrice: 16.69 EUR
 currency: EUR
 price: 16.69

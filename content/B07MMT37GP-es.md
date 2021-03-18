@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MMT37GP-es Philips L OR Barista LM8016/90 - Cafetera compatible con...'
 sku: 'B07MMT37GP-es'
-tags: [ 'cafetera', ]
 actualPrice: 52.97 EUR
 currency: EUR
 price: 52.97

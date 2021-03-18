@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07C8J8QC5-es Lavazza Cápsulas de café Deciso compatibles con Nespresso...'
 sku: 'B07C8J8QC5-es'
-tags: [ 'nespresso', ]
 actualPrice: 2.13 EUR
 currency: EUR
 price: 2.13

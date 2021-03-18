@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNDYT9Z-es Café FORTALEZA - Cápsulas de Café Despertar Compatibles...'
 sku: 'B07FNDYT9Z-es'
-tags: [ 'nespresso', ]
 actualPrice: 37.7 EUR
 currency: EUR
 price: 37.7

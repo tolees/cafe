@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0763N7WMP-es Cecotec Cafetera Express Manual Power Espresso 20. 850W...'
 sku: 'B0763N7WMP-es'
-tags: [ 'cafetera', ]
 actualPrice: 63.98 EUR
 currency: EUR
 price: 63.98

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TVL8ZS7-es Fenteer - Vainas De Café Reutilizables del Café del Filtro...'
 sku: 'B07TVL8ZS7-es'
-tags: [ 'fenteer','nespresso', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DG17VQ6-es Bosch Hogar - Bosch TAS1002 TASSIMO Happy Cafetera de...'
 sku: 'B07DG17VQ6-es'
-tags: [ 'tassimo','cafetera', ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

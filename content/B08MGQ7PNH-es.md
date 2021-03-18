@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MGQ7PNH-es GRANELL CAFES-1940 - Cafés Granell - Exotic Collection |...'
 sku: 'B08MGQ7PNH-es'
-tags: [ 'cafe', ]
 actualPrice: 58.3 EUR
 currency: EUR
 price: 58.3

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LTI10YG-es Exclusivo Nescafé Dolce Gusto Café con Leche Pack de 3 x...'
 sku: 'B01LTI10YG-es'
-tags: [ 'dolce','gusto', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

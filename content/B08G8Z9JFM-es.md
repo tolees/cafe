@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G8Z9JFM-es Marca Amazon - Happy Belly Espresso Café molido de tueste...'
 sku: 'B08G8Z9JFM-es'
-tags: [ 'nespresso', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

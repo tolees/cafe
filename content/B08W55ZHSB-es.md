@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08W55ZHSB-es Nihlsfen - Cápsulas de café llenas portátiles Filtro de...'
 sku: 'B08W55ZHSB-es'
-tags: [ 'dolce','gusto', ]
 actualPrice: 2.05 EUR
 currency: EUR
 price: 2.05

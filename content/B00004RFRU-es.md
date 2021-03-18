@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00004RFRU-es Bialetti Moka Express Cafetera Italiana Espresso Aluminio...'
 sku: 'B00004RFRU-es'
-tags: [ 'cafetera', ]
 actualPrice: 28.51 EUR
 currency: EUR
 price: 28.51

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089BFBLDK-es Nescafé DOLCE GUSTO CAFÉ CON LECHE DELICATO - Pack De 3 x...'
 sku: 'B089BFBLDK-es'
-tags: [ 'dolce','gusto', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

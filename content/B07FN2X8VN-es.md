@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FN2X8VN-es Café FORTALEZA - Surtido de Cápsulas de Café Orígenes...'
 sku: 'B07FN2X8VN-es'
-tags: [ 'nespresso', ]
 actualPrice: 33.91 EUR
 currency: EUR
 price: 33.91

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002NKR4VI-es Melitta Caffeo Solo Cafetera automática 1400 W 1.2 litros...'
 sku: 'B002NKR4VI-es'
-tags: [ 'cafetera', ]
 actualPrice: 296.65 EUR
 currency: EUR
 price: 296.65

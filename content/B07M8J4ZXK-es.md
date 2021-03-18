@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8J4ZXK-es Philips L OR LM8012/60 Barista - Cafetera compatible con...'
 sku: 'B07M8J4ZXK-es'
-tags: [ 'Cafeteras individuales','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera','philips lor', ]
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

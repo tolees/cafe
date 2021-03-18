@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08297YNFH-es Philips Saeco SM7583/00 - Cafetera Espresso Súper...'
 sku: 'B08297YNFH-es'
-tags: [ 'Cafeteras automáticas','Cafeteras integrables','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera','saeco', ]
 actualPrice: 550.0 EUR
 currency: EUR
 price: 550.0

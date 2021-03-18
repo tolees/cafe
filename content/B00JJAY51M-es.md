@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JJAY51M-es WMF Stelio Aroma Cafetera de 1000 W con jarra térmica de 1...'
 sku: 'B00JJAY51M-es'
-tags: [ 'cafetera', ]
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

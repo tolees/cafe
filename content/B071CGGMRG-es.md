@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071CGGMRG-es Bialetti Moka Express Red Cafetera Italiana Espresso 6...'
 sku: 'B071CGGMRG-es'
-tags: [ 'cafetera', ]
 actualPrice: 34.65 EUR
 currency: EUR
 price: 34.65

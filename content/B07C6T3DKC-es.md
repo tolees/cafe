@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C6T3DKC-es Marca Amazon - Solimo Cápsulas Lungo compatibles con...'
 sku: 'B07C6T3DKC-es'
-tags: [ 'Cápsulas de café','nespresso','solimo', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

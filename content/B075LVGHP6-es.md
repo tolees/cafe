@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075LVGHP6-es Lavazza Cápsulas de Café Compatibles Nespresso Espresso...'
 sku: 'B075LVGHP6-es'
-tags: [ 'nespresso', ]
 actualPrice: 21.2 EUR
 currency: EUR
 price: 21.2

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00MZ2F3Z8-es Krups EA810570 Cafetera automática 15 bares de presión...'
 sku: 'B00MZ2F3Z8-es'
-tags: [ 'cafetera', ]
 actualPrice: 279.0 EUR
 currency: EUR
 price: 279.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00G5YP1ZE-es Nespresso De Longhi Inissia EN80.CW - Cafetera monodosis...'
 sku: 'B00G5YP1ZE-es'
-tags: [ 'nespresso','cafetera', ]
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

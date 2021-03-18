@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08M5YBV1H-es SZXCX Juego de Tazas de Filtro de cápsulas de café...'
 sku: 'B08M5YBV1H-es'
-tags: [ 'dolce','gusto', ]
 actualPrice: 1.22 EUR
 currency: EUR
 price: 1.22

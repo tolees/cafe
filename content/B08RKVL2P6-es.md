@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RKVL2P6-es Marca Amazon - Happy Belly Cápsulas de Café Au Lait...'
 sku: 'B08RKVL2P6-es'
-tags: [ 'dolce','gusto','happy belly', ]
 actualPrice: 10.29 EUR
 currency: EUR
 price: 10.29

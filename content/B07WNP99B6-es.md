@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WNP99B6-es Marca Amazon - Solimo Cápsulas Ristretto Intenso...'
 sku: 'B07WNP99B6-es'
-tags: [ 'Cápsulas de café','nespresso','solimo', ]
 actualPrice: 11.51 EUR
 currency: EUR
 price: 11.51

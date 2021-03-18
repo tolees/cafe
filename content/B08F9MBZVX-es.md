@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F9MBZVX-es Resnnih Moka Express Cafetera Italiana Espresso 150ml...'
 sku: 'B08F9MBZVX-es'
-tags: [ 'cafetera', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

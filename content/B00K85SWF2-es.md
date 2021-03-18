@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00K85SWF2-es BRA CAFETERA DE Luxe 2 Aluminio Plata 12 Tazas'
 sku: 'B00K85SWF2-es'
-tags: [ 'cafetera', ]
 actualPrice: 24.37 EUR
 currency: EUR
 price: 24.37

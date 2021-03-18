@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MHCP7M7-es Cecotec Power Espresso 20 Matic Cafetera Presión 20 Bares...'
 sku: 'B07MHCP7M7-es'
-tags: [ 'cafetera', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

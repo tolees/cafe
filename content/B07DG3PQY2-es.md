@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DG3PQY2-es Bosch Hogar - Bosch TAS1001 TASSIMO Happy Cafetera de...'
 sku: 'B07DG3PQY2-es'
-tags: [ 'Alimentación y bebidas','Cafeteras automáticas','Cafeteras italianas','Café y expreso','Café, té y bebidas','Cápsulas de café','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','bosch hogar','cafetera','tassimo', ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

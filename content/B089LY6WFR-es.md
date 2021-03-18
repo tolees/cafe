@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089LY6WFR-es Bialetti New Moka Induction - Cafetera apta para inducción...'
 sku: 'B089LY6WFR-es'
-tags: [ 'cafetera', ]
 actualPrice: 41.57 EUR
 currency: EUR
 price: 41.57

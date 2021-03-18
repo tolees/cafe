@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BMZCWCR-es Central Lechera Asturiana Cápsulas de Café con Leche -...'
 sku: 'B07BMZCWCR-es'
-tags: [ 'dolce','gusto', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

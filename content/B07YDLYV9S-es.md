@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YDLYV9S-es Tassimo Discover Bundle - Tassimo Coffee Shop Selections...'
 sku: 'B07YDLYV9S-es'
-tags: [ 'tassimo', ]
 actualPrice: 19.96 EUR
 currency: EUR
 price: 19.96

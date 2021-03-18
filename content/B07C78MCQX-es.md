@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C78MCQX-es Marca Amazon - Solimo Cápsulas Ristretto compatibles con...'
 sku: 'B07C78MCQX-es'
-tags: [ 'Alimentación y bebidas','Cafeteras automáticas','Cafeteras integrables','Café y expreso','Café, té y bebidas','Cápsulas de café','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','nespresso','solimo', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

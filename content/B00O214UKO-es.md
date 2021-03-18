@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00O214UKO-es TASSIMO Marcilla Café con Leche - 5 paquetes de 16...'
 sku: 'B00O214UKO-es'
-tags: [ 'tassimo', ]
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

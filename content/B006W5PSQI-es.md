@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B006W5PSQI-es Oroley - Cafetera Italiana Touareg | Aluminio | 6 Tazas |...'
 sku: 'B006W5PSQI-es'
-tags: [ 'cafetera', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

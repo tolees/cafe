@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0148ADVXU-es AEG KF3300 Cafetera Serie 3 de 12 Tazas Jarra de Cristal...'
 sku: 'B0148ADVXU-es'
-tags: [ 'cafetera', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

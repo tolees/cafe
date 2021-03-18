@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078HRKW5M-es BRA Perfecta – Cafetera Italiana Inducción Aluminio...'
 sku: 'B078HRKW5M-es'
-tags: [ 'cafetera', ]
 actualPrice: 18.04 EUR
 currency: EUR
 price: 18.04

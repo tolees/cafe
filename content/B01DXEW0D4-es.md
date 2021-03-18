@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01DXEW0D4-es Ariete 1389 Cafetera espresso vintage 900 W 2 Cups...'
 sku: 'B01DXEW0D4-es'
-tags: [ 'cafetera', ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

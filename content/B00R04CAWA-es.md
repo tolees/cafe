@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00R04CAWA-es Philips HD7462/20 Cafetera goteo 10-15 tazas 1000 W 14...'
 sku: 'B00R04CAWA-es'
-tags: [ 'cafetera', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

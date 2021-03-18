@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00OT1CO0U-es Krups EA8150 - Cafetera Automática 15 Bares de Presión...'
 sku: 'B00OT1CO0U-es'
-tags: [ 'cafetera', ]
 actualPrice: 292.97 EUR
 currency: EUR
 price: 292.97

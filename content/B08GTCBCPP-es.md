@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GTCBCPP-es Nescafé DOLCE GUSTO Variety Pack - 3 Estuches Espresso...'
 sku: 'B08GTCBCPP-es'
-tags: [ 'dolce','gusto', ]
 actualPrice: 23.8 EUR
 currency: EUR
 price: 23.8

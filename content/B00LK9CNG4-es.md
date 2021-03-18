@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LK9CNG4-es Bialetti Moka Induction Cafetera Italiana Espresso por...'
 sku: 'B00LK9CNG4-es'
-tags: [ 'cafetera', ]
 actualPrice: 31.55 EUR
 currency: EUR
 price: 31.55

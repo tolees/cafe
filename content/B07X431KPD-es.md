@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X431KPD-es Starbucks Blonde Espresso Roast De Nescafe Dolce Gusto...'
 sku: 'B07X431KPD-es'
-tags: [ 'dolce','gusto', ]
 actualPrice: 23.3 EUR
 currency: EUR
 price: 23.3

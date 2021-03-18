@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079FZYDG1-es Jata Hogar Cafetera Italiana Full Induction Aluminio Negro...'
 sku: 'B079FZYDG1-es'
-tags: [ 'cafetera', ]
 actualPrice: 17.45 EUR
 currency: EUR
 price: 17.45

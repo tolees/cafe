@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002EWANQS-es Bialetti Moka Elektrika Cafetera espresso eléctrica de...'
 sku: 'B002EWANQS-es'
-tags: [ 'cafetera', ]
 actualPrice: 49.24 EUR
 currency: EUR
 price: 49.24

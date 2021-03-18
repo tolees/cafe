@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0829CQF4R-es Dolce Gusto De Longhi - De Longhi Dolce Gusto Infinissima...'
 sku: 'B0829CQF4R-es'
-tags: [ 'Cafeteras combinadas espresso/goteo','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera','dolce','dolce gusto delonghi','gusto', ]
 actualPrice: 54.9 EUR
 currency: EUR
 price: 54.9

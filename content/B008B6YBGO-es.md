@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008B6YBGO-es Krups Nespresso - Portacápsulas metálico giratorio acero...'
 sku: 'B008B6YBGO-es'
-tags: [ 'nespresso', ]
 actualPrice: 25.81 EUR
 currency: EUR
 price: 25.81

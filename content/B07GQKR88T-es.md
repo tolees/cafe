@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GQKR88T-es Bosch Hogar - Bosch TAS1003 TASSIMO Happy Cafetera de...'
 sku: 'B07GQKR88T-es'
-tags: [ 'tassimo','cafetera', ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

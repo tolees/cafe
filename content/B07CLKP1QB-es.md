@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CLKP1QB-es Monix Induction Express - Cafetera italiana inducción...'
 sku: 'B07CLKP1QB-es'
-tags: [ 'cafetera', ]
 actualPrice: 18.37 EUR
 currency: EUR
 price: 18.37

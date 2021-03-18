@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NYYTG6B-es Krups EA819E Quattro Force Arabica Latte - Cafetera...'
 sku: 'B07NYYTG6B-es'
-tags: [ 'cafetera','krups', ]
 actualPrice: 373.15 EUR
 currency: EUR
 price: 373.15

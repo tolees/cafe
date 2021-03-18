@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CTHCSF2-es Monix Induction Express - Cafetera italiana inducción...'
 sku: 'B07CTHCSF2-es'
-tags: [ 'cafetera', ]
 actualPrice: 15.36 EUR
 currency: EUR
 price: 15.36

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CBT2RG3-es L Or Espresso Café Colombia Intensidad 8 - 200 cápsulas de...'
 sku: 'B08CBT2RG3-es'
-tags: [ 'nespresso', ]
 actualPrice: 48.8 EUR
 currency: EUR
 price: 48.8

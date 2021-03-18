@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00GH52TPQ-es Krups Nespresso Inissia XN1005 - Cafetera monodosis de...'
 sku: 'B00GH52TPQ-es'
-tags: [ 'nespresso','cafetera', ]
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

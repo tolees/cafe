@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YFYS364-es Cecotec Cafetera Express Cafelizzia 790 Steel para...'
 sku: 'B07YFYS364-es'
-tags: [ 'cafetera', ]
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

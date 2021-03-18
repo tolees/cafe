@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G8Z9JG2-es Marca Amazon - Happy Belly Espresso Decaffeinato- Café...'
 sku: 'B08G8Z9JG2-es'
-tags: [ 'nespresso', ]
 actualPrice: 14.62 EUR
 currency: EUR
 price: 14.62

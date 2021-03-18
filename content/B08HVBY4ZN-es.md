@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HVBY4ZN-es PURLINE Cafetera de Goteo Digital programable para 12...'
 sku: 'B08HVBY4ZN-es'
-tags: [ 'cafetera', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

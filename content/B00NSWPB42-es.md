@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NSWPB42-es DeLonghi - De Longhi ETAM 29.620.SB Autentica Plus -...'
 sku: 'B00NSWPB42-es'
-tags: [ 'cafetera', ]
 actualPrice: 469.9 EUR
 currency: EUR
 price: 469.9

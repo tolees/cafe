@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZL4WWWR-es Bialetti New Venus - Cafetera Italiana Espresso por...'
 sku: 'B07ZL4WWWR-es'
-tags: [ 'cafetera', ]
 actualPrice: 47.14 EUR
 currency: EUR
 price: 47.14

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YFZKPZX-es Cecotec Cafetera Express Cafelizzia 790 Steel Pro. Acero...'
 sku: 'B07YFZKPZX-es'
-tags: [ 'cafetera', ]
 actualPrice: 79.9 EUR
 currency: EUR
 price: 79.9

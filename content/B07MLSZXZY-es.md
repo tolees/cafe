@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MLSZXZY-es Cecotec Cafetera Goteo Coffee 66 Smart. 950 W Programable...'
 sku: 'B07MLSZXZY-es'
-tags: [ 'cafetera', ]
 actualPrice: 32.04 EUR
 currency: EUR
 price: 32.04

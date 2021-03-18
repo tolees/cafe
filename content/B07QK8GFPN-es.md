@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QK8GFPN-es CREATE IKOHS Máquina de Café Espresso Italiano - Cafetera...'
 sku: 'B07QK8GFPN-es'
-tags: [ 'nespresso','cafetera', ]
 actualPrice: 78.95 EUR
 currency: EUR
 price: 78.95

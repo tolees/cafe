@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQV9LX3-es Nescafé Dolce Gusto - Café con leche pack de 6 6 x 16...'
 sku: 'B07NQV9LX3-es'
-tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café','dolce','gusto','nescafé dolce gusto', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

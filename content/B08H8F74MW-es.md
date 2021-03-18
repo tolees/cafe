@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H8F74MW-es Ufesa CE7238 CREAM - Cafetera Espresso para preparar...'
 sku: 'B08H8F74MW-es'
-tags: [ 'cafetera', ]
 actualPrice: 93.61 EUR
 currency: EUR
 price: 93.61

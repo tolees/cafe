@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HBSD8W0-es Siemens CT636LES6 Cafetera integrable 19 bares negro inox...'
 sku: 'B01HBSD8W0-es'
-tags: [ 'Cafeteras integrables','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera','siemens', ]
 actualPrice: 370.0 EUR
 currency: EUR
 price: 370.0

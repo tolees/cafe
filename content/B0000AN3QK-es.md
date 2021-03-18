@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0000AN3QK-es Bialetti Moka Express Cafetera Italiana Espresso 18 Tazas...'
 sku: 'B0000AN3QK-es'
-tags: [ 'cafetera', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

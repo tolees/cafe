@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008KO2CWM-es Monix M620001 Cafetera Aluminio Plata 1 tazas'
 sku: 'B008KO2CWM-es'
-tags: [ 'cafetera', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

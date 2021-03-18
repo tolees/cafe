@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B013GDE0SU-es DeLonghi - De longhi - Cafetera de Bomba Tradicional para...'
 sku: 'B013GDE0SU-es'
-tags: [ 'cafetera', ]
 actualPrice: 149.9 EUR
 currency: EUR
 price: 149.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QQZ6K2D-es Cafetera Aicook Cafetera Goteo para 12 Tazascon con...'
 sku: 'B07QQZ6K2D-es'
-tags: [ 'cafetera', ]
 actualPrice: 31.44 EUR
 currency: EUR
 price: 31.44

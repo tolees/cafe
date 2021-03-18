@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00KMUD4CE-es Dolce Gusto Piccolo EDG100 Cafetera de cápsulas 1460 W 0.6...'
 sku: 'B00KMUD4CE-es'
-tags: [ 'dolce','gusto','cafetera', ]
 actualPrice: 37.96 EUR
 currency: EUR
 price: 37.96

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4TZ76M-es Redxiao - 【𝐍𝐚𝒗𝐢𝐝𝐚𝐝】 Cafetera Conveniente hervidor de Agua...'
 sku: 'B08G4TZ76M-es'
-tags: [ 'cafetera', ]
 actualPrice: 12.88 EUR
 currency: EUR
 price: 12.88

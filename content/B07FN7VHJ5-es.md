@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FN7VHJ5-es Café FORTALEZA - Cápsulas de café Natural Compatibles con...'
 sku: 'B07FN7VHJ5-es'
-tags: [ 'nespresso', ]
 actualPrice: 9.18 EUR
 currency: EUR
 price: 9.18

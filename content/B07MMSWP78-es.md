@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MMSWP78-es Philips EP2231/40 Serie 2200 - Cafetera super automática 3...'
 sku: 'B07MMSWP78-es'
-tags: [ 'cafetera', ]
 actualPrice: 449.99 EUR
 currency: EUR
 price: 449.99

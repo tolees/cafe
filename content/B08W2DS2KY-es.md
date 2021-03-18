@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08W2DS2KY-es wosume Cafetera eléctrica de Peso Ligero con Pico de Flujo...'
 sku: 'B08W2DS2KY-es'
-tags: [ 'cafetera', ]
 actualPrice: 45.88 EUR
 currency: EUR
 price: 45.88

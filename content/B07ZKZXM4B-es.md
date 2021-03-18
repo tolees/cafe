@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZKZXM4B-es Bialetti Cafetera Italiana Espresso por Inducción Acero 6...'
 sku: 'B07ZKZXM4B-es'
-tags: [ 'cafetera', ]
 actualPrice: 32.67 EUR
 currency: EUR
 price: 32.67

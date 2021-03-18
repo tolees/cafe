@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XDT4MQN-es Severin KA 5994 Espresa - Cafetera espresso 1350 W 1.1 L...'
 sku: 'B07XDT4MQN-es'
-tags: [ 'cafetera', ]
 actualPrice: 119.92 EUR
 currency: EUR
 price: 119.92

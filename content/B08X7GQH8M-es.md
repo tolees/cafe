@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08X7GQH8M-es Mellerware - Cafetera express para espresso y capuccino...'
 sku: 'B08X7GQH8M-es'
-tags: [ 'Alimentación y bebidas','Cafeteras automáticas','Cafeteras integrables','Cafeteras para espresso','Café y expreso','Café, té y bebidas','Cápsulas de café','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera','mellerware', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

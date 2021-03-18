@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008KO2D9Y-es Monix Cafetera Aluminio Plata 6 Tazas'
 sku: 'B008KO2D9Y-es'
-tags: [ 'Alimentación y bebidas','Cafeteras italianas','Café y expreso','Café, té y bebidas','Cápsulas de café','Hogar y cocina','Utensilios para café y té','cafetera','monix', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

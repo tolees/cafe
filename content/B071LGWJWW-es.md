@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071LGWJWW-es Bialetti 8006363018944 - Cafetera Independiente Cafetera...'
 sku: 'B071LGWJWW-es'
-tags: [ 'cafetera', ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

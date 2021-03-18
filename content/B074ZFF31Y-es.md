@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074ZFF31Y-es Nespresso De Longhi Lattissima One EN500W-Cafetera...'
 sku: 'B074ZFF31Y-es'
-tags: [ 'nespresso', ]
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

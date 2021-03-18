@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N9NN5ZV-es Viaggio Espresso Cápsulas de café compatibles con máquinas...'
 sku: 'B01N9NN5ZV-es'
-tags: [ 'nespresso', ]
 actualPrice: 15.04 EUR
 currency: EUR
 price: 15.04

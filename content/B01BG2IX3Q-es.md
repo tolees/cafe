@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BG2IX3Q-es Rascador para Gatos Altura 72cm Rascadores Arbol Poste...'
 sku: 'B01BG2IX3Q-es'
-tags: [ 'cafe', ]
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

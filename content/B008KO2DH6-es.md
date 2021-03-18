@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008KO2DH6-es Monix M620009 Cafetera Aluminio Plata 9 Tazas'
 sku: 'B008KO2DH6-es'
-tags: [ 'cafetera', ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

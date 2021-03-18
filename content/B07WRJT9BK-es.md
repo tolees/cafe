@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WRJT9BK-es Marca Amazon - Solimo Cápsulas Espresso Intenso...'
 sku: 'B07WRJT9BK-es'
-tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café','solimo', ]
 actualPrice: 12.04 EUR
 currency: EUR
 price: 12.04

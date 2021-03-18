@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00G98EJHM-es Krups Nespresso Inissia XN1001 - Cafetera monodosis de...'
 sku: 'B00G98EJHM-es'
-tags: [ 'nespresso','cafetera', ]
 actualPrice: 74.4 EUR
 currency: EUR
 price: 74.4

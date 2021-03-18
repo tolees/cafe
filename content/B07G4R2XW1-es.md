@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G4R2XW1-es Dolce Gusto Delonghi - De Longhi Dolce Gusto Infinissima...'
 sku: 'B07G4R2XW1-es'
-tags: [ 'dolce','gusto','cafetera', ]
 actualPrice: 48.9 EUR
 currency: EUR
 price: 48.9

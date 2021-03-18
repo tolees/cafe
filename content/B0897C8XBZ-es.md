@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0897C8XBZ-es Bosch Hogar - Bosch Tassimo My Way TAS6504 color rojo +...'
 sku: 'B0897C8XBZ-es'
-tags: [ 'tassimo', ]
 actualPrice: 67.0 EUR
 currency: EUR
 price: 67.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B018UFWHT8-es Quid 7605002 Cafetera de acero inoxidable'
 sku: 'B018UFWHT8-es'
-tags: [ 'cafetera', ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

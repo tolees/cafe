@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00U0AEL7I-es SEVERIN KA 5978 Cafetera Espresso Incl. Jarra para Servir...'
 sku: 'B00U0AEL7I-es'
-tags: [ 'cafetera', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99
