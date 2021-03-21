@@ -28,10 +28,10 @@ Ahora mismo tienes [FreeLeben Cápsulas de Café Vainas  3 Unidades Reutilizable
 
 🔎:
 
-- 【Respetuoso del medio ambiente 】: Cuando elige usar nuestras cápsulas reutilizables y recargables en su NESCAFÉ Dolce Gusto, está haciendo su parte para salvar los vertederos de nuestro planeta de aún más plástico y aluminio.
-- 【Compatible con】: estas cápsulas funcionan para todos los modelos Dolce Gusto de Nescafe, incluidos Mini Me, Piccolo, Genio, Esperta y Circolo (no compatibles con: máquina Nespresso).
-- 【El paquete incluye】: paquete de cápsula de café recargable Dolce Gusto 3x + paquete.
 - 【Seguro de usar】: 100% libre de BPA y reciclable, hecho de material de grado alimenticio 100% y acero inoxidable 304.
+- 【El paquete incluye】: paquete de cápsula de café recargable Dolce Gusto 3x + paquete.
+- 【Respetuoso del medio ambiente 】: Cuando elige usar nuestras cápsulas reutilizables y recargables en su NESCAFÉ Dolce Gusto, está haciendo su parte para salvar los vertederos de nuestro planeta de aún más plástico y aluminio.
 - 【Guarda tu dinero】: Si eres un amante del café, podrías ahorrar cientos o miles de dólares cada año cuando utilices nuestro filtro reutilizable.
+- 【Compatible con】: estas cápsulas funcionan para todos los modelos Dolce Gusto de Nescafe, incluidos Mini Me, Piccolo, Genio, Esperta y Circolo (no compatibles con: máquina Nespresso).
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QJY7DWX/?tag=tolees-21)
