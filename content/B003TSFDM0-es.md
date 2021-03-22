@@ -28,11 +28,11 @@ Tienes [Melitta Caffeo Ci E970-103  Cafetera Molinillo  Café Molido y en Grano 
 
 ℹ️:
 
-- PERSONALIZABLE: Con 5 grados de molienda y 4 de intensidad, molinillo incorporado cónico de acero
-- Componentes incluidos: 1 filtro de agua PRO AQUA de Melitta
-- My coffee memory: la cafetera eléctrica guarda hasta 4 recetas personalizadas incluso con leche
 - Sistema de leche: con depósito externo fácil de desmontar y limpiar, prepara una cremosa espuma
-- MANTENIMIENTO: Programas automáticos de descalcificación y limpieza del sistema de café
+- Componentes incluidos: 1 filtro de agua PRO AQUA de Melitta
+- PERSONALIZABLE: Con 5 grados de molienda y 4 de intensidad, molinillo incorporado cónico de acero
 - Café: compartimento principal para 2 tipos de granos de café, otro específico para café molido
+- MANTENIMIENTO: Programas automáticos de descalcificación y limpieza del sistema de café
+- My coffee memory: la cafetera eléctrica guarda hasta 4 recetas personalizadas incluso con leche
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B003TSFDM0/?tag=tolees-21)
