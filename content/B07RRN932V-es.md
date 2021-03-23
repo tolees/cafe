@@ -28,11 +28,11 @@ Ahora mismo tienes [Nespresso De Longhi Pixie EN124.R Cafetera monodosis cápsul
 
 🔎:
 
-- Modo de auto apagado a los 9 minutos (programable)
+- 2 tamaños de taza: espresso, lungo
 - Sistema de calentamiento rápido Thermoblock (lista para el uso en 25 segundos)
-- Incluye 14 cápsulas y 20€ de crédito en café
 - Depósito de agua extraíble con capacidad de 0.7 l
 - Contenedor de cápsulas usadas con capacidad 9
-- 2 tamaños de taza: espresso, lungo
+- Incluye 14 cápsulas y 20€ de crédito en café
+- Modo de auto apagado a los 9 minutos (programable)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07RRN932V/?tag=tolees-21)
