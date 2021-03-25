@@ -28,11 +28,11 @@ Ahora mismo tienes [Marca Amazon - Happy Belly Select Café molido de tueste nat
 
 🔎:
 
+- RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
 - 100 % Arábica. Intensidad 4/5
 - 80 cápsulas: 4 x 20 cápsulas
 - Café de Brasil. Tostado y envasado en Bélgica
 - Apto para dietas vegetarianas y veganas
 - Granos arábica seleccionados con esmero, con cuerpo medio y una sutil mezcla de notas de chocolate y frutos secos
-- RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08FRV5MR2/?tag=tolees-21)
