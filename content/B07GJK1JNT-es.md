@@ -30,8 +30,8 @@ Está [Krups Dolce Gusto Infinissima KP1701 - Cafetera de cápsulas  15 bares de
 
 - Simplemente inserta tu cápsula y, con un sencillo movimiento de la palanca manual, podrás preparar de forma óptima la bebida que deseas
 - Capaz de hacer café de calidad profesional, caliente desde la primera taza gracias a su sistema Thermoblock
-- Cafetera de sistema de cápsulas de 15 bares de presión y sistema auto off a los 5 minutos de inactividad
-- El botón de encendido/apagado de tu NESCAFE Dolce Gusto Infinissima se encenderá en color naranja para indicar que es hora de descalcificar tu cafetera
 - Cafetera manual de fácil manejo que permiten preparar las bebidas a tu gusto regulando así el tamaño y la temperatura, que puede ser fría o caliente
+- El botón de encendido/apagado de tu NESCAFE Dolce Gusto Infinissima se encenderá en color naranja para indicar que es hora de descalcificar tu cafetera
+- Cafetera de sistema de cápsulas de 15 bares de presión y sistema auto off a los 5 minutos de inactividad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07GJK1JNT/?tag=tolees-21)
