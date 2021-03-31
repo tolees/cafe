@@ -29,14 +29,14 @@ Está [Marca Amazon - Happy Belly Cápsulas de Café Au Lait compatibles con NES
 ℹ️:
 
 - NESCAFÉ Dolce Gusto no está vinculado a Amazon EU S.a.r.l.
-- RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
-- Asegurarse siempre de seguir las instrucciones del fabricante de la cafetera
-- Leche en polvo mezclada con café soluble en cápsulas compatibles con NESCAFÉ Dolce Gusto
 - Café: Envasado en atmósfera protectora para mantener su frescura
-- Dulce y cremoso
-- Hecho en Italia. 3x16 cápsulas (48 porciones)
-- Intensidad 4/5
-- Conservar en un lugar fresco y seco
 - Receta mejorada
+- RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
+- Hecho en Italia. 3x16 cápsulas (48 porciones)
+- Dulce y cremoso
+- Intensidad 4/5
+- Asegurarse siempre de seguir las instrucciones del fabricante de la cafetera
+- Conservar en un lugar fresco y seco
+- Leche en polvo mezclada con café soluble en cápsulas compatibles con NESCAFÉ Dolce Gusto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08RKVL2P6/?tag=tolees-21)
