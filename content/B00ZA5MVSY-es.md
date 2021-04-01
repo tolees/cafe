@@ -28,10 +28,10 @@ Tienes [SEVERIN KA 4805 Cafetera para filtros de Café Molido  4 tazas incluye j
 
 ℹ️:
 
-- Café al gusto variando la cantidad de café y de agua, Bebidas frías o calientes gracias a la jarra de cristal, Mantenimiento del calor durante largo tiempo gracias a la placa calorífica
 - Fácil de usar: Indicador de agua transparente, Depósito de agua fácil de llenar, Soporte de filtro con válvula antigoteo (formato 1x2), Jarra de cristal con escala de agua
-- Cafetera de filtro compacta de alta calidad para disfrutar del aroma del café matutino o de entre horas - Hasta 4 tazas, Para filtros de café molido - Ideal para viajes, personas mayores y hogares unipersonales
-- Calidad alemana – 2 años de garantía, Carcasa de alta calidad con elementos de acero inoxidable, Desconexión automática, Fácil de limpiar a mano
 - Contenido: 1 SEVERIN Cafetera, KA 4805, Incl. Jarra de Cristal, Material: Acero Inoxidable/Plástico, Dimensiones (LxAnxAl): 17,5 x 23 x 27,5 cm, Peso: 1,14 kg, Potencia: 650 W aprox., Color: Acero Inoxidable Pulido/Negro
+- Calidad alemana – 2 años de garantía, Carcasa de alta calidad con elementos de acero inoxidable, Desconexión automática, Fácil de limpiar a mano
+- Café al gusto variando la cantidad de café y de agua, Bebidas frías o calientes gracias a la jarra de cristal, Mantenimiento del calor durante largo tiempo gracias a la placa calorífica
+- Cafetera de filtro compacta de alta calidad para disfrutar del aroma del café matutino o de entre horas - Hasta 4 tazas, Para filtros de café molido - Ideal para viajes, personas mayores y hogares unipersonales
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00ZA5MVSY/?tag=tolees-21)
