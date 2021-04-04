@@ -29,9 +29,9 @@ Ahora mismo tienes [BRA CAFETERA DE Luxe 2  Aluminio  Plata  12 tazas](https://w
 🔎:
 
 - Incluye un mango con diseño ergonómico e inserción de silicona para un agarre más fácil y seguro
-- El uso de materiales de gran calidad junto con su esmerado diseño y elaboración, proporcionan a la cafetera una gran polivalencia, seguridad y resistencia al uso
-- No limpiar lavavajillas
 - Cafetera italiana fabricada en aluminio de alta calidad con diseño vanguardista
 - No válida para inducción
+- No limpiar lavavajillas
+- El uso de materiales de gran calidad junto con su esmerado diseño y elaboración, proporcionan a la cafetera una gran polivalencia, seguridad y resistencia al uso
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00K85SWF2/?tag=tolees-21)

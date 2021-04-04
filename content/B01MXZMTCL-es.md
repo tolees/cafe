@@ -28,7 +28,7 @@ Está [Caffè Borbone - 4 x 50 Cápsulas Borbone respresso degustación 50 negra
 
 ℹ️:
 
-- - -
 - 4 x 50 Cápsulas Borbone respresso degustación 50 negra, 50 azul y 50 roja, 50 oro, compatibles con Nespresso.
+- - -
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01MXZMTCL/?tag=tolees-21)
