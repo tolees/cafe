@@ -29,11 +29,11 @@ En este momento está [Krups Espresso Intenso Calvi Meca XP344010 - Cafetera com
 🔎:
 
 - Incorpora sistema de almacenamiento para los filtros y la cuchara medidora directamente en la cafetera, consiguiendo así una experiencia más sencilla y funcional
-- Depósito 1 L de capacidad, permite preparar gran cantidad de bebidas y, al ser extraíble, la preparación y el llenado es más sencillo y funcional; fácil limpieza gracias a su desmonte fácil de piezas
-- Calidad de categoría profesional directa a tu taza; con una bomba de presión de 15 bares que permite una extracción mejorada del sabor, evitando el amargor y ofreciendo una deliciosa experiencia a tu paladar
-- Dimensiones del producto de: 19.8 x 35.1 x 36.8 cm y peso del producto: 2.2 kg
-- El sistema electrónico de regulación térmica mantiene el resultado final a la temperatura adecuada, desde la primera a la última taza y boquilla de vapor para hacer cremosos capuchinos
 - Soporte de filtro para una o dos tazas y prepara un Espresso Intenso normal o doble
 - La avanzada tecnología thermoblock proporciona un rendimiento excelente en un formato compacto, ofreciendo así un ciclo rápido de precalentamiento que dura una media de solo 40 segundos
+- Depósito 1 L de capacidad, permite preparar gran cantidad de bebidas y, al ser extraíble, la preparación y el llenado es más sencillo y funcional; fácil limpieza gracias a su desmonte fácil de piezas
+- Dimensiones del producto de: 19.8 x 35.1 x 36.8 cm y peso del producto: 2.2 kg
+- Calidad de categoría profesional directa a tu taza; con una bomba de presión de 15 bares que permite una extracción mejorada del sabor, evitando el amargor y ofreciendo una deliciosa experiencia a tu paladar
+- El sistema electrónico de regulación térmica mantiene el resultado final a la temperatura adecuada, desde la primera a la última taza y boquilla de vapor para hacer cremosos capuchinos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00MZ2F3VM/?tag=tolees-21)
