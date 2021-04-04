@@ -28,10 +28,10 @@ Ahora mismo tienes [Cecotec Cafetera Express con Manómetro Cafelizzia 790 Shiny
 
 🔎:
 
+- Su sistema de calentamiento rápido y su potente bomba de presión ForceAroma de 20 bares consigue la mejor crema y el máximo aroma en cada café.
+- Brazo portafiltros con doble salida y dos filtros para preparar uno o dos cafés automáticamente. Depósito de agua extraíble con 1,2 litros
 - Manómetro de control PressurePro. Incluye vaporizador orientable para texturizar la leche a tu gusto y conseguir la mejor espuma para tu café.
 - Bandeja de goteo desmontable para fácil limpieza. Sistema de ahorro energético con apagado automático y stand-by. Indicadores luminosos
-- Brazo portafiltros con doble salida y dos filtros para preparar uno o dos cafés automáticamente. Depósito de agua extraíble con 1,2 litros
 - Cafetera espresso con diseño elegante y compacto para los amantes del buen café.Potencia de 1350 W. Emite agua caliente para las infusiones.
-- Su sistema de calentamiento rápido y su potente bomba de presión ForceAroma de 20 bares consigue la mejor crema y el máximo aroma en cada café.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YLPVNNC/?tag=tolees-21)

@@ -28,10 +28,10 @@ Está [Bialetti Moka Express Red Cafetera Italiana Espresso  6 Tazas  Aluminio  
 
 ℹ️:
 
-- El ritual tradicional italiano: adecuado para la preparación del auténtico café italiano
-- Apta para todas las placas excepto las placas de inducción
-- Calidad y seguridad Made in Italy: válvula de seguridad patentada por Bialetti, inspeccionable y fácil de limpiar
 - Un icono italiano: desde 1933, símbolo del Made in Italy en todo el mundo
+- Apta para todas las placas excepto las placas de inducción
+- El ritual tradicional italiano: adecuado para la preparación del auténtico café italiano
 - Hecha de aluminio fundido sólido con mango de acrílico negro
+- Calidad y seguridad Made in Italy: válvula de seguridad patentada por Bialetti, inspeccionable y fácil de limpiar
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B071CGGMRG/?tag=tolees-21)
