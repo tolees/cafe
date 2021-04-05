@@ -28,10 +28,10 @@ Tienes [Lavazza Cápsulas de Café Compatibles Nespresso Espresso Armonico  Paqu
 
 ℹ️:
 
+- AROMÁTICO: armonía y dulzura para un café redondo con un gran cuerpo
 - CALIDAD LAVAZZA: el Espresso Armonico, un café con un sabor con gran cuerpo y notas envolventes de cereales tostados y caramelo, 100 % mezcla de granos de café Arábica de Sudamérica
 - MEZCLA: 100 % Arábica - Tueste: Oscuro - Intensidad: 8 Medio
-- ENVASE: 10 paquetes de 10 cápsulas - Total: 100 cápsulas
 - ASPECTO: espuma oscura y aterciopelada - AROMA: notas de cereales tostados y caramelo - SABOR: redondo y de gran cuerpo
-- AROMÁTICO: armonía y dulzura para un café redondo con un gran cuerpo
+- ENVASE: 10 paquetes de 10 cápsulas - Total: 100 cápsulas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B075LSDQDV/?tag=tolees-21)
