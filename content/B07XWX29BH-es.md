@@ -28,9 +28,9 @@ Tienes [Consuelo - Cápsulas de café de Brasil compatibles con cafetera Nespres
 
 🔎:
 
-- Una mezcla de cafés arábica de Brasil cuidadosamente seleccionados que destacan por una combinación única de sabores con notas de chocolate, avellanas y vainilla: el compañero perfecto para tomarte un respiro.
-- Composición: granos 100 % arábica especialmente seleccionados
 - Tostado y envasado en Italia
+- Composición: granos 100 % arábica especialmente seleccionados
 - Cantidad de agua sugerida: 25 ml para un café corto, 40 ml para un espresso, 110 ml para un café largo
+- Una mezcla de cafés arábica de Brasil cuidadosamente seleccionados que destacan por una combinación única de sabores con notas de chocolate, avellanas y vainilla: el compañero perfecto para tomarte un respiro.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07XWX29BH/?tag=tolees-21)
