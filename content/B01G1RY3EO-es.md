@@ -28,10 +28,10 @@ En este momento está [Pellini Caffè - Espresso Pellini Bio Arabica 100% - 120 
 
 🔎:
 
-- Composición: Café arábica 100% lavado; nivel de tostado: Medio; paquete certificado FSC fabricado con papel procedente de fuentes sostenibles y renovables
+- Control Biológico: Controlado por CSQA Certificazioni Srl, organismo de inspección autorizado por MiPAAF, IT BIO 021, Operador controlado numero 2100131
 - Notas Aromáticas: mezcla delicada con una marcada nota cítrica, afrutada y pastelera
 - Descripción de la Mezcla: Café 100% arábica compuesta de variedades de café de valiosos orígenes, provenientes de las plantaciones en altitudes del cinturón tropical
-- Control Biológico: Controlado por CSQA Certificazioni Srl, organismo de inspección autorizado por MiPAAF, IT BIO 021, Operador controlado numero 2100131
+- Composición: Café arábica 100% lavado; nivel de tostado: Medio; paquete certificado FSC fabricado con papel procedente de fuentes sostenibles y renovables
 - Producto: Pellini Bio 100% Arábica de cultivos ecológicos en las zonas del cinturón tropical; cápsulas Autoprotegidas: con barrera para conservar toda la fragancia y el sabor del café
 - Compostables: están fabricadas con materiales vegetales a partir de la fermentación de plantas como la caña de azúcar, la patata, el maíz
 

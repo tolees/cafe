@@ -28,11 +28,11 @@ Está [Pellini Caffè - Espresso Pellini Top Arabica 100% Descafeinado Natural -
 
 ℹ️:
 
-- Notas aromáticas: mezcla envolvente de un fresco bouquet de notas caramelizadas y chocolate
-- Compostables: están fabricadas con materiales vegetales a partir de la fermentación de plantas como la caña de azúcar, la patata, el maíz
-- Método de Descafeinado: La cafeína se extrae de los granos de café de forma selectiva mediante el anhídrido carbónico, un elemento natural que se encuentra también en el aire que respiramos; de esta manera el perfil aromático del café se mantiene sin cambios
 - Descripción de la Mezcla: Café 100% arábica compuesto de variedades de café de valiosos orígenes, provenientes de plantaciones en altitudes de Centro y Sur América
-- Producto: Pellini Top 100% Arábica descafeinado natural; cápsulas Autoprotegidas: con barrera para conservar toda la fragancia y el sabor del café
+- Compostables: están fabricadas con materiales vegetales a partir de la fermentación de plantas como la caña de azúcar, la patata, el maíz
 - Composición: Café 100% arábica natural y lavado; nivel de tostado: Medio, paquete certificado FSC fabricado con papel procedente únicamente de fuentes sostenibles y renovables
+- Notas aromáticas: mezcla envolvente de un fresco bouquet de notas caramelizadas y chocolate
+- Producto: Pellini Top 100% Arábica descafeinado natural; cápsulas Autoprotegidas: con barrera para conservar toda la fragancia y el sabor del café
+- Método de Descafeinado: La cafeína se extrae de los granos de café de forma selectiva mediante el anhídrido carbónico, un elemento natural que se encuentra también en el aire que respiramos; de esta manera el perfil aromático del café se mantiene sin cambios
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01IBTZMBI/?tag=tolees-21)
