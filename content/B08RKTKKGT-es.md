@@ -28,14 +28,14 @@ En este momento está [Marca Amazon - Happy Belly Chococino cápsulas compatible
 
 🔎:
 
-- Hecho en Italia. 3x16 cápsulas (24 porciones)
+- Receta mejorada
+- Cacao y leche en polvo azucarada en cápsulas
+- Dulce y chocolateado
 - Asegurarse siempre de seguir las instrucciones del fabricante de la cafetera
 - Conservar en un lugar fresco y seco
-- Dulce y chocolateado
-- Cacao y leche en polvo azucarada en cápsulas
-- Utilizar primero la cápsula de cacao y posteriormente la cápsula de leche
 - RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
-- Receta mejorada
+- Utilizar primero la cápsula de cacao y posteriormente la cápsula de leche
 - No apto para alérgicos a la soja ni para celíacos, debido al método de producción
+- Hecho en Italia. 3x16 cápsulas (24 porciones)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08RKTKKGT/?tag=tolees-21)
