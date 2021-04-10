@@ -28,9 +28,9 @@ En este momento está [Oroley - Cafetera Italiana Petra | Base de Acero Inoxidab
 
 🔎:
 
-- 💯MATERIALES: La cafetera de inducción Petra contiene una placa ferromagnética que permite que se genere la fuente de calor de forma segura. Contiene un mango ergonómico de diseño propio que evita el sobrecalentamiento
-- ☕ USO: Cafetera tradicional apta para todo tipo de cocinas: Inducción,vitrocerámica, fuego eléctrico y gas.
 - ✨ CARACTERÍSTICAS: Cafetera Italiana con capacidad de hasta 12 tazas de café
+- ☕ USO: Cafetera tradicional apta para todo tipo de cocinas: Inducción,vitrocerámica, fuego eléctrico y gas.
+- 💯MATERIALES: La cafetera de inducción Petra contiene una placa ferromagnética que permite que se genere la fuente de calor de forma segura. Contiene un mango ergonómico de diseño propio que evita el sobrecalentamiento
 - ✅ PRODUCTO: Cafetera Italiana modelo "Petra". Contiene base de acero inoxidable. Producto de alta calidad. Color gris
 - ⚠️ALERTA: Debido a que la cafetera tiene un diámetro pequeño, es imprescindible que compruebe que su placa de inducción, llegue a detectarla. Depende del diámetro que tenga su placa, detectara o no la cafetera. La placa de inducción debe tener una zona de cocción apta para recipientes pequeños, con un diámetro de 14,5 cm máximo
 
