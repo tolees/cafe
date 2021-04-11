@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Orbegozo KFN 910 - Cafetera italiana de  al 26.43 % de descuento'
-date: 2021-04-04 20:47:43
+date: 2021-04-11 12:13:35
 image: 'https://m.media-amazon.com/images/I/31FisWCsUkL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Está [Orbegozo KFN 910 - Cafetera italiana de aluminio  9 tazas de capacidad  m
 
 ℹ️:
 
+- Interior de fácil limpieza
 - Se utiliza en cocinas a gas, eléctricas y de vitrocerámica
 - Mango ergonómico
 - Capacidad: 9 tazas
 - Válvula de seguridad
-- Interior de fácil limpieza
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00791DSFC/?tag=tolees-21)
