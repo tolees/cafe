@@ -29,8 +29,8 @@ Está [Orbegozo Cafetera  Acero Inoxidable  Plateado  13x12x20 cm](https://www.a
 ℹ️:
 
 - Es previsto con mango ergonómico
+- Se utiliza para gas, eléctrico, vitrocerámica, inducción
 - Tiene válvula de seguridad
 - Interior de fácil limpieza
-- Se utiliza para gas, eléctrico, vitrocerámica, inducción
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01ISZXMLW/?tag=tolees-21)
