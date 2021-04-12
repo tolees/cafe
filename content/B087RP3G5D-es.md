@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 18.20 % en Cecotec Cafetera Espresso Cafelizzia 790'
-date: 2021-03-21 09:06:21
+date: 2021-04-12 12:43:31
 image: 'https://m.media-amazon.com/images/I/41o-BAxxJvL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Tienes [Cecotec Cafetera Espresso Cafelizzia 790 White Pro.Sistema Thermoblock  
 
 ℹ️:
 
-- Cafetera espresso con diseño elegante y compacto para los amantes del buen café. Permite hacer todo tipo de cafés con una potencia máxima de 1350 W y también emite agua caliente para las infusiones.
 - Emite agua caliente a la temperatura idónea para las infusiones. Brazo portafiltros con doble salida y dos filtros para preparar uno o dos cafés automáticamente. Depósito de agua extraíble con 1,2 litros de capacidad. Bandeja calientatazas de acero inoxidable.
-- Manómetro de control PressurePro para comprobar la presión en tiempo real. Incluye vaporizador orientable con protección para texturizar la leche a tu gusto y conseguir la mejor espuma para tu café.
 - Su sistema de calentamiento rápido por Thermoblock garantiza que la temperatura se mantenga en su intervalo óptimo para obtener el mejor café. Su potente bomba de presión con tecnología ForceAroma de 20 bares consigue la mejor crema y el máximo aroma en cada café.
 - Bandeja de goteo desmontable para facilitar una rápida limpieza. Sistema de ahorro energético con apagado automático y stand-by. Indicadores luminosos de cada función.
+- Manómetro de control PressurePro para comprobar la presión en tiempo real. Incluye vaporizador orientable con protección para texturizar la leche a tu gusto y conseguir la mejor espuma para tu café.
+- Cafetera espresso con diseño elegante y compacto para los amantes del buen café. Permite hacer todo tipo de cafés con una potencia máxima de 1350 W y también emite agua caliente para las infusiones.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B087RP3G5D/?tag=tolees-21)
