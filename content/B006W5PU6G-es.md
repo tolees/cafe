@@ -28,10 +28,10 @@ Está [Oroley - Cafetera Italiana Touareg | Aluminio | 3 Tazas | Cafetera Vitroc
 
 ℹ️:
 
-- 🧼 CÓMO LIMPIARLA: lavar a mano. No usar lavavajillas
-- ♨️ OROLEY te ofrece diseño y tecnología al servicio de la cocina. Con los mejores materiales y diseños exclusivos
 - ✨ CARACTERÍSTICAS: Cafetera Italiana con capacidad de hasta 3 tazas de café
 - ✅ PRODUCTO: Cafetera Italiana modelo "Touareg". Hecha con aluminio. Producto de alta calidad. Color negro
+- ♨️ OROLEY te ofrece diseño y tecnología al servicio de la cocina. Con los mejores materiales y diseños exclusivos
+- 🧼 CÓMO LIMPIARLA: lavar a mano. No usar lavavajillas
 - ☕ USO: Cafetera tradicional apta para todo tipo de cocinas: vitrocerámica, fuego eléctrico y gas. (Excepto inducción)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B006W5PU6G/?tag=tolees-21)
