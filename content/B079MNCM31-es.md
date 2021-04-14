@@ -28,8 +28,8 @@ Está [Philips hd6563/31 Senseo Viva cafetera MONODOSIS de café  0.9 liters  
 
 ℹ️:
 
-- Crema más: una capa de espuma más onctueuse y más fina
 - Tecnología Booster de aroma para más de sabores
+- Crema más: una capa de espuma más onctueuse y más fina
 - Capacidad del depósito: 8 tazas (0, 9 l) y indicador del depósito vacío
 - 1 o 2 tazas a la vez
 - Selector de intensidad: 2 longitudes de café, corto y apretado o largo y suave.
