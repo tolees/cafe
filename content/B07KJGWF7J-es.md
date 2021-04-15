@@ -28,10 +28,10 @@ Ahora mismo tienes [CREATE IKOHS Máquina de Café Espresso Italiano - Cafetera 
 
 🔎:
 
-- 19 bares de presión y una potencia de 1450W, perfecto para aprovechar al máximo el sabor del café.
-- Multicápsula: Adaptadores para cápsulas de Nespresso, Dolce gusto o sus compatibles, Starbucks e infusiones.
-- Programable: elige cómo de largo o corto quieres tu café, puedes programarla para que siempre salga igual, o cambiar al modo manual cuando lo quieras diferente
 - De tamaño reducido, ligera y compacta. Perfecta para cocinas pequeñas o transportar. Disponible en varios colores
+- Multicápsula: Adaptadores para cápsulas de Nespresso, Dolce gusto o sus compatibles, Starbucks e infusiones.
+- 19 bares de presión y una potencia de 1450W, perfecto para aprovechar al máximo el sabor del café.
 - Café molido: Adaptador para el café de siempre, con un accesorio de cuchara dosificadora y pala prensadora.
+- Programable: elige cómo de largo o corto quieres tu café, puedes programarla para que siempre salga igual, o cambiar al modo manual cuando lo quieras diferente
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KJGWF7J/?tag=tolees-21)
