@@ -28,11 +28,11 @@ Tienes [Marca Amazon - Happy Belly Select Café Molido Origin Nespresso - Rwanda
 
 ℹ️:
 
-- 100 % Arábica. Intensidad: 4/5
 - 80 cápsulas: 4 x 20 cápsulas
+- Un café 100 % arábica suave y delicado, con un ligero final ácido y cultivado en Ruanda, la tierra de las mil colinas
 - Apto para dietas vegetarianas y veganas
+- 100 % Arábica. Intensidad: 4/5
 - RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
 - Café de Ruanda. Tostado y envasado en Bélgica
-- Un café 100 % arábica suave y delicado, con un ligero final ácido y cultivado en Ruanda, la tierra de las mil colinas
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08FRSGQK5/?tag=tolees-21)
