@@ -28,10 +28,10 @@ Está [Orbegozo KFN 910 - Cafetera italiana de aluminio  9 tazas de capacidad  m
 
 ℹ️:
 
-- Interior de fácil limpieza
-- Válvula de seguridad
-- Se utiliza en cocinas a gas, eléctricas y de vitrocerámica
 - Capacidad: 9 tazas
+- Se utiliza en cocinas a gas, eléctricas y de vitrocerámica
 - Mango ergonómico
+- Válvula de seguridad
+- Interior de fácil limpieza
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00791DSFC/?tag=tolees-21)
