@@ -28,9 +28,9 @@ Tienes [Krups Dolce Gusto Lumio KP1308 - Cafetera de cápsulas  15 bares de pres
 
 🔎:
 
-- Capacidad de reservorio de agua: 1 L
-- Tipo de producto: máquina de café en cápsulas
 - Máquina de café: semi-automática
+- Capacidad de reservorio de agua: 1 L
 - Potencia: 1600 W
+- Tipo de producto: máquina de café en cápsulas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B074NYTRR4/?tag=tolees-21)
