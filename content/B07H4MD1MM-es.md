@@ -28,10 +28,10 @@ Está [Oster Cafetera espreso Prima Latte II  19 bares  con tratamiento de leche
 
 ℹ️:
 
+- Cafetera Espresso de bomba italiana con 19 bares de potencia
 - Depósito para leche extraíble para su almacenaje en la nevera, capacidad 600 ml (aprox. 10 cappuccinos o 4 lattes)
+- Filtro de café POD para café molido y ciclo de colado automático para la espuma de leche
 - Programa manual para poder personalizar tu café
 - Portafiltros ligero y fácil de acoplar y desmontar, para lavar fácilmente con depósito de agua extraíble
-- Filtro de café POD para café molido y ciclo de colado automático para la espuma de leche
-- Cafetera Espresso de bomba italiana con 19 bares de potencia
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07H4MD1MM/?tag=tolees-21)
