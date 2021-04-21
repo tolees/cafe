@@ -28,9 +28,9 @@ Tienes [Cecotec Cafetera Cumbia Power Espresso 20 Barista Aromax. Potencia 2900 
 
 ℹ️:
 
-- Su potente bomba de presión con tecnología ForceAroma de 20 bares consigue la mejor crema y el máximo ahora en cada café.
-- Cafetera espresso con diseño barista que permite hacer todo tipo de cafés y emite agua caliente para infusiones.Con potencia máxima de 2900 W.
 - Conducto especial para emitir agua caliente a la temperatura idónea para las infusiones. Brazo portfiltros con doble salida y dos filtros para preparar uno o dos cafés.
+- Cafetera espresso con diseño barista que permite hacer todo tipo de cafés y emite agua caliente para infusiones.Con potencia máxima de 2900 W.
+- Su potente bomba de presión con tecnología ForceAroma de 20 bares consigue la mejor crema y el máximo ahora en cada café.
 - Con depósito de café en grano de 250 g de capacidad y un molinillo con 15 niveles de molido.Dispone de 2 sistemas de calentamiento por Thermoblock, que garantiza la temperatura óptima para disfrutar de un delicioso café.
 - Manometro de control PressurePro para comprobar la presión en tiempo real. Vaporizador orientable para texturizar la leche y conseguir la mejor espuma para tu café.
 
