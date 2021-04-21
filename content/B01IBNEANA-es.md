@@ -28,9 +28,9 @@ Está [Lavazza Jolie Cafetera cápsulas monodosis  1250 W  0.6 litros  Plástico
 
 ℹ️:
 
+- El tanque de agua está hecho de plástico transparente
+- Tiene un apagado automático después de nueve minutos
 - El portavasos, totalmente en ABS, es ajustable en dos alturas
 - Operación con cápsulas AMM lavazza
-- Tiene un apagado automático después de nueve minutos
-- El tanque de agua está hecho de plástico transparente
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01IBNEANA/?tag=tolees-21)
