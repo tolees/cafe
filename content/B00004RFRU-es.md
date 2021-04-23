@@ -28,10 +28,10 @@ Tienes [Bialetti Moka Express Cafetera Italiana Espresso  Aluminio  Plateado  6 
 
 🔎:
 
+- Hecha de aluminio fundido sólido con mango de acrílico negro
+- Un icono italiano: desde 1933, símbolo del Made in Italy en todo el mundo
 - NOTA! Apta para todas las placas EXEPTO las placas de inducción
 - Calidad y seguridad Made in Italy: válvula de seguridad patentada por Bialetti, inspeccionable y fácil de limpiar
-- Un icono italiano: desde 1933, símbolo del Made in Italy en todo el mundo
 - El ritual tradicional italiano: adecuado para la preparación del auténtico café italiano
-- Hecha de aluminio fundido sólido con mango de acrílico negro
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00004RFRU/?tag=tolees-21)
