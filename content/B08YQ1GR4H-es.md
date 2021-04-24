@@ -30,7 +30,7 @@ Tienes [Krups Dolce Gusto Infinissima KP1705  Cafetera de cápsulas + Nescafé D
 
 - Este delicioso café con leche despertará tus sentidos gracias a su sabor que, combinado con la suavidad de la leche, te generará una experiencia de café cremosa
 - Cafetera de sistema de cápsulas de 15 bares de presión y sistema auto off a los 5 minutos de inactividad
-- Cafetera manual de fácil manejo que permiten preparar las bebidas a tu gusto regulando así el tamaño y la temperatura, que puede ser fría o caliente
 - Su sellado hermético mantiene el café fresco conservando todos sus aromas
+- Cafetera manual de fácil manejo que permiten preparar las bebidas a tu gusto regulando así el tamaño y la temperatura, que puede ser fría o caliente
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08YQ1GR4H/?tag=tolees-21)
