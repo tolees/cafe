@@ -28,10 +28,10 @@ Tienes [Russell Hobbs 24033-56 Colours Plus - Cafetera de Goteo  Jarra Cafetera 
 
 ℹ️:
 
-- Máquina de café con jarra de cristal de 1,25 litros en color crema, para 10 tazas grandes o 15 pequeñas
 - Tecnología WhirlTech que se encarga de extraer toda la esencia del café, logrando un excelente sabor
-- Dispone de función de pausa para servir y mantiene el calor durante 40 minutos
+- Máquina de café con jarra de cristal de 1,25 litros en color crema, para 10 tazas grandes o 15 pequeñas
 - Dispone de temporizador programable de 24 horas; control digital y pantalla LCD
+- Dispone de función de pausa para servir y mantiene el calor durante 40 minutos
 - Dispone de placa calefactora, soporte de filtro extraíble e indicador del nivel de agua, incluye cuchara medidora
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07G8JT5BD/?tag=tolees-21)
