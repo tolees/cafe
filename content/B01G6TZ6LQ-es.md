@@ -28,10 +28,10 @@ Está [FRHOME - Nescafè Dolce Gusto 96 Càpsulas compatibles - Il Caffè Italia
 
 ℹ️:
 
-- El paquete contiene 6 paquetes de 16 cápsulas cada compatibles con todas las máquinas sabor dulce
 - Paquete de 96 cápsulas compatible Nescafé Dolce Gusto Napoli
-- Composición 95% robusta, 5% arabica
 - Intensidad 12 su 13 - Aroma fuerte y vigoroso
+- El paquete contiene 6 paquetes de 16 cápsulas cada compatibles con todas las máquinas sabor dulce
 - Mezcla estudiada por los maestros tostadores desde 1870
+- Composición 95% robusta, 5% arabica
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01G6TZ6LQ/?tag=tolees-21)
