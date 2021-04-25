@@ -28,11 +28,11 @@ En este momento está [Philips L OR Barista LM8018/90 Cafetera de Cápsulas con 
 
 🔎:
 
-- Incluye un kit de degustación con 9 cápsulas (5 cápsulas Doble espresso L’OR Barista y 4 cápsulas L’OR Espresso)
-- Compatible con cápsulas LOR Espresso, LOR Barista, Nespresso y la mayoría de cápsulas compatibles con Nespresso
 - Prepara 2 cafés a la vez o 1 café doble en una taza
-- Cafetera de cápsulas L’OR Barista con acabado premium y espumador de leche en frío y en caliente
-- Crea y personaliza tu café favorito con el menú completo de cafés: ristretto, espresso, lungo, cappuccino, latte machiatto y más
+- Compatible con cápsulas LOR Espresso, LOR Barista, Nespresso y la mayoría de cápsulas compatibles con Nespresso
 - La tecnología de reconocimiento de cápsulas detecta automáticamente el tamaño y tipo de cápsula
+- Crea y personaliza tu café favorito con el menú completo de cafés: ristretto, espresso, lungo, cappuccino, latte machiatto y más
+- Incluye un kit de degustación con 9 cápsulas (5 cápsulas Doble espresso L’OR Barista y 4 cápsulas L’OR Espresso)
+- Cafetera de cápsulas L’OR Barista con acabado premium y espumador de leche en frío y en caliente
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07M93GTFQ/?tag=tolees-21)
