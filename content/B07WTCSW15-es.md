@@ -28,10 +28,10 @@ Tienes [Note d Espresso Italiano - Cápsulas de café arábica compatibles con c
 
 ℹ️:
 
-- Práctica caja de 100 Cápsulas de nueva generación totalmente certificadas con barrera de oxígeno (no es necesario guardarlas en bolsas, pueden permanecer afuera en la cocina sin ningún problema)
-- El delicioso sabor y aroma del café recién hecho en una pequeña cápsula de 5,6 gramos
+- Exclusivamente Compatible con cafeteras Nespresso* (* No registrado en Amazon EU S.a.r.l.)
 - Un café 100 % natural tostado en Italia
 - Dosis recomendada de agua 25 ml - 40 ml
-- Exclusivamente Compatible con cafeteras Nespresso* (* No registrado en Amazon EU S.a.r.l.)
+- El delicioso sabor y aroma del café recién hecho en una pequeña cápsula de 5,6 gramos
+- Práctica caja de 100 Cápsulas de nueva generación totalmente certificadas con barrera de oxígeno (no es necesario guardarlas en bolsas, pueden permanecer afuera en la cocina sin ningún problema)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07WTCSW15/?tag=tolees-21)
