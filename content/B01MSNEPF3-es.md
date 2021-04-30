@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Orbegozo CG 4014 - Cafetera goteo 6 taza con un 19.21 % de descuento'
-date: 2021-04-28 09:57:14
+date: 2021-04-30 06:38:20
 image: 'https://m.media-amazon.com/images/I/41TVEYpp0eL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ En este momento está [Orbegozo CG 4014 - Cafetera goteo 6 tazas  jarra de crist
 
 🔎:
 
+- Mantiene el café caliente hasta 30 minutos
 - Depósito con indicador de nivel de agua
 - Filtro permanente extraíble
-- Cafetera de goteo con capacidad 6 tazas
-- Mantiene el café caliente hasta 30 minutos
 - Piloto luminoso de funcionamient
+- Cafetera de goteo con capacidad 6 tazas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01MSNEPF3/?tag=tolees-21)
