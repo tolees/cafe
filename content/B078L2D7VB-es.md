@@ -28,7 +28,7 @@ Ahora mismo tienes [Melitta Barista TS Smart 860-100 Cafetera automática  1450 
 
 🔎:
 
-- Depósito de agua: 1,8 l; Recipiente de café: 2 x 135 g; Peso: 10,4 kg; Potencia [W]: 1450; Incluye [barra]: 15;
 - Producir: Melitta; Color: acero; Tipo de cafetera: automática; Filamentos: acero;
+- Depósito de agua: 1,8 l; Recipiente de café: 2 x 135 g; Peso: 10,4 kg; Potencia [W]: 1450; Incluye [barra]: 15;
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B078L2D7VB/?tag=tolees-21)
