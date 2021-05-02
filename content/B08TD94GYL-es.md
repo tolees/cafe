@@ -28,10 +28,10 @@ Tienes [Nescafé DOLCE GUSTO Café COCO LATTE - Pack De 3 x 12 cápsulas - Total
 
 🔎:
 
-- Cápsulas 100% reciclables depositándolas en nuestros puntos de recogida Nescafé Dolce Gusto
-- Cápsulas de café inteligentes; su sellado hermético mantiene el café fresco conservando todos sus aromas
 - Descubre más de 30 variedades de cápsulas de café, té, chocolate y especialidades de espresso con leche y bebidas vegetales
 - Equilibrio entre los cremosos matices de la almendra y las aromáticas notas de los granos de café del sudeste asiático que han sido seleccionados y tostados
+- Cápsulas de café inteligentes; su sellado hermético mantiene el café fresco conservando todos sus aromas
 - Café gourmet seleccionando con el sabor Nescafé Dolce Gusto
+- Cápsulas 100% reciclables depositándolas en nuestros puntos de recogida Nescafé Dolce Gusto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08TD94GYL/?tag=tolees-21)
