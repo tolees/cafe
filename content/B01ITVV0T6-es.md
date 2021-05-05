@@ -28,11 +28,11 @@ Está [Nescafé Dolce Gusto Café con Leche Descafeinado  16 Cápsulas](https://
 
 ℹ️:
 
-- Café gourmet seleccionando los orígenes de mayor calidad con el inconfundible sabor NESCAFÉ Dolce Gusto
+- Cápsulas de café inteligentes. Su sellado hermético mantiene el café fresco conservando todos sus aromas.
 - Cápsulas 100% reciclables depositándolas en nuestros puntos de recogida NESCAFÉ Dolce Gusto.
-- Las cápsulas Nescafé Dolce Gusto café con leche descafeinado tienen un sabor tostado y aromático,
+- Café gourmet seleccionando los orígenes de mayor calidad con el inconfundible sabor NESCAFÉ Dolce Gusto
 - Descubre nuestras más de 30 variedades de cápsulas de café, té, chocolate y especialidades de espresso con leche.
 - Máquina Express: sistema de café profesional de hasta 15 bares de presión.
-- Cápsulas de café inteligentes. Su sellado hermético mantiene el café fresco conservando todos sus aromas.
+- Las cápsulas Nescafé Dolce Gusto café con leche descafeinado tienen un sabor tostado y aromático,
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01ITVV0T6/?tag=tolees-21)
