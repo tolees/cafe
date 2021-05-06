@@ -28,10 +28,10 @@ Tienes [STARBUCKS Caffè Verona De Nespresso Cápsulas De Café De Tostado Inten
 
 ℹ️:
 
-- Cápsulas de café compatibles con máquinas NESPRESSO, cápsulas no compatibles para las máquinas Nespresso Vertuo
 - Cápsulas de café de STARBUCKS de NESPRESSO con un dulzor tostado y toques de cacao
-- Seductora mezcla de granos con un toque de tostado italiano para obtener un café intenso, con carácter y dulzor
 - Café equilibrado e intenso con una textura de cacao
+- Seductora mezcla de granos con un toque de tostado italiano para obtener un café intenso, con carácter y dulzor
+- Cápsulas de café compatibles con máquinas NESPRESSO, cápsulas no compatibles para las máquinas Nespresso Vertuo
 - Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07WZV3WQ5/?tag=tolees-21)
