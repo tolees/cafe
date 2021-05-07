@@ -29,9 +29,9 @@ Está [Note d Espresso Italiano - Cápsulas Sistema Nespresso  compatibles con c
 ℹ️:
 
 - Dosis recomendada de agua 80 ml
-- Hechos en Italia
 - Práctica caja de 100 Cápsulas de nueva generación totalmente certificadas con barrera de oxígeno (no es necesario guardarlas en bolsas, pueden permanecer afuera en la cocina sin ningún problema)
 - El delicioso aroma y sabor de la avellana en una práctica cápsula de 7 gramos
+- Hechos en Italia
 - Exclusivamente Compatible con cafeteras Nespresso* (* No registrado en Amazon EU S.a.r.l.)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07X35K1TY/?tag=tolees-21)
