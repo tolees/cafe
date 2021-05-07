@@ -28,12 +28,12 @@ En este momento está [Philips HD7767/00 Grind und Brew Filter - Cafetera de pl�
 
 🔎:
 
-- Para un aroma óptimo, el aroma Twister distribuye uniformemente el café en la tetera
 - Innovador indicador de nivel de agua con guía de luz, tiempo de preparación para una jarra (1, 2 L/10 tazas) – 10 minutos.
-- Molinillo cónico duradero con grado de molienda seleccionable para hasta 30.000 tazas de café
-- Función de apagado automático después de 30 minutos (directiva de la UE), función de mantenimiento en caliente ajustable de 10 a 120 minutos
-- Tapa AromaSeal para granos frescos de larga duración
 - Gracias al Grind&Brew HD7767/00 con mecanismo de acero inoxidable integrado, puedes preparar tu café de granos recién molidos
 - Fácil de usar gracias al botón múltiple (selección de la fuerza del café, número de tazas, mecanismo de molienda)
+- Molinillo cónico duradero con grado de molienda seleccionable para hasta 30.000 tazas de café
+- Para un aroma óptimo, el aroma Twister distribuye uniformemente el café en la tetera
+- Tapa AromaSeal para granos frescos de larga duración
+- Función de apagado automático después de 30 minutos (directiva de la UE), función de mantenimiento en caliente ajustable de 10 a 120 minutos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B079GYWYY8/?tag=tolees-21)
