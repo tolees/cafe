@@ -28,10 +28,10 @@ En este momento está [Bialetti New Moka Induction  Cafetera apta para inducció
 
 🔎:
 
-- Moka Induction, la cafetera también apta para inducción; apta para todas las placas
 - Pruébalo con el café molido Perfetto Moka de Bialetti
-- Tecnologia bi-layer para un café adecuado; la capa externa de acero de la caldera garantiza su funcionamiento también en placas de cocción por inducción, mientras que la capa interna de aluminio asegura una distribución homogénea del calor
 - Cafetera 6 tazas: 280 ml de café
 - Como el café de la clásica moka; el recolector de aluminio, material con el que se fabrica la clásica Moka, combinado con la caldera bi-layer, garantiza un café delicioso como el café preparado con la Moka tradicional
+- Moka Induction, la cafetera también apta para inducción; apta para todas las placas
+- Tecnologia bi-layer para un café adecuado; la capa externa de acero de la caldera garantiza su funcionamiento también en placas de cocción por inducción, mientras que la capa interna de aluminio asegura una distribución homogénea del calor
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08BPBBK8B/?tag=tolees-21)

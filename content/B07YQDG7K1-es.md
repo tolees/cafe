@@ -28,9 +28,9 @@ Está [Café FORTALEZA - Cápsulas de Café Con Leche Compatibles con Dolce Gust
 
 ℹ️:
 
+- Cápsulas de café compatibles con el sistema Dolce Gusto
+- Recomendamos guardar estas cápsulas de café en un lugar fresco, seco y protegido del sol.
 - Café soluble en cápsulas
 - País de origen: España
-- Recomendamos guardar estas cápsulas de café en un lugar fresco, seco y protegido del sol.
-- Cápsulas de café compatibles con el sistema Dolce Gusto
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07YQDG7K1/?tag=tolees-21)
