@@ -28,8 +28,8 @@ Ahora mismo tienes [Russell Hobbs 700131 Luna - Cafetera compatible con 23240-56
 
 🔎:
 
-- Jarra de café de cristal
-- Gran capacidad de 1,5 litros o 12 tazas
 - Compatible con la referencia de cafetera Luna 23240-56, 23241-56, 24320-56, 25151-56.
+- Gran capacidad de 1,5 litros o 12 tazas
+- Jarra de café de cristal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07KKNBDNW/?tag=tolees-21)
