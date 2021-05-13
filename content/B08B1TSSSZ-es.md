@@ -28,12 +28,12 @@ Está [Dolce Gusto Krups - Pack Krups Dolce Gusto Mini Me KP1201 - Cafetera de c
 
 ℹ️:
 
-- Tan fácil como insertar una cápsula y seleccionar la dosificación de tu bebida con la función Play&Select que te permitirá crear el café a tu medida; se parará automáticamente en el momento adecuado
-- Incluye 90 cápsulas de café con leche para que puedas disfrutar del café Lungo desde la primera gota
 - Incluye bandeja ajustable para todo tipo de bebidas lo que permite utilizar diversos tamaños de tazas o vasos para disfrutar de tu bebida
-- Cafetera automática de sistema de cápsulas de 15 bares de presión; Capaz de hacer café de calidad profesional, caliente desde la primera taza gracias a su sistema Thermoblock
 - Tamaño compacto de 16 x 31 x 24 cm y con mucho estilo con una tecnología capaz de preparar más de 35 variedades de café y otras bebidas
-- Este pack contiene cafetera y 48 cápsulas de café con leche; El equilibrio entre la leche más dulce y cremosa y el aroma e intensidad del café más puro
+- Tan fácil como insertar una cápsula y seleccionar la dosificación de tu bebida con la función Play&Select que te permitirá crear el café a tu medida; se parará automáticamente en el momento adecuado
 - Disfruta de más de 30 creaciones de café de calidad; Desde el carácter de un Espresso Intenso o el cuerpo de un Lungo, hasta el espumoso Cappuccino; además del chocolate o los tés; Su cable es rojo
+- Incluye 90 cápsulas de café con leche para que puedas disfrutar del café Lungo desde la primera gota
+- Cafetera automática de sistema de cápsulas de 15 bares de presión; Capaz de hacer café de calidad profesional, caliente desde la primera taza gracias a su sistema Thermoblock
+- Este pack contiene cafetera y 48 cápsulas de café con leche; El equilibrio entre la leche más dulce y cremosa y el aroma e intensidad del café más puro
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08B1TSSSZ/?tag=tolees-21)
