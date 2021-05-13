@@ -28,9 +28,9 @@ Está [Comely - Apliques de Pared Vintage Metal Rusticos Lámpara de Pared Moder
 
 ℹ️:
 
+- Lámpara vintage perfecta para dormitorio sala de estar hoteles restaurante bar cafetería pasillo escaleras etc.
 - Diámetro: 8.07in (20.5cm); Altura: 5.12in (13cm). Tipo de tornillo E27, 110V-240V, 40 vatios máximo, la bombilla de Edison o casquillo de la bombilla estándar del tornillo E27 (bombilla no incluida)
 - Las lámparas de pared, fácil instalación El cable se encuentra en la base de la lámpara. (Nota: sin enchufe, debe estar cableado). Se incluyen los tornillos de montaje y las instrucciones de montaje
-- Lámpara vintage perfecta para dormitorio sala de estar hoteles restaurante bar cafetería pasillo escaleras etc.
 - Durable, base y soporte de hierro forjado, la superficie adopta tecnología de proceso de horneado, lo suficientemente fuerte y resistente a la corrosión
 - Aplique de pared de diseño industrial delicado y retro, simplicidad, personalidad, aplique vintage y moderno
 
