@@ -28,10 +28,10 @@ En este momento está [Nescafé DOLCE GUSTO Café LATTE MACCHIATO CARAMEL - Pack
 
 🔎:
 
-- Cápsulas de café inteligentes; su sellado hermético mantiene el café fresco conservando todos sus aromas
-- Descubre más de 30 variedades de cápsulas de café, té, chocolate y especialidades de espresso con leche
-- Café gourmet seleccionando los orígenes de mayor calidad con el inconfundible sabor Nescafé Dolce Gusto
 - Las cápsulas Nescafé Dolce Gusto Caramel Macchiato incluyen granos brasileños y colombianos, y una cápsula de leche entera muy espumosa con un delicioso toque de caramelo
 - Cápsulas 100% reciclables depositándolas en nuestros puntos de recogida Nescafé Dolce Gusto
+- Café gourmet seleccionando los orígenes de mayor calidad con el inconfundible sabor Nescafé Dolce Gusto
+- Descubre más de 30 variedades de cápsulas de café, té, chocolate y especialidades de espresso con leche
+- Cápsulas de café inteligentes; su sellado hermético mantiene el café fresco conservando todos sus aromas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08QG1DCD3/?tag=tolees-21)
