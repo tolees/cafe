@@ -28,10 +28,10 @@ Tienes [STARBUCKS Blonde Espresso Roast De Nespresso Cápsulas De Café De Tosta
 
 🔎:
 
-- Cápsulas de café de STARBUCKS de NESPRESSO suave y envolvente
-- Con un sabor suave y ligero, se trata de nuestro tostado de café más delicado
-- Esta mezcla óptima de granos de Latinoamérica se ha tostado cuidadosamente para obtener un resultado envolvente y vibrante
-- Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
 - Cápsulas de café compatibles con máquinas NESPRESSO, cápsulas no compatibles para las máquinas Nespresso Vertuo
+- Esta mezcla óptima de granos de Latinoamérica se ha tostado cuidadosamente para obtener un resultado envolvente y vibrante
+- Con un sabor suave y ligero, se trata de nuestro tostado de café más delicado
+- Cápsulas de café de STARBUCKS de NESPRESSO suave y envolvente
+- Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07X63HBQ4/?tag=tolees-21)
