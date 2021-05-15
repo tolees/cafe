@@ -28,10 +28,10 @@ Tienes [Philips Daily Colection HD7435/20 - Cafetera de filtro con capacidad par
 
 🔎:
 
-- Sistema antigoteo para interrumpir el proceso de preparación del café cuando lo desees
-- Espiral Aroma para una distribución del aroma óptima
-- Interruptor de encendido LED
 - Piezas aptas para el lavavajillas para una limpieza fácil
+- Espiral Aroma para una distribución del aroma óptima
+- Sistema antigoteo para interrumpir el proceso de preparación del café cuando lo desees
+- Interruptor de encendido LED
 - Desconexión automática tras 30 minutos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00T4EZ09E/?tag=tolees-21)
