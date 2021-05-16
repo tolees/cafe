@@ -28,10 +28,10 @@ Ahora mismo tienes [Russell Hobbs Luna Copper - Cafetera de Goteo  Jarra Cafeter
 
 🔎:
 
-- Dispone de temporizador programable de 24 horas, placa calefactora automática y soporte de filtro lavable
-- Jarra de cristal para 14 tazas grandes y depósito de agua con capacidad para 1,8 litros
 - Cafetera de acero inoxidable pulido con detalles en cobre
-- Tecnología de rociado avanzada que se encarga de extraer toda la esencia del café, logrando un excelente sabor
+- Dispone de temporizador programable de 24 horas, placa calefactora automática y soporte de filtro lavable
 - Opción de preparación de 1 a 4 tazas
+- Tecnología de rociado avanzada que se encarga de extraer toda la esencia del café, logrando un excelente sabor
+- Jarra de cristal para 14 tazas grandes y depósito de agua con capacidad para 1,8 litros
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B078YXY7SX/?tag=tolees-21)
