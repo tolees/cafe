@@ -28,11 +28,11 @@ Está [Monix M620009 Cafetera  Aluminio  Plata  9 tazas](https://www.amazon.es/d
 
 ℹ️:
 
-- Acabado aluminio efecto mate
-- Exterior súper resistente y diseño interior del calderín sin cantos para una limpieza más cómoda
 - Cafetera con asa de baquelita termo-resistente ergonómica para un agarre fácil y seguro
 - Apta para todo tipo de encimeras, excepto inducción. No limpiar en lavavajillas
+- Exterior súper resistente y diseño interior del calderín sin cantos para una limpieza más cómoda
 - Descubre cómo cuidar tu menaje antiadherente en el apartado Guia de usuario de esta ficha
+- Acabado aluminio efecto mate
 - Capacidad para 9 tazas de café - 450 ml
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B008KO2DH6/?tag=tolees-21)
