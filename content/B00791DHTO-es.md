@@ -28,10 +28,10 @@ Está [Orbegozo KFM 330 – Cafetera italiana de aluminio  3 tazas de capacidad 
 
 ℹ️:
 
-- Válvula de seguridad
 - La capacidad de 3 tazas es para tazas de café de 60 ml.
-- Interior de fácil limpieza
-- Se utiliza en cocinas a gas, eléctricas y de vitrocerámica
 - Mango ergonómico
+- Se utiliza en cocinas a gas, eléctricas y de vitrocerámica
+- Interior de fácil limpieza
+- Válvula de seguridad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00791DHTO/?tag=tolees-21)
