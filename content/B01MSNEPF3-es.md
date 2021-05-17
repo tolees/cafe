@@ -28,10 +28,10 @@ En este momento está [Orbegozo CG 4014 - Cafetera goteo 6 tazas  jarra de crist
 
 🔎:
 
+- Depósito con indicador de nivel de agua
 - Piloto luminoso de funcionamient
 - Filtro permanente extraíble
 - Cafetera de goteo con capacidad 6 tazas
-- Depósito con indicador de nivel de agua
 - Mantiene el café caliente hasta 30 minutos
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01MSNEPF3/?tag=tolees-21)
