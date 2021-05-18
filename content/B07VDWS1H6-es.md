@@ -29,9 +29,9 @@ Está [AUA - Lámpara de Techo Vintage Industrial  Retro Lámpara Colgante de Te
 ℹ️:
 
 - Dimensión: 15 cm (L) * 15 cm (W) * 18 cm (H); 110V-240V, máximo 40W, base E26/E27, (bombillas no incluidas).
-- Estilo industrial y diseño retro de estilo vintage, clásico y tradicional, protege bien la bombilla y maximiza su luz.
-- Hecho de hierro integrado de alta calidad, cuerpo de lámpara de pintura de alta temperatura, barniz multicapa anticorrosión y antioxidante.
-- Aplicación: cocina, pasillo, dormitorio, comedor, sala de estar.
 - Incluye la instalación de accesorios, solo necesita un ensamblaje simple del cuerpo de la lámpara, fácil instalación.
+- Aplicación: cocina, pasillo, dormitorio, comedor, sala de estar.
+- Hecho de hierro integrado de alta calidad, cuerpo de lámpara de pintura de alta temperatura, barniz multicapa anticorrosión y antioxidante.
+- Estilo industrial y diseño retro de estilo vintage, clásico y tradicional, protege bien la bombilla y maximiza su luz.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07VDWS1H6/?tag=tolees-21)
