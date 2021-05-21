@@ -28,10 +28,10 @@ Ahora mismo tienes [FRHOME - Nespresso 100 Càpsulas compatibles - Il Caffè Ita
 
 🔎:
 
-- El paquete contiene 10 cajas de 10 cápsulas cada compatibles con todas las máquinas Nespresso
 - Intensidad 10 su 13 - rico e intenso sabor
 - Mezcla estudiada por los maestros tostadores desde 1870
 - Composición 90% robusta, 10% arabica
+- El paquete contiene 10 cajas de 10 cápsulas cada compatibles con todas las máquinas Nespresso
 - Paquete de 100 cápsulas compatibles con Nespresso Roma
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07F7JKJLY/?tag=tolees-21)
