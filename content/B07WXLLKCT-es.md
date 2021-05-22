@@ -28,10 +28,10 @@ Ahora mismo tienes [Note d Espresso Italiano - Cápsulas de manzanilla con miel 
 
 🔎:
 
-- Practical pack of 40 Cápsulas de nueva generación totalmente certificadas con barrera de oxígeno (no es necesario guardarlas en bolsas, pueden permanecer afuera en la cocina sin ningún problema)
-- El delicioso sabor y aroma de la manzanilla con miel y naranja en una pequeña cápsula de 6,5 gramos
-- Exclusivamente Compatible con cafeteras Nespresso* (* No registrado en Amazon EU S.a.r.l.)
 - Hechos en Italia
+- Practical pack of 40 Cápsulas de nueva generación totalmente certificadas con barrera de oxígeno (no es necesario guardarlas en bolsas, pueden permanecer afuera en la cocina sin ningún problema)
 - Dosis recomendada de agua 100 ml
+- Exclusivamente Compatible con cafeteras Nespresso* (* No registrado en Amazon EU S.a.r.l.)
+- El delicioso sabor y aroma de la manzanilla con miel y naranja en una pequeña cápsula de 6,5 gramos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WXLLKCT/?tag=tolees-21)
