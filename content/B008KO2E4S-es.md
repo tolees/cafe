@@ -28,11 +28,11 @@ Tienes [Monix Vitro Noir – Cafetera Italiana de aluminio  capacidad 6 tazas  a
 
 🔎:
 
-- Capacidad para 6 tazas de café - 300 ml
 - Exterior resistente y diseño interior del calderín sin cantos para una limpieza más cómoda
+- Descubre cómo cuidar tu menaje antiadherente en el apartado Guia de usuario de esta ficha
+- Capacidad para 6 tazas de café - 300 ml
 - Acabado negro con efecto mate
 - Apta para todo tipo de encimeras, excepto inducción
 - Cafetera con asa de baquelita termo-resistente ergonómica para un agarre fácil y seguro
-- Descubre cómo cuidar tu menaje antiadherente en el apartado Guia de usuario de esta ficha
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B008KO2E4S/?tag=tolees-21)
