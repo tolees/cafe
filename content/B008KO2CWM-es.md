@@ -29,10 +29,10 @@ Ahora mismo tienes [Monix M620001 Cafetera  Aluminio  Plata  1 tazas](https://ww
 🔎:
 
 - Cafetera con asa de baquelita termo-resistente ergonómica para un agarre fácil y seguro
-- Capacidad para 1 taza de café
 - Exterior súper resistente y diseño interior del calderín sin cantos para una limpieza más cómoda
+- Capacidad para 1 taza de café
+- Apta para todo tipo de encimeras, excepto inducción. No limpiar en lavavajillas
 - Descubre cómo cuidar tu menaje antiadherente en el apartado Guia de usuario de esta ficha
 - Acabado aluminio efecto mate
-- Apta para todo tipo de encimeras, excepto inducción. No limpiar en lavavajillas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B008KO2CWM/?tag=tolees-21)
