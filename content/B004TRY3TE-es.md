@@ -28,11 +28,11 @@ En este momento está [Dolce Gusto EDG200.B Cafetera Monodosis  1500 W  plástic
 
 🔎:
 
+- Sistema de seguridad: sin el portacápsulas no cae agua
+- Sistema thermoblock que permite un calientamiento muy rápido
+- Recoge gotas ajustable con tapa de acero inoxidable para cualquier tipo de taza o vaso
 - Depósito de agua extraíble (0,6 litros)
 - 15 bares de presión automática regulable
 - Palanca mecánica para regular la temperatura del agua
-- Recoge gotas ajustable con tapa de acero inoxidable para cualquier tipo de taza o vaso
-- Sistema thermoblock que permite un calientamiento muy rápido
-- Sistema de seguridad: sin el portacápsulas no cae agua
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B004TRY3TE/?tag=tolees-21)
