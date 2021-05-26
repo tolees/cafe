@@ -28,10 +28,10 @@ Ahora mismo tienes [Viitech Cápsula de café reutilizable rellenable  de acero 
 
 🔎:
 
-- Funcionamiento sencillo: llena el café en polvo, aprieta el café en polvo, aprieta la tapa, y no debe haber demasiado espacio entre la taza y la tapa. Ponlo en la máquina de café y haz tu café favorito en un minuto.
-- Reduce tus costes, más de 10 años de vida útil, menos de 0,01/vez. Ahorra dinero, ahorra la tierra. Proteger nuestra tierra es el deber de todos.
-- Prepara tu propio café saborizado y fresco, haz tu vida única.
 - Satisfacción 100%: tu satisfacción y comentarios positivos son muy importantes para nosotros. Si tienes cualquier problema con la cápsula de la cafetera de café, no dudes y llámenos a la primera vez. Siempre estamos esperando sinceramente tu pregunta.
+- Funcionamiento sencillo: llena el café en polvo, aprieta el café en polvo, aprieta la tapa, y no debe haber demasiado espacio entre la taza y la tapa. Ponlo en la máquina de café y haz tu café favorito en un minuto.
+- Prepara tu propio café saborizado y fresco, haz tu vida única.
+- Reduce tus costes, más de 10 años de vida útil, menos de 0,01/vez. Ahorra dinero, ahorra la tierra. Proteger nuestra tierra es el deber de todos.
 - Compatible con cafeteras Illy X9, X8, X7.1, Y5, Y3 y Y1.1.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08FRKD2T7/?tag=tolees-21)
