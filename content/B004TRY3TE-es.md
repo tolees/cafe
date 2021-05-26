@@ -1,32 +1,38 @@
 ---
 layout: post
-title: 'De Longhi Dolce Gusto Piccolo EDG200.B - con un 12.36 % de descuento'
-date: 2020-06-12 11:57:01
-image: 'https://m.media-amazon.com/images/I/41Q2-cbHhLL._SL400_.jpg'
+title: 'Dolce Gusto EDG200.B Cafetera Monodosis  con un 45.07 % de descuento'
+date: 2021-05-26 12:48:25
+image: 'https://m.media-amazon.com/images/I/41Q2-cbHhLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B004TRY3TE-es De Longhi Dolce Gusto Piccolo EDG200.B - Cafetera de...'
+slug: 'B004TRY3TE-es Dolce Gusto EDG200.B Cafetera Monodosis 1500 W plástico Negro'
 sku: 'B004TRY3TE-es'
-tags: [ 'cafetera','dolce','gusto', ]
-actualPrice: 78.0 EUR
+tags: [ 'Cafeteras individuales','Hogar y cocina','Máquinas cafeteras','Utensilios para café y té','cafetera','dolce','dolce gusto','gusto', ]
+actualPrice: 48.89 EUR
 currency: EUR
-price: 78.0
+price: 48.89
 comparePrice: 89.0 EUR
-prodname: 'De Longhi Dolce Gusto Piccolo EDG200.B - Cafetera de cápsulas  15 bares de presión  color negro'
+prodname: 'Dolce Gusto EDG200.B Cafetera Monodosis  1500 W  plástico  Negro'
 country: 'es'
 flag: '🇪🇸'
-brand: ''
+brand: 'Dolce Gusto'
 buyurl: 'https://www.amazon.es/dp/B004TRY3TE/?tag=tolees-21'
-descuento: '12.36'
-average: '66.32521739130435'
+descuento: '45.07'
+average: '65.59875'
 ---
 
-En este momento está [De Longhi Dolce Gusto Piccolo EDG200.B - Cafetera de cápsulas  15 bares de presión  color negro](https://www.amazon.es/dp/B004TRY3TE/?tag=tolees-21) a 78.0 EUR (original: 89.0 EUR) (12.36 %  de descuento) en el siguiente enlace!
+En este momento está [Dolce Gusto EDG200.B Cafetera Monodosis  1500 W  plástico  Negro](https://www.amazon.es/dp/B004TRY3TE/?tag=tolees-21) a 48.89 EUR (original: 89.0 EUR) (45.07 %  de descuento) en el siguiente enlace!
 
-[![De Longhi Dolce Gusto Piccolo EDG200.B -](https://m.media-amazon.com/images/I/41Q2-cbHhLL._SL400_.jpg)](https://www.amazon.es/dp/B004TRY3TE/?tag=tolees-21)
+[![Dolce Gusto EDG200.B Cafetera Monodosis ](https://m.media-amazon.com/images/I/41Q2-cbHhLL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B004TRY3TE/?tag=tolees-21)
 
 🔎:
 
+- 15 bares de presión automática regulable
+- Sistema thermoblock que permite un calientamiento muy rápido
+- Depósito de agua extraíble (0,6 litros)
+- Recoge gotas ajustable con tapa de acero inoxidable para cualquier tipo de taza o vaso
+- Sistema de seguridad: sin el portacápsulas no cae agua
+- Palanca mecánica para regular la temperatura del agua
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B004TRY3TE/?tag=tolees-21)
