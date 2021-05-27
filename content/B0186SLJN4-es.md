@@ -28,8 +28,8 @@ Tienes [Orbegozo KFE 660 - Cafetera italiana  3-6 tazas  apagado automático  ba
 
 🔎:
 
-- Capacidad de 3 a 6 tazas
 - Cafetera eléctrica de diseño clásico con 480 w de potencia
+- Capacidad de 3 a 6 tazas
 - Mantiene el café caliente hasta 30 minutos
 - Incorpora función de apagado automático
 
