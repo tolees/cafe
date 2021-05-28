@@ -28,11 +28,11 @@ En este momento está [Nescafé DOLCE GUSTO Cacao NESQUIK - Pack de 3 x 16 Cáps
 
 🔎:
 
-- Café gourmet seleccionando los orígenes de mayor calidad con el inconfundible sabor NESCAFÉ Dolce Gusto
 - Cápsulas de café inteligentes Su sellado hermético mantiene el café fresco conservando todos sus aromas
-- Descubre nuestras más de 30 variedades de cápsulas de café, té, chocolate y especialidades de espresso con leche
-- Máquina Express: sistema de café profesional de hasta 15 bares de presión
 - Las cápsulas Dolce Gusto Nesquik tienen el sabor de siempre con una deliciosa capa de crema
+- Máquina Express: sistema de café profesional de hasta 15 bares de presión
 - Cápsulas 100% reciclables depositándolas en nuestros puntos de recogida NESCAFÉ Dolce Gusto
+- Café gourmet seleccionando los orígenes de mayor calidad con el inconfundible sabor NESCAFÉ Dolce Gusto
+- Descubre nuestras más de 30 variedades de cápsulas de café, té, chocolate y especialidades de espresso con leche
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07D2X8QVH/?tag=tolees-21)
