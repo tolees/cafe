@@ -28,10 +28,10 @@ Tienes [Tomkity - Vaso Termico Café Termo Taza Botella Taza Coche Acero Inoxida
 
 🔎:
 
-- 【Desmontable para limpiarlo】: El paquete incluye Cepillo de esponja, es súper fácil de desmontar para limpiarlo a fondo. en la mochila.
-- 【Aguanta el calor horas】: Guarda el calor sin problemas durante más de 6-7 horas calentando bien la bebida.
-- 【Cierra hermético】: Es hermetico y no gotea, líquido se mantiene bien hermético dentro del termo, perfecto para llevarlo en la bolsa.
 - 【Cómodo para beber】: Con pulsador con bloqueo para evitar abrirlo sin querer.
+- 【Cierra hermético】: Es hermetico y no gotea, líquido se mantiene bien hermético dentro del termo, perfecto para llevarlo en la bolsa.
+- 【Aguanta el calor horas】: Guarda el calor sin problemas durante más de 6-7 horas calentando bien la bebida.
+- 【Desmontable para limpiarlo】: El paquete incluye Cepillo de esponja, es súper fácil de desmontar para limpiarlo a fondo. en la mochila.
 - 【Tamaño ideal】: Capacidad: 380 ml, Medida: 17.5cm (H) x6.5cm (D), es un tamaño perfecto, entra en el posavasos del coche.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07MCS89MD/?tag=tolees-21)
