@@ -28,9 +28,9 @@ Tienes [De longhi Magnifica Esam 4200.S - Cafetera superautomática  1450w  sist
 
 ℹ️:
 
-- Se pueden preparar dos tazas de café con una sola preparación de café
 - La máquina se puede usar tanto con granos de café como con café molido
-- Calentamiento instantáneo
 - Función de ahorro energético, stand-by, y apagado automático
+- Calentamiento instantáneo
+- Se pueden preparar dos tazas de café con una sola preparación de café
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B001EOMZ5E/?tag=tolees-21)
