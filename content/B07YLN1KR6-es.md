@@ -29,9 +29,9 @@ Está [Cecotec Cafetera express Power Espresso 20 Tradizionale para espressos y 
 ℹ️:
 
 - Incluye vaporizador orientable con protección para uso, para espumar leche, emitir agua caliente para infusiones y preparar cappuccinos
-- Bandeja de goteo desmontable para facilitar la limpieza. Sistema de ahorro energético con apagado automático y stand-by. Acabados en acero inoxidable.
-- Cafetera express para café espresso y cappuccino ,1350 W ,diseño vintage. Bomba italiana de presión 20 bares,consigue la mejor crema y máximo aroma.
-- Brazo portafiltros con doble salida y dos filtros.Depósito de agua extraíble de 1,5 litros. Incluye cucharilla dosificadora con prensador para el café
 - Sistema de rápido calentamiento por Thermoblock. Manómetro de control PressurePro para comprobar la presión en tiempo real.
+- Brazo portafiltros con doble salida y dos filtros.Depósito de agua extraíble de 1,5 litros. Incluye cucharilla dosificadora con prensador para el café
+- Cafetera express para café espresso y cappuccino ,1350 W ,diseño vintage. Bomba italiana de presión 20 bares,consigue la mejor crema y máximo aroma.
+- Bandeja de goteo desmontable para facilitar la limpieza. Sistema de ahorro energético con apagado automático y stand-by. Acabados en acero inoxidable.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07YLN1KR6/?tag=tolees-21)
