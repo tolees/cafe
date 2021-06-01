@@ -28,10 +28,10 @@ Tienes [DeLonghi EC221.CD Cafetera de bomba tradicional  15 bar de presión  dep
 
 ℹ️:
 
-- Espumador de leche, para hacer un perfecto Cappuccino
-- Función Autoapagado
-- Deposito de agua de 1L
-- Uso con café molido o filtros 2 en 1 monodosis
 - Presión de 15 bar
+- Uso con café molido o filtros 2 en 1 monodosis
+- Espumador de leche, para hacer un perfecto Cappuccino
+- Deposito de agua de 1L
+- Función Autoapagado
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B003YC1EB0/?tag=tolees-21)
