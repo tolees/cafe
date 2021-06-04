@@ -28,10 +28,10 @@ Ahora mismo tienes [Tassimo Coffee Kenco Bundle - Kenco Americano Smooth / Ameri
 
 🔎:
 
-- Compatible con la cafetera Tassimo
-- 10 paquetes, 160 porciones en total
-- 4 x Café Tassimo Puro Colombiano (64 Bebidas)
 - 2 x Tassimo Coffee Americano Smooth (32 bebidas), 4 x Tassimo Coffee Americano Grande (64 bebidas)
 - Tassimo Coffee Kenco Bundle - Llena taza grande
+- 10 paquetes, 160 porciones en total
+- 4 x Café Tassimo Puro Colombiano (64 Bebidas)
+- Compatible con la cafetera Tassimo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08CRW1ZH7/?tag=tolees-21)
