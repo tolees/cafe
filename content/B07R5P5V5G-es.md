@@ -28,9 +28,9 @@ Tienes [Nescafé DOLCE GUSTO Ristretto BARISTA - Pack de 3 x 16 Cápsulas - Tota
 
 ℹ️:
 
-- Aprecia el sabor, tono y el aroma de este ristretto; una deliciosa taza de café
-- Descubre nuestras más de 30 variedades de cápsulas de café, té, chocolate y idades de espresso con leche
-- Cápsulas inteligentes; su sellado hermético mantiene el café fresco conservando todos sus aromas
 - Café gourmet seleccionando los orígenes de mayor calidad con el inconfundible sabor Nescafé Dolce Gusto
+- Cápsulas inteligentes; su sellado hermético mantiene el café fresco conservando todos sus aromas
+- Descubre nuestras más de 30 variedades de cápsulas de café, té, chocolate y idades de espresso con leche
+- Aprecia el sabor, tono y el aroma de este ristretto; una deliciosa taza de café
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07R5P5V5G/?tag=tolees-21)
