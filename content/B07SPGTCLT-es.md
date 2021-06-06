@@ -28,13 +28,13 @@ Ahora mismo tienes [TM Electron TMPCF020R Mini cafetera de Goteo con Molinillo G
 
 🔎:
 
-- Servicio técnico en españa; con la garantía de tm electron, tu marca española de confianza en pequeño electrodoméstico y en tu hogar; tm electron, innovamos en lo cotidiano
-- Mini cafetera de goteo con molinillo eléctrico integrado para que puedas moler en casa tu café en grano favorito o, si lo prefieres, con café ya molido tú eliges
-- Debajo de la jarra se encuentra una placa calentadora que mantendrá tu café caliente durante mucho más tiempo conservando así todo su aroma y sabor
 - En el frontal se encuentra el selector de cantidad para el café en grano: elige entre las 2 posiciones de grano de café para preparar una jarra entera o solo media
-- El filtro de café es permanente y lavable de forma que no tengas que volver a usar filtros de papel desechables; ahorra dinero y genera menos residuos
+- Debajo de la jarra se encuentra una placa calentadora que mantendrá tu café caliente durante mucho más tiempo conservando así todo su aroma y sabor
 - Coloca la ruleta selectora en la tercera opción y las cuchillas no se accionarán; podrás usar tu café previamente molido y preparar una jarra entera de delicioso café
-- Las cuchillas del potente molinillo incorporado a la cafetera están fabricadas en acero inoxidable por lo que no pierden el filo con el tiempo y siempre tendrás una molienda ideal
+- Servicio técnico en españa; con la garantía de tm electron, tu marca española de confianza en pequeño electrodoméstico y en tu hogar; tm electron, innovamos en lo cotidiano
 - Jarra de cristal con gran capacidad que te permitirá preparar cada vez hasta 4 tazas del mejor café; gracias a sus reducidas dimensiones te permite ahorrar espacio en tu cocina
+- El filtro de café es permanente y lavable de forma que no tengas que volver a usar filtros de papel desechables; ahorra dinero y genera menos residuos
+- Mini cafetera de goteo con molinillo eléctrico integrado para que puedas moler en casa tu café en grano favorito o, si lo prefieres, con café ya molido tú eliges
+- Las cuchillas del potente molinillo incorporado a la cafetera están fabricadas en acero inoxidable por lo que no pierden el filo con el tiempo y siempre tendrás una molienda ideal
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07SPGTCLT/?tag=tolees-21)
