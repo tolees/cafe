@@ -28,10 +28,10 @@ Tienes [Nescafé DOLCE GUSTO Café LATTE MACHIATTO - Pack De 3 x 16 cápsulas - 
 
 🔎:
 
-- Cápsulas 100% reciclables depositándolas en nuestros puntos de recogida Nescafé Dolce Gusto
-- Máquina Express: sistema de café profesional de hasta 15 bares de presión
 - Café gourmet seleccionando los orígenes de calidad con el inconfundible sabor Nescafé Dolce Gusto
+- Máquina Express: sistema de café profesional de hasta 15 bares de presión
 - Descubre nuestras más de 30 variedades de cápsulas de café, té, chocolate y especialidades de espresso con leche
+- Cápsulas 100% reciclables depositándolas en nuestros puntos de recogida Nescafé Dolce Gusto
 - Cápsulas de café inteligentes; su sellado hermético mantiene el café fresco conservando todos sus aromas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08DYYC44Z/?tag=tolees-21)
