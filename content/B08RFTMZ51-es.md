@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'by Amazon Cápsulas Lungo  compatibles co al 6.28 % de descuento'
-date: 2021-05-26 10:53:00
+title: 'by Amazon Cápsulas Lungo  compatibles co al 19.36 % de descuento'
+date: 2021-06-08 17:03:20
 image: 'https://m.media-amazon.com/images/I/41Ev1XgIniS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,33 +9,33 @@ author: 'tole.es'
 slug: 'B08RFTMZ51-es by Amazon Cápsulas Lungo compatibles con Nespresso - 100...'
 sku: 'B08RFTMZ51-es'
 tags: [ 'Alimentación y bebidas','Café y expreso','Café, té y bebidas','Cápsulas de café','by amazon','nespresso', ]
-actualPrice: 10.59 EUR
+actualPrice: 8.79 EUR
 currency: EUR
-price: 10.59
-comparePrice: 11.3 EUR
+price: 8.79
+comparePrice: 10.9 EUR
 prodname: 'by Amazon Cápsulas Lungo  compatibles con Nespresso - 100 cápsulas  2 x 50 '
 country: 'es'
 flag: '🇪🇸'
 brand: 'by Amazon'
 buyurl: 'https://www.amazon.es/dp/B08RFTMZ51/?tag=tolees-21'
-descuento: '6.28'
-average: '10.59'
+descuento: '19.36'
+average: '10.1266666666667'
 ---
 
-Está [by Amazon Cápsulas Lungo  compatibles con Nespresso - 100 cápsulas  2 x 50 ](https://www.amazon.es/dp/B08RFTMZ51/?tag=tolees-21) con 6.28 de descuento por 10.59 EUR (original: 11.3 EUR) en el siguiente enlace!
+Está [by Amazon Cápsulas Lungo  compatibles con Nespresso - 100 cápsulas  2 x 50 ](https://www.amazon.es/dp/B08RFTMZ51/?tag=tolees-21) con 19.36 de descuento por 8.79 EUR (original: 10.9 EUR) en el siguiente enlace!
 
 [![by Amazon Cápsulas Lungo  compatibles co](https://m.media-amazon.com/images/I/41Ev1XgIniS._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08RFTMZ51/?tag=tolees-21)
 
 ℹ️:
 
+- Fuerza del café: 6/10
 - Tostado y envasado en Bélgica
+- Café molido de tueste natural en cápsulas
+- Asegurarse siempre de seguir las instrucciones del fabricante de la cafetera. Conservar en un lugar fresco y seco
 - RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
 - Cápsulas compatibles con Nespresso* (* No registrada por Amazon EU S.a.r.l.) No es compatible con las máquinas Nespresso Vertuo
 - Envasado en atmósfera protectora para mantener su frescura
-- Café molido de tueste natural en cápsulas
-- Fuerza del café: 6/10
-- Asegurarse siempre de seguir las instrucciones del fabricante de la cafetera. Conservar en un lugar fresco y seco
-- 100% Arabica
 - Dulce y suave
+- 100% Arabica
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08RFTMZ51/?tag=tolees-21)
