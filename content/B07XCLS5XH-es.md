@@ -28,10 +28,10 @@ Tienes [Resnnih Cafetera Italiana  Cafetera Espresso Induccion en Acero Inoxidab
 
 ℹ️:
 
-- ☕CAPACIDAD. Gracias a su capacidad del agua de 300 ml, se puede obtener seis tazas de café de una vez. (50 ml por una taza)
-- ☕DISEÑO. Tamaño de 21 x 13,5 x 12 centímetros. Peso de 0,6 kilos por lo que es conveniente para llevarla donde quiera.
-- ☕FUNCIONAMIENTO. Sirve tanto para cocina a gas como, eléctrica y inducción. Sólo 3-5 minutos, se puede degustar el rico café.(Nota: Es normal que el acero inoxidable se vuelva negro después del uso en el fuego, no afecta el uso, se puede limpiar con un limpiador de acero inoxidable)
 - ☕LIMPIEZA. La máquina de café está hecha de acero inoxidable de alta calidad y no contiene silicona. Se puede montar y desmontar, es fácil de limpiar, se puede fregar a mano o en el lavavajillas.
 - ☕RAPIDEZ. Se puede preparar un café rápidamente y se dispone de un sistema basado en la infusión al vapor.
+- ☕FUNCIONAMIENTO. Sirve tanto para cocina a gas como, eléctrica y inducción. Sólo 3-5 minutos, se puede degustar el rico café.(Nota: Es normal que el acero inoxidable se vuelva negro después del uso en el fuego, no afecta el uso, se puede limpiar con un limpiador de acero inoxidable)
+- ☕DISEÑO. Tamaño de 21 x 13,5 x 12 centímetros. Peso de 0,6 kilos por lo que es conveniente para llevarla donde quiera.
+- ☕CAPACIDAD. Gracias a su capacidad del agua de 300 ml, se puede obtener seis tazas de café de una vez. (50 ml por una taza)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07XCLS5XH/?tag=tolees-21)

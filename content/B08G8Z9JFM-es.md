@@ -28,15 +28,15 @@ Tienes [Marca Amazon - Happy Belly Nespresso Aluminium Cápsulas - Espresso - 12
 
 🔎:
 
+- Asegurarse siempre de seguir las instrucciones del fabricante de la cafetera
+- Gracias al aluminio, nuestras cápsulas resultan perfectamente herméticas y garantizan una óptima conservación del aroma y sabor del café
 - Envasado en atmósfera protectora para mantener su frescura.. Conservar en un lugar fresco y seco
-- Espresso intenso con acidez equilibrada, y notas de tierra y avellana
-- Cápsulas Espresso. El envase contiene 6 x 20 (120) porciones
+- Café de fuera de la UE. Tostado y envasado en Bélgica
+- 100% Arabica. Intensidad: 4/5
+- Nespresso es una marca registrada por Nestlé Nespresso S.A
 - El café en este producto proviene de fincas certificadas Rainforest Alliance
 - Apto para dietas vegetarianas y veganas
-- 100% Arabica. Intensidad: 4/5
-- Gracias al aluminio, nuestras cápsulas resultan perfectamente herméticas y garantizan una óptima conservación del aroma y sabor del café
-- Café de fuera de la UE. Tostado y envasado en Bélgica
-- Nespresso es una marca registrada por Nestlé Nespresso S.A
-- Asegurarse siempre de seguir las instrucciones del fabricante de la cafetera
+- Cápsulas Espresso. El envase contiene 6 x 20 (120) porciones
+- Espresso intenso con acidez equilibrada, y notas de tierra y avellana
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08G8Z9JFM/?tag=tolees-21)
