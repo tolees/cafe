@@ -28,10 +28,10 @@ Tienes [TASSIMO L Or Café Long Délicat - 5 paquetes de 16 cápsulas: Total 80 
 
 🔎:
 
-- Formato tipo discos
 - Café molido de tueste natural
+- Cápsulas compatibles con cafeteras Tassimo Bosch
 - El café Long Délicat te ofrece un café largo de aroma afrutado y dulce
 - Envasado en paquetes de 16 unidades
-- Cápsulas compatibles con cafeteras Tassimo Bosch
+- Formato tipo discos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00S4QYDRI/?tag=tolees-21)
