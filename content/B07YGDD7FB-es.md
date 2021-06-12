@@ -28,9 +28,9 @@ Ahora mismo tienes [Nescafé DOLCE GUSTO Café ESPRESSO INTENSO DESCAFEINADO - P
 
 🔎:
 
-- Cápsulas inteligentes; su sellado hermético mantiene el café fresco conservando todos sus aromas
+- Selección de granos de café de gran calidad: arábica y robusta
 - Café gourmet seleccionando los orígenes de mayor calidad con el inconfundible sabor nescafé dolce gusto
 - Descubre nuestras más de 30 variedades de cápsulas de café, té, chocolate y especialidades de espresso con leche
-- Selección de granos de café de gran calidad: arábica y robusta
+- Cápsulas inteligentes; su sellado hermético mantiene el café fresco conservando todos sus aromas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07YGDD7FB/?tag=tolees-21)
