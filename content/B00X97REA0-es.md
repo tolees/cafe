@@ -28,7 +28,7 @@ Tienes [B2BIRES - Gaggia RI8425/11 - Cafetera  Independiente  Máquina espresso 
 
 ℹ️:
 
-- GAGGIA
 - RI8425/11
+- GAGGIA
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00X97REA0/?tag=tolees-21)

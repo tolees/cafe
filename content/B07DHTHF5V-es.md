@@ -28,12 +28,12 @@ Tienes [Philips Grind und Brew HD7768/90 - Cafetera de filtro  mecanismo de moli
 
 ℹ️:
 
+- Fácil de usar gracias al botón de control múltiple (selección de la fuerza del café, número de tazas, mecanismo de molienda)
 - Molinillo cónico duradero para hasta 30.000 tazas de café, desconectable, grado de molienda seleccionable
 - Función de apagado automático después de 30 minutos (directiva de la UE), función de mantenimiento en caliente ajustable de 10 a 120 minutos
-- Función de temporizador para preparar el café a la hora deseada
 - Para un aroma óptimo, el aroma Twister distribuye uniformemente el café en la tetera
-- Desarrollado con baristas, recipiente para granos con tapa AromaSeal para conservar los granos frescos
-- Fácil de usar gracias al botón de control múltiple (selección de la fuerza del café, número de tazas, mecanismo de molienda)
+- Función de temporizador para preparar el café a la hora deseada
 - Indicador de nivel de agua con LightGuide, tiempo de preparación para una jarra (1,2 L/10 tazas) – 10 minutos
+- Desarrollado con baristas, recipiente para granos con tapa AromaSeal para conservar los granos frescos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07DHTHF5V/?tag=tolees-21)

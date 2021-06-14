@@ -29,7 +29,7 @@ Tienes [M MAGEFESA - MAGEFESA Colombia – La cafetera MAGEFESA Colombia está F
 🔎:
 
 - ALUMINIO EXTRA – GRUESO: componente muy ligero, excelente conductor térmico y eléctrico lo que redunda en ahorro de tiempo y energía. El calor se reparte de forma uniforme en toda la superficie. Apta para cocinas eléctricas, gas y vitrocerámica. NO APTA PARA INDUCCIÓN.
-- SABORES INIGUALABLES: Nuestros productos mantienen los aromas y sabores esenciales de cada grano de café, lo que se traduce en la mejor expresión del café que vamos a degustar
 - MANGO ERGONÓMICO: Las cafeteras MAGEFESA COLOMBIA cuentan con asas termorresistente de bakelita que ofrecen un manejo cómodo y seguro de toque frío que se adapta al estilo de cualquier cocina. Producto NO APTO para lavavajillas
+- SABORES INIGUALABLES: Nuestros productos mantienen los aromas y sabores esenciales de cada grano de café, lo que se traduce en la mejor expresión del café que vamos a degustar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B0799QWLWY/?tag=tolees-21)

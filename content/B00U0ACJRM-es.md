@@ -29,8 +29,8 @@ Tienes [Tristar CM-1233 – Cafetera con Capacidad para 6 Tazas  Apta para Lleva
 ℹ️:
 
 - Diseño elegante con un acabado negro mate, detalles de acero inoxidable y una jarra de cristal
-- Suministrada con una función para mantener el calor que se apaga automáticamente tras 40 minutos
 - Con una potencia de 550 W, la cafetera es apta para ir de acampada
+- Suministrada con una función para mantener el calor que se apaga automáticamente tras 40 minutos
 - Tiene todo lo necesario: un elemento antigoteo, un sistema antical y una base antideslizante
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00U0ACJRM/?tag=tolees-21)

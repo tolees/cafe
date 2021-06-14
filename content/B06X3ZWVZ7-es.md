@@ -28,11 +28,11 @@ Ahora mismo tienes [De longhi Dedica - Cafetera de Bomba de Acero Inoxidable par
 
 🔎:
 
-- Funciona con café molido y con monodosis "Easy Serving Espresso", posibilidad de preparar una o dos tazas de café, té o infusiones simultaneamente
+- Capuccinatore con rotación 360 grados para espumar de leche y crear capuccinos óptimos, macchiatos o caffè lattes
 - La tecnología Thermoblock calienta el agua en 35 segundos para preparar un espresso óptimo
+- Diseño: cafetera estrecha (sólo 15 cm de ancho)
+- Funciona con café molido y con monodosis "Easy Serving Espresso", posibilidad de preparar una o dos tazas de café, té o infusiones simultaneamente
 - La presión de 15 bares crea un espresso con un rico aroma y una espuma de color nuez en la parte superior
 - Dimensiones del producto: 33 x 14.9 x 30.3 cm
-- Diseño: cafetera estrecha (sólo 15 cm de ancho)
-- Capuccinatore con rotación 360 grados para espumar de leche y crear capuccinos óptimos, macchiatos o caffè lattes
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B06X3ZWVZ7/?tag=tolees-21)
