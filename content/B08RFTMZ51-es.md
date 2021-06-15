@@ -29,13 +29,13 @@ Está [by Amazon Cápsulas Lungo  compatibles con Nespresso - 100 cápsulas  2 x
 ℹ️:
 
 - Envasado en atmósfera protectora para mantener su frescura
-- RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
+- Cápsulas compatibles con Nespresso* (* No registrada por Amazon EU S.a.r.l.) No es compatible con las máquinas Nespresso Vertuo
+- Café molido de tueste natural en cápsulas
+- Dulce y suave
+- Asegurarse siempre de seguir las instrucciones del fabricante de la cafetera. Conservar en un lugar fresco y seco
 - Fuerza del café: 6/10
+- RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
 - Tostado y envasado en Bélgica
 - 100% Arabica
-- Cápsulas compatibles con Nespresso* (* No registrada por Amazon EU S.a.r.l.) No es compatible con las máquinas Nespresso Vertuo
-- Asegurarse siempre de seguir las instrucciones del fabricante de la cafetera. Conservar en un lugar fresco y seco
-- Dulce y suave
-- Café molido de tueste natural en cápsulas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08RFTMZ51/?tag=tolees-21)
