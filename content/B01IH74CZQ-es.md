@@ -28,10 +28,10 @@ Tienes [Monix M281703 Cafetera Italiana de Aluminio  3 Tazas  Color Fresa  Apta 
 
 🔎:
 
-- Acabado Esmaltado brillo
-- Mango fabricado en baquelita termo-resistente con formato ergonómico
-- Exterior súper resistente
 - Apta para todo tipo de encimeras, excepto inducción
+- Mango fabricado en baquelita termo-resistente con formato ergonómico
 - Capacidad para 3 tazas de café - 150 ml
+- Exterior súper resistente
+- Acabado Esmaltado brillo
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B01IH74CZQ/?tag=tolees-21)
