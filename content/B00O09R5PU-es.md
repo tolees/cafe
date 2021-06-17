@@ -29,9 +29,9 @@ Tienes [Clatronic KA 3563 Cafetera Eléctrica de Goteo Automática con Jarra  80
 ℹ️:
 
 - Cafetera de goteo automática para realizar de una forma fácil y rápida de 8 a 10 tazas de café de gran sabor
-- Válvula con sistema de protección anti goteo que permite extraer la jarra de café sin que caigan molestas gotas a la placa mantenedora de calor
-- Gran ventana indicadora del nivel de agua, soporte de filtro extraíble e interruptor de encendido/apagado iluminado
-- Jarra de termo con una capacidad aproximada de 1,2 litros
 - Placa mantenedora de calor con desconexión automática para mantener el café caliente cuando ha terminado el proceso
+- Gran ventana indicadora del nivel de agua, soporte de filtro extraíble e interruptor de encendido/apagado iluminado
+- Válvula con sistema de protección anti goteo que permite extraer la jarra de café sin que caigan molestas gotas a la placa mantenedora de calor
+- Jarra de termo con una capacidad aproximada de 1,2 litros
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00O09R5PU/?tag=tolees-21)
