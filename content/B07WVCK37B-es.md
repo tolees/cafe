@@ -28,10 +28,10 @@ Ahora mismo tienes [Note d Espresso - Extremo - Cápsulas de Café - Compatibles
 
 🔎:
 
+- Práctica caja de 96 unidades
 - Dosis recomendada de agua 40 ml
+- Exclusivamente Compatibles con cafeteras de cápsulas Nescafé* y Dolce Gusto* (* No registrado en Amazon EU S.a.r.l.)
 - Un café 100 % natural tostado y molido en Italia
 - Un expreso italiano tradicional en una pequeña cápsula de 7 gramos
-- Exclusivamente Compatibles con cafeteras de cápsulas Nescafé* y Dolce Gusto* (* No registrado en Amazon EU S.a.r.l.)
-- Práctica caja de 96 unidades
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WVCK37B/?tag=tolees-21)
