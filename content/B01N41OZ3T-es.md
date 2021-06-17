@@ -29,8 +29,8 @@ En este momento está [Ibili - Cafetera Express Italiana - Aluminio fundido con 
 🔎:
 
 - Tamaño del producto: 20 x 10 x 10 cm.
+- Cafetera Expresso Evva – 6 tazas
 - Garantía de 2 años.
 - Color del producto: Rojo
-- Cafetera Expresso Evva – 6 tazas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01N41OZ3T/?tag=tolees-21)
