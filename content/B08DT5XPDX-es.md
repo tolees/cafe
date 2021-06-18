@@ -28,10 +28,10 @@ Tienes [Solac CE4505 Squissita Easy Ivory - Cafetera espresso  20 bar  Double Cr
 
 ℹ️:
 
-- DISEÑO COMPACTO Y ELEGANTE: medidas súper compactas (15x24x28cm) lo que la hacen apta para cualquier cocina. El depósito de 1.5 litros, con nivel de agua visible, los pies antideslizantes, el apagado automático y la rápida puesta en marcha, son también características que, sin duda, harán más cómoda y práctica tu experiencia cafetera.
-- 20 BAR DE PRESIÓN + DOUBLE CREAM + MANDO SELECCIÓN ERGONÓMICO: Bomba italiana de 20 bar de presión, potencia de 1050W, y sistema Double Cream. Este sistema incorpora una membrana de silicona en el filtro que acaricia el café en el momento de la erogación consiguiendo como resultado, una auténtica crema de cafetería. Con las prestaciones necesarias para la obtención del espresso más auténtico. Incorpora mando selector de fácil y cómoda utilización.
-- CALDERA DE ACERO INOXIDABLE + ECO FRIENDLY: Caldera y vaporizador orientable con protección para una fácil manipulación, en acero inoxidable. El acero inoxidable aporta máxima durabilidad a la cafetera y evita la oxidación y la transmisión de sabor al agua.
-- ESPECIALISTAS: Cafetera fabricada en Portugal, una de las cunas europeas del café, por manos expertas en cafeteras. Producto con 2 años de garantía.
 - CAFÉ A TU GUSTO + PORTAFILTRO CON CACILLOS PARA 1 ó 2 CAFÉS + APTA PARA TAZAS GRANDES: Prepara el café a tu gusto eligiendo la preparación: con café molido o con monodosis. Además, gracias a sus dos cacillos incluidos podrás preparar dos cafés al mismo tiempo. Podrás utilizar tazas grandes gracias al espacio de 10 cm existente entre el cacillo y el recoge-gotas.
+- CALDERA DE ACERO INOXIDABLE + ECO FRIENDLY: Caldera y vaporizador orientable con protección para una fácil manipulación, en acero inoxidable. El acero inoxidable aporta máxima durabilidad a la cafetera y evita la oxidación y la transmisión de sabor al agua.
+- 20 BAR DE PRESIÓN + DOUBLE CREAM + MANDO SELECCIÓN ERGONÓMICO: Bomba italiana de 20 bar de presión, potencia de 1050W, y sistema Double Cream. Este sistema incorpora una membrana de silicona en el filtro que acaricia el café en el momento de la erogación consiguiendo como resultado, una auténtica crema de cafetería. Con las prestaciones necesarias para la obtención del espresso más auténtico. Incorpora mando selector de fácil y cómoda utilización.
+- DISEÑO COMPACTO Y ELEGANTE: medidas súper compactas (15x24x28cm) lo que la hacen apta para cualquier cocina. El depósito de 1.5 litros, con nivel de agua visible, los pies antideslizantes, el apagado automático y la rápida puesta en marcha, son también características que, sin duda, harán más cómoda y práctica tu experiencia cafetera.
+- ESPECIALISTAS: Cafetera fabricada en Portugal, una de las cunas europeas del café, por manos expertas en cafeteras. Producto con 2 años de garantía.
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08DT5XPDX/?tag=tolees-21)
