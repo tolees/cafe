@@ -28,12 +28,12 @@ Ahora mismo tienes [Ufesa CE7255 Cafetera Expresso y Capuccino con Panel Táctil
 
 🔎:
 
-- Doble opción de preparación de café: sistema tradicional de café molido o con monodosis
+- Panel táctil de uso intuitivo con indicadores luminosos led para cada función, y un sistema de ahorro energético con apagado automático
 - Cafetera Expresso con bomba de presión de 20 bares y 850W de potencia para café, capuccinos e infusiones
 - Portafiltro metálico con filtro para poder preparar 1 o 2 cafés a la vez y filtro especial monodosis de papel; tiene un depósito de agua extraíble con capacidad para 1,6L
 - La cafetera incluye cuchara medidora y prensadora para el café; la bandeja recoge gotas es extraíble para una mejor limpieza
 - Con vaporizador orientable para espumar leche, calentar agua para infusiones o calentar todo tipo de líquidos
-- Panel táctil de uso intuitivo con indicadores luminosos led para cada función, y un sistema de ahorro energético con apagado automático
 - Con bandeja calienta tazas en la parte superior para calentar tus tazas previo al uso y disfrutar de una café caliente recién hecho
+- Doble opción de preparación de café: sistema tradicional de café molido o con monodosis
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07XSFLBLP/?tag=tolees-21)
