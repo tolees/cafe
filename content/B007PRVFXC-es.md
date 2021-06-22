@@ -28,11 +28,11 @@ Ahora mismo tienes [Nescafé DOLCE GUSTO té CHAI TEA LATTE - Pack de 3 x 16 cá
 
 🔎:
 
-- Descubre nuestras más de 30 variedades de cápsulas de café, té, chocolate y especialidades de espresso con leche
-- Cápsulas 100% reciclables depositándolas en nuestros puntos de recogida NESCAFÉ Dolce Gusto
-- Cápsulas de café inteligentes Su sellado hermético mantiene el café fresco conservando todos sus aromas
-- Café gourmet seleccionando los orígenes de mayor calidad con el inconfundible sabor NESCAFÉ Dolce Gusto
 - Máquina Express: sistema de café profesional de hasta 15 bares de presión
+- Cápsulas 100% reciclables depositándolas en nuestros puntos de recogida NESCAFÉ Dolce Gusto
+- Café gourmet seleccionando los orígenes de mayor calidad con el inconfundible sabor NESCAFÉ Dolce Gusto
 - Las cápsulas Dolce Gusto Chai Tea Latte tienen un sabor a Té negro tradicional, cremosa leche, canela, jengibre, cardamomo y clavo,
+- Descubre nuestras más de 30 variedades de cápsulas de café, té, chocolate y especialidades de espresso con leche
+- Cápsulas de café inteligentes Su sellado hermético mantiene el café fresco conservando todos sus aromas
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B007PRVFXC/?tag=tolees-21)

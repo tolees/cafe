@@ -28,10 +28,10 @@ Ahora mismo tienes [De Longhi Autentica Cappuccino - Cafetera Superautomática  
 
 🔎:
 
-- USO SENCILLO: Pantalla LCD con 2 líneas de texto y 16 idiomas, gracias a sus controles digitales, simples pero eficientes, podrás preparar cualquier tipo de café solo presionando un botón
-- FUNCIÓN DOPPIO+ para que disfrutes de un extra de aroma y un extra de energía
-- AUTOLIMPIEZA: Sistema de limpieza automática y aviso de descalcificación
-- CAFÉ LARGO: Función "Café Largo" diseñada especialmente para los amantes del café americano o café de filtro
 - SISTEMA LATTECREMA: Sistema LatteCrema para hacer Cappuccinos pulsando 1 botón y espumador de leche para preparar gran variedad de cafés
+- AUTOLIMPIEZA: Sistema de limpieza automática y aviso de descalcificación
+- FUNCIÓN DOPPIO+ para que disfrutes de un extra de aroma y un extra de energía
+- CAFÉ LARGO: Función "Café Largo" diseñada especialmente para los amantes del café americano o café de filtro
+- USO SENCILLO: Pantalla LCD con 2 líneas de texto y 16 idiomas, gracias a sus controles digitales, simples pero eficientes, podrás preparar cualquier tipo de café solo presionando un botón
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B00MOIE1E2/?tag=tolees-21)
