@@ -28,11 +28,11 @@ Tienes [Nescafé DOLCE GUSTO té MARRAKESH Style Tea  Pack de 3 x 16 Cápsulas -
 
 🔎:
 
-- Descubre nuestras más de 30 variedades de cápsulas de café, té, chocolate y especialidades de espresso con leche
-- Las cápsulas Dolce Gusto Marrakesh Style Tea tienen aromas de la menta fresca y té caliente,
-- Cápsulas 100% reciclables depositándolas en nuestros puntos de recogida NESCAFÉ Dolce Gusto
 - Máquina Express: sistema de café profesional de hasta 15 bares de presión
-- Café gourmet seleccionando los orígenes de mayor calidad con el inconfundible sabor NESCAFÉ Dolce Gusto
+- Las cápsulas Dolce Gusto Marrakesh Style Tea tienen aromas de la menta fresca y té caliente,
+- Descubre nuestras más de 30 variedades de cápsulas de café, té, chocolate y especialidades de espresso con leche
 - Cápsulas inteligentes Su sellado hermético mantiene el café fresco conservando todos sus aromas
+- Cápsulas 100% reciclables depositándolas en nuestros puntos de recogida NESCAFÉ Dolce Gusto
+- Café gourmet seleccionando los orígenes de mayor calidad con el inconfundible sabor NESCAFÉ Dolce Gusto
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00EDP4I74/?tag=tolees-21)
