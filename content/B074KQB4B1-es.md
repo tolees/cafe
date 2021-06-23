@@ -28,10 +28,10 @@ Está [Philips hd6554/11 cafetera MONODOSIS de café Senseo Original color blan
 
 ℹ️:
 
-- Crema más: una crema gourmande mejorada
 - Selecciona en un clique la intensidad de su café
-- Saque el máximo de tus monodosis con la tecnología Booster de aroma
+- Crema más: una crema gourmande mejorada
 - servez 1 o 2 tazas de café simultáneamente
 - Ajuste manualmente la longitud de su café
+- Saque el máximo de tus monodosis con la tecnología Booster de aroma
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B074KQB4B1/?tag=tolees-21)
