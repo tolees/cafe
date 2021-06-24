@@ -28,10 +28,10 @@ Está [Melitta Caffeo Solo&Perfect Milk E957-101 Cafetera Superautomática con M
 
 ℹ️:
 
-- LIMPIEZA: Programas automáticos de descalcificación y limpieza cada 200 cafés.
 - CAFÉ EN GRANO: Utiliza exclusivamente café de tueste 100% natural en tu cafetera Caffeo Solo E957-101.
 - COMPACTA: La cafetera automática prepara un magnífico café en sólo 20 centímetros de ancho.
-- CONFIGURABLE: El molinillo cónico con 3 grados de molienda. Hasta 3 niveles de intensidad.
 - AUTO CAPUCHINADOR: Prepara una cremosa espuma de leche, y leche o agua caliente.
+- LIMPIEZA: Programas automáticos de descalcificación y limpieza cada 200 cafés.
+- CONFIGURABLE: El molinillo cónico con 3 grados de molienda. Hasta 3 niveles de intensidad.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00B20KPG6/?tag=tolees-21)
