@@ -28,9 +28,9 @@ Tienes [Krups Genio S Basic KP2401 - Cafetera blanca de cápsulas + Nescafé DOL
 
 ℹ️:
 
-- Cafetera automática de sistema de cápsulas de 15 bares de presión; capaz de hacer café de calidad profesional, caliente desde la primera taza gracias a su sistema Thermoblock
-- Café de cuerpo generoso y coronado por una cremosa capa de leche que combina con la riqueza de aromas de un suave tostado
 - Tan fácil como insertar una cápsula y seleccionar la dosificación de tu bebida con la función Play&Select que te permitirá crear el café a tu medida; tu Cafetera Genio se parará automáticamente en el momento adecuado
+- Café de cuerpo generoso y coronado por una cremosa capa de leche que combina con la riqueza de aromas de un suave tostado
 - Un café equilibrado y con notas a cereal con una sedosa capa de crema que marca la personalidad de nuestro delicioso Café con leche
+- Cafetera automática de sistema de cápsulas de 15 bares de presión; capaz de hacer café de calidad profesional, caliente desde la primera taza gracias a su sistema Thermoblock
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B095ZMCXZG/?tag=tolees-21)
