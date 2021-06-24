@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Café FORTALEZA - Cápsulas de Café Con Le al 5.90 % de descuento'
-date: 2021-06-02 11:42:27
+date: 2021-06-24 20:50:10
 image: 'https://m.media-amazon.com/images/I/512eFuUX0IL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Está [Café FORTALEZA - Cápsulas de Café Con Leche Compatibles con Dolce Gust
 
 ℹ️:
 
-- Recomendamos guardar estas cápsulas de café en un lugar fresco, seco y protegido del sol.
 - Cápsulas de café compatibles con el sistema Dolce Gusto
 - Café soluble en cápsulas
 - País de origen: España
+- Recomendamos guardar estas cápsulas de café en un lugar fresco, seco y protegido del sol.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07YQDG7K1/?tag=tolees-21)
