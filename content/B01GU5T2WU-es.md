@@ -28,8 +28,8 @@ Ahora mismo tienes [Gaggia RI8423/12 - Cafetera Express Gg2016](https://www.amaz
 
 🔎:
 
-- Panel de control analógico, estante reposa-tazas.
 - Cafetera exprés tradicional con copa portafiltro a presión.
 - Presión de la bomba: 15 bar. El piloto de modo de espera se apaga automáticamente después de 9 minutos de inactividad.
+- Panel de control analógico, estante reposa-tazas.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B01GU5T2WU/?tag=tolees-21)
