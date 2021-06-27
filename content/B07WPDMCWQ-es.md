@@ -28,12 +28,12 @@ Ahora mismo tienes [Marca Amazon - Happy Belly Select Cápsulas Compatibles con 
 
 🔎:
 
-- Fuerte, gran cuerpo Intensidad 5/5
 - Envasado en atmósfera protectora para mantener su frescura
-- Café de más de un país. Tostado y envasado en Bélgica
 - RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y a sus familias en todo el mundo, además de aportar tu granito de arena a la selva tropical: bebe mejor, hazlo mejor
-- *Nespresso no está vinculado a Amazon
+- Café de más de un país. Tostado y envasado en Bélgica
 - Apto para dietas vegetarianas y veganas
 - Café molido de tueste natural ecológico en cápsulas compatibles con Nespresso*No es compatible con las máquinas Nespresso Vertuo
+- Fuerte, gran cuerpo Intensidad 5/5
+- *Nespresso no está vinculado a Amazon
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07WPDMCWQ/?tag=tolees-21)
