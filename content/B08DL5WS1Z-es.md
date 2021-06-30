@@ -28,12 +28,12 @@ Está [Krups Genio S Basic KP2401 - Cafetera de cápsulas  capacidad XL 0.8 litr
 
 ℹ️:
 
-- Tan fácil como insertar una cápsula y seleccionar la dosificación de tu bebida con la función Play&Select que te permitirá crear el café a tu medida; tu Cafetera Genio se parará automáticamente en el momento adecuado
 - Disfruta de más de 30 creaciones de café de calidad; desde el carácter de un Espresso Intenso Intenso o el cuerpo de un Lungo, hasta el espumoso Cappuccino; además del chocolate caliente o los tés aromático
-- Tamaño compacto de 14.4 x 32.5 x 32.6 cm y con estilo con una tecnología capaz de preparar más de 35 variedades de café y otras bebidas
-- Las cafeteras Krups se someten de manera aleatoria a estrictos controles de calidad que incluyen el llenado de agua y la preparación de café, por ello se pueden encontrar pequeños restos en la máquina
 - Cafetera automática de sistema de cápsulas de 15 bares de presión; capaz de hacer café de calidad profesional, caliente desde la primera taza gracias a su sistema Thermoblock
+- Tan fácil como insertar una cápsula y seleccionar la dosificación de tu bebida con la función Play&Select que te permitirá crear el café a tu medida; tu Cafetera Genio se parará automáticamente en el momento adecuado
+- Las cafeteras Krups se someten de manera aleatoria a estrictos controles de calidad que incluyen el llenado de agua y la preparación de café, por ello se pueden encontrar pequeños restos en la máquina
 - Cada cápsula de Dolce Gusto está diseñada para ajustar automáticamente la presión en función del tipo de bebida y están selladas herméticamente, el café conserva toda su frescura y disfrutarás siempre de todo su aroma y cremosidad
 - Incluye bandeja ajustable para todo tipo de bebidas lo que permite utilizar diversos tamaños de tazas o vasos para disfrutar de tu bebida
+- Tamaño compacto de 14.4 x 32.5 x 32.6 cm y con estilo con una tecnología capaz de preparar más de 35 variedades de café y otras bebidas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08DL5WS1Z/?tag=tolees-21)
