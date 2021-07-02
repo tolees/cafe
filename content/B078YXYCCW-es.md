@@ -28,10 +28,10 @@ En este momento está [Russell Hobbs Adventure 24020-56 - Cafetera de Goteo  Jar
 
 🔎:
 
-- Función de pausa para servir
-- Interruptor luminoso de encendido y apagado
+- Para 8 tazas grandes o 12 pequeñas
 - Soporte de filtro extraíble y lavable
 - Elegante cafetera de acero inoxidable cepillado
-- Para 8 tazas grandes o 12 pequeñas
+- Función de pausa para servir
+- Interruptor luminoso de encendido y apagado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B078YXYCCW/?tag=tolees-21)
