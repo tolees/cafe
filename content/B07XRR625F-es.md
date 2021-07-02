@@ -28,12 +28,12 @@ Tienes [Krups Infinissima Cosmic KP173B Cafetera de cápsulas Nestlé Dolce Gust
 
 ℹ️:
 
-- Cafetera de sistema de cápsulas de 15 bares de presión y sistema auto off a los 5 minutos de inactividad
-- Cafetera manual de fácil manejo que permiten preparar las bebidas a tu gusto regulando así el tamaño y la temperatura, que puede ser fría o caliente
-- El botón de encendido/apagado de tu NESCAFE Dolce Gusto Infinissima se encenderá en color naranja para indicar que es hora de descalcificar tu cafetera
-- Simplemente inserta tu cápsula y, con un sencillo movimiento de la palanca manual, podrás preparar de forma perfecta la bebida que deseas
 - Medidas de 30.5 x 18 x 40 cm y 998 gramos
-- Capaz de hacer café de calidad profesional, caliente desde la primera taza gracias a su sistema Thermoblock
+- Simplemente inserta tu cápsula y, con un sencillo movimiento de la palanca manual, podrás preparar de forma perfecta la bebida que deseas
+- El botón de encendido/apagado de tu NESCAFE Dolce Gusto Infinissima se encenderá en color naranja para indicar que es hora de descalcificar tu cafetera
+- Cafetera manual de fácil manejo que permiten preparar las bebidas a tu gusto regulando así el tamaño y la temperatura, que puede ser fría o caliente
+- Cafetera de sistema de cápsulas de 15 bares de presión y sistema auto off a los 5 minutos de inactividad
 - Simplemente inserta tu cápsula y, con un sencillo movimiento de la palanca manual, podrás preparar de forma adecuada la bebida que deseas
+- Capaz de hacer café de calidad profesional, caliente desde la primera taza gracias a su sistema Thermoblock
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07XRR625F/?tag=tolees-21)
