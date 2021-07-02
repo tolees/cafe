@@ -28,9 +28,9 @@ Ahora mismo tienes [Bialetti - Moka Express colección Italia  Tricolor   cafete
 
 🔎:
 
-- Presenta pomo y mango termoplásticos
 - Apta para todas las placas excepto las placas de inducción
 - Cuenta con válvula de seguridad de fácil limpieza
+- Presenta pomo y mango termoplásticos
 - Cafetera italiana fabricada en aluminio
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B071Z2XTNP/?tag=tolees-21)
