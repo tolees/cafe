@@ -28,10 +28,10 @@ En este momento está [Alessi Ossidiana MT18/6 - Cafetera para Café Exprés de 
 
 🔎:
 
-- También disponible en negro y en la versión de 1 y 3 tazas
 - Moka con mango ergonómico para una fácil apertura y cierre
+- Dimensión: diámetro 10 cm, altura 22.50 cm
 - Designer: Mario Trimarchi
 - Material: cuerpo en aluminio fundido, mango y pomo en resina termoplástica
-- Dimensión: diámetro 10 cm, altura 22.50 cm
+- También disponible en negro y en la versión de 1 y 3 tazas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B00NNN2X8S/?tag=tolees-21)
