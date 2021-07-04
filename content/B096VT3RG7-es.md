@@ -28,11 +28,11 @@ Ahora mismo tienes [Philips L Or -  Cafetera L Or Barista + Café L Or Ristrett
 
 🔎:
 
-- Crea y personaliza tu café favorito con el menú completo de cafés: ristretto, espresso, lungo y más
 - Sabor Potente - Con Carácter - Redondo
-- Prepara 2 cafés a la vez o 1 café doble en una taza
-- Las cápsulas LOR de aluminio están diseñadas específicamente para su uso en cafeteras Nespresso*(R)
 - *Marca de una compañía no relacionada con JACOBS DOUWE EGBERTS
 - Exclusiva cafetera de cápsulas lor barista
+- Crea y personaliza tu café favorito con el menú completo de cafés: ristretto, espresso, lungo y más
+- Las cápsulas LOR de aluminio están diseñadas específicamente para su uso en cafeteras Nespresso*(R)
+- Prepara 2 cafés a la vez o 1 café doble en una taza
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B096VT3RG7/?tag=tolees-21)
