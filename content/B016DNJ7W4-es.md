@@ -29,7 +29,7 @@ Tienes [Electrolux EKF3300 Cafetera  1100 W  1.65 kg  Plástico  Negro](https://
 🔎:
 
 - La válvula anti goteo permite extraer la jarra de café cuando está en funcionamiento, sin que caigan gotas a la placa térmica
-- Función de apagado automático que interrumpe automáticamente el funcionamiento después de 40 minutos
 - Gracias a la jarra extra grande de vidrio puede preparar un máximo de 12 tazas de café de una vez
+- Función de apagado automático que interrumpe automáticamente el funcionamiento después de 40 minutos
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B016DNJ7W4/?tag=tolees-21)
