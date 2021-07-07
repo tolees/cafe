@@ -28,8 +28,8 @@ Está [SMOBY - Kitchen Studio XXL Bubble con 38 accesorios  simula el efecto del
 
 ℹ️:
 
+- Con funciones electrónicas
 - Cocina con gran superficie de juego; función de burbujas mágicas, máquina de café, lavavajillas, horno, dispensador de cubitos de hielo,…
 - Con 46 accesorios: la tortita voladora, la olla con burbujas mágicas y la carne y el pescado vuelta y vuelta
-- Con funciones electrónicas
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XQ1T51Z/?tag=tolees-21)
