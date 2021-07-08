@@ -28,10 +28,10 @@ Tienes [Oroley - Cafetera Italiana Touareg de Aluminio  9 Tazas](https://www.ama
 
 ℹ️:
 
+- ☕ USO: Cafetera tradicional apta para todo tipo de cocinas: vitrocerámica, fuego eléctrico y gas. (Excepto inducción)
+- ✨ CARACTERÍSTICAS: Cafetera Italiana con capacidad de hasta 9 tazas de café
 - ♨️ OROLEY te ofrece diseño y tecnología al servicio de la cocina. Con los mejores materiales y diseños exclusivos
 - 🧼 CÓMO LIMPIARLA: lavar a mano. No usar lavavajillas
-- ✨ CARACTERÍSTICAS: Cafetera Italiana con capacidad de hasta 9 tazas de café
 - ✅ PRODUCTO: Cafetera Italiana modelo "Touareg". Hecha con aluminio. Producto de alta calidad. Color negro
-- ☕ USO: Cafetera tradicional apta para todo tipo de cocinas: vitrocerámica, fuego eléctrico y gas. (Excepto inducción)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B006W5PHIC/?tag=tolees-21)
