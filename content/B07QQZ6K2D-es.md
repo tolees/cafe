@@ -28,10 +28,10 @@ Ahora mismo tienes [Cafetera Aicook Cafetera Goteo para 12 Tazascon con Temporiz
 
 🔎:
 
-- Triple garantía: 2 años de garantía; ofrecemos asesoramiento técnico de por vida y servicio al cliente; material de tanque de agua sin BPA y certificación CE, lo que le da mayor seguridad. Se envía en una caja de regalo, ideal para regalar.
-- Temporizador programable de 24 horas: puedes disfrutar de las 12 tazas de café perfectas con tu familia o amigos cada mañana utilizando un temporizador programable. Con el tanque de agua de 56 onzas, solo tienes que añadir agua dulce cada 12 tazas.
+- Control de fuerza de influencia: la cafetera de 12 tazas tiene un botón de control de presión que te permite ajustar la concentración de café a tu gusto.
 - Sistema antigoteo: esta cafetera tiene un sistema antigoteo que permite pausar y verter en el proceso de preparación.
 - Función de calefacción: la función de calefacción automática de la cafetera puede mantener la temperatura del café y apagarse automáticamente después de 35 minutos para ahorrar energía.
-- Control de fuerza de influencia: la cafetera de 12 tazas tiene un botón de control de presión que te permite ajustar la concentración de café a tu gusto.
+- Triple garantía: 2 años de garantía; ofrecemos asesoramiento técnico de por vida y servicio al cliente; material de tanque de agua sin BPA y certificación CE, lo que le da mayor seguridad. Se envía en una caja de regalo, ideal para regalar.
+- Temporizador programable de 24 horas: puedes disfrutar de las 12 tazas de café perfectas con tu familia o amigos cada mañana utilizando un temporizador programable. Con el tanque de agua de 56 onzas, solo tienes que añadir agua dulce cada 12 tazas.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QQZ6K2D/?tag=tolees-21)
