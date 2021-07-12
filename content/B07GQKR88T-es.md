@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Hogar - Bosch Tassimo Happy TAS100 con un 68.81 % de descuento'
-date: 2021-07-04 13:37:36
+date: 2021-07-12 09:35:43
 image: 'https://m.media-amazon.com/images/I/41VqkdflvyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Bosch Hogar'
 buyurl: 'https://www.amazon.es/dp/B07GQKR88T/?tag=tolees-21'
 descuento: '68.81'
-average: '32.6150909090909'
+average: '32.4033628318583'
 ---
 
 En este momento está [Bosch Hogar - Bosch Tassimo Happy TAS1003 - Cafetera de cápsulas  con tecnología Intellibrew  1400 W  color rojo](https://www.amazon.es/dp/B07GQKR88T/?tag=tolees-21) a 24.64 EUR (original: 79.0 EUR) (68.81 %  de descuento) en el siguiente enlace!
