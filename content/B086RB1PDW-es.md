@@ -28,9 +28,9 @@ Está [Dolce Gusto De longhi - Nescafé Dolce Gusto Piccolo XS De Longhi EDG210.
 
 ℹ️:
 
-- Sistema de seguridad: sin el porta-cápsulas no cae agua
-- 15 bares de presión automática regulable, y sistema Thermoblock que permite un calentamiento muy rápido
 - Recoge gotas ajustables con tapa de acero inoxidable para cualquier tipo de taza o vaso
+- 15 bares de presión automática regulable, y sistema Thermoblock que permite un calentamiento muy rápido
+- Sistema de seguridad: sin el porta-cápsulas no cae agua
 - Amplio depósito de agua extraíble (0.8 litros)
 - Cafetera Piccolo XS y 3 packs de café incluidos (Espresso intenso, Café con leche y Cappuccino)
 
