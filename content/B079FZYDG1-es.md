@@ -28,10 +28,10 @@ Está [Jata Hogar Cafetera Italiana Full Induction  Aluminio  Negro  14.5x12x20.
 
 ℹ️:
 
-- CUERPO: su cuerpo es de aluminio de alta calidad, lo que la hace particularmente resistente al calor y le garantiza una larga vida útil
-- 6 TAZAS: en tu CFI6 podrás preparar hasta 6 tazas de café para los buenos amantes de esta bebida
-- DIÁMETRO DEL FONDO: 10 centímetros
 - ASA: la cafetera cuenta con un asa maciza y ergonómica.
 - TODAS LAS COCINAS: Esta cafetera italiana podrás utilizarla en todas las cocinas, incluidas las de inducción.
+- 6 TAZAS: en tu CFI6 podrás preparar hasta 6 tazas de café para los buenos amantes de esta bebida
+- DIÁMETRO DEL FONDO: 10 centímetros
+- CUERPO: su cuerpo es de aluminio de alta calidad, lo que la hace particularmente resistente al calor y le garantiza una larga vida útil
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B079FZYDG1/?tag=tolees-21)
