@@ -28,11 +28,11 @@ Ahora mismo tienes [Monix Vitro Noir – Cafetera Italiana de Aluminio  Capacida
 
 🔎:
 
-- Descubre cómo cuidar tu menaje antiadherente en el apartado Guia de usuario de esta ficha
 - Acabado negro con efecto mate
-- Capacidad para 1 taza de café
-- Cafetera con asa de baquelita termo-resistente ergonómica para un agarre fácil y seguro
 - Exterior resistente y diseño interior del calderín sin cantos para una limpieza más cómoda
 - Apta para todo tipo de encimeras, excepto inducción
+- Descubre cómo cuidar tu menaje antiadherente en el apartado Guia de usuario de esta ficha
+- Capacidad para 1 taza de café
+- Cafetera con asa de baquelita termo-resistente ergonómica para un agarre fácil y seguro
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B008KO2DTY/?tag=tolees-21)
