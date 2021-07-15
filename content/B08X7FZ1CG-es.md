@@ -28,10 +28,10 @@ Está [Melitta Caffeo Solo E950-877  Cafetera Superautomática con Molinillo  15
 
 ℹ️:
 
+- COMPACTA: La cafetera eléctrica prepara un magnífico café en sólo 20 centímetros de ancho.
+- INTUITIVA: Personaliza tu bebida y prepara tu taza de café ya programada con un sólo toque.
+- LIMPIEZA: Programas automáticos de descalcificación y limpieza del sistema de café.
 - CONFIGURABLE: El molinillo cónico tiene 3 grados de molienda. El café hasta 3 niveles de intensidad.
 - CAFÉ EN GRANO: Disfruta del aroma del café 100% natural recién molido en tu Caffeo Solo E950-877.
-- LIMPIEZA: Programas automáticos de descalcificación y limpieza del sistema de café.
-- INTUITIVA: Personaliza tu bebida y prepara tu taza de café ya programada con un sólo toque.
-- COMPACTA: La cafetera eléctrica prepara un magnífico café en sólo 20 centímetros de ancho.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08X7FZ1CG/?tag=tolees-21)
