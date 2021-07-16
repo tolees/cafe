@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'M MAGEFESA - MAGEFESA Colombia – La cafe al 22.25 % de descuento'
-date: 2021-07-15 07:05:50
+date: 2021-07-16 07:37:47
 image: 'https://m.media-amazon.com/images/I/31lm7iLguXS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

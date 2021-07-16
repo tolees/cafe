@@ -28,10 +28,10 @@ Tienes [Godmorn Cafetera Italiana  Cafetera espressos en Acero inoxidable430  10
 
 ℹ️:
 
-- ☕【APLICABLE A LA COCINA DE INDUCCIÓN】La cafetera italiana es adecuada para una variedad de estufas que incluyen cocina de inducción(Il requisito di bobina minima per fornelli a induzione è maggiore di 95mm.), estufa de cerámica, estufa de alcohol, estufa de gas, etc..Sólo 3-5 minutos, se puede degustar el rico café.(Nota: Es normal que el acero inoxidable se vuelva negro después del uso en el fuego, no afecta el uso, se puede limpiar con un limpiador de acero inoxidable)
 - ☕【10 TAZAS / 450ML】Esta cafetera italiana es una gran capacidad de 10 tazas (nota:1 La taza de café espresso estándar es de 50 ml. ).Se puede usar una vez para satisfacer la demanda de una gran cantidad de café durante su cena de varias personas.
 - ☕【GARANTÍA DE BUENA CALIDAD】Confiamos en que esta cafetera de 10 tazas se convertirá en su cocina favorita y en artículos para el hogar. Si tiene algún problema, comuníquese con nosotros la primera vez, le daremos la respuesta más satisfactoria.
-- ☕【BUEN ACERO INOXIDABLE】La cafetera espresso Godmorn está hecho de acero inoxidable 430 de seguridad alimentaria, que es seguro y saludable, tiene una larga vida útil y un calentamiento rápido. También se puede limpiar en un lavaplatos debido a sus excelentes propiedades anticorrosivas y antioxidantes.
 - ☕ 【DISEÑO ERGONÓMICO Y EGOLÓGICO】La cafetera italiana está diseñada ergonómicamente para un fácil manejo. Y también es resistente a altas temperaturas y aislamiento, y tiene un excelente efecto anti escaldado.
+- ☕【BUEN ACERO INOXIDABLE】La cafetera espresso Godmorn está hecho de acero inoxidable 430 de seguridad alimentaria, que es seguro y saludable, tiene una larga vida útil y un calentamiento rápido. También se puede limpiar en un lavaplatos debido a sus excelentes propiedades anticorrosivas y antioxidantes.
+- ☕【APLICABLE A LA COCINA DE INDUCCIÓN】La cafetera italiana es adecuada para una variedad de estufas que incluyen cocina de inducción(Il requisito di bobina minima per fornelli a induzione è maggiore di 95mm.), estufa de cerámica, estufa de alcohol, estufa de gas, etc..Sólo 3-5 minutos, se puede degustar el rico café.(Nota: Es normal que el acero inoxidable se vuelva negro después del uso en el fuego, no afecta el uso, se puede limpiar con un limpiador de acero inoxidable)
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07NXQ7TD5/?tag=tolees-21)
