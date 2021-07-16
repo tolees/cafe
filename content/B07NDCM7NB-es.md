@@ -28,10 +28,10 @@ Ahora mismo tienes [Russell Hobbs 24210-56 - Cafetera de goteo  cristal 650  sup
 
 🔎:
 
+- Indicador de nivel de agua exterior con indicador de cantidad de llenado, interruptor de encendido/apagado con luz de control, capacidad de 5 tazas (0,625 l)
 - Superficie de acero inoxidable cepillado de buena calidad con aplicaciones de plástico, 650 W.
 - Jarra de cristal de buena calidad con tapa desmontable y marca de cantidad, placa calentadora y soporte de filtro extraíble
-- Diseño compacto, prepara una jarra completa en 7 minutos
-- Indicador de nivel de agua exterior con indicador de cantidad de llenado, interruptor de encendido/apagado con luz de control, capacidad de 5 tazas (0,625 l)
 - Filtro permanente lavable, desconexión automática, sistema antigoteo al extraer la jarra
+- Diseño compacto, prepara una jarra completa en 7 minutos
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NDCM7NB/?tag=tolees-21)
