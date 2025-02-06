@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Tus ofertas en café</title>
+    <link>https://cafe.tole.es/tags/</link>
+    <description>Recent content in Tags on Tus ofertas en café</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Sun, 29 Dec 2024 16:59:51 +0000</lastBuildDate><atom:link href="https://cafe.tole.es/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cafetera</title>
+      <link>https://cafe.tole.es/tags/cafetera/</link>
+      <pubDate>Sun, 29 Dec 2024 16:59:51 +0000</pubDate>
+      
+      <guid>https://cafe.tole.es/tags/cafetera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dolce</title>
+      <link>https://cafe.tole.es/tags/dolce/</link>
+      <pubDate>Sat, 09 Nov 2024 13:00:40 +0000</pubDate>
+      
+      <guid>https://cafe.tole.es/tags/dolce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gusto</title>
+      <link>https://cafe.tole.es/tags/gusto/</link>
+      <pubDate>Sat, 09 Nov 2024 13:00:40 +0000</pubDate>
+      
+      <guid>https://cafe.tole.es/tags/gusto/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
