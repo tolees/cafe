@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apta para un buen café de acuerdo con estrictos criterios de distinción. Esto le permite ofrecer un sabor y unos aromas óptimas en sus cápsulas de aluminio reciclable selladas herméticamente para conservar la frescura del café y disfrutar a pleno de cada degustación
-- Incluye un set de bienvenida con cápsulas de café Nespresso de perfiles aromáticos auténticos que se adaptan a todos los gustos y momentos del día
-- El modo de ahorro de energía hace que la máquina se apague automáticamente si no se utiliza durante 9 minutos, su temporizador se puede ajustar a 30 minutos
-- Gracias a su sencillo sistema de extracción patentado, que se activa con solo pulsar un botón y que produce una presión de hasta 19 bares, la máquina puede preparar con facilidad buenas taza tras taza de café
+- Cuenta con una bandeja para cafés espresso y una bandeja antigoteo plegable que permite utilizar tazas más grandes y se despliega automáticamente al retirar la taza para recoger las gotas
 - Máquina de cápsulas de café monodosis de Nespresso con diseño compacto y retro-moderno; se adapta adecuadamente a cualquier configuración interior para adaptarse a toda tu cocina con su diseño reducido de color plata
 - Con solo pulsar un botón y en 25 segundos, el agua alcanza la temperatura adecuada para preparar hasta nueve cafés sin necesidad de rellenar el depósito de 1 l; puede ajustar el tamaño de la taza con dos botones programables (Espresso y Lungo)
-- Cuenta con una bandeja para cafés espresso y una bandeja antigoteo plegable que permite utilizar tazas más grandes y se despliega automáticamente al retirar la taza para recoger las gotas
+- Incluye un set de bienvenida con cápsulas de café Nespresso de perfiles aromáticos auténticos que se adaptan a todos los gustos y momentos del día
+- Apta para un buen café de acuerdo con estrictos criterios de distinción. Esto le permite ofrecer un sabor y unos aromas óptimas en sus cápsulas de aluminio reciclable selladas herméticamente para conservar la frescura del café y disfrutar a pleno de cada degustación
+- El modo de ahorro de energía hace que la máquina se apague automáticamente si no se utiliza durante 9 minutos, su temporizador se puede ajustar a 30 minutos
+- Gracias a su sencillo sistema de extracción patentado, que se activa con solo pulsar un botón y que produce una presión de hasta 19 bares, la máquina puede preparar con facilidad buenas taza tras taza de café
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07P6YDWTS{{</world>}}

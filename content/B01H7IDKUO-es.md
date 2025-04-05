@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - 【1000W Potente y rápida】Realiza el café rápidamente con sus 1000 watios de potencia dispondrás de 1-10 tazas de café recién hecho en cuestión de minutos.
+- 【Diseño práctico】Interruptor de encendido/apagado con testigo luminoso para que sepa con un simple vistazo si se encuentra encendida o apagada, hueco de almacenamiento de cable. También permite usar filtros de papel Y depósito con ventana que permite controlar el nivel del agua en todo momento, además incluye cucharilla dosificadora para ayudarte a preparar y calcular la cantidad de café.
 - 【Seguridad y garantía】 Si tiene alguna consulta sobre nuestros productos, póngase en contacto con nosotros y estaremos encantados de ayudarle.
 - 【Función mantener caliente】La base de la cafetera donde se coloca la jarra es de material antiadherente y mantiene el café caliente de forma automática durante 40 minutos cuando ha terminado de hacerse.
-- 【Diseño práctico】Interruptor de encendido/apagado con testigo luminoso para que sepa con un simple vistazo si se encuentra encendida o apagada, hueco de almacenamiento de cable. También permite usar filtros de papel Y depósito con ventana que permite controlar el nivel del agua en todo momento, además incluye cucharilla dosificadora para ayudarte a preparar y calcular la cantidad de café.
 - 【Disfrute】Plásticos de alta calidad libres de BPA, materiales sometidos a pruebas de temperatura y resistencia, para que pueda disfrutar con tranquilidad de un buen café, o si lo prefiere de un té. Además, contiene filtro de nilon reutilizable, consiguiendo el mejor sabor de café.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

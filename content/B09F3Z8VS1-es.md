@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - INTENSO Y TOSTADO - La mezcla da como resultado un sabor duradero con notas de café tostado y cacao negro.
 - CÁPSULA ESPRESSO: La cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el cappuccino o el latte.
+- 10 PAQUETES DE 20 CÁPSULAS - 200 Cápsulas de Aluminio compatibles con las cafeteras L’OR Barista y con máquinas Nespresso (Marca de una compañía no relacionada con Jacobs Douwe Egberts).
 - INTENSIDAD 13 - Café molido de tueste natural con sabor intenso y pronunciado elaborado con granos de café Arábica.
 - CAFÉ 100% CERTIFICADO: Las cápsulas L’OR Espresso son elaboradas con café obtenido de fincas Rainforest Alliance que contribuye a mejorar la vida de los agricultores.
-- 10 PAQUETES DE 20 CÁPSULAS - 200 Cápsulas de Aluminio compatibles con las cafeteras L’OR Barista y con máquinas Nespresso (Marca de una compañía no relacionada con Jacobs Douwe Egberts).
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09F3Z8VS1{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mejorado y evita el desorden: Filtro reutilizable de acero inoxidable grabado y fino para preparaciones consistentes y una limpieza sin problemas; elimina la necesidad de filtros de papel, ya que el filtro de metal reutilizable de Prismo no deja pasar los residuos.
-- Saca un shot sin necesidad de una máquina de espresso: La válvula especial de Prismo permanece sellada hasta que presiones hacia abajo. La válvula crea una acumulación de presión para preparar un café con una consistencia similar a la del espresso.
-- Olvídate de la voltereta: prepara cafés de inmersión total sin necesidad de invertir la AeroPress; guárdalos sin preocupaciones por las fugas en la nevera durante la noche y obtén un cold brew. Gracias al sello antigoteo de Prismo la mezcla de café se mantiene contenida hasta que decides liberarla.
 - Fácil de limpiar: Después de retirar el Prismo, coloca el disco de café en el contenedor de abono y lávalo con agua tibia y jabón, sécalo bien al aire o con una toalla para el próximo uso.
+- Mejorado y evita el desorden: Filtro reutilizable de acero inoxidable grabado y fino para preparaciones consistentes y una limpieza sin problemas; elimina la necesidad de filtros de papel, ya que el filtro de metal reutilizable de Prismo no deja pasar los residuos.
 - Accesorio para cafetera AeroPress: Prismo es una válvula accionada por presión diseñada para acoplarse a una cafetera AeroPress para elaborar cafés tipo espresso que crea un sello antigoteo para preparar cafés de inmersión total.
+- Olvídate de la voltereta: prepara cafés de inmersión total sin necesidad de invertir la AeroPress; guárdalos sin preocupaciones por las fugas en la nevera durante la noche y obtén un cold brew. Gracias al sello antigoteo de Prismo la mezcla de café se mantiene contenida hasta que decides liberarla.
+- Saca un shot sin necesidad de una máquina de espresso: La válvula especial de Prismo permanece sellada hasta que presiones hacia abajo. La válvula crea una acumulación de presión para preparar un café con una consistencia similar a la del espresso.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B079YBT2LJ{{</world>}}

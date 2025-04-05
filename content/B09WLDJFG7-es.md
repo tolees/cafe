@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Las piezas son fácilmente desmontables. Dispone de una junta de cierre de silicona de alta calidad que asegura un cierre hermético y evita pérdidas de agua mientras se hace el café.
 - Apta para todas las superficies térmicas, consigue tu espresso perfecto ya sea en una cocina de inducción, gas, eléctrica o vitrocerámica.
 - Mango muy ergonómico para un uso cómodo de la cafetera y termorresistente para aislar las altas temperaturas.
+- Las piezas son fácilmente desmontables. Dispone de una junta de cierre de silicona de alta calidad que asegura un cierre hermético y evita pérdidas de agua mientras se hace el café.
 - El filtro del interior es de acero inoxidable de alta calidad para lograr el café más puro y tradicional. Para mayor prevención dispone de una válvula de seguridad que indica el límite de agua que se debe introducir.
 - Cafetera italiana fabricada en aluminio de color rojo, para hacer el café con el mejor cuerpo y aroma.
 

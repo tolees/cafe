@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bomba de 15 bares de presión
-- Sistema Cappuccino para producir espuma de leche
 - Sistema thermoblock con 2 termostatos para controlar temperatura de agua y vapor
+- Sistema Cappuccino para producir espuma de leche
 - Uso con café molido y monodosis (E.S.E. Pods)
 - Deposito de agua de 1,4 l transparente y extraíble
+- Bomba de 15 bares de presión
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00T0HSAGA{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- XL: El depósito de agua ahora es de 1,5 Litros y el de granos de café de 250 gramos.
+- LIMPIEZA: Programas automáticos de descalcificación y limpieza del sistema de café.
 - CONFIGURABLE: Niveles de molienda e intensidad ajustables. Sistema de leche integrado.
 - COMPACTA: La máquina de café prepara un magnífico café en sólo 20 centímetros de ancho.
-- LIMPIEZA: Programas automáticos de descalcificación y limpieza del sistema de café.
 - SILENCIOSA: Su molinillo cónico de acero inoxidable es extremadamente silencioso.
+- XL: El depósito de agua ahora es de 1,5 Litros y el de granos de café de 250 gramos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07XTY6Y1M{{</world>}}

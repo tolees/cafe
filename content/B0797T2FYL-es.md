@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Si tiene algún problema con nuestros productos o necesita ayuda, no dude en contactarnos a través de Amazon. Le responderemos a tiempo y le daremos una solución satisfactoria.
-- No necesita batería / electricidad. ¡Operación manual solamente! Experimente el placer de beber espresso de alta calidad, desde el primer sorbo hasta la última gota, donde quiera que esté. Todo lo que necesita para su próximo espresso es café molido, agua caliente y la máquina Nanopresso.
 - Después de cada disparo, el mantenimiento de Nanopresso toma solo unos segundos. Cuando es necesario, todos los componentes del portafiltro se separan fácilmente para una limpieza profunda.
+- Si tiene algún problema con nuestros productos o necesita ayuda, no dude en contactarnos a través de Amazon. Le responderemos a tiempo y le daremos una solución satisfactoria.
 - Lograr la toma de espresso perfecta está lejos de ser fácil. El Nanopresso funciona mejor con café finamente molido. Gracias a su construcción innovadora y fácil operación, Nanopresso lo ayudará a preparar un espresso perfecto con una agradable y densa capa de crema cada vez.
+- No necesita batería / electricidad. ¡Operación manual solamente! Experimente el placer de beber espresso de alta calidad, desde el primer sorbo hasta la última gota, donde quiera que esté. Todo lo que necesita para su próximo espresso es café molido, agua caliente y la máquina Nanopresso.
 - Nota: ¡El paquete no contiene ningún accesorio! Puedes comprar el accesorio NS Adapter por separado para que tu máquina Nanopresso sea compatible con las cápsulas Nespresso** Original y la mayoría de las compatibles. Se pueden encontrar más accesorios exclusivos en la descripción al final de esta página o en la store de WACACO.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

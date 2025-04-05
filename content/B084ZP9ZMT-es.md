@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Sus 1.25 L de capacidad son óptimos tanto para un uso diario como para cuando tengas invitados; ofrece la cantidad de café suficiente y un sabor delicioso que satisfará a toda la familia
 - Puedes programar la cafetera para que empiece a la hora que desees, hasta con 24 horas de antelación; de este modo, tendrás café recién hecho cuando te levantes
+- Sus 1.25 L de capacidad son óptimos tanto para un uso diario como para cuando tengas invitados; ofrece la cantidad de café suficiente y un sabor delicioso que satisfará a toda la familia
 - Gracias al diseño extragrande del cabezal, la extracción del café se produce de forma rápida y homogénea, ofreciéndote un café lleno de sabor todos los días
 - Medidas logísticas 20.5 x 33.4 x 30.8 cm
 - El sistema antigoteo hace que se interrumpa el ciclo de infusión cuando extraes la jarra, para que puedas servirte café aunque la máquina esté en funcionamiento

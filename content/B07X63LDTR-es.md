@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cápsulas de café compatibles con máquinas NESPRESSO, cápsulas no compatibles para las máquinas Nespresso Vertuo
-- Exclusivo en Amazon - Cápsulas de café STARBUCKS by NESPRESSO, con una variedad de diferentes tipos de tueste y blends de la familia STARBUCKS
-- Disfruta de STARBUCKS en casa, tu café favorito sin salir de casa
 - Esta especial variedad de cápsulas ha sido seleccionada para que puedas degustar muestra completa gama de cafés
+- Cápsulas de café compatibles con máquinas NESPRESSO, cápsulas no compatibles para las máquinas Nespresso Vertuo
 - Comprometidos con el abastecimiento ético de café al 100 percent en colaboración con Conservation International
+- Disfruta de STARBUCKS en casa, tu café favorito sin salir de casa
+- Exclusivo en Amazon - Cápsulas de café STARBUCKS by NESPRESSO, con una variedad de diferentes tipos de tueste y blends de la familia STARBUCKS
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07X63LDTR{{</world>}}

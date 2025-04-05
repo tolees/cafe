@@ -29,15 +29,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Mezcla Magica Palermo: CUERPO 9,5 - INTENSIDAD 9 - DULZURA 7 - Las cápsulas "Magica Palermo" están hechas de aluminio y sabrán conquistarte con su aroma y el carácter inconfundible de este café, con una gran prevalencia de robusta de calidad. Déjate llevar por un estimulante viaje sensorial, un sorbo es suficiente.
-- Envase de 100 cápsulas - 10 paquetes de 10 cápsulas de ALUMINIO
 - Compatibles con los siguientes modelos de cafeteras Nespresso: Delonghi - Essenza, Essenza Mini EN85R, Citiz, Inissia, Lattissima Premium, Pixie, Prodigio Silver, U; Krups - Citiz, Essenza, Essenza Mini, Inissia, Pixie, Prodigio Titan, U; Nespresso - Essenza Mini C30 Matt Black, Lattissima One; Didiesse
-- Mezcla Magica Palermo - De la sabia combinación de refinados tipos de robusta nace una mezcla intensa, con cuerpo, sabor y persistencia pronunciada. Un café único, para disfrutar de una experiencia que jamás resulta banal, con un sabor inolvidable. Por eso hemos querido dedicársela a Palermo: un cruce de culturas, una ciudad de carácter cálido, fuerte y decidido. ¿La prefieres de aluminio? Elígela buena.
-- Envase de 100 cápsulas - 10 paquetes de 10 cápsulas de ALUMINIO
-- Compatibles con los siguientes modelos de cafeteras Nespresso*: Delonghi - Essenza, Essenza Mini EN85R, Citiz, Inissia, Lattissima Premium, Pixie, Prodigio Silver, U; Krups - Citiz, Essenza, Essenza Mini, Inissia, Pixie, Prodigio Titan, U; Nespresso - Essenza Mini C30 Matt Black, Lattissima One; Didiesse
 - *Nespresso es una marca registrada de Société des Produits Nestlé S.A. Caffè Borbone S.r.l. es un productor independiente, no vinculado a Société des Produits Nestlé S.A. La compatibilidad de las cápsulas Caffè Borbone es funcional al uso con cafeteras Nespresso de uso doméstico.
 - Mezcla Magica Palermo: CUERPO 9,5 - INTENSIDAD 9 - DULZURA 7 - Las cápsulas "Magica Palermo" están hechas de aluminio y sabrán conquistarte con su aroma y el carácter inconfundible de este café, con una gran prevalencia de robusta de calidad. Déjate llevar por un estimulante viaje sensorial, un sorbo es suficiente.
+- Compatibles con los siguientes modelos de cafeteras Nespresso*: Delonghi - Essenza, Essenza Mini EN85R, Citiz, Inissia, Lattissima Premium, Pixie, Prodigio Silver, U; Krups - Citiz, Essenza, Essenza Mini, Inissia, Pixie, Prodigio Titan, U; Nespresso - Essenza Mini C30 Matt Black, Lattissima One; Didiesse
 - Nespresso es una marca registrada de Société des Produits Nestlé S.A. Caffè Borbone S.r.l. es un productor independiente, no vinculado a Société des Produits Nestlé S.A. la compatibilidad de las cápsulas Caffè Borbone es funcional al uso con cafeteras Nespresso de uso doméstico.
+- Envase de 100 cápsulas - 10 paquetes de 10 cápsulas de ALUMINIO
 - Mezcla Magica Palermo - De la sabia combinación de refinados tipos de robusta nace una mezcla intensa, con cuerpo, sabor y persistencia pronunciada. Un café único, para disfrutar de una experiencia que jamás resulta banal, con un sabor inolvidable. Por eso hemos querido dedicársela a Palermo: un cruce de culturas, una ciudad de carácter cálido, fuerte y decidido. La prefieres de aluminio? Elígela buena.
+- Mezcla Magica Palermo - De la sabia combinación de refinados tipos de robusta nace una mezcla intensa, con cuerpo, sabor y persistencia pronunciada. Un café único, para disfrutar de una experiencia que jamás resulta banal, con un sabor inolvidable. Por eso hemos querido dedicársela a Palermo: un cruce de culturas, una ciudad de carácter cálido, fuerte y decidido. ¿La prefieres de aluminio? Elígela buena.
+- Envase de 100 cápsulas - 10 paquetes de 10 cápsulas de ALUMINIO
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09YMPSXFS{{</world>}}

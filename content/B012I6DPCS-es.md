@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- LAVAZZA: El Grupo Lavazza opera en todos los sectores de la industria del café, ofreciendo productos de alta calidad y obtenidos a través de un modelo sostenible que se basa en la innovación, la pasión y la experiencia
-- VARIEDAD: Esta selección de café Lavazza está elaborada con café 100% Arábica procedente de África y Centro y Sudamérica
+- NOTAS AROMÁTICAS: Espresso Italiano Classico es caracterizado por notas aromáticas de caramelo y chocolate, para un café espresso con un sabor suave y rico
 - ESPRESSO ITALIANO CLASSICO: El café molido natural Lavazza ideal para un espresso definitivo para disfrutar a cualquier hora del día. Para utilizar con cafetera Italiana, de filtro y francesa
 - CAFÉ NATURAL: Todos los cafés en grano y molido de Lavazza son de tueste natural
-- NOTAS AROMÁTICAS: Espresso Italiano Classico es caracterizado por notas aromáticas de caramelo y chocolate, para un café espresso con un sabor suave y rico
+- LAVAZZA: El Grupo Lavazza opera en todos los sectores de la industria del café, ofreciendo productos de alta calidad y obtenidos a través de un modelo sostenible que se basa en la innovación, la pasión y la experiencia
+- VARIEDAD: Esta selección de café Lavazza está elaborada con café 100% Arábica procedente de África y Centro y Sudamérica
 - INTENSIDAD: La intensidad 5 y el tueste medio brindan un color cálido a este café, para un espresso con una espuma dorada
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

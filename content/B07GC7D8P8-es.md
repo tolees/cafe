@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Eyección automática de las cápsulas
-- Apagado automático de la máquina: 9 minutos
-- Apertura y cierre automáticos
-- Tecnología de extracción de café de Centrifusion para un café de alta calidad
-- 1 máquina, 5 tamaños de taza para adaptarse a todas tus necesidades: desde café expreso hasta largo
 - Depósito de agua extraíble
+- Apagado automático de la máquina: 9 minutos
+- 1 máquina, 5 tamaños de taza para adaptarse a todas tus necesidades: desde café expreso hasta largo
 - Reconocimiento automático de la cápsula: permite una adaptación óptima a los parámetros de extracción del café.
 - Un solo botón: para preparar tu café sin importar la cantidad de café elegida.
+- Eyección automática de las cápsulas
+- Apertura y cierre automáticos
+- Tecnología de extracción de café de Centrifusion para un café de alta calidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07GC7D8P8{{</world>}}

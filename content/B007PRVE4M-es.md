@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Descubre este café NESCAFÉ Dolce Gusto ristretto Bonka con notas a madera y frutos rojos; un café intenso de sabor y color, al más puro estilo español; te encantará el delicioso sabor de su selección de granos de Colombia, Camerún, Uganda, Brasil y Vietnam; Intenso en un 8/11
-- Las máquinas de NESCAFÉ Dolce Gusto cuentan con un sistema de alta presión de hasta 15 bares con una bomba de alta tecnología que permite extraer el delicado sabor y aroma de cada cápsula de NESCAFÉ Dolce Gusto; las cápsulas disponen de un sellado hermético que garantizan el aroma y la frescura del café
 - El café de NESCAFÉ Dolce Gusto es de cultivo de origen responsable; recicla las cápsulas NESCAFÉ Dolce Gusto y dales una segunda vida, encuentra tu punto de recogida más cercano entre los más de 4.200 que tenemos por toda España; las cápsulas recogidas se reciclan, dando una segunda vida a los componentes de plástico y convirtiendo el remanente en abono de calidad
 - Descubre más de 30 variedades de recetas y ten tu propio coffee shop en casa: desde espressos intensos, cafés con leche, cafés largos, cappuccinos, descafeinados... hasta incluso tés y chocolates; disfruta de tu coffee shop en casa
+- Las máquinas de NESCAFÉ Dolce Gusto cuentan con un sistema de alta presión de hasta 15 bares con una bomba de alta tecnología que permite extraer el delicado sabor y aroma de cada cápsula de NESCAFÉ Dolce Gusto; las cápsulas disponen de un sellado hermético que garantizan el aroma y la frescura del café
+- Descubre este café NESCAFÉ Dolce Gusto ristretto Bonka con notas a madera y frutos rojos; un café intenso de sabor y color, al más puro estilo español; te encantará el delicioso sabor de su selección de granos de Colombia, Camerún, Uganda, Brasil y Vietnam; Intenso en un 8/11
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B007PRVE4M{{</world>}}

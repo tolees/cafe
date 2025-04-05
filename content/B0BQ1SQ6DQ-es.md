@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cucharilla dosificadora con prensador, la medida perfecta en cada café y una potente bomba de presión con tecnología Force Aroma de 20 bares que consigue la mejor crema y el máximo aroma.
-- Incluye vaporizador orientable con protección que texturiza la leche y te consigue la mejor espuma. Además, emite agua caliente a la temperatura idónea para las infusiones.
-- Cafetera espresso con diseño elegante y compacto. Potencia máxima de 1100 W que prepara todo tipo de cafés.
 - Brazo portafiltros con doble salida y dos filtros para preparar hasta dos cafés automáticamente.
 - Depósito de agua extraíble con 1,25 litros de capacidad. Bandeja calienta tazas de acero inoxidable.
+- Incluye vaporizador orientable con protección que texturiza la leche y te consigue la mejor espuma. Además, emite agua caliente a la temperatura idónea para las infusiones.
+- Cafetera espresso con diseño elegante y compacto. Potencia máxima de 1100 W que prepara todo tipo de cafés.
+- Cucharilla dosificadora con prensador, la medida perfecta en cada café y una potente bomba de presión con tecnología Force Aroma de 20 bares que consigue la mejor crema y el máximo aroma.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQ1SQ6DQ{{</world>}}

@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Elegante cafetera expreso con boquilla en V que bloquea perfectamente las gotas de café
 - Diseñador: Michele de Lucchi
-- Tamaño: 26 x 20 x 26 cm
 - Colores disponibles: rojo, negro y en versión de 1 y 3 tazas
 - Materiales: fundición de aluminio, mango y pomo de PA
+- Tamaño: 26 x 20 x 26 cm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B014HJ76EC{{</world>}}
