@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Intensidad: 9
-- Hecho en Italia: GRUPO GIMOKA - PASIÓN POR EL CAFÉ DESDE EL 80s, se compromete activamente a desarrollar envases fácilmente reciclables, compostables y ecológicos
-- Formato: 100 cápsulas de aluminio que preservan el aroma para conservar toda la frescura del café
 - Mezcla: contiene Arábica de Brasil y Papua Nueva Guinea y Robusta de Vietnam y Uganda
 - Perfil sensorial: café suave con gusto típico de un tueste suave, caracterizado por matices de almendras
+- Hecho en Italia: GRUPO GIMOKA - PASIÓN POR EL CAFÉ DESDE EL 80s, se compromete activamente a desarrollar envases fácilmente reciclables, compostables y ecológicos
+- Formato: 100 cápsulas de aluminio que preservan el aroma para conservar toda la frescura del café
+- Intensidad: 9
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0874W8CHT{{</world>}}

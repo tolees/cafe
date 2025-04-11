@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - - Dimensiones - 13 x 13 x 43 cm. Las cápsulas de café se pueden guardar y organizar de forma ordenada.
 - - Buen Diseño - Este soporte para cápsulas Dolce Gusto está colocado verticalmente y ocupa muy poco espacio. Es un organizador muy ideal para la cocina o la oficina.
-- - Caben 32 unidades de cápsulas Dolce Gusto - Esta estantería de almacenamiento para cápsulas de café tiene 4 lados, cada uno de los cuales se pueden almacenar 8 cápsulas de café. Es perfectamente compatible con las cápsulas de Dolce Gusto.
 - - Rotación de 360° - Pueden girar 360 ° para ​que pueda sacar rápida y fácilmente tus cápsulas favoritas de café.
+- - Caben 32 unidades de cápsulas Dolce Gusto - Esta estantería de almacenamiento para cápsulas de café tiene 4 lados, cada uno de los cuales se pueden almacenar 8 cápsulas de café. Es perfectamente compatible con las cápsulas de Dolce Gusto.
 - - Mejor opción para los amantes del café - El soporte estable para cápsulas es un maravilloso regalo del cumpleaños, Pascua, Navidad o Año Nuevo. Cualquier duda nos avisa, quedamos siempre a tu disposición para lo que necesites.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

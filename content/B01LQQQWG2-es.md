@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Compatibles Nespresso*
+- Mezcla Azul
 - Paquete de 100 Cápsulas
 - *Nespresso y *Nescafé *Dolce Gusto son marcas registradas de Societé des Produits Nestlé S.A. Caffè Borbone Srl es un productor independiente no vinculado a la Societé des Produits Nestlé S.A. Las cápsulas Caffè Borbone son compatibles con máquinas de café de uso doméstico Nespresso – Nescafé Dolce Gusto .
-- Mezcla Azul
-- Compatibles Nespresso*
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01LQQQWG2{{</world>}}

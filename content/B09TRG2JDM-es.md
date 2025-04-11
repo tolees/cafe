@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CAFÉ NATURAL: Todos los cafés en grano y molido de Lavazza son de tueste natural
+- INTENSIDAD: La intensidad 5 y el tueste medio brindan un color cálido a este café, para un espresso con una espuma dorada
+- VARIEDAD: Esta selección de café Lavazza está elaborada con café 100% Arábica procedente de Centro y Sudamérica
 - NOTAS AROMÁTICAS: Qualità Oro es caracterizado por notas aromáticas de frutas y flores, para un café espresso con un sabor dulce y refinado
 - LAVAZZA: El Grupo Lavazza opera en todos los sectores de la industria del café, ofreciendo productos de alta calidad y obtenidos a través de un modelo sostenible que se basa en la innovación, la pasión y la experiencia
 - QUALITÀ ORO: La sinfonía perfecta para un sabor excepcional siempre, desde 1956. Este café molido natural Lavazza es ideal para cafetera Italiana, de filtro y francesa
-- VARIEDAD: Esta selección de café Lavazza está elaborada con café 100% Arábica procedente de Centro y Sudamérica
+- CAFÉ NATURAL: Todos los cafés en grano y molido de Lavazza son de tueste natural
 - El término italiano “torrefatto” que aparece en el envase original significa “tostado” y no se refiere de ninguna manera a una variedad de café torrefacto
-- INTENSIDAD: La intensidad 5 y el tueste medio brindan un color cálido a este café, para un espresso con una espuma dorada
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09TRG2JDM{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CÁPSULAS COMPATIBLES CON CAFETERAS DOLCE GUSTO: Formato Pack de 4 cajas con 10 unidades. Un total de 40 cápsulas, para que no falte café en ninguno de tus desayunos o sobremesas.
-- CÁPSULAS DOLCE GUSTO: Esta gama de café en capsulas para cafeteras automáticas Dolce Gusto es la opción perfecta para tu día a día. En Café Fortaleza apostamos por las variedades arábicas para lograr la mayor calidez y sabor en cada sorbo. Descubre toda nuestra selección de cafés y convierte tu taza de café diaria en una ocasión de máximo disfrute.
-- CÁPSULAS CAFÉ INTENSSISIMO: Una gama de café en cápsulas de sabor fuerte (intensidad 13/13), inigualable en café solo o con leche gracias a su la fuerte personalidad de su sabor y a su cuerpo denso.
-- CÁPSULAS DE SELLADO HERMÉTICO: El envase hermético de estas cápsulas de café compatibles con máquinas Dolce Gusto, permite conservar todas sus propiedades de óptima calidad, manteniendo el café fresco y conservando todos sus aromas naturales.
 - CALIDAD SUPERIOR: Un café fruto del tueste natural e intenso de los más sofisticados granos de café de variedad 100% Arábica. Estas cápsulas compatibles con cafeteras Dolce Gusto son el equilibro ideal entre sutiles matices que evocan al cacao amargo y todo el carácter del café.
+- CÁPSULAS DOLCE GUSTO: Esta gama de café en capsulas para cafeteras automáticas Dolce Gusto es la opción perfecta para tu día a día. En Café Fortaleza apostamos por las variedades arábicas para lograr la mayor calidez y sabor en cada sorbo. Descubre toda nuestra selección de cafés y convierte tu taza de café diaria en una ocasión de máximo disfrute.
+- CÁPSULAS DE SELLADO HERMÉTICO: El envase hermético de estas cápsulas de café compatibles con máquinas Dolce Gusto, permite conservar todas sus propiedades de óptima calidad, manteniendo el café fresco y conservando todos sus aromas naturales.
+- CÁPSULAS COMPATIBLES CON CAFETERAS DOLCE GUSTO: Formato Pack de 4 cajas con 10 unidades. Un total de 40 cápsulas, para que no falte café en ninguno de tus desayunos o sobremesas.
+- CÁPSULAS CAFÉ INTENSSISIMO: Una gama de café en cápsulas de sabor fuerte (intensidad 13/13), inigualable en café solo o con leche gracias a su la fuerte personalidad de su sabor y a su cuerpo denso.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07FNK6XQV{{</world>}}

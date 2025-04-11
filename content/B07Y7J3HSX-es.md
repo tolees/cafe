@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cafetera superautomática con 3 niveles de selección de intensidad y cantidad de café ajustable 20 ml a 220 ml
-- desinfectante
-- Número de gránulos: 10
 - limpieza
+- desinfectante
 - Función automática de vapor: para calentar agua o leche, o preparar infusiones; fácil y limpio
-- Programa automático de limpieza y descalcificación; incluye kit de pastillas de limpieza y descalcificador
-- Descalcificación
 - Molinillo integrado y placa calientatazas: café recién hecho en una taza caliente: sabor, aroma, crema quedan resaltados
+- Descalcificación
+- Número de gránulos: 10
+- Programa automático de limpieza y descalcificación; incluye kit de pastillas de limpieza y descalcificador
+- Cafetera superautomática con 3 niveles de selección de intensidad y cantidad de café ajustable 20 ml a 220 ml
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07Y7J3HSX{{</world>}}

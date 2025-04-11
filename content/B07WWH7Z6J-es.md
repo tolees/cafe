@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Dosis recomendada de agua 80 ml
-- El delicioso sabor y aroma del chocolate con avellana en una pequeña cápsula de 7 gramos
-- Visite nuestra BRAND STORE para descubrir toda la selección NOTE DESPRESSO enlace directo debajo del título del producto
-- Práctica caja de 40 capsulas, totalmente certificada con barrera de oxigeno, se pueden mantener fuera de las bolsas, no pierden su aroma. Buena elección para aquellos que usen porta capsulas o almacenamiento
-- Hechos en Italia
 - Compatible con cafeteras NESPRESSO
+- Visite nuestra BRAND STORE para descubrir toda la selección NOTE DESPRESSO enlace directo debajo del título del producto
+- Hechos en Italia
+- El delicioso sabor y aroma del chocolate con avellana en una pequeña cápsula de 7 gramos
+- Práctica caja de 40 capsulas, totalmente certificada con barrera de oxigeno, se pueden mantener fuera de las bolsas, no pierden su aroma. Buena elección para aquellos que usen porta capsulas o almacenamiento
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07WWH7Z6J{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hecho en Italia: Grupo Gimoka - Pasión por el café desde los 80s, se compromete activamente a desarrollar envases fácilmente reciclables, compostables y ecológicos
-- Intensidad: 8
 - Mezcla: 100% Arábica, suave y aromática
 - Formato: 100 cápsulas que preservan el aroma para conservar toda la frescura del café
+- Intensidad: 8
+- Hecho en Italia: Grupo Gimoka - Pasión por el café desde los 80s, se compromete activamente a desarrollar envases fácilmente reciclables, compostables y ecológicos
 - Perfil sensorial: café equilibrado con notas de chocolate y fruta, creado desde mezclas finas de Arábica, el tueste intenso hace que la crema sea compacta
 
 [🛒 Comprar!!!]({{< param buyurl >}})

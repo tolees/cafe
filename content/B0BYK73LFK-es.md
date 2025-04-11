@@ -29,13 +29,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - PERFIL DE SABOR: De cuerpo medio, con aromas naturales para una experiencia de sabor a avellana intenso, aromático y cremoso
-- INTENSIDAD: 6/12: medio
-- CERTIFICACIÓN RAINFOREST ALLIANCE: La procedencia del café utilizado para este producto goza de la certificación Rainforest Alliance, lo que significa que no solo sabe bien, sino que también tiene un impacto positivo. Con cada compra, ayuda a cientos de agricultores y sus familias en todo el mundo, además de aportar su granito a la selva tropical; beber mejor es hacerlo mejor
-- CÁPSULAS COMPATIBLES CON NESPRESSO*: Compatible con máquinas Nespresso originales. No compatible con Nespresso Vertuo. Asegúrate de seguir siempre las instrucciones del fabricante de la cafetera (*Nespresso no está conectada con Amazon)
-- 100 CÁPSULAS DE ALUMINIO: 5 x 20 cápsulas
 - PORCIÓN RECOMENDADA: 40ml de espresso
+- CÁPSULAS COMPATIBLES CON NESPRESSO*: Compatible con máquinas Nespresso originales. No compatible con Nespresso Vertuo. Asegúrate de seguir siempre las instrucciones del fabricante de la cafetera (*Nespresso no está conectada con Amazon)
 - 100 % ARÁBICA: Mezcla de Sudamérica. Tostado y envasado en España
+- CERTIFICACIÓN RAINFOREST ALLIANCE: La procedencia del café utilizado para este producto goza de la certificación Rainforest Alliance, lo que significa que no solo sabe bien, sino que también tiene un impacto positivo. Con cada compra, ayuda a cientos de agricultores y sus familias en todo el mundo, además de aportar su granito a la selva tropical; beber mejor es hacerlo mejor
 - FRESCOR MÁXIMO: El aluminio permite que nuestras cápsulas sean perfectamente herméticas y garantiza una óptima conservación del aroma y del sabor del café
+- INTENSIDAD: 6/12: medio
+- 100 CÁPSULAS DE ALUMINIO: 5 x 20 cápsulas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BYK73LFK{{</world>}}

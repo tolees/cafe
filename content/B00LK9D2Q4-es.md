@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Recipiente desmontable de leche (1,5 l)
-- Base resistente y ruedas 360° – Estructura de polipropileno y base de nylon de 320 mm con ruedas de PU de 50 mm.
-- Para café molido o cápsulas de café
 - Recipiente desmontable de leche (300 ml)
+- Para café molido o cápsulas de café
+- Base resistente y ruedas 360° – Estructura de polipropileno y base de nylon de 320 mm con ruedas de PU de 50 mm.
+- Recipiente desmontable de leche (1,5 l)
 - Bomba italiana con 15 bar
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- NOTAS AROMÁTICAS: Este producto Lavazza es caracterizado por notas aromáticas de frutos secos, para un cappuccino aromático, con un sabor rico y de gran cuerpo
-- INTENSIDAD: La intensidad 6/13 crea un cappuccino rico y delicado a la vez. Estas cápsulas Lavazza son compatibles con máquinas Nescafé Dolce Gusto*. *Marca de un tercero sin relación con Luigi Lavazza S.p.A.
-- CAPPUCCINO: El sabor intenso y de gran cuerpo del espresso se combina con la suavidad cremosa de la espuma de leche... Un suave despertar. Déjate sorprender por la delicadeza de este encuentro
 - VARIEDAD: Las cápsulas de Cappuccino están elaboradas con café Arábica y Robusta procedente de Centro y Suramérica
 - LAVAZZA: El Grupo Lavazza opera en todos los sectores de la industria del café, ofreciendo productos de alta calidad y obtenidos a través de un modelo sostenible que se basa en la innovación, la pasión y la experiencia
+- NOTAS AROMÁTICAS: Este producto Lavazza es caracterizado por notas aromáticas de frutos secos, para un cappuccino aromático, con un sabor rico y de gran cuerpo
+- CAPPUCCINO: El sabor intenso y de gran cuerpo del espresso se combina con la suavidad cremosa de la espuma de leche... Un suave despertar. Déjate sorprender por la delicadeza de este encuentro
+- INTENSIDAD: La intensidad 6/13 crea un cappuccino rico y delicado a la vez. Estas cápsulas Lavazza son compatibles con máquinas Nescafé Dolce Gusto*. *Marca de un tercero sin relación con Luigi Lavazza S.p.A.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09TWQYD7W{{</world>}}

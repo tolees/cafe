@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Práctico paquete de 48 cápsulas
-- Hechos en Italia
-- Exclusivamente Compatibles con cafeteras de cápsulas NESCAFÉ* DOLCE GUSTO* (* No registrado en Amazon EU S.a.r.l.)
-- El delicioso sabor y aroma de la ciruela y la canela en una pequeña cápsula de 3 gramos
 - Visite nuestra BRAND STORE para descubrir toda la selección NOTE DESPRESSO: enlace directo debajo del título del producto
+- Exclusivamente Compatibles con cafeteras de cápsulas NESCAFÉ* DOLCE GUSTO* (* No registrado en Amazon EU S.a.r.l.)
 - Dosis recomendada de agua 200 ml
+- El delicioso sabor y aroma de la ciruela y la canela en una pequeña cápsula de 3 gramos
+- Hechos en Italia
+- Práctico paquete de 48 cápsulas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07WWH873W{{</world>}}

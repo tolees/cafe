@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CREMA E GUSTO CLASSICO: Cápsulas de café Lavazza compatibles con máquinas Nespresso* Original, ideales para un espresso cremoso. *Lavazza no está afiliada, respaldada o patrocinada por Nespresso
 - INTENSIDAD: El tueste ligero y la intensidad 12/13 crean una crema de café clara y con un color dorado
 - VARIEDAD: Las cápsulas Crema e Gusto de Lavazza están elaboradas a partir de café Arábica y Robusta de Suramérica y de África
 - LAVAZZA: Lavazza está presente en todos los ámbitos de la industria del café y ofrece productos de alta calidad, frutos de un modelo sostenible basado en la innovación, la pasión y la experiencia
 - NOTAS AROMÁTICAS: Esta selección de café se caracteriza por notas aromáticas de especias y cacao, con un regusto de madera
+- CREMA E GUSTO CLASSICO: Cápsulas de café Lavazza compatibles con máquinas Nespresso* Original, ideales para un espresso cremoso. *Lavazza no está afiliada, respaldada o patrocinada por Nespresso
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09BFG23X3{{</world>}}

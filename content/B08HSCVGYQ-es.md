@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Disfrute de más de 30 variedades de expresos y otras bebidas originales
-- Máquina automática con bomba de alta presión (15 bar); Potencia 1500W
 - Una interfaz intuitiva, con nuevas características, permite preparar expresos con una crema rica y aterciopelada como en el bar. Con pocos gestos podrás adaptar la temperatura y la longitud de tus bebidas.
-- Tamaño: 33 x 15 x 33 cm; depósito extraíble de 0,8 l con carga superior
-- Sistema de apagado automático después de un minuto de inutilización y sistema Thermoblock
+- Máquina automática con bomba de alta presión (15 bar); Potencia 1500W
 - GENIO S es la máquina de espresso y otras bebidas en cápsula Nescafé Dolce Gusto de diseño moderno y compacto, capaz de combinar creatividad y funcionalidad para una experiencia personalizada.
+- Tamaño: 33 x 15 x 33 cm; depósito extraíble de 0,8 l con carga superior
+- Disfrute de más de 30 variedades de expresos y otras bebidas originales
+- Sistema de apagado automático después de un minuto de inutilización y sistema Thermoblock
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08HSCVGYQ{{</world>}}

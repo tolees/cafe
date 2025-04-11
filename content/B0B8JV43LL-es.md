@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- MOLINILLO CON 8 AJUSTES: su molinillo cónico proporciona una gran cantidad de café recién molido para un café espresso simple o doble; se adapta a todas las variedades de granos de café
-- TRES RECETAS PREDEFINIDAS: Espresso, Long Black y agua caliente para personalizar tu bebida con todo detalle
 - CONTROL ACTIVO DE LA TEMPERATURA: temperatura uniforme para una extracción perfecta del café; elige entre 3 ajustes de temperatura para distintas mezclas de granos y niveles de tueste
-- COMO UN BARISTA: fácil preparación de café con el conjunto de accesorios para baristas y su almacenamiento; completo acaba con el desorden durante el molido y guia el apisonado con precisión
+- TRES RECETAS PREDEFINIDAS: Espresso, Long Black y agua caliente para personalizar tu bebida con todo detalle
+- MOLINILLO CON 8 AJUSTES: su molinillo cónico proporciona una gran cantidad de café recién molido para un café espresso simple o doble; se adapta a todas las variedades de granos de café
 - VARITA DE VAPOR MY LATTE: espuma de leche aterciopelada y suave como la seda; pon a punto tu técnica de arte del latte y consigue la microespuma perfecta para las bebidas a base de leche
+- COMO UN BARISTA: fácil preparación de café con el conjunto de accesorios para baristas y su almacenamiento; completo acaba con el desorden durante el molido y guia el apisonado con precisión
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0B8JV43LL{{</world>}}
