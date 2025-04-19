@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Uso con café molido y monodosis (E.S.E. Pods)
-- Bomba de 15 bares de presión
-- Sistema thermoblock con 2 termostatos para controlar temperatura de agua y vapor
 - Deposito de agua de 1,4 l transparente y extraíble
+- Sistema thermoblock con 2 termostatos para controlar temperatura de agua y vapor
+- Bomba de 15 bares de presión
 - Sistema Cappuccino para producir espuma de leche
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

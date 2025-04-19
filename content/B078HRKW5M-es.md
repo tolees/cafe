@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Apta para todo tipo de cocinas, incluida inducción
+- Diámetro superior 12.5 cm y diámetro inferior 9.3 cm
+- La prueba para verificar si el fondo de esta cafetera es apto para inducción es la comprobación magnética con un imán. Si dicho imán se pega a la base de la cafetera el producto es apto para inducción
+- BRA
 - Capacidad para 6 tazas de café 300 ml
 - Full Induction esta tecnología está preparada para lograr la máxima dispersión del calor gracias a su fondo homogéneo sin agujeros, consiguiendo la máxima eficiencia y el ahorro de energía
 - Los artículos de menaje que poseen fondos aptos para inducción de diámetros pequeños pueden presentar dificultades de conexión con placas de inducción si dichas encimeras no poseen un hornillo de inducción de diámetro parecido (+-10%) a la base del producto, en este caso a la base de esta cafetera equivalente a 9.3 cm
-- La prueba para verificar si el fondo de esta cafetera es apto para inducción es la comprobación magnética con un imán. Si dicho imán se pega a la base de la cafetera el producto es apto para inducción
-- BRA
-- Diámetro superior 12.5 cm y diámetro inferior 9.3 cm
-- Apta para todo tipo de cocinas, incluida inducción
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B078HRKW5M{{</world>}}

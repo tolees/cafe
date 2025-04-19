@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - 20 PAQUETES DE 10 CÁPSULAS - 200 Cápsulas de Aluminio compatibles con las cafeteras L’OR Barista y con máquinas Nespresso (Marca de una compañía no relacionada con Jacobs Douwe Egberts).
-- FRESCO, POTENTE Y ESPECIADO - La mezcla da como resultado un café sabroso y complejo que recuerda a especias frescas como el jengibre y el cardamomo.
 - CÁPSULA ESPRESSO: La cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el cappuccino o el latte.
 - CAFÉ 100% CERTIFICADO: Las cápsulas L’OR Espresso son elaboradas con café obtenido de fincas Rainforest Alliance que contribuye a mejorar la vida de los agricultores.
+- FRESCO, POTENTE Y ESPECIADO - La mezcla da como resultado un café sabroso y complejo que recuerda a especias frescas como el jengibre y el cardamomo.
 - INTENSIDAD 11 - Café molido de tueste natural con sabor profundo y especiado elaborado con una combinación de granos de café.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

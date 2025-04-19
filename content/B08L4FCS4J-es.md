@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- NOTAS AROMÁTICAS: El café molido natural Qualità Rossa es caracterizado por toques de chocolate, para un espresso con un sabor de gran cuerpo
-- LAVAZZA: El Grupo Lavazza opera en todos los sectores de la industria del café, ofreciendo productos de alta calidad y obtenidos a través de un modelo sostenible que se basa en la innovación, la pasión y la experiencia
-- QUALITÀ ROSSA: El placer de un buen café Lavazza que las familias italianas siempre quieren tener a mano a la hora de la pausa. Con un aroma inconfundible que le da energía renovada y crea momentos mágicos
-- CAFÉ NATURAL: Todos los cafés en grano y molido de Lavazza son de tueste natural
 - VARIEDAD: Esta selección de café Lavazza está elaborada con café Arábica y Robusta procedente principalmente de Suramérica y de África
 - INTENSIDAD: La intensidad 5 y el tueste medio brindan un color cálido a este café, para un espresso con una "crema" dorada
+- QUALITÀ ROSSA: El placer de un buen café Lavazza que las familias italianas siempre quieren tener a mano a la hora de la pausa. Con un aroma inconfundible que le da energía renovada y crea momentos mágicos
+- NOTAS AROMÁTICAS: El café molido natural Qualità Rossa es caracterizado por toques de chocolate, para un espresso con un sabor de gran cuerpo
+- CAFÉ NATURAL: Todos los cafés en grano y molido de Lavazza son de tueste natural
+- LAVAZZA: El Grupo Lavazza opera en todos los sectores de la industria del café, ofreciendo productos de alta calidad y obtenidos a través de un modelo sostenible que se basa en la innovación, la pasión y la experiencia
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08L4FCS4J{{</world>}}

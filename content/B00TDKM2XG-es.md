@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cuerpo de metal con capacidad de 1.4 l de agua y 3 filtros
-- Dispone de apagado automático y de depósito de agua extraíble
 - Tensión nominal de 220 - 240 V y frecuencia de 50 - 60 Hz
 - Compatible con vainas ESE y presión de la bomba de 15 bar
+- Cuerpo de metal con capacidad de 1.4 l de agua y 3 filtros
+- Dispone de apagado automático y de depósito de agua extraíble
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00TDKM2XG{{</world>}}

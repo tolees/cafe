@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - ¿QUÉ CONTIENE? - Contiene 10 paquetes de 10 cápsulas cada uno (100 cápsulas en total) de variedades Espresso con intensidades de 10 a 12: Ristretto (2 paquetes), Onyx (2 paquetes), Fortissimo (2 paquetes), Supremo (2 paquetes), Lungo Estremo (2 paquetes), Supremo (2 paquetes)
-- CAFÉ 100% CERTIFICADO - Las cápsulas L’OR Espresso son elaboradas con café obtenido de fincas Rainforest Alliance que contribuye a mejorar la vida de los agricultores.
 - 10 PAQUETES DE 10 CÁPSULAS - 100 Cápsulas de Aluminio compatibles con las cafeteras L’Or Espresso y con máquinas Nespresso (Marca de una compañía no relacionada con Jacobs Douwe Egberts)
+- CAFÉ 100% CERTIFICADO - Las cápsulas L’OR Espresso son elaboradas con café obtenido de fincas Rainforest Alliance que contribuye a mejorar la vida de los agricultores.
 - INTENSIDADES 10 a 12 - Surtido de la Gama Espresso con Intensidades de la 10 a la 12. Fortissimo (Intensidad 10), Lungo Estremo (Intensidad 10), Onyx (Intensidad 12), Ristretto (Intensidad 11), Supremo (Intensidad 10)
 - CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el cappuccino o el latte.
 

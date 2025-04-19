@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Notas aromaticas tostadas
+- Una vez abierto conservar en un recipiente hermético
 - Perfil equilibrado en intensidad, cuerpo redondo y persistencia en el paladar
 - Café de tueste natural superior
 - Fácil y rápido de preparar
-- Una vez abierto conservar en un recipiente hermético
-- Notas aromaticas tostadas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D1CST2K3{{</world>}}

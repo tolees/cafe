@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- ☕ INTENSIDAD Y CARÁCTER - Las cápsulas Ristretto Residuo 0 te invitan a descubrir el lado más intenso del café. Compatible con Nespresso, este café orgánico se presenta en un práctico formato de 50 unidades, cada una cargada de un sabor tostado profundo y rico en matices. Perfectas para quienes aprecian una taza de café con carácter fuerte y dulces notas.
 - 🔥 SABOR INIGUALABLE - La variedad Ristretto se caracteriza por un blend exclusivo de cafés orgánicos sometidos a un tueste extremo. Este proceso único desbloquea un espectro de sabores que van desde el cacao puro hasta sutiles toques de regaliz. Estas cápsulas para cafetera Nespresso son ideales para los amantes del café más tostado, ofreciendo una experiencia inigualable en cada taza.
 - 🌟 COMPROMISO CON LA CALIDAD - En cada cápsula Ristretto Residuo 0 se encapsula nuestro compromiso con ofrecerte un café de la más alta calidad. Desde la selección de los granos hasta el innovador diseño compostable de la cápsula, todo está pensado para que disfrutes de un café excepcional, respetando al mismo tiempo nuestro planeta.
-- 🌑 PARA LOS AMANTES DEL TUESTE OSCURO - Recomendadas especialmente para quienes prefieren su café cargado y con un punto amargo, las cápsulas de café Ristretto son la esencia de la intensidad. Con cada sorbo, se despliega un mundo de aromas y sabores complejos, garantizando un despertar lleno de energía.
 - ♻️ UN GESTO POR EL PLANETA - Comprometidos con el medio ambiente, las cápsulas de café compatibles con Nespresso Ristretto Residuo 0 son 100% compostables. Al elegirlas, participas activamente en la reducción de residuos, depositándolas en la sección orgánica para su correcta descomposición. Un pequeño gesto con un gran impacto.tables - OkCompost
-- ☕ INTENSIDAD Y CARÁCTER - Las cápsulas Ristretto Residuo 0 te invitan a descubrir el lado más intenso del café. Compatible con Nespresso, este café orgánico se presenta en un práctico formato de 50 unidades, cada una cargada de un sabor tostado profundo y rico en matices. Perfectas para quienes aprecian una taza de café con carácter fuerte y dulces notas.
+- 🌑 PARA LOS AMANTES DEL TUESTE OSCURO - Recomendadas especialmente para quienes prefieren su café cargado y con un punto amargo, las cápsulas de café Ristretto son la esencia de la intensidad. Con cada sorbo, se despliega un mundo de aromas y sabores complejos, garantizando un despertar lleno de energía.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B089R1QNRR{{</world>}}

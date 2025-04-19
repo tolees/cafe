@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Designer: Michele de Lucchi
 - Dimensión: diámetro 7.50 cm, altura 20 cm, longitud 15.20 cm, ancho 9.20 cm
-- Material: aluminio fundido, mango y pomo en PA
-- Elegante cafetera espresso con pico en V que bloquea las gotas de café
 - Colores disponibles: rojo, negro y en las versiones de 1 y 6 tazas
+- Material: aluminio fundido, mango y pomo en PA
+- Designer: Michele de Lucchi
+- Elegante cafetera espresso con pico en V que bloquea las gotas de café
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0156A0VVG{{</world>}}

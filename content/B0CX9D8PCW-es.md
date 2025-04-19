@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cápsula esppreso: la cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el capuchino o el latte
-- Intensidad 11: café molido de tueste natural con sabor intenso y pronunciado elaborado con una deliciosa mezcla de granos de café
-- Fuerte, poderoso e intenso: la mezcla de granos da como resultado un sabor duradero y profundo con cuerpo
 - Pack ahorro: ahorra con Saimaza y los packs que ha elaborado para que nunca te falte café; ahora con cápsulas de aluminio para conservar todo el aroma
 - 40 Cápsulas de Aluminio compatibles con las cafeteras LOr Espresso y con máquinas Nespresso (Marca de una compañía no relacionada con Jacobs Douwe Egberts)
+- Intensidad 11: café molido de tueste natural con sabor intenso y pronunciado elaborado con una deliciosa mezcla de granos de café
+- Fuerte, poderoso e intenso: la mezcla de granos da como resultado un sabor duradero y profundo con cuerpo
+- Cápsula esppreso: la cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el capuchino o el latte
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CX9D8PCW{{</world>}}

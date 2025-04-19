@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - GRAN CALIDAD: Fabricada en aluminio de la más alta calidad, gracias a la porosidad del mismo, con el uso de la cafetera, el café adquiere el sabor y aroma deseado característico de las cafeteras italianas.
-- VALVULA SEGURIDAD: Mango de baquelita, termorresistente y ergonómico con acabado “Soft touch” que te protege de quemaduras.Junta de cierre de silicona y tanque con válvula de seguridad.
 - 6 TAZAS: Cafetera italiana express con una capacidad para 6 tazas de café molido. Medidas disponibles: 1 / 3 / 6 / 9 / 12 tazas.
 - MÚLTIPLES POSIBILIDADES: Es apta para casi todo tipo de cocinas: gas, placa eléctrica y vitrocerámica. Prepara un aromático café de forma tradicional.
 - GRAN AROMA: La cafetera cuenta con la proporción perfecta entre el depósito de café y el de agua, permitiéndote hacer el café con la intensidad que deseas.
+- VALVULA SEGURIDAD: Mango de baquelita, termorresistente y ergonómico con acabado “Soft touch” que te protege de quemaduras.Junta de cierre de silicona y tanque con válvula de seguridad.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07KQ2GQRT{{</world>}}

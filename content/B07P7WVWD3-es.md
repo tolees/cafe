@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Diseñador: david chipperfield
 - Moka con mango ergonómico para una fácil apertura y cierre
 - Tamaño: 7 cm de diámetro, 11 cm de altura
-- Diseñador: david chipperfield
 - Material: cuerpo de aluminio fundido, mango y pomo de resina termoplástica
 
 [🛒 Aquí!!!]({{< param buyurl >}})

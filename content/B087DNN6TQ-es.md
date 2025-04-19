@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Capacidad de 1,5 Litros.
 - - mango fabricado en polipropileno.
 - Cafetera BERGNER en color naranja metálico fabricada en acero inoxidable.
-- Capacidad de 1,5 Litros.
 - Peso del paquete: 1200.0 grams
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

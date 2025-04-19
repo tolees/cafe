@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Compatible con cafeteras NESPRESSO
-- El delicioso sabor y aroma de la crème brûlée en una pequeña cápsula de 6 gramos
 - Hechos en Italia
 - Práctica caja de 40 capsulas, totalmente certificada con barrera de oxigeno, se pueden mantener fuera de las bolsas, no pierden su aroma. Buena elección para aquellos que usen porta capsulas o almacenamiento
-- Dosis recomendada de agua 80 ml
 - Visite nuestra BRAND STORE para descubrir toda la selección NOTE DESPRESSO enlace directo debajo del título del producto
+- Compatible con cafeteras NESPRESSO
+- Dosis recomendada de agua 80 ml
+- El delicioso sabor y aroma de la crème brûlée en una pequeña cápsula de 6 gramos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07WWH548F{{</world>}}

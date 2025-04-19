@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Colores disponibles: rojo, negro y en versión de 1 y 3 tazas
-- Materiales: fundición de aluminio, mango y pomo de PA
 - Tamaño: 26 x 20 x 26 cm
-- Diseñador: Michele de Lucchi
+- Materiales: fundición de aluminio, mango y pomo de PA
 - Elegante cafetera expreso con boquilla en V que bloquea perfectamente las gotas de café
+- Diseñador: Michele de Lucchi
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B014HJ76EC{{</world>}}

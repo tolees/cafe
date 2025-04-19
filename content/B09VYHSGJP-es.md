@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el cappucino o el latte.
 - 10 PAQUETES DE 20 CÁPSULAS - 200 Cápsulas de Aluminio compatibles con las cafeteras L’OR Barista y con máquinas Nespresso (Marca de una compañía no relacionada con Jacobs Douwe Egberts)
-- INTENSO, SUAVE Y AGRADABLE - El grano Arábica da como resultado un café con un toque suave y agradable en el primer sorbo pero con un final potente con notas de chocolate negro.
 - INTENSIDAD 10 - Café molido de tueste natural, con cuerpo y notas afrutadas elaborado con granos de café 100% Arábica.
+- INTENSO, SUAVE Y AGRADABLE - El grano Arábica da como resultado un café con un toque suave y agradable en el primer sorbo pero con un final potente con notas de chocolate negro.
 - CAFÉ 100% CERTIFICADO - Las cápsulas Marcilla son elaboradas con café obtenido de fincas Rainforest Alliance que contribuye a mejorar la vida de los agricultores.
+- CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el cappucino o el latte.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09VYHSGJP{{</world>}}

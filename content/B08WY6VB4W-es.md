@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Con botón de selección de intensidad para preparar un delicisoso café largo o intenso
-- Sácale el máximo a las monodosis de café con la tecnología Coffee Boost
 - Con encendido directo y apagado automático para un menor consumo de energía
 - Prepara 1 o 2 tazas de café a la vez
-- Tanque de agua con capacidad de 0.7L
 - Hecha con 28% de plástico reciclado en aquellas partes que no estan en contacto con alimentos
+- Sácale el máximo a las monodosis de café con la tecnología Coffee Boost
+- Tanque de agua con capacidad de 0.7L
+- Con botón de selección de intensidad para preparar un delicisoso café largo o intenso
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08WY6VB4W{{</world>}}

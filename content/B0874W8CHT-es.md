@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Perfil sensorial: café suave con gusto típico de un tueste suave, caracterizado por matices de almendras
-- Mezcla: contiene Arábica de Brasil y Papua Nueva Guinea y Robusta de Vietnam y Uganda
 - Hecho en Italia: GRUPO GIMOKA - PASIÓN POR EL CAFÉ DESDE EL 80s, se compromete activamente a desarrollar envases fácilmente reciclables, compostables y ecológicos
+- Mezcla: contiene Arábica de Brasil y Papua Nueva Guinea y Robusta de Vietnam y Uganda
 - Formato: 100 cápsulas de aluminio que preservan el aroma para conservar toda la frescura del café
+- Perfil sensorial: café suave con gusto típico de un tueste suave, caracterizado por matices de almendras
 - Intensidad: 9
 
 [🛒 Aquí!!!]({{< param buyurl >}})

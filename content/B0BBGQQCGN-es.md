@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Adecuado para cafeteras automáticas Siemens EQ500, EQ6 Plus, EQ700, EQ9 Plus, EQ900 y EQ900 Plus
-- Capacidad: 1 litro de café aromático
-- Mantiene el café caliente durante varias horas
 - Fácil de limpiar gracias a la tapa completamente extraíble
+- Adecuado para cafeteras automáticas Siemens EQ500, EQ6 Plus, EQ700, EQ9 Plus, EQ900 y EQ900 Plus
+- Mantiene el café caliente durante varias horas
+- Capacidad: 1 litro de café aromático
 - Preparación directa de la cafetera automática en la jarra gracias a la práctica tapa deslizante
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

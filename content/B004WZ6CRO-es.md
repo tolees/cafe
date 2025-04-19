@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CONFIGURABLE: El molinillo cónico con 5 grados de molienda. Hasta 3 niveles de intensidad.
-- INTUITIVA: Personaliza tu bebida y prepara tu taza de café en poco tiempo.
-- LIMPIEZA: Programas automáticos de descalcificación y limpieza cada 200 cafés.
-- PANNARELLO: Prepara una cremosa espuma de leche, o tan solo calienta el agua y la leche.
 - COMPACTA: La cafetera eléctrica prepara un magnífico café en sólo 20 centímetros de ancho.
+- CONFIGURABLE: El molinillo cónico con 5 grados de molienda. Hasta 3 niveles de intensidad.
+- LIMPIEZA: Programas automáticos de descalcificación y limpieza cada 200 cafés.
+- INTUITIVA: Personaliza tu bebida y prepara tu taza de café en poco tiempo.
+- PANNARELLO: Prepara una cremosa espuma de leche, o tan solo calienta el agua y la leche.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B004WZ6CRO{{</world>}}

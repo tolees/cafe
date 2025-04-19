@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Incluye un mango con diseño ergonómico e inserción de silicona para un agarre más fácil y seguro
 - El uso de materiales de gran calidad junto con su esmerado diseño y elaboración, proporcionan a la cafetera una gran polivalencia, seguridad y resistencia al uso
 - No válida para inducción
+- Incluye un mango con diseño ergonómico e inserción de silicona para un agarre más fácil y seguro
 - Descubre cómo cuidar tu menaje antiadherente en el apartado Guia de usuario de esta ficha
 - Cafetera italiana fabricada en aluminio de alta calidad con diseño vanguardista
 - No limpiar lavavajillas
