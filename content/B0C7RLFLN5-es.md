@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- INTENSO, SUAVE Y AGRADABLE - El grano Arábica da como resultado un café con un toque suave y agradable en el primer sorbo
-- INTENSIDAD 9 - Café de tueste natural 100% arábica delicadamente tostado
 - 100 CÁPSULAS - 100 Cápsulas simples de Aluminio compatibles con máquinas Nespresso (Marca de una compañía no relacionada con Jacobs Douwe Egberts).
 - CAFÉ SOSTENIBLE: Las cápsulas L’OR Espresso son elaboradas con café sostenible con certificado UTZ (Rainforest Alliance) que garantiza una Agricultura Sostenible.
+- INTENSO, SUAVE Y AGRADABLE - El grano Arábica da como resultado un café con un toque suave y agradable en el primer sorbo
+- INTENSIDAD 9 - Café de tueste natural 100% arábica delicadamente tostado
 - CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el cappuccino o el latte.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
