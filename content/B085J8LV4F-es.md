@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Cafetera espresso con bomba de 15 bar con caldera de acero inoxidable para una extracción perfecta del café
-- Si el vaporizador de leche no funciona, lo que generalmente se debe a una limpieza insuficiente entre usos, lo que hace que la proteína de la leche bloquee el tubo. Por lo tanto, limpie esto con agua caliente o, si realmente está bloqueado, use nuestra «solución limpia de leche»
-- Combinación de acabado negro mate y brillante. Sistema antigoteo
-- Brazo de vapor para crear capuchinos espumosos y lattes suaves
 - Soporte de filtro para café molido, 1 o 2 tazas. Depósito de agua extraíble de 1 litro y bandeja de goteo extraíble para vasos de hasta 110 mm
+- Brazo de vapor para crear capuchinos espumosos y lattes suaves
+- Combinación de acabado negro mate y brillante. Sistema antigoteo
+- Si el vaporizador de leche no funciona, lo que generalmente se debe a una limpieza insuficiente entre usos, lo que hace que la proteína de la leche bloquee el tubo. Por lo tanto, limpie esto con agua caliente o, si realmente está bloqueado, use nuestra «solución limpia de leche»
 - Da rienda suelta al barista que llevas dentro y crea todos tus cafés favoritos en casa
 
 [🛒 Comprar!!!]({{< param buyurl >}})

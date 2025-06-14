@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- El aluminio permite que nuestras cápsulas sean perfectamente herméticas y garantiza una óptima conservación del aroma y del sabor del café
+- 100 cápsulas de café de aluminio: 5 estuches x 20 cápsulas
 - Café 100% Robusta de las mejores regiones de África, Centroamérica, Suamérica y Asia
+- Cápsulas compatibles con Nespresso* original (*marca no registrada por Amazon EU S.a.r.l.). No compatibles con las cafeteras Nespresso Vertuo. Asegúrese siempre de seguir las instrucciones del fabricante de la cafetera
 - Café con cuerpo y con retrogusto intenso y amargo
 - RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, sino que también hace bien. Con cada compra, estás ayudando a cientos de caficultores y a sus familias en todo el mundo, además de aportar tu granito de arena para preservar los bosques y la selva tropical: beber mejor es hacerlo mejor
 - Tostado y envasado en España
-- El aluminio permite que nuestras cápsulas sean perfectamente herméticas y garantiza una óptima conservación del aroma y del sabor del café
-- Cápsulas compatibles con Nespresso* original (*marca no registrada por Amazon EU S.a.r.l.). No compatibles con las cafeteras Nespresso Vertuo. Asegúrese siempre de seguir las instrucciones del fabricante de la cafetera
-- 100 cápsulas de café de aluminio: 5 estuches x 20 cápsulas
 - Intensidad del café: 12/12
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
