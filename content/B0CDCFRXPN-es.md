@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SILENTBREW: Prepara de manera más silenciosa tu café con nuestra tecnología SilentBrew líder en el sector y certificada por Quiet Mark.
 - ESPUMA SEDOSA O SOLO LECHE CALIENTE: El nuevo espumador de leche te permite preparar una espuma de leche suave para tus capuccinos o simplemente calentar la leche para tus chocolates calientes.
+- SILENTBREW: Prepara de manera más silenciosa tu café con nuestra tecnología SilentBrew líder en el sector y certificada por Quiet Mark.
 - CAFÉ A TU GUSTO: 5 tipos de café y 9 opciones de personalización. Elige la intensidad y la cantidad de tu café con My Coffee Choice.
 - MOLINILLO 100% CERÁMICO DE ALTA CALIDAD: Con 12 ajustes para que puedas moler el grano de café a tu gusto, desde polvo ultrafino para un espresso intenso hasta trozos más gruesos para un café americano.
 - FILTRO AQUACLEAN: Sustitúyelo cuando te avise y no necesitarás descalcificar la máquina hasta después de 5000 tazas (2), mientras disfrutas de tu café con agua libre de cal y purificada.
