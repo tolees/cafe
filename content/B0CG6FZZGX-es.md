@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cafetera de cápsula de 1340-1600 W de potencia con tecnología manual: Introduce la cápsula que prefieras y mueve la palanca manual con un sencillo gesto para preparar tu bebida preferida
-- Cafés de calidad profesional con una espuma densa y cremosa gracias a su sistema de alta presión de hasta 15 bares; Su bandeja de goteo ajustable cuenta con 3 niveles según la medida de la taza que quieras preparar
-- Las cápsulas están selladas herméticamente para que el café conserve toda su frescura y así disfrutes siempre de todo su aroma y cremosidad; Tarda tan solo 40 segundo en calentarse para que puedas disfrutar de tu café
 - Modo eco: la máquina de café se apaga tras 1 minuto de inactividad gracias a esto la cafetera tiene una calificación de A en consumo energético
 - Función frío/caliente para que también puedas preparar bebidas frías con gran facilidad; La capacidad del depósito de agua es de 0.8 L
+- Las cápsulas están selladas herméticamente para que el café conserve toda su frescura y así disfrutes siempre de todo su aroma y cremosidad; Tarda tan solo 40 segundo en calentarse para que puedas disfrutar de tu café
+- Cafetera de cápsula de 1340-1600 W de potencia con tecnología manual: Introduce la cápsula que prefieras y mueve la palanca manual con un sencillo gesto para preparar tu bebida preferida
+- Cafés de calidad profesional con una espuma densa y cremosa gracias a su sistema de alta presión de hasta 15 bares; Su bandeja de goteo ajustable cuenta con 3 niveles según la medida de la taza que quieras preparar
 - Disfruta de más de 30 opciones de café de calidad: desde la un Espresso Intenso o un Grande con cuerpo hasta un cremoso cappuccino, además de chocolate caliente, tés y mucho más
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

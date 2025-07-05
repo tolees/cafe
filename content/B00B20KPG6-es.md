@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Café aromático: Esta cafetera profesional tiene una función de preinfusión que humedece el café recién molido con agua caliente antes de prepararlo para mejorar su sabor
 - Diseño intuitivo: Con esta cafetera eléctrica de diseño atemporal y compacto podrás preparar café espresso y café crema fácilmente con los botones de selección directa
-- Auto capuchinador: Con esta cafetera automática, podrás preparar bebidas de café con una espuma de leche perfecta, así como calentar agua o leche cuando quieras
-- Configurable: La máquina de café tiene un molinillo con 5 grados de molienda y permite elegir entre 3 niveles de intensidad, así como la temperatura y la cantidad de café
 - Compacta: Esta cafetera pequeña, de solo 20 cm de ancho, es la prueba de que un diseño compacto es suficiente para albergar la tecnología Melitta de alta calidad
+- Configurable: La máquina de café tiene un molinillo con 5 grados de molienda y permite elegir entre 3 niveles de intensidad, así como la temperatura y la cantidad de café
+- Auto capuchinador: Con esta cafetera automática, podrás preparar bebidas de café con una espuma de leche perfecta, así como calentar agua o leche cuando quieras
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00B20KPG6{{</world>}}
