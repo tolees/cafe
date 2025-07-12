@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Hecho a tu gusto: Con CaffeeMaestro puedes seleccionar tu perfil de sabor deseado - La cafetera automáticamente ajusta la intensidad y volumen.
-- Temperatura, aroma y crema perfecta: Taza tras taza, el extractor de aroma logra un equilibrio inmejorable entre la temperatura de elaboración y la extracción de aroma - Con potente molinillo con 12 ajustes.
-- Guarda tus preferencias: Con 6 perfiles de usuario, guarda tus cafés favoritos, para selección immediata. Personaliza cada perfil hasta el último detalle con facilidad.
 - Obtén orientación interactiva para la personalización automatizada: CoffeeEqualizer permite personalizar intensidad, café, volumen de leche, temperatura, sabor, espuma y más - Usa la función ExtraShot para un aumento a la intensidad.
 - 16 Opciones para tomar: Explora el mundo del café y elige con facilidad tu favorito en la pantalla TFT en color - Expreso, capuchino, macchiato y una variedad de bebidas especiales
+- Hecho a tu gusto: Con CaffeeMaestro puedes seleccionar tu perfil de sabor deseado - La cafetera automáticamente ajusta la intensidad y volumen.
+- Guarda tus preferencias: Con 6 perfiles de usuario, guarda tus cafés favoritos, para selección immediata. Personaliza cada perfil hasta el último detalle con facilidad.
+- Temperatura, aroma y crema perfecta: Taza tras taza, el extractor de aroma logra un equilibrio inmejorable entre la temperatura de elaboración y la extracción de aroma - Con potente molinillo con 12 ajustes.
 - AquaClean incluido: el innovador filtro antical AquaClean te permite disfrutar de hasta 5000 tazas sin necesidad de descalcificar.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

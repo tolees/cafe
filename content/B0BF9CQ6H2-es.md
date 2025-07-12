@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- producto 2: Mezcla Negra
-- producto 2: Compatibles Nescafè* Dolce Gusto*
-- producto 2: *Nespresso y *Nescafé *Dolce Gusto son marcas registradas de Societé des Produits Nestlé S.A. Caffè Borbone Srl es un productor independiente no vinculado a la Societé des Produits Nestlé S.A. Las cápsulas Caffè Borbone son compatibles con máquinas de café de uso doméstico Nespresso – Nescafé Dolce Gusto .
-- producto 2: 6 paquetes de 15 Cápsulas
 - producto 1: *Nespresso y *Nescafé *Dolce Gusto son marcas registradas de Societé des Produits Nestlé S.A. Caffè Borbone Srl es un productor independiente no vinculado a la Societé des Produits Nestlé S.A. Las cápsulas Caffè Borbone son compatibles con máquinas de café de uso doméstico Nespresso – Nescafé Dolce Gusto .
 - producto 1: Mezcla Azul
 - producto 1: 6 paquetes de 15 Cápsulas
+- producto 2: Compatibles Nescafè* Dolce Gusto*
+- producto 2: Mezcla Negra
+- producto 2: 6 paquetes de 15 Cápsulas
+- producto 2: *Nespresso y *Nescafé *Dolce Gusto son marcas registradas de Societé des Produits Nestlé S.A. Caffè Borbone Srl es un productor independiente no vinculado a la Societé des Produits Nestlé S.A. Las cápsulas Caffè Borbone son compatibles con máquinas de café de uso doméstico Nespresso – Nescafé Dolce Gusto .
 - producto 1: Compatibles Nescafè* Dolce Gusto*
 
 [🛒 Visítala!!!]({{< param buyurl >}})

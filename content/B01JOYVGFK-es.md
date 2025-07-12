@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Panel de control táctil con pantalla LCD
-- Funciona con café en granos y con café molido
-- Función "MY", memoriza bebidas personalizadas
-- LatteCrema System, prepara bebidas con leche automáticamente
 - Función de limpieza automática integrada en deposito de leche y cafetera
+- LatteCrema System, prepara bebidas con leche automáticamente
+- Función "MY", memoriza bebidas personalizadas
+- Funciona con café en granos y con café molido
+- Panel de control táctil con pantalla LCD
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01JOYVGFK{{</world>}}

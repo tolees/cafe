@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sistema cappuccino avanzado, con boquilla de 360º de acero inoxidable
-- Apto para 1 ó 2 tazas de café y cápsulas monodosis E.S.E.
 - 2 bandejas de goteo para colocar vasos de ceramica, vasos grandes, o tazas (80 a 110 mm)
 - 15 bares de presión, 1100 W
+- Apto para 1 ó 2 tazas de café y cápsulas monodosis E.S.E.
+- Sistema cappuccino avanzado, con boquilla de 360º de acero inoxidable
 - Cáldera de acero inoxidable, con 2 termostatos independientes para controlar la temperatura del agua y del vapor
 
 [🛒 Aquí!!!]({{< param buyurl >}})

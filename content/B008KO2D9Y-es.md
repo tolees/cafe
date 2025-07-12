@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Acabado aluminio efecto mate
-- Exterior súper resistente y diseño interior del calderín sin cantos para una limpieza más cómoda
 - Apta para todo tipo de encimeras, excepto inducción. No limpiar en lavavajillas
-- Capacidad para 6 tazas de café - 300 ml
-- Cafetera con asa de baquelita termo-resistente ergonómica para un agarre fácil y seguro
 - Descubre cómo cuidar tu menaje antiadherente en el apartado Guia de usuario de esta ficha
+- Acabado aluminio efecto mate
+- Capacidad para 6 tazas de café - 300 ml
+- Exterior súper resistente y diseño interior del calderín sin cantos para una limpieza más cómoda
+- Cafetera con asa de baquelita termo-resistente ergonómica para un agarre fácil y seguro
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B008KO2D9Y{{</world>}}

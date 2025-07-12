@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cafetera semiautomática que prepara todo tipo de bebidas calientes y cappuccinos con solo pulsar un botón. Añade el café y la leche directamente a la taza con el sistema InstantCappuccino.
-- Tecnología Force Aroma con bomba de presión de 20 bares y 1450 W de potencia. Consigue la mejor crema y el máximo aroma. Sistema CustomCoffee: totalmente personalizable, programa automáticamente la cantidad de café o espuma que desees.
 - Depósito de agua extraíble con 1,4 litros de capacidad. Acabados en acero inoxidable. Incluye cucharilla dosificadora con prensador para el café. Bandeja de goteo desmontable para facilitar la limpieza.
+- Tecnología Force Aroma con bomba de presión de 20 bares y 1450 W de potencia. Consigue la mejor crema y el máximo aroma. Sistema CustomCoffee: totalmente personalizable, programa automáticamente la cantidad de café o espuma que desees.
 - Brazo con doble salida y dos filtros para preparar uno o dos cafés a la vez. Bandeja calientatazas para almacenar y calentar las tazas previamente. Consigue mayor intensidad y aroma en tu café.
 - Incluye depósito de leche Full-Milk de 400 ml de capacidad, se conecta a la cafetera y puede guardarse en la nevera. Sistema de calentamiento Thermoblock: facilita un calentamiento más rápido y homogéneo del agua.
+- Cafetera semiautomática que prepara todo tipo de bebidas calientes y cappuccinos con solo pulsar un botón. Añade el café y la leche directamente a la taza con el sistema InstantCappuccino.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07MLT15R4{{</world>}}
