@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Disfruta del cálido resplandor de las cápsulas de café NESCAFÉ Farmers Origins - Brazil Lungo
 - Esta taza larga de intensidad 8 tiene un sabor suave inmejorable y está lleno de notas cálidas tostadas y de cereales
 - Hemos elegido hacer nuestras cápsulas de aluminio, que puedes reciclar eternamente; mantiene tu café fresco durante tiempo: bueno para nuestro planeta y bueno para tu paladar
+- Disfruta del cálido resplandor de las cápsulas de café NESCAFÉ Farmers Origins - Brazil Lungo
 - Puedes contar con un buen sabor, porque estas cápsulas de café con frescura se han aprobado para máquinas Nespresso
 - De llanuras a altiplanos, pequeñas o amplias plantaciones, manos expertas o visionarios, los caficultores brasileños saben de café
 

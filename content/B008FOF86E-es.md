@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- La cafetera original: Moka Express es la cafetera italiana de espresso original, proporciona la experiencia de preparación de un café espresso italiano con forma única y el inimitable logo desde el 1933, año en el cual Alfonso Bialetti la inventó
-- Hecho en Italia: realizada en Italia, con una calidad mejorada gracias a la válvula de seguridad patentada, que facilita la limpieza, y su mango ergonómico, disponible en varios tamaños, disponible tanto para gas y eléctrico como por inducción (con la placa adaptada original de Bialetti)
-- Instrucciones de limpieza: la cafetera Bialetti Moka Express solo se debe enjuagar con agua limpia después de su uso, sin detergentes, el producto no debe lavarse con el lavaplatos, ya que se dañará irremediablemente y el sabor del café se verá alterado
 - Sostenibilidad: el uso de Bialetti Moka Express es una forma 100% sostenible de preparar tu café, ya que no produce residuos, se limpia sin detergentes y con poco mantenimiento, durará toda la vida
+- Instrucciones de limpieza: la cafetera Bialetti Moka Express solo se debe enjuagar con agua limpia después de su uso, sin detergentes, el producto no debe lavarse con el lavaplatos, ya que se dañará irremediablemente y el sabor del café se verá alterado
 - Como preparar un buen café: llene el tanque hasta la válvula de seguridad, llene el filtro con café molido sin presionar, cierre la cafetera y colóquela en el gas, tan pronto como la cafetera empieza a hervir, apague el fuego y el café estará listo
+- Hecho en Italia: realizada en Italia, con una calidad mejorada gracias a la válvula de seguridad patentada, que facilita la limpieza, y su mango ergonómico, disponible en varios tamaños, disponible tanto para gas y eléctrico como por inducción (con la placa adaptada original de Bialetti)
 - Una talla para cada necesidad: los tamaños de Moka Express se miden por tazas de café espresso, se puede disfrutar del café en las tazas de café expreso o en tazas más grandes
+- La cafetera original: Moka Express es la cafetera italiana de espresso original, proporciona la experiencia de preparación de un café espresso italiano con forma única y el inimitable logo desde el 1933, año en el cual Alfonso Bialetti la inventó
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B008FOF86E{{</world>}}

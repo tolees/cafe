@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- El café de NESCAFÉ Dolce Gusto es de cultivo de origen responsable; recicla las cápsulas NESCAFÉ Dolce Gusto y dales una segunda vida, encuentra tu punto de recogida más cercano entre los más de 4.200 que tenemos por toda España; las cápsulas recogidas se reciclan, dando una segunda vida a los componentes de plástico y convirtiendo el remanente en abono de calidad
 - Inspirado en la famosa receta española; este NESCAFÉ Dolce Gusto Cortado es una mezcla equilibrada de espresso, corto e intenso con notas torrefactas y aromas ricos que afloran y "cortado" con un toque de leche; un equilibrio delicioso entre granos arábica y robusta; resulta en un cortado intenso de 8/11
 - Descubre más de 30 variedades de recetas y ten tu propio coffee shop en casa: desde espressos intensos, cafés con leche, cafés largos, cappuccinos, descafeinados... hasta incluso tés y chocolates; disfruta de tu coffee shop en casa
 - Las máquinas de NESCAFÉ Dolce Gusto cuentan con un sistema de alta presión de hasta 15 bares con una bomba de alta tecnología que permite extraer el delicado sabor y aroma de cada cápsula de NESCAFÉ Dolce Gusto; las cápsulas disponen de un sellado hermético que garantizan el aroma y la frescura del café
-- El café de NESCAFÉ Dolce Gusto es de cultivo de origen responsable; recicla las cápsulas NESCAFÉ Dolce Gusto y dales una segunda vida, encuentra tu punto de recogida más cercano entre los más de 4.200 que tenemos por toda España; las cápsulas recogidas se reciclan, dando una segunda vida a los componentes de plástico y convirtiendo el remanente en abono de calidad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01AMAYRHY{{</world>}}

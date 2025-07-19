@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- FILTRO EXTRAÍBLE: Filtro de fácil limpieza y extraíble
 - APAGADO AUTOMÁTICO: Dispone de apagado automático a los 40 minutos con placa de calentamiento antiadherente
-- JARRA DE VIDRIO TEMPLADO: Jarra de cristal ultra resistente y apto para su limpieza en el lavavajillas
-- SISTEMA ANTIGOTEO: La válvula antigoteo permite extraer la jarra de café cuando está en funcionamiento
 - FUNCIÓN AROMA: Selecciona la intensidad del aroma para disfrutar del mejor café en unos instantes
+- JARRA DE VIDRIO TEMPLADO: Jarra de cristal ultra resistente y apto para su limpieza en el lavavajillas
+- FILTRO EXTRAÍBLE: Filtro de fácil limpieza y extraíble
+- SISTEMA ANTIGOTEO: La válvula antigoteo permite extraer la jarra de café cuando está en funcionamiento
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B088RSWM13{{</world>}}

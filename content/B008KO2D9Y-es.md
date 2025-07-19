@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CAPACIDAD: Capacidad para 6 tazas de café, 300 ml
 - DISEÑO MATE Y RESISTENTE: Exterior resistente y diseño interior del calderín sin cantos para una limpieza más cómoda
-- MANGO DE BAQUELITA: mango fabricado en baquelita termo-resistente con formato ergonómico para un cómodo agarre
 - ANTIADHERENTE: Recubrimiento antiadherente interior del calderín inferior para mayor higiene, evita que queden restos debido al uso
+- MANGO DE BAQUELITA: mango fabricado en baquelita termo-resistente con formato ergonómico para un cómodo agarre
 - CAFETERA COMPLETA: Cafetera italiana de diseño clásico de aluminio con antiadherente; Cafetera con asa de baquelita termo-resistente ergonómica para un agarre fácil y seguro
+- CAPACIDAD: Capacidad para 6 tazas de café, 300 ml
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B008KO2D9Y{{</world>}}

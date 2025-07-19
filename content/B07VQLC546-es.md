@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Pantalla: sí. Tipo de control: botones, palanca. Material de los botones: plástico. Color del botón: plateado. Número de botones: 4. Sistema de calefacción: calefactor. Capacidad del depósito de agua: 1,4 l. Número de tazas: 10.
-- Capacidad de la cafetera: 1,25 l. Indicador de nivel de agua: sí. Fondo antideslizante: sí. Sistema antigoteo: sí. Voltaje (V): 220-240. Frecuencia Hz: 50/60. Longitud del cable de alimentación: 1 m.
 - Dimensiones del producto: (alto x ancho x fondo): 361 x 245 x 256 mm. Peso del producto: 3,40 kg.
 - Dureza del agua ajustable: blanda/media/dura. Alarma de descalcificación: sí. Ajuste de la intensidad del café: 2 niveles (ligero o fuerte). Función de 1 a 4 tazas: sí. Función Keep Warm: sí. Mantener caliente: 40 min. Programación de encendido y apagado automático: sí. Alarma de fin de ciclo: opcional.
+- Capacidad de la cafetera: 1,25 l. Indicador de nivel de agua: sí. Fondo antideslizante: sí. Sistema antigoteo: sí. Voltaje (V): 220-240. Frecuencia Hz: 50/60. Longitud del cable de alimentación: 1 m.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07VQLC546{{</world>}}
