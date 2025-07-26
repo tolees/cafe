@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 15 bares de presión de regulación automática
 - Sistema multibebida Nescafè Dolce Gusto
 - Desconexión automática; Disfruta de más de 30 creaciones de café de calidad desde el carácter de un Espresso Intenso o el cuerpo de un Lungo, hasta el espumoso Cappuccino; además del chocolate caliente o los tés aromáticos
-- 15 bares de presión de regulación automática
 - Depósito de agua extraíble (0.8 litros)
 - Nueva interfaz flow stop con led para seleccionar la cantidad de café y elegir entre bebidas frías o calientes
 

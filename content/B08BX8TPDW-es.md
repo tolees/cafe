@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- INTENSIDAD: La intensidad 9/10 y el tueste medio, realizado en tambor con un ciclo largo especial, crean un café con un regusto intenso y una crema duradera
-- El término italiano “torrefatto” que aparece en el envase original significa “tostado” y no se refiere de ninguna manera a una variedad de café torrefacto
-- VARIEDAD: Esta selección de café Lavazza está elaborada con café Arábica y Robusta procedente del Sudeste Asiático, de África y de Suramérica
-- LAVAZZA: El Grupo Lavazza opera en todos los sectores de la industria del café, ofreciendo productos de alta calidad y obtenidos a través de un modelo sostenible que se basa en la innovación, la pasión y la experiencia
-- CAFÉ NATURAL: Todos los cafés en grano y molido de Lavazza son de tueste natural
-- NOTAS AROMÁTICAS: Espresso Barista Intenso es un café caracterizado por notas aromáticas de cacao y madera, para un sabor intenso y de gran cuerpo
 - ESPRESSO BARISTA INTENSO: El blend Lavazza Espresso Barista se ha creado especialmente para ofrecer una experiencia profesional completa, para preparar el espresso exactamente como lo hacen los baristas italianos
+- NOTAS AROMÁTICAS: Espresso Barista Intenso es un café caracterizado por notas aromáticas de cacao y madera, para un sabor intenso y de gran cuerpo
+- El término italiano “torrefatto” que aparece en el envase original significa “tostado” y no se refiere de ninguna manera a una variedad de café torrefacto
+- INTENSIDAD: La intensidad 9/10 y el tueste medio, realizado en tambor con un ciclo largo especial, crean un café con un regusto intenso y una crema duradera
+- VARIEDAD: Esta selección de café Lavazza está elaborada con café Arábica y Robusta procedente del Sudeste Asiático, de África y de Suramérica
+- CAFÉ NATURAL: Todos los cafés en grano y molido de Lavazza son de tueste natural
+- LAVAZZA: El Grupo Lavazza opera en todos los sectores de la industria del café, ofreciendo productos de alta calidad y obtenidos a través de un modelo sostenible que se basa en la innovación, la pasión y la experiencia
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08BX8TPDW{{</world>}}

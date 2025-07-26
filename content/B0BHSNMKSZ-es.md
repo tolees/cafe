@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cápsulas compatibles con Nespresso (*Nespresso no registrado en Amazon EU S.a.r.l.) No compatible con máquinas Nespresso Vertuo. Siga siempre las instrucciones del fabricante de la máquina
-- El café tiene una acidez bien redondeada con dulzura equilibrada y cuerpo completo
-- 100 % Arábica
-- Cafe de colombia. Tostado y envasado en Bélgica
 - Fuerza : 7 - MEDIO-FUERTE
+- 100 % Arábica
 - CERTIFICADO RAINFOREST ALLIANCE: El café que obtenemos para este producto está certificado por Rainforest Alliance, lo que significa que no solo sabe bien, también es bueno. Con cada compra, está ayudando a cientos de agricultores y sus familias en todo el mundo, además, también está aportando su granito de arena a la selva tropical: beba mejor, hágalo mejor
+- Cápsulas compatibles con Nespresso (*Nespresso no registrado en Amazon EU S.a.r.l.) No compatible con máquinas Nespresso Vertuo. Siga siempre las instrucciones del fabricante de la máquina
 - 100 cápsulas de aluminio: 5 x 20 cápsulas
+- El café tiene una acidez bien redondeada con dulzura equilibrada y cuerpo completo
 - El aluminio permite que nuestras cápsulas sean perfectamente herméticas y asegura una conservación óptima del aroma y un café sabroso
+- Cafe de colombia. Tostado y envasado en Bélgica
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BHSNMKSZ{{</world>}}

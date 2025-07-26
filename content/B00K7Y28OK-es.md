@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para cafeteras de 9-12 tazas de café
 - Recambio Asa de silicona para cafetera
+- Para cafeteras de 9-12 tazas de café
 - Compatible con cafetera Alu / Touareg
 
 [🛒 Aquí!!!]({{< param buyurl >}})
