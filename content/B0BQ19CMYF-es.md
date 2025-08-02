@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El filtro del interior es de acero inoxidable de alta calidad. Dispone de válvula de seguridad que indica el límite de agua que se debe introducir.
+- Apta para cocina de gas, eléctrica o vitrocerámica. Capacidad de 150 ml, ideal para 3 tazas de café.
 - Dispone de una junta de cierre de silicona de alta calidad que asegura un cierre hermético y evita pérdidas de agua mientras se hace el café.
+- El filtro del interior es de acero inoxidable de alta calidad. Dispone de válvula de seguridad que indica el límite de agua que se debe introducir.
 - Cafetera italiana fabricada en aluminio fundido de alta calidad para hacer café con el mejor cuerpo y aroma.
 - Mango muy ergonómico para un uso cómodo de la cafetera y termorresistente para aislar las altas temperaturas.
-- Apta para cocina de gas, eléctrica o vitrocerámica. Capacidad de 150 ml, ideal para 3 tazas de café.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BQ19CMYF{{</world>}}

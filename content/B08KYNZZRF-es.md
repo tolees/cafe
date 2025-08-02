@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Intensidad 7, 8, 9 & 10; Ristretto (25ml) / Espresso (40ml)
-- 2 x LOR Papua New Guinea, 2 x LOR Colombia, 2 x LOR India, 2 x LOR Indonesia, 2 x LOR Guatemala
-- Cápsulas compatibles para máquinas Nespresso(R) *.(R)*La marca registrada utilizada es de un tercero, no relacionada con Jacobs Douwe Egberts
-- La experiencia de sabor más pura ahora en nuestra nueva gama L’OR Orígenes.
 - 10 cápsulas de 5,2 g (Peso neto: 52 g) 10 paquetes = 520g, 100 bebidas en total;
+- Intensidad 7, 8, 9 & 10; Ristretto (25ml) / Espresso (40ml)
+- Cápsulas compatibles para máquinas Nespresso(R) *.(R)*La marca registrada utilizada es de un tercero, no relacionada con Jacobs Douwe Egberts
+- 2 x LOR Papua New Guinea, 2 x LOR Colombia, 2 x LOR India, 2 x LOR Indonesia, 2 x LOR Guatemala
+- La experiencia de sabor más pura ahora en nuestra nueva gama L’OR Orígenes.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08KYNZZRF{{</world>}}

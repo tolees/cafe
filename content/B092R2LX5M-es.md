@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- POTENCIA Y PRESIÓN. Cafetera Expresso con bomba de presión de 20 bares y 850W de potencia para café, capuccinos e infusiones
 - DOBLE OPCIÓN DE PREPARADO DEL CAFÉ. Sistema tradicional de café molido o con monodosis. Portafiltro metálico con filtro para poder preparar 1 o 2 cafés a la vez y filtro especial monodosis de papel; tiene un depósito de agua de 1.5L
+- POTENCIA Y PRESIÓN. Cafetera Expresso con bomba de presión de 20 bares y 850W de potencia para café, capuccinos e infusiones
 - VAPORIZADOR. Con vaporizador orientable para espumar leche y calentar agua para infusiones
-- USO FÁCIL E INTUITIVO. Indicador de temperatura y botones con indicadores luminosos para encendido y apagado, café, agua y vaporizador - con apagado automático.
 - ACABADOS Y ACCESORIOS. Con bandeja calienta tazas en la parte superior para calentar tus tazas previo al uso y disfrutar de un café caliente recién hecho. La bandeja recoge gotas es estraíble para una mejor limpieza
+- USO FÁCIL E INTUITIVO. Indicador de temperatura y botones con indicadores luminosos para encendido y apagado, café, agua y vaporizador - con apagado automático.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B092R2LX5M{{</world>}}

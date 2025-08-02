@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - TRANSFORMA TU CAFÉ Presentamos el Hario El kit de café artesanal V60, todo lo que necesitas para empezar a producir un café perfecto para servir en casa. Este sencillo e icónico set de preparación de café te permitirá preparar un excelente café fácilmente sin la necesidad de una costosa máquina de café
-- DURABILIDAD Y COMODIDAD El servidor está hecho de vidrio de borosilicato, con una forma que refleja el ángulo del gotero del V60 y el mango es de plástico. El gotero para café está hecho de plástico duradero, lo que lo hace más resistente al calor, fácil de manejar y apto para lavavajillas
-- REGALO PARA LOS AMANTES DEL CAFÉ: el set para preparar café incluye un gotero V60 transparente (de una a cuatro tazas), un servidor de café de vidrio a juego, una cuchara para café y un paquete de 40 unidades de tamaño 02 Hario Papeles de filtro V60
-- Nota: no hay medidas marcadas en el cristal del producto original
 - ELEVE SU TAZA Utilice el gotero V60 para preparar la taza de café perfecta. Las estrías internas evitan que el papel se pegue a los lados, lo que evita que se formen canales. El diseño en espiral ayuda a hacer girar el agua durante la extracción, lo que permite una extracción uniforme.
+- Nota: no hay medidas marcadas en el cristal del producto original
+- REGALO PARA LOS AMANTES DEL CAFÉ: el set para preparar café incluye un gotero V60 transparente (de una a cuatro tazas), un servidor de café de vidrio a juego, una cuchara para café y un paquete de 40 unidades de tamaño 02 Hario Papeles de filtro V60
+- DURABILIDAD Y COMODIDAD El servidor está hecho de vidrio de borosilicato, con una forma que refleja el ángulo del gotero del V60 y el mango es de plástico. El gotero para café está hecho de plástico duradero, lo que lo hace más resistente al calor, fácil de manejar y apto para lavavajillas
 - EL MÉTODO V60 El gotero cónico para café tiene un ángulo de 60°. Un orificio grande proporciona la máxima libertad: vierte el agua rápidamente para obtener un sabor ligero o lentamente si quieres un café rico. El café V60 es diferente: es café de filtro, pero con un control preciso sobre las variables de preparación
 
 [🛒 Visítala!!!]({{< param buyurl >}})

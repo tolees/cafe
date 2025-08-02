@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Para usar con café molido
 - Fabricación en Europa
-- Recipiente en cristal borosilicato
 - Presentación: caja individual/regalo
+- Recipiente en cristal borosilicato
 - Capacidad: para 8 tazas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Café 100% certificado - las cápsulas Marcilla son elaboradas con café obtenido de fincas rainforest alliance que contribuye a mejorar la vida de los agricultores
-- Cápsula espresso - la cápsula tiene el tamaño indicado para poder preparar un café espresso para disfrutar solo o con base de leche como el capuchino o el latte
+- Frutal, picante y poderoso - la mezcla de graños da como resultado un café intenso con dulzura picante y toques afrutados
 - Intensidad 10 - café molido de tueste natural con sabor intenso y duradero elaborado con graños de café arábica y robusta
 - 40 cápsulas de aluminio compatibles con las cafeteras Lor Barista y con máquinas Nespresso (marca de una compañía no relacionada con Jacobs Douwe Egberts)
-- Frutal, picante y poderoso - la mezcla de graños da como resultado un café intenso con dulzura picante y toques afrutados
+- Café 100% certificado - las cápsulas Marcilla son elaboradas con café obtenido de fincas rainforest alliance que contribuye a mejorar la vida de los agricultores
+- Cápsula espresso - la cápsula tiene el tamaño indicado para poder preparar un café espresso para disfrutar solo o con base de leche como el capuchino o el latte
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07SK82NWN{{</world>}}

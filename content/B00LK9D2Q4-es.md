@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Recipiente desmontable de leche (300 ml)
 - Bomba italiana con 15 bar
 - Para café molido o cápsulas de café
-- Recipiente desmontable de leche (300 ml)
 - Recipiente desmontable de leche (1,5 l)
 - Nota: El filtro POD está diseñado para usarse solo con cápsulas de 45 mm
 

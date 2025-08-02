@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Acabado en acero inoxidable
 - Función de 2 tazas
+- Acabado en acero inoxidable
 - Depósito de 1.25 litros extraíble
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

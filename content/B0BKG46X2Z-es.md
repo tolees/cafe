@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fuerza: 8 - MEDIO FUERTE
-- 85% Arábica, 15% Robusta
-- Tostado y envasado en Bélgica
-- El café tiene un sabor especiado, regusto fuerte y aroma intenso
 - CERTIFICADO RAINFOREST ALLIANCE: El café que obtenemos para este producto está certificado por Rainforest Alliance, lo que significa que no solo sabe bien, también es bueno. Con cada compra, está ayudando a cientos de agricultores y sus familias en todo el mundo, además, también está aportando su granito de arena a la selva tropical: beba mejor, hágalo mejor
+- Tostado y envasado en Bélgica
+- 85% Arábica, 15% Robusta
+- El café tiene un sabor especiado, regusto fuerte y aroma intenso
+- Fuerza: 8 - MEDIO FUERTE
 - Cápsulas compatibles con Nespresso (*Nespresso no registrado en Amazon EU S.a.r.l.) No compatible con máquinas Nespresso Vertuo. Siga siempre las instrucciones del fabricante de la máquina
 - 100 cápsulas: 2 paquetes x 50
 

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- CAPACIDAD: Tiene una capacidad de 600 ml, una medida perfecta para preparar una taza de café filtrado, infusión o té.
+- COMPACTA: tiene unas medidas (14,3 x 9 x 17,2 cm) que le hacen ser muy compacta, ser ideal para cualquier cocina y guardarse fácilmente.
 - Cafetera francesa, tetera, espumadora, … La HCAF1160 te permitirá preparar tanto café, como té o infusiones, así como deliciosas espumas.
 - MATERIALES: Está hecho de borosilicato, polipropileno y acero inoxidable. Y su filtro es de malla de acero inoxidable con 3 niveles. Unos materiales resistentes a altas y bajas temperaturas (de -20 ºC a 120 ºC)
 - VERSÁTIL: Puedes disfrutar de un café recién hecho de forma fácil. Tendrás que añadir el café recién molido a la jarra vacía y llenarla con agua hervida. Tendrás que revolver y dejar reposar antes de empujar el émbolo hacia abajo para filtrar los molidos de café. Si prefieres preparar un té o infusión tendrás que añadir el té suelto y añadir agua hervida.
-- COMPACTA: tiene unas medidas (14,3 x 9 x 17,2 cm) que le hacen ser muy compacta, ser ideal para cualquier cocina y guardarse fácilmente.
-- CAPACIDAD: Tiene una capacidad de 600 ml, una medida perfecta para preparar una taza de café filtrado, infusión o té.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DS6634VR{{</world>}}
