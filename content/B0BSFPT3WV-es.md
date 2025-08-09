@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- PRESIÓN Y POTENCIA. Cafetera Espresso con bomba de presión de 20 bares y 1050W de potencia para café, capuccinos e infusiones
-- PANEL TÁCTIL. De uso intuitivo con indicadores luminosos LED para cada función, y un sistema de ahorro energético con apagado automático
-- VAPORIZADOR. Con vaporizador orientable para espumar leche o calentar agua para infusiones
 - DOBLE OPCIÓN DEL PREPARADO DEL CAFÉ. Sistema tradicional de café molido o con monodosis ESE. Portafiltro metálico para poder preparar 1 o 2 cafés a la vez y filtro especial para monodosis de papel ESE. Tiene un depósito de agua extraíble con capacidad para 1.5L
 - ACABADOS Y ACCESORIOS. Bandeja calienta tazas en la parte superior para calentar tus tazas antes del uso y disfrutar de un café caliente recién hecho. La bandeja recoge gotas es extraíble para una mejor limpieza
+- VAPORIZADOR. Con vaporizador orientable para espumar leche o calentar agua para infusiones
+- PRESIÓN Y POTENCIA. Cafetera Espresso con bomba de presión de 20 bares y 1050W de potencia para café, capuccinos e infusiones
+- PANEL TÁCTIL. De uso intuitivo con indicadores luminosos LED para cada función, y un sistema de ahorro energético con apagado automático
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BSFPT3WV{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- CÁPSULA RISTRETTO - La cápsula tiene el tamaño indicado para poder preparar un café ristretto, la versión más concentrada de un espresso. Menos agua con la misma cantidad de café para conseguir una infusión más aromática.
+- CAFÉ 100% CERTIFICADO: Las cápsulas L’OR Espresso son elaboradas con café obtenido de fincas Rainforest Alliance que contribuye a mejorar la vida de los agricultores.
 - 10 PAQUETES DE 10 CÁPSULAS - 100 Cápsulas de Aluminio compatibles con las cafeteras L’OR Barista y con máquinas Nespresso (Marca de una compañía no relacionada con Jacobs Douwe Egberts).
 - DULCE, INTENSO Y BRILLANTE - La mezcla da como resultado un café con toques de almendras tostadas y dulce de mazapán.
 - INTENSIDAD 9 - Café molido de tueste natural con toques amaderados y especiados.
-- CAFÉ 100% CERTIFICADO: Las cápsulas L’OR Espresso son elaboradas con café obtenido de fincas Rainforest Alliance que contribuye a mejorar la vida de los agricultores.
-- CÁPSULA RISTRETTO - La cápsula tiene el tamaño indicado para poder preparar un café ristretto, la versión más concentrada de un espresso. Menos agua con la misma cantidad de café para conseguir una infusión más aromática.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B07XM83ZCT{{</world>}}

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- CAFETERA DE ALUMINIO: cafetera de aluminio con fondo difusor adaptado para todo tipo de cocinas, incluida la inducción
+- CAPACIDAD: tiene capacidad para 12 tazas, 12 cafés ristretto y 6 tazas de café con leche
 - DIÁMETRO: la cafetera Monix Induction Express tiene un diámetro superior de 16,3 cm y diámetro inferior 11,8 cm
 - MANGO ERGÓNOMICO: mango ergonómico de baquelita con inserto azul y un interior pulido sin cantos, lo que facilita al máximo una correcta limpieza
-- CAPACIDAD: tiene capacidad para 12 tazas, 12 cafés ristretto y 6 tazas de café con leche
-- CAFETERA DE ALUMINIO: cafetera de aluminio con fondo difusor adaptado para todo tipo de cocinas, incluida la inducción
 - FULL INDUCTION: sistema full induction sin agujeros que incrementa la conectividad a todo tipo de placas de inducción
 
 [🛒 Comprar!!!]({{< param buyurl >}})

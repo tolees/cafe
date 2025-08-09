@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- 10 Cápsulas de Aluminio compatibles con las cafeteras L’OR Barista y con máquinas Nespresso (Marca de una compañía no relacionada con Jacobs Douwe Egberts).
-- CAFÉ SOSTENIBLE: Las cápsulas L’OR Espresso son elaboradas con café sostenible con certificado UTZ (Rainforest Alliance) que garantiza una Agricultura Sostenible.
-- FRESCO, SUAVE Y DULCE - La mezcla da como resultado un café suave y completo con aroma ligeramente dulce.
 - INTENSIDAD 8 - Café molido de tueste natural aromatizado con un sabor suave y dulce elaborado con una combinación de granos de café de alta calidad y aroma de Carameloo oscuro.
 - CÁPSULA ESPRESSO: La cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el cappuccino o el latte.
+- 10 Cápsulas de Aluminio compatibles con las cafeteras L’OR Barista y con máquinas Nespresso (Marca de una compañía no relacionada con Jacobs Douwe Egberts).
+- FRESCO, SUAVE Y DULCE - La mezcla da como resultado un café suave y completo con aroma ligeramente dulce.
+- CAFÉ SOSTENIBLE: Las cápsulas L’OR Espresso son elaboradas con café sostenible con certificado UTZ (Rainforest Alliance) que garantiza una Agricultura Sostenible.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0B6ZKYP2S{{</world>}}
