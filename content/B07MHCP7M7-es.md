@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Brazo portafiltros con doble salida para preparar uno o dos cafés a la vez. Depósito de agua extraíble con 1,5 litros de capacidad. Con bandeja calientatazas de acero inoxidable. Incluye cucharilla dosificadora con prensador para el café.
-- Cafetera express para café espresso y cappuccino de 850 W. Bomba italiana de presión con tecnología ForceAroma de 20 bares que consigue la mejor crema y el máximo aroma.
-- Incluye vaporizador orientable con protección para el uso, para espumar leche, emitir agua caliente para infusiones, calentar líquidos y preparar cappuccinos.
 - Bandeja de goteo desmontable para facilitar la limpieza. Sistema de ahorro energético con apagado automático y stand-by. Indicadores luminosos en cada función.
 - Control digital EasyTouch muy intuitivo, con indicadores luminosos que facilitan su uso. Modo Auto para preparar uno o dos cafés automáticamente y modo manual.
+- Cafetera express para café espresso y cappuccino de 850 W. Bomba italiana de presión con tecnología ForceAroma de 20 bares que consigue la mejor crema y el máximo aroma.
+- Incluye vaporizador orientable con protección para el uso, para espumar leche, emitir agua caliente para infusiones, calentar líquidos y preparar cappuccinos.
+- Brazo portafiltros con doble salida para preparar uno o dos cafés a la vez. Depósito de agua extraíble con 1,5 litros de capacidad. Con bandeja calientatazas de acero inoxidable. Incluye cucharilla dosificadora con prensador para el café.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07MHCP7M7{{</world>}}

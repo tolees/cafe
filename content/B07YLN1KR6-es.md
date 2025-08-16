@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cafetera express para café espresso y cappuccino ,1350 W ,diseño vintage. Bomba italiana de presión 20 bares,consigue la mejor crema y máximo aroma.
+- Incluye vaporizador orientable con protección para uso, para espumar leche, emitir agua caliente para infusiones y preparar cappuccinos
+- Bandeja de goteo desmontable para facilitar la limpieza. Sistema de ahorro energético con apagado automático y stand-by. Acabados en acero inoxidable.
 - Sistema de rápido calentamiento por Thermoblock. Manómetro de control PressurePro para comprobar la presión en tiempo real.
 - Brazo portafiltros con doble salida y dos filtros.Depósito de agua extraíble de 1,5 litros. Incluye cucharilla dosificadora con prensador para el café
-- Bandeja de goteo desmontable para facilitar la limpieza. Sistema de ahorro energético con apagado automático y stand-by. Acabados en acero inoxidable.
-- Incluye vaporizador orientable con protección para uso, para espumar leche, emitir agua caliente para infusiones y preparar cappuccinos
-- Cafetera express para café espresso y cappuccino ,1350 W ,diseño vintage. Bomba italiana de presión 20 bares,consigue la mejor crema y máximo aroma.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07YLN1KR6{{</world>}}

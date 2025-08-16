@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Hecho de cerámica
-- Capacidad 14 tazas
 - Lo puedes usar donde quieras
+- Hecho de cerámica
 - Diseño innovador y amplia apertura para controlar el vertido de agua
+- Capacidad 14 tazas
 - Fácil de limpiar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

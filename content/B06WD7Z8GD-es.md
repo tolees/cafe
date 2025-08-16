@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - 15 BARES: La presión de 15 bares crea un espresso con un rico aroma y una espuma de color nuez en la parte superior
 - THERMOBLOCK: La tecnología Thermoblock calienta el agua en 35 segundos a la temperatura exacta para preparar un espresso óptimo
-- DISEÑO: cafetera estrecha (sólo 15 cm de ancho)
 - ESPUMADOR DE LECHE: Capuccinatore con rotación 360 grados para espumar de leche y crear capuccinos óptimos, macchiatos o caffè lattes
 - DOBLE USO: Funciona con café molido y con monodosis "Easy Serving Espresso", posibilidad de preparar una o dos tazas de café, té o infusiones simultaneamente
+- DISEÑO: cafetera estrecha (sólo 15 cm de ancho)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B06WD7Z8GD{{</world>}}

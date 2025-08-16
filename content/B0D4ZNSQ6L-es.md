@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- JARRA DE LECHE AUTOMÁTICA: la exclusiva tecnología LatteCrema Hot de DeLonghi enriquece tus bebidas con una espuma de leche fina y densa a la temperatura óptima, combinando vapor, aire y leche en proporciones correctas
 - FÁCIL DE LIMPIAR: esta cafetera automática con molinillo tiene componentes desmontables y aptos para lavavajillas, incluida la jarra de leche de 280ml, haciendo esta cafetera DeLonghi superautomática fácil de limpiar y mantener
-- INTERACCIÓN INTUITIVA: selecciona tu bebida deseada con una cafetera superautomática DeLonghi con pantalla TFT a color de 2,4" fácil de usar, con botones de navegación retroiluminados y 8 botones soft-touch para la selección de bebidas
+- JARRA DE LECHE AUTOMÁTICA: la exclusiva tecnología LatteCrema Hot de DeLonghi enriquece tus bebidas con una espuma de leche fina y densa a la temperatura óptima, combinando vapor, aire y leche en proporciones correctas
 - VARIEDAD DE BEBIDAS: tu bebida favorita está al alcance de tu mano. Con la cafetera superautomática Magnifica Evo Next puedes elegir entre 13 bebidas, con 5 niveles de intensidad, 4 tamaños diferentes, 3 configuraciones de temperatura y 3 perfiles de usuario para un alto grado de personalización
+- INTERACCIÓN INTUITIVA: selecciona tu bebida deseada con una cafetera superautomática DeLonghi con pantalla TFT a color de 2,4" fácil de usar, con botones de navegación retroiluminados y 8 botones soft-touch para la selección de bebidas
 - CAFÉ RECIÉN MOLIDO: disfruta de un buen café con granos recién molidos, preparado a la perfección con esta cafetera automática DeLonghi con molinillo integrado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

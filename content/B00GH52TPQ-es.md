@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Compacta, ligera y con asa ergonómica
-- Disponible en color negro, naranja, crema y blanco
-- Función de autoapagado tras 9 minutos de inactividad
-- Bomba de presión de 19 bares
 - Clase de eficiencia energética: A +
+- Bomba de presión de 19 bares
+- Compacta, ligera y con asa ergonómica
+- Función de autoapagado tras 9 minutos de inactividad
+- Disponible en color negro, naranja, crema y blanco
 - Sistema de calentamiento rápido Thermoblock: lista para usar en 25 segundos
 - Parada de flujo automático Flow Stop: 2 botones programables (espresso y lungo)
 

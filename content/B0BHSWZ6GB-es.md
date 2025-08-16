@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El aluminio permite que nuestras cápsulas sean perfectamente herméticas y asegura una conservación óptima del aroma y un café sabroso
-- Cafe de Brasil. Tostado y envasado en Bélgica
-- CERTIFICADO RAINFOREST ALLIANCE: El café que obtenemos para este producto está certificado por Rainforest Alliance, lo que significa que no solo sabe bien, también es bueno. Con cada compra, está ayudando a cientos de agricultores y sus familias en todo el mundo, además, también está aportando su granito de arena a la selva tropical: beba mejor, hágalo mejor
-- 100 % Arábica
 - Cápsulas compatibles con Nespresso (*Nespresso no registrado en Amazon EU S.a.r.l.) No compatible con máquinas Nespresso Vertuo. Siga siempre las instrucciones del fabricante de la máquina
-- Fuerza : 6 - MEDIA
 - 100 cápsulas de aluminio: 5 x 20 cápsulas
+- CERTIFICADO RAINFOREST ALLIANCE: El café que obtenemos para este producto está certificado por Rainforest Alliance, lo que significa que no solo sabe bien, también es bueno. Con cada compra, está ayudando a cientos de agricultores y sus familias en todo el mundo, además, también está aportando su granito de arena a la selva tropical: beba mejor, hágalo mejor
+- El aluminio permite que nuestras cápsulas sean perfectamente herméticas y asegura una conservación óptima del aroma y un café sabroso
+- Fuerza : 6 - MEDIA
+- 100 % Arábica
+- Cafe de Brasil. Tostado y envasado en Bélgica
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BHSWZ6GB{{</world>}}
