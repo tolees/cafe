@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Exclusiva cafetera de cápsulas lor barista
-- La tecnología de reconocimiento de cápsulas detecta automáticamente el tamaño y tipo de cápsula
-- 19 bares de presión para garantizar la extracción perfecta del café, como el de tu cafetería favorita
-- Compatible con cápsulas LOR Espresso, LOR Barista, y cápsulas Nespresso*
-- Crea y personaliza tu café favorito con el menú completo de cafés: ristretto, espresso, lungo y más
 - Prepara 2 cafés a la vez o 1 café doble en una taza
+- Compatible con cápsulas LOR Espresso, LOR Barista, y cápsulas Nespresso*
+- Exclusiva cafetera de cápsulas lor barista
+- 19 bares de presión para garantizar la extracción perfecta del café, como el de tu cafetería favorita
+- Crea y personaliza tu café favorito con el menú completo de cafés: ristretto, espresso, lungo y más
+- La tecnología de reconocimiento de cápsulas detecta automáticamente el tamaño y tipo de cápsula
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07M8J4ZXK{{</world>}}

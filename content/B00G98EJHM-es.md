@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sistema de calentamiento rápido Thermoblock: lista para usar en 25 segundos
+- Función de autoapagado tras 9 minutos de inactividad
 - Compacta, ligera y con asa ergonómica
 - Disponible en color negro, naranja, crema y blanco
-- Parada de flujo automático Flow Stop: 2 botones programables (espresso y lungo)
-- Bomba de presión de 19 bares
+- Sistema de calentamiento rápido Thermoblock: lista para usar en 25 segundos
 - Clase de eficiencia energética: A +
-- Función de autoapagado tras 9 minutos de inactividad
+- Bomba de presión de 19 bares
+- Parada de flujo automático Flow Stop: 2 botones programables (espresso y lungo)
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00G98EJHM{{</world>}}

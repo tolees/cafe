@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- DIÁMETRO DEL FONDO: 8,5 centímetros
+- Cafetera inoxidable italiana por inducción Odin de 6 tazas, con acabado pulido en espejo. Apta para cualquier tipo de cocina.
 - Tratamiento interior “Sand Blaster” en caldera y cuerpo superior, especial antióxido. Acabado pulido espejo.
 - Fabricada en acero inoxidable.
-- Cafetera inoxidable italiana por inducción Odin de 6 tazas, con acabado pulido en espejo. Apta para cualquier tipo de cocina.
-- DIÁMETRO DEL FONDO: 8,5 centímetros
 - Asa maciza. Apta para todas las cocinas, incluida inducción.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

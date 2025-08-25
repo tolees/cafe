@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Vida útil de 2 Meses: Sustituya el filtro de agua al menos 2 meses para garantizar la continuidad del agua fresca y prolongar la vida útil de la máquina. El filtro se puede cambiar con la ayuda del recordatorio de tiempo en el filtro de agua.
 - Material Filtrante de Primera Calidad: Este cartucho de filtro contiene resina de intercambio iónico de alta calidad y carbón activado, que elimina las impurezas como el carbonato de calcio para mejorar la calidad del agua para un mejor sabor del café.
-- Certificación de Alta Calidad: Los filtros están certificados por TÜV SÜD，IAPMO R&T según NSF/ANSI 42 para la seguridad de los materiales. Filtro de agua 100% reciclable con una instalación rápida y sencilla.
-- Mejor Rendimiento del Motor: El filtro de agua compatible con Delonghi mejora el rendimiento y la eficiencia de la máquina. Prolonga la vida de la máquina manteniendo las tuberías limpias. Evita atascos en la cafetera causados por depósitos calcáreos.
 - Compatible con el Modelo: Incluyendo cafeteras del tipo ECAM, ETAM, ESAM, Rhodesy, DeLonghi DlSC002 y cafeteras de bombeo convencional de las series EC680 y EC800. Por favor, sumerja el filtro completamente bajo agua corriente antes de usarlo.
+- Mejor Rendimiento del Motor: El filtro de agua compatible con Delonghi mejora el rendimiento y la eficiencia de la máquina. Prolonga la vida de la máquina manteniendo las tuberías limpias. Evita atascos en la cafetera causados por depósitos calcáreos.
+- Certificación de Alta Calidad: Los filtros están certificados por TÜV SÜD，IAPMO R&T según NSF/ANSI 42 para la seguridad de los materiales. Filtro de agua 100% reciclable con una instalación rápida y sencilla.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B09BCV5KBM{{</world>}}

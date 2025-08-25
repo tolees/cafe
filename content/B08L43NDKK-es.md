@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CAFÉ NATURAL: Todos los cafés en grano y molido de Lavazza son de tueste natural
-- LAVAZZA: El Grupo Lavazza opera en todos los sectores de la industria del café, ofreciendo productos de alta calidad y obtenidos a través de un modelo sostenible que se basa en la innovación, la pasión y la experiencia
-- CREMA E GUSTO CLASSICO: Un blend Lavazza suave y envolvente. Este café molido natural es ideal para la cafetera italiana, de prensa y francesa, para cualquier hora del día
 - NOTAS AROMÁTICAS: Crema e Gusto Classico es caracterizado por notas aromáticas especiadas, para un café armonioso y cremoso con un sabor redondo y envolviente
 - VARIEDAD: Esta selección de café Lavazza está elaborada con café Arábica y Robusta procedente principalmente de Suramérica y del sudeste asiático
+- CREMA E GUSTO CLASSICO: Un blend Lavazza suave y envolvente. Este café molido natural es ideal para la cafetera italiana, de prensa y francesa, para cualquier hora del día
+- CAFÉ NATURAL: Todos los cafés en grano y molido de Lavazza son de tueste natural
+- LAVAZZA: El Grupo Lavazza opera en todos los sectores de la industria del café, ofreciendo productos de alta calidad y obtenidos a través de un modelo sostenible que se basa en la innovación, la pasión y la experiencia
 - INTENSIDAD: La intensidad 7 y el tueste oscuro brindan un color oscuro a este café, para un espresso con una crema ámbar
 
 [🛒 Aquí!!!]({{< param buyurl >}})

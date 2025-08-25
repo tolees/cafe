@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Partes: Lleva filtro permanente y soporte de filtro suspendido, sistema antigoteo y una placa calorífica antiadherente.
-- Garantía: Todos los productos JATA cuentan con tres años de garantía
-- Potencia: La potencia es de 680 W.
-- Tazas: Con la cafetera de goteo CA290 se pueden preparar de 2 a 12 tazas de café en su jarra de cristal con tapa.
 - Desconexión automática: Tiene un indicador que se enciende cuando la cafetera está en funcionamiento. Si lleva mucho tiempo sin usarse se desconectará sola automáticamente.
-- Ahorro: Cumple con la normativa de ahorro energético ERP.
+- Partes: Lleva filtro permanente y soporte de filtro suspendido, sistema antigoteo y una placa calorífica antiadherente.
+- Tazas: Con la cafetera de goteo CA290 se pueden preparar de 2 a 12 tazas de café en su jarra de cristal con tapa.
+- Potencia: La potencia es de 680 W.
+- Garantía: Todos los productos JATA cuentan con tres años de garantía
 - Depósito de agua de 1200 ml graduado.
+- Ahorro: Cumple con la normativa de ahorro energético ERP.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01794DZRY{{</world>}}

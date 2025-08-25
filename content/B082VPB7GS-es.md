@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- SUAVE, DUCE Y AFRUTADO La mezcla da como resultado un sabor suave y dulce con notas cítricas y elegante retrogusto.
-- INTENSIDAD 8 Café molido de tueste natural con sabor intenso y especiado elaborado con granos de café Arábica.
 - 10 PAQUETES DE 10 CÁPSULAS 200 Cápsulas de Aluminio compatibles con las cafeteras L’OR Barista y con máquinas Nespresso (Marca de una compañía no relacionada con Jacobs Douwe Egberts).
-- CÁPSULA ESPRESSO La cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el cappuccino o el latte.
 - Elaboradas con café sostenible bajo el programa de Sostenibilidad Common Grounds que garantiza un Origen Responsable.
+- INTENSIDAD 8 Café molido de tueste natural con sabor intenso y especiado elaborado con granos de café Arábica.
+- CÁPSULA ESPRESSO La cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el cappuccino o el latte.
+- SUAVE, DUCE Y AFRUTADO La mezcla da como resultado un sabor suave y dulce con notas cítricas y elegante retrogusto.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B082VPB7GS{{</world>}}

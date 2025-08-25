@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- DIÁMETRO DEL FONDO: 10 centímetros
 - Tratamiento interior “Sand Blaster” en caldera y cuerpo superior, especial antióxido. Acabado pulido espejo.
 - Fabricada en acero inoxidable.
 - Cafetera inoxidable italiana por inducción Odin de 10 tazas, con acabado pulido en espejo. Apta para cualquier tipo de cocina.
 - Asa maciza. Apta para todas las cocinas, incluida inducción.
+- DIÁMETRO DEL FONDO: 10 centímetros
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01E1GS3WA{{</world>}}

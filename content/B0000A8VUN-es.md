@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Para usar con café molido
+- Capacidad: para 3 tazas
 - Fabricación en Europa
 - Recipiente en cristal borosilicato
+- Para usar con café molido
 - Presentación: caja individual/regalo
-- Capacidad: para 3 tazas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0000A8VUN{{</world>}}

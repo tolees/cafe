@@ -28,14 +28,14 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Café de cuerpo medio y aterciopelado, acidez intensa con notas dulces a caramelo y chocolate
 - Intensidad del café: 6/12
-- El aluminio permite que nuestras cápsulas sean perfectamente herméticas y garantiza una óptima conservación del aroma y del sabor del café
-- Cápsulas compatibles con Nespresso* original (*marca no registrada por Amazon EU S.a.r.l.). No compatibles con las cafeteras Nespresso Vertuo. Asegúrese siempre de seguir las instrucciones del fabricante de la cafetera
-- 100 cápsulas de café de aluminio: 5 estuches x 20 cápsulas
-- RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, sino que también hace bien. Con cada compra, estás ayudando a cientos de caficultores y a sus familias en todo el mundo, además de aportar tu granito de arena para preservar los bosques y la selva tropical: beber mejor es hacerlo mejor
-- Tostado y envasado en España
 - 100% Arábica proveniente de Sudamérica
+- Café de cuerpo medio y aterciopelado, acidez intensa con notas dulces a caramelo y chocolate
+- El aluminio permite que nuestras cápsulas sean perfectamente herméticas y garantiza una óptima conservación del aroma y del sabor del café
+- RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, sino que también hace bien. Con cada compra, estás ayudando a cientos de caficultores y a sus familias en todo el mundo, además de aportar tu granito de arena para preservar los bosques y la selva tropical: beber mejor es hacerlo mejor
+- Cápsulas compatibles con Nespresso* original (*marca no registrada por Amazon EU S.a.r.l.). No compatibles con las cafeteras Nespresso Vertuo. Asegúrese siempre de seguir las instrucciones del fabricante de la cafetera
+- Tostado y envasado en España
+- 100 cápsulas de café de aluminio: 5 estuches x 20 cápsulas
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BH5FR3KL{{</world>}}
