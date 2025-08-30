@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Molinillo integrado y placa calientatazas: café recién hecho en una taza caliente: sabor, aroma, crema quedan resaltados
-- Función automática de vapor: para calentar agua o leche, o preparar infusiones; fácil y limpio
 - Las cafeteras Krups se someten de manera aleatoria a estrictos controles de calidad para garantizar su funcionamiento; las pruebas incluyen el llenado de agua y la preparación de café, por ello se pueden encontrar pequeños restos en la máquina
-- Programa automático de limpieza y descalcificación; incluye kit de pastillas de limpieza y descalcificador
 - Cafetera superautomática con 3 niveles de selección de intensidad y cantidad de café ajustable 20 ml a 220 ml
 - Las cafeteras Krups se someten de manera aleatoria a estrictos controles de calidad que incluyen el llenado de agua y la preparación de café, por ello se pueden encontrar pequeños restos en la máquina
+- Molinillo integrado y placa calientatazas: café recién hecho en una taza caliente: sabor, aroma, crema quedan resaltados
+- Programa automático de limpieza y descalcificación; incluye kit de pastillas de limpieza y descalcificador
+- Función automática de vapor: para calentar agua o leche, o preparar infusiones; fácil y limpio
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00MZ2F3Z8{{</world>}}

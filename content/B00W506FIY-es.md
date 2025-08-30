@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Presión de 15 bar
-- Deposito de agua de 1L
-- Uso con café molido o filtros 2 en 1 monodosis
 - 1 ó 2 tazas
+- Uso con café molido o filtros 2 en 1 monodosis
 - Función Autoapagado
+- Deposito de agua de 1L
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00W506FIY{{</world>}}

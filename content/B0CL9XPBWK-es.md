@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Depósito de agua extraíble con 1,2 litros de capacidad. Bandeja calienta tazas de acero inoxidable.
-- Incluye vaporizador orientable con protección que texturiza la leche y te consigue la mejor espuma. Además, emite agua caliente a la temperatura idónea para las infusiones.
-- El sistema de calentamiento rápido por Thermoblock garantiza que la temperatura se mantenga en su intervalo óptimo para obtener el mejor café y una potente bomba de presión con tecnología Force Aroma de 20 bares que consigue la mejor crema y el máximo aroma.
 - Cafetera espresso con diseño elegante y compacto. Potencia máxima de 1350 W que prepara todo tipo de cafés.
+- El sistema de calentamiento rápido por Thermoblock garantiza que la temperatura se mantenga en su intervalo óptimo para obtener el mejor café y una potente bomba de presión con tecnología Force Aroma de 20 bares que consigue la mejor crema y el máximo aroma.
+- Incluye vaporizador orientable con protección que texturiza la leche y te consigue la mejor espuma. Además, emite agua caliente a la temperatura idónea para las infusiones.
+- Depósito de agua extraíble con 1,2 litros de capacidad. Bandeja calienta tazas de acero inoxidable.
 - Brazo portafiltros con doble salida y dos filtros para preparar hasta dos cafés automáticamente.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

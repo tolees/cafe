@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cuerpo en aluminio
+- Descubre cómo cuidar tu menaje antiadherente en el apartado Guia de usuario de esta ficha
 - Su color exterior aporta elegancia a la cafetera apreciada por los más cafeteros
 - Cafetera fabricada en aluminio de alta calidad con diseño vanguardista
-- Descubre cómo cuidar tu menaje antiadherente en el apartado Guia de usuario de esta ficha
-- Cuerpo en aluminio
 - La cafetera Titanium incorpora antiadherente interior de la parte inferior, asegurando la higiene y una limpieza total, el diseño de su mango y pomo ofrecen un manejo práctico y fácil
 - Fabricada en aluminio de calidad y baquelita termo resistente, la cafetera Titanium le ofrece el aroma y el sabor de siempre con las ventajas BRA
 

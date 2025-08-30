@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Exterior resistente y diseño interior del calderín sin cantos para una limpieza más cómoda
-- Acabado aluminio efecto mate
-- Capacidad para 12 tazas de café - 600 ml
-- Cafetera con asa de baquelita termo-resistente ergonómica para un agarre fácil y seguro
 - Apta para todo tipo de encimeras, excepto inducción; No limpiar en lavavajillas
+- Acabado aluminio efecto mate
+- Cafetera con asa de baquelita termo-resistente ergonómica para un agarre fácil y seguro
+- Capacidad para 12 tazas de café - 600 ml
+- Exterior resistente y diseño interior del calderín sin cantos para una limpieza más cómoda
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B008KO2DOY{{</world>}}

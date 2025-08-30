@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - USO FÁCIL E INTUITIVO. Funcionamiento sencillo e intuitivo con rueda de selección y sistema de ahorro energético con apagado automático
 - ACABADOS Y ACCESORIOS. Con bandeja calienta tazas en la parte superior para calentar tus tazas previo al uso y disfrutar de una café caliente recién hecho. Incluye cuchara medidora y prensadora para el café; la bandeja recoge gotas es extraíble para una mejor limpieza
-- VAPORIZADOR. Con vaporizador orientable para espumar leche, calentar agua para infusiones o calentar todo tipo de líquidos
-- DOBLE OPCIÓN DE PREPARADO DEL CAFÉ. Sistema tradicional de café molido o con monodosis. Portafiltro metálico con filtro para poder preparar 1 o 2 cafés a la vez y filtro especial monodosis de papel; tiene un depósito de agua extraíble con capacidad para 1.2L
 - PRESIÓN Y POTENCIA. Cafetera Expresso con bomba de presión de 20 bares y 850W de potencia para café, capuccinos e infusiones
+- DOBLE OPCIÓN DE PREPARADO DEL CAFÉ. Sistema tradicional de café molido o con monodosis. Portafiltro metálico con filtro para poder preparar 1 o 2 cafés a la vez y filtro especial monodosis de papel; tiene un depósito de agua extraíble con capacidad para 1.2L
+- VAPORIZADOR. Con vaporizador orientable para espumar leche, calentar agua para infusiones o calentar todo tipo de líquidos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08H8F74MW{{</world>}}

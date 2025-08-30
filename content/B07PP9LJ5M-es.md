@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pack de 2 soluciones
 - Uso con café en grano y molido
-- Molinillo con 13 programas ajustables
 - Sistema cappuccino para conseguir crema espumosa
 - Original de Delonghi
+- Molinillo con 13 programas ajustables
 - 100 ml cada solución / paquete
+- Pack de 2 soluciones
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07PP9LJ5M{{</world>}}
