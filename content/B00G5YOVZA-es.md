@@ -28,17 +28,17 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Expulsión de las cápsulas usadas
+- Sistema de calentamiento Thermoblock (lista para el uso a los 25 segundos). 19 bares de presión y un alcance aproximado de 86ºC.
+- Compatible con cápsulas Nespresso
+- Bomba de presión de 19 bares
 - Modo de autoapagado a los 9 minutos
+- Flow Stop: automática y programable la cantidad de café
+- Depósito de agua extraíble con una capacidad de 0.8 l
+- Sistema de calentamiento Thermoblock (listo para el uso a los 25 segundos)
 - Flow Stop: automática y programable la cantidad de café
 - Expulsión de las cápsulas usadas
 - Depósito de agua de 0.8 litros de capacidad
-- Flow Stop: automática y programable la cantidad de café
-- Sistema de calentamiento Thermoblock (listo para el uso a los 25 segundos)
-- Depósito de agua extraíble con una capacidad de 0.8 l
-- Expulsión de las cápsulas usadas
-- Bomba de presión de 19 bares
-- Compatible con cápsulas Nespresso
-- Sistema de calentamiento Thermoblock (lista para el uso a los 25 segundos). 19 bares de presión y un alcance aproximado de 86ºC.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00G5YOVZA{{</world>}}

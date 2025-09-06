@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Paquete especial variado para descubrir la gama completa de Cafés Lattes de Starbucks
 - Compatibles con las máquinas de café NESCAFÉ Dolce Gusto para una preparación perfecta
+- Comprometidos con el abastecimiento ético de café en colaboración con Conservación Internacional
 - Disfruta de tu café favorito de Starbucks sin salir de casa
 - Cápsulas de café Starbucks Exclusivo de Amazon, by NESCAFÉ Dolce Gusto; con una variedad de tuestes y mezclas de la colección Starbucks
-- Comprometidos con el abastecimiento ético de café en colaboración con Conservación Internacional
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0968KY8HF{{</world>}}

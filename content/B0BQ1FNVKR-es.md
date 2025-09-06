@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 1086W de sabor: potencia de 1086W para un calentamiento rápido y eficaz.
+- Máximo aroma: tecnología ExtremeAroma que consigue un sabor más intenso del café mediante el rociado y goteo continuo.
 - Con molinillo de cuchillas y tiempo de molienda: 30s para café estándar y 35s para café más fino. Hasta 12 cafés: gran capacidad de 1,8 litros para preparar hasta 12 tazas de café.
 - Coloca unas 14-15 cucharadas de café en grano (80-87 g). Programable 24 horas para preparar el café automáticamente a la hora deseada.
 - Acero inoxidable: cafetera de goteo con acabados en acero inoxidable. Apagado automático.
-- Máximo aroma: tecnología ExtremeAroma que consigue un sabor más intenso del café mediante el rociado y goteo continuo.
-- 1086W de sabor: potencia de 1086W para un calentamiento rápido y eficaz.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQ1FNVKR{{</world>}}

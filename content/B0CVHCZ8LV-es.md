@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Disfruta en casa de cafés como los de tu cafetería favorita gracias a su función de lector de código de barras, INTELLIBREW.
 - Saborea cafés con distintas intensidades utilizando la función IntensityBoost, que añade un plus de intensidad si mantienes pulsado el botón durante 3 segundos.
-- Preparar tu bebida caliente favorita es tarea fácil. Solo tienes que pulsar un único botón y tu café se prepará automáticamente.
 - Las dimensiones de la cafetera multibebida Tassimo son de 26 x 15 x 36 centímetros (alto x ancho x fondo). Tiene una capacidad de 0,7 litros de agua.
+- Preparar tu bebida caliente favorita es tarea fácil. Solo tienes que pulsar un único botón y tu café se prepará automáticamente.
+- Disfruta en casa de cafés como los de tu cafetería favorita gracias a su función de lector de código de barras, INTELLIBREW.
 - Espresso, capuccino, latte macchiato… ¡Piensa en una bebida caliente y la tendrás! Con la cafetera Tassimo podrás preparar hasta 40 especialidades de bebida caliente de las marcas más conocidas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

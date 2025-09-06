@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Capacidad: 700 ml; 15 tazas
-- Fabricado en Acero Inoxidable 18/10 y Asa de baquelita
-- Apto para todo tipo de cocinas incluido inducción
 - Libre de BPA
+- Apto para todo tipo de cocinas incluido inducción
 - Tratamiento interior pulido
+- Fabricado en Acero Inoxidable 18/10 y Asa de baquelita
+- Capacidad: 700 ml; 15 tazas
 - Esta cafetera apta para inducción, proporciona la experiencia de preparar un café italiano único con un elegante diseño
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- 40 cápsulas de aluminio compatibles con las cafeteras Lor Barista y con máquinas Nespresso (marca de una compañía no relacionada con Jacobs Douwe Egberts)
 - Cápsula ristretto - la cápsula tiene el tamaño indicado para poder preparar un café ristretto, la versión más concentrada de un espresso; menos agua con la misma cantidad de café para conseguir una infusión más aromática
-- Intensidad 12 - café molido de tueste natural con sabor intenso y pronunciado elaborado con graños de café arábica y robusta
 - Fuerte, poderoso e intenso - la mezcla de graños da como resultado un sabor duradero y profundo junto con un dulzor afrutado
 - Café 100% certificado - las cápsulas Marcilla son elaboradas con café obtenido de fincas rainforest alliance que contribuye a mejorar la vida de los agricultores
-- 40 cápsulas de aluminio compatibles con las cafeteras Lor Barista y con máquinas Nespresso (marca de una compañía no relacionada con Jacobs Douwe Egberts)
+- Intensidad 12 - café molido de tueste natural con sabor intenso y pronunciado elaborado con graños de café arábica y robusta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BBS1XSR4{{</world>}}

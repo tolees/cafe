@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Acabado en acero inoxidable
-- Depósito de 1.25 litros extraíble
 - Función de 2 tazas
+- Depósito de 1.25 litros extraíble
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01M9BF86K{{</world>}}
