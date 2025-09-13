@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Una variedad de gustos y sabores, la mayoría de estos cafés se caracterizan por su intensidad que se refleja en un aroma a caramelo o chocolate
-- Este pack te permite explorar cafés más intensos y cada uno con sus propias características
-- Cápsulas compatibles con Nespresso (*Nespresso no registrado en Amazon EU S.a.r.l.) No compatible con máquinas Nespresso Vertuo. Siga siempre las instrucciones del fabricante de la máquina
-- CERTIFICADO RAINFOREST ALLIANCE: El café que obtenemos para este producto está certificado por Rainforest Alliance, lo que significa que no solo sabe bien, también es bueno. Con cada compra, está ayudando a cientos de agricultores y sus familias en todo el mundo, además, también está aportando su granito de arena a la selva tropical: beba mejor, hágalo mejor
 - 80 cápsulas en un paquete variado: 20 cápsulas de Espresso intenso + 20 cápsulas de Lungo instenso + 20 cápsulas de Ristretto intenso + 20 cápsulas descafeinadas
+- Cápsulas compatibles con Nespresso (*Nespresso no registrado en Amazon EU S.a.r.l.) No compatible con máquinas Nespresso Vertuo. Siga siempre las instrucciones del fabricante de la máquina
+- Este pack te permite explorar cafés más intensos y cada uno con sus propias características
+- CERTIFICADO RAINFOREST ALLIANCE: El café que obtenemos para este producto está certificado por Rainforest Alliance, lo que significa que no solo sabe bien, también es bueno. Con cada compra, está ayudando a cientos de agricultores y sus familias en todo el mundo, además, también está aportando su granito de arena a la selva tropical: beba mejor, hágalo mejor
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08Y1JRN3T{{</world>}}

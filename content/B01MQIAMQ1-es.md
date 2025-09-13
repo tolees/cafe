@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Capacidad para 3 tazas de café - 150 ml; no apta para limpieza en lavavajillas
-- Apta para todo tipo de encimeras, excepto inducción
 - Característica exclusiva: Posee recubrimiento antiadherente en el interior de la parte inferior para un mantenimiento mucho más higiénico
+- Apta para todo tipo de encimeras, excepto inducción
 - Mango fabricado en baquelita termo-resistente con formato ergonómico
 - Acabado Esmaltado brillo súper resistente
 
