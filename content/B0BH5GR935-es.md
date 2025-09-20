@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tostado y envasado en España
-- 100 cápsulas de café de aluminio: 5 estuches x 20 cápsulas
-- RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, sino que también hace bien. Con cada compra, estás ayudando a cientos de caficultores y a sus familias en todo el mundo, además de aportar tu granito de arena para preservar los bosques y la selva tropical: beber mejor es hacerlo mejor
 - Intensidad del café: 9/12
-- Cápsulas compatibles con Nespresso* original (*marca no registrada por Amazon EU S.a.r.l.). No compatibles con las cafeteras Nespresso Vertuo. Asegúrese siempre de seguir las instrucciones del fabricante de la cafetera
-- Café de cuerpo medio con una acidez delicada y un ligero retrogusto a chocolate amargo
 - El aluminio permite que nuestras cápsulas sean perfectamente herméticas y garantiza una óptima conservación del aroma y del sabor del café
+- Café de cuerpo medio con una acidez delicada y un ligero retrogusto a chocolate amargo
+- RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, sino que también hace bien. Con cada compra, estás ayudando a cientos de caficultores y a sus familias en todo el mundo, además de aportar tu granito de arena para preservar los bosques y la selva tropical: beber mejor es hacerlo mejor
 - Este café está hecho con 100% Arabica y sus granos provienen de cafetales de Centroamérica, Sudamérica, África y Asia
+- Cápsulas compatibles con Nespresso* original (*marca no registrada por Amazon EU S.a.r.l.). No compatibles con las cafeteras Nespresso Vertuo. Asegúrese siempre de seguir las instrucciones del fabricante de la cafetera
+- 100 cápsulas de café de aluminio: 5 estuches x 20 cápsulas
+- Tostado y envasado en España
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BH5GR935{{</world>}}

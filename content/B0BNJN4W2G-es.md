@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Función recalentar para tomar el café caliente en cualquier momento y función mantener caliente que mantendrá el café a la temperatura adecuada una vez finalizada la preparación
-- Función AutoClean que ayuda a limpiar la máquina y mejora los procesos de descalcificación y función de autoapagado que desconecta la cafetera cuando ha terminado de preparar el café
-- Cafetera de goteo programable 24 h de 950 W que prepara el café automáticamente a la hora deseada con tecnología ExtremeAroma y acabados en acero inoxidable y pantalla LCD retroiluminada
 - Dos filtros permanentes para el café molido que se puede quitar y limpiar. También permite usar filtros de papel y depósito con ventana que permite controlar el nivel del agua en todo momento, además incluye cucharilla dosificadora para ayudarte a preparar y calcular la cantidad de café
+- Función AutoClean que ayuda a limpiar la máquina y mejora los procesos de descalcificación y función de autoapagado que desconecta la cafetera cuando ha terminado de preparar el café
+- Función recalentar para tomar el café caliente en cualquier momento y función mantener caliente que mantendrá el café a la temperatura adecuada una vez finalizada la preparación
+- Cafetera de goteo programable 24 h de 950 W que prepara el café automáticamente a la hora deseada con tecnología ExtremeAroma y acabados en acero inoxidable y pantalla LCD retroiluminada
 - Jarra de vidrio termoresistente con boquilla antigoteo para verter el café a la taza de una manera cómoda y limpia con capacidad de 1,5 litros para preparar hasta 12 tazas de café
 
 [🛒 Visítala!!!]({{< param buyurl >}})

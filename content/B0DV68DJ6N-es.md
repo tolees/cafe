@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- CAFÉ 100% CERTIFICADO - Elaboradas con café sostenible bajo el programa de Sostenibilidad Common Grounds que garantiza un Origen Responsable.
+- CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el cappuccino o el latte.
 - ¿QUÉ CONTIENE? - Este pack contiene los productos de la gama LOR Lungo: Lungo Estremo, Lungo Elegante, Lungo Profunda y Lungo Mattinatta.
 - INTENSIDADES 5 a 10 - Surtido Lungo con Intensidades de la 5 a la 10. Estremo (intensidad 10), Elegante (intensidad 6), Profundo (intensidad 8) y Mattinatta (intensidad 5).
-- CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el cappuccino o el latte.
 - 120 CÁPSULAS - 120 Cápsulas de Aluminio compatibles con las cafeteras L’OR Barista y con máquinas Nespresso* (*Marca de una compañía no relacionada con Jacobs Douwe Egberts).
+- CAFÉ 100% CERTIFICADO - Elaboradas con café sostenible bajo el programa de Sostenibilidad Common Grounds que garantiza un Origen Responsable.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DV68DJ6N{{</world>}}

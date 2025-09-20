@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 50% Arábica, 50% Robusta
+- El café tiene un sabor fuerte, un cuerpo intenso y es muy aromático
 - Cápsulas compatibles con Nespresso (*Nespresso no registrado en Amazon EU S.a.r.l.) No compatible con máquinas Nespresso Vertuo. Siga siempre las instrucciones del fabricante de la máquina
+- 50% Arábica, 50% Robusta
 - Tostado y envasado en Bélgica
 - 100 cápsulas: 2 paquetes x 50
+- La siguiente información se aplica a cada unidad del paquete
 - CERTIFICADO RAINFOREST ALLIANCE: El café que obtenemos para este producto está certificado por Rainforest Alliance, lo que significa que no solo sabe bien, también es bueno. Con cada compra, está ayudando a cientos de agricultores y sus familias en todo el mundo, además, también está aportando su granito de arena a la selva tropical: beba mejor, hágalo mejor
 - Fuerza : 9 - FUERTE
-- La siguiente información se aplica a cada unidad del paquete
-- El café tiene un sabor fuerte, un cuerpo intenso y es muy aromático
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DF33V4FN{{</world>}}
