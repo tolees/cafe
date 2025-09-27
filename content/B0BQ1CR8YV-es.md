@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 800 W de potencia. Boquilla antigoteo. Filtro permanente y también permite usar filtros de papel.
-- Capacidad de 1,3 litros para preparar hasta 12 tazas de café. Función de conservación del calor.
 - Función de autoapagado. Depósito con ventana. Incluye cucharilla dosificadora.
 - Función de autoapagado. Depósito con ventana. Incluye cucharilla dosificadora.
 - Cafetera de goteo programable 24 h que prepara el café automáticamente a la hora deseada con tecnología ExtremeAroma y acabados en acero inoxidable y pantalla LCD retroiluminada.
+- Capacidad de 1,3 litros para preparar hasta 12 tazas de café. Función de conservación del calor.
+- 800 W de potencia. Boquilla antigoteo. Filtro permanente y también permite usar filtros de papel.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BQ1CR8YV{{</world>}}
