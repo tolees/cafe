@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- El tamaño de la Venus bronce se mide en tacitas, el café se puede disfrutar en tacitas de café expreso o en tazas más grandes de acuerdo a tus necesidades. Venus bronce está disponible en el formato de 2 tazas, 4 tazas y 6 tazas. Cuántos ml por formato: 85 ml / 170 ml / 235 ml
 - Venus bronce es la combinación perfecta de tradición e innovación: la original cafetera de inducción que prepara un café perfecto, con un sabor Made in Italy y con un diseño único.
 - Instrucciones de limpieza: Venus Bialetti debe limpiarse solo con agua después de su uso. No utilices detergentes. El producto no debe lavarse en el lavavajillas, ya que esto le podría provocar daños y, por lo tanto, alterar el sabor del café.
 - Venus Bialetti es de acero inoxidable 18/10 de la más alta calidad que garantiza durabilidad en el tiempo y un estilo inconfundible. El colector se vuelve aún más exclusivo gracias al color bronce que lo distingue.
 - Cómo usar Venus Bialetti: llena con agua la caldera hasta la válvula de seguridad, inserta el embudo y agrega el café molido para Moka sin presionar, cierra la moka y colócala sobre la fuente de calor. ¡Espera a que termine de salir todo el producto dentro del colector, apaga la fuente de calor y disfruta de un buen café!
+- El tamaño de la Venus bronce se mide en tacitas, el café se puede disfrutar en tacitas de café expreso o en tazas más grandes de acuerdo a tus necesidades. Venus bronce está disponible en el formato de 2 tazas, 4 tazas y 6 tazas. Cuántos ml por formato: 85 ml / 170 ml / 235 ml
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09KZV5LW8{{</world>}}

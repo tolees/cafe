@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cafetera express para café espresso y cappuccino de 850 W.
-- Manómetro de control Pressure Pro para comprobar la presión en tiempo real. Incluye vaporizador orientable con protección para el uso, para espumar leche, emitir agua caliente para infusiones, calentar líquidos y preparar cappuccino.
-- Con bandeja calientatazas de acero inoxidable. Incluye cucharilla dosificadora con prensador para el café.
-- Bomba italiana de presión con tecnología ForceAroma de 20 bares que consigue la mejor crema y el máximo aroma.
 - Brazo portafiltros con doble salida y dos filtros para preparar uno o dos cafés a la vez. Depósito de agua extraíble con 1,6 litros de capacidad.
+- Manómetro de control Pressure Pro para comprobar la presión en tiempo real. Incluye vaporizador orientable con protección para el uso, para espumar leche, emitir agua caliente para infusiones, calentar líquidos y preparar cappuccino.
+- Bomba italiana de presión con tecnología ForceAroma de 20 bares que consigue la mejor crema y el máximo aroma.
+- Con bandeja calientatazas de acero inoxidable. Incluye cucharilla dosificadora con prensador para el café.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07MJ6S1MV{{</world>}}

@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Las piezas son fácilmente desmontables. Dispone de una junta de cierre de silicona de alta calidad que asegura un cierre hermético y evita pérdidas de agua mientras se hace el café.
-- Apta para todas las superficies térmicas, consigue tu espresso perfecto ya sea en una cocina de inducción, gas, eléctrica o vitrocerámica. Capacidad de 450 ml, ideal para 9 tazas de café.
 - El filtro del interior es de acero inoxidable de alta calidad para lograr el café más puro y tradicional. Para mayor prevención dispone de una válvula de seguridad que indica el límite de agua que se debe introducir.
+- Apta para todas las superficies térmicas, consigue tu espresso perfecto ya sea en una cocina de inducción, gas, eléctrica o vitrocerámica. Capacidad de 450 ml, ideal para 9 tazas de café.
 - Cafetera italiana fabricada en aluminio de color beige, para hacer el café con el mejor cuerpo y aroma.
 - Mango muy ergonómico para un uso cómodo de la cafetera y termorresistente para aislar las altas temperaturas.
 
