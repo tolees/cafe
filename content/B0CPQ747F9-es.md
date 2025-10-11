@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- INTENSO, FRAGANTE, SEDUCTOR - Lungo Profondo 8 ofrece una aventura tostada y afrutada con un retrogusto memorable. ESPECIADO, EQUILIBRADO, INTENSO - Lungo Estremo 10 combina notas agudas de frutos rojos con vainilla dulce, lo que da como resultado un sabor ahumado complejo. COMPLEJO, INTENSO, AFRUTADO - Ultimo 11 ofrece un café tostado suave y oscuro con intensidad equilibrada y notas afrutadas, creando una experiencia intrigante. SOFISTICADO, EXTREMADO, MÍSTICO - Colombia 8 seduce con su suave y dulce mezcla de notas cítricas, ofreciendo un toque final picante y elegantemente aterciopelado.
-- Elaboradas con café sostenible bajo el programa de Sostenibilidad Common Grounds que garantiza un Origen Responsable.
-- CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el cappuccino o el latte.
 - 40 CÁPSULAS - 40 Cápsulas de Aluminio compatibles con las cafeteras L’OR Barista y con máquinas Nespresso* (*Marca de una compañía no relacionada con Jacobs Douwe Egberts).
+- CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el cappuccino o el latte.
+- Elaboradas con café sostenible bajo el programa de Sostenibilidad Common Grounds que garantiza un Origen Responsable.
 - INTENSIDADES 8-13 - Café molido de tueste natural con mucho cuerpo elaborado con una deliciosa mezcla de granos de café Arábica y Robusta.
+- INTENSO, FRAGANTE, SEDUCTOR - Lungo Profondo 8 ofrece una aventura tostada y afrutada con un retrogusto memorable. ESPECIADO, EQUILIBRADO, INTENSO - Lungo Estremo 10 combina notas agudas de frutos rojos con vainilla dulce, lo que da como resultado un sabor ahumado complejo. COMPLEJO, INTENSO, AFRUTADO - Ultimo 11 ofrece un café tostado suave y oscuro con intensidad equilibrada y notas afrutadas, creando una experiencia intrigante. SOFISTICADO, EXTREMADO, MÍSTICO - Colombia 8 seduce con su suave y dulce mezcla de notas cítricas, ofreciendo un toque final picante y elegantemente aterciopelado.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CPQ747F9{{</world>}}

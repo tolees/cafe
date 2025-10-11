@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Contenido del envío: cafetera totalmente automática Krups EA819E Arabica Latte Quattro Force, 1 recipiente de leche extraíble, 2 pastillas limpiadoras (XS3000), 1 bolsa desincrustante (F054), 1 filtro de agua (sistema de filtro Claris Aqua F088), manual de usuario
+- Nota Vacíe y vuelva a insertar el recipiente y la bandeja de goteo. Coloque un recipiente de aproximadamente 600 ml debajo del dispensador de café y vapor
+- Diseño compacto con características prácticas: tanque de agua con capacidad de 1.7 litros, contenedor transparente para 275 g de granos, apagado automático programable, presión de bomba de 15 bar
+- Grupo de preparación de metal de alta calidad para una conducción óptima del calor y un café siempre caliente, así como los mejores resultados de café gracias a la altísima presión del café en polvo
 - Ajustes individuales para la intensidad del café, el volumen del agua y la temperatura (ajustable en 3 niveles)
 - Espuma de leche perfecta gracias a la tecnología de espuma de leche Krups (Barista Quality Milk)
-- Grupo de preparación de metal de alta calidad para una conducción óptima del calor y un café siempre caliente, así como los mejores resultados de café gracias a la altísima presión del café en polvo
-- Diseño compacto con características prácticas: tanque de agua con capacidad de 1.7 litros, contenedor transparente para 275 g de granos, apagado automático programable, presión de bomba de 15 bar
-- Nota Vacíe y vuelva a insertar el recipiente y la bandeja de goteo. Coloque un recipiente de aproximadamente 600 ml debajo del dispensador de café y vapor
-- Contenido del envío: cafetera totalmente automática Krups EA819E Arabica Latte Quattro Force, 1 recipiente de leche extraíble, 2 pastillas limpiadoras (XS3000), 1 bolsa desincrustante (F054), 1 filtro de agua (sistema de filtro Claris Aqua F088), manual de usuario
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07NYYTG6B{{</world>}}
