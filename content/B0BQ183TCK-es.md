@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cafetera de goteo con capacidad de 1,2 L para preparar hasta 10 tazas de café. Gracias a su pantalla LCD con retroiluminación azul, podrás controlar cómodamente las funciones de tu cafetera y conseguir cafés deliciosos a diario.
-- La cafetera Coffee 66 Drop & Thermo Time incluye filtro de malla reutilizable apta para filtros estándares de 1 x 4.
-- Gracias a su gran potencia de 950 W podrás preparar todos los cafés que quieras y disfrutar del mejor aroma y sabor cada día. Cuenta con protección contra sobrecalentamientos gracias a su termostato y su fusible térmico.
 - 6 interruptores: ON/OFF, intensidad (aroma), retardo de preparación, MIN, PROG y HORA.
+- La cafetera Coffee 66 Drop & Thermo Time incluye filtro de malla reutilizable apta para filtros estándares de 1 x 4.
+- Cafetera de goteo con capacidad de 1,2 L para preparar hasta 10 tazas de café. Gracias a su pantalla LCD con retroiluminación azul, podrás controlar cómodamente las funciones de tu cafetera y conseguir cafés deliciosos a diario.
+- Gracias a su gran potencia de 950 W podrás preparar todos los cafés que quieras y disfrutar del mejor aroma y sabor cada día. Cuenta con protección contra sobrecalentamientos gracias a su termostato y su fusible térmico.
 - Con temporizador de hasta 24 horas, función de reloj y función de intensidad para disfrutar del café en el momento que desees. Evita manchas y derrames gracias a su función antigoteo.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

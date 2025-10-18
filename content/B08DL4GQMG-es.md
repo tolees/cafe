@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Iluminación de taza y portavasos
 - Unidad de preparación extraíble para fácil limpieza y mantenimiento
-- Sistema "LatteCrema" para preparar capuccinos
 - Sistema Twin Shot, que prepara dos tazas de café con un solo ciclo de molienda
 - Pantalla con 2 líneas de texto y panel de control cómodo e intuitivo
+- Iluminación de taza y portavasos
+- Sistema "LatteCrema" para preparar capuccinos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08DL4GQMG{{</world>}}

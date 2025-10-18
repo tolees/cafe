@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Frasco de vidrio fuerte
-- Mantenga la función caliente para tomar su café en cualquier momento
 - Cafetera de goteo con acabado inoxidable
+- Mantenga la función caliente para tomar su café en cualquier momento
 - Filtro permanente para café molido, extraíble para limpiar
 
 [🛒 Visítala!!!]({{< param buyurl >}})

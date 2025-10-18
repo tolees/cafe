@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- INCLUYE UN SET: disfruta de un café de calidad en casa al obtener 3 cajas de cápsulas de café al comprar una máquina Piccolo XS
-- THERMOBLOCK: el sistema Thermoblock garantiza tiempos de precalentamiento muy cortos (sólo 30 segundos) y una temperatura constante taza tras taza; no es necesario esperar entre taza y taza
 - PEQUEÑA PERO POTENTE: Piccolo XS Nescafé Dolce Gusto es la cafetera de cápsulas que se adapta a cualquier cocina gracias a su pequeño tamaño y a su moderno diseño
 - 15 BARES: máquina de café y bebidas calientes/frías con sistema de cápsulas Nescafé Dolce Gusto con bomba de alta presión (hasta 15 bares de presión)
+- THERMOBLOCK: el sistema Thermoblock garantiza tiempos de precalentamiento muy cortos (sólo 30 segundos) y una temperatura constante taza tras taza; no es necesario esperar entre taza y taza
+- INCLUYE UN SET: disfruta de un café de calidad en casa al obtener 3 cajas de cápsulas de café al comprar una máquina Piccolo XS
 - APAGADO AUTOMÁTICO: la cafetera de capsulas se apaga 1 minutos después de la última preparación de café para ahorrar energía
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
