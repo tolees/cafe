@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Comprometidos con el abastecimiento ético de café al 100% en colaboración con Conservation International
 - STARBUCKS Discovery Variety Pack by Nespresso
+- Comprometidos con el abastecimiento ético de café al 100% en colaboración con Conservation International
 - Cápsulas hechas con 80% de aluminio reciclado
-- Prepáralo en casa como a ti te gusta con tu café Starbucks favorito
 - Café 100% Arábica, para una taza simple y deliciosa en cualquier momento del día
+- Prepáralo en casa como a ti te gusta con tu café Starbucks favorito
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNXZYW75{{</world>}}

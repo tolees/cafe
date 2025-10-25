@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El aluminio permite que nuestras cápsulas sean perfectamente herméticas y garantiza una óptima conservación del aroma y del sabor del café
-- RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, sino que también hace bien. Con cada compra, estás ayudando a cientos de caficultores y a sus familias en todo el mundo, además de aportar tu granito de arena para preservar los bosques y la selva tropical: beber mejor es hacerlo mejor
 - Café de cuerpo medio y aterciopelado, acidez intensa con notas dulces a caramelo y chocolate
+- RAINFOREST ALLIANCE CERTIFIED: El café que empleamos para este producto está certificado por Rainforest Alliance Certified , lo que significa que no solo sabe bien, sino que también hace bien. Con cada compra, estás ayudando a cientos de caficultores y a sus familias en todo el mundo, además de aportar tu granito de arena para preservar los bosques y la selva tropical: beber mejor es hacerlo mejor
+- El aluminio permite que nuestras cápsulas sean perfectamente herméticas y garantiza una óptima conservación del aroma y del sabor del café
 - Tostado y envasado en España
-- 100% Arabica coffee
-- Intensidad del café: 9
 - 20 capsules
+- Intensidad del café: 9
+- 100% Arabica coffee
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DV92GHS7{{</world>}}

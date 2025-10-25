@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Las piezas son fácilmente desmontables. Dispone de una junta de cierre de silicona de alta calidad que asegura un cierre hermético y evita pérdidas de agua mientras se hace el café.
-- Las piezas son fácilmente desmontables. Dispone de una junta de cierre de silicona de alta calidad que asegura un cierre hermético y evita pérdidas de agua mientras se hace el café.
 - Cafetera italiana fabricada en aluminio de color negro, para hacer el café con el mejor cuerpo y aroma.
 - Apta para todas las superficies térmicas, consigue tu espresso perfecto ya sea en una cocina de inducción, gas, eléctrica o vitrocerámica. Capacidad de 600 ml, ideal para 12 tazas de café.
+- Las piezas son fácilmente desmontables. Dispone de una junta de cierre de silicona de alta calidad que asegura un cierre hermético y evita pérdidas de agua mientras se hace el café.
 - Las piezas son fácilmente desmontables. Dispone de una junta de cierre de silicona de alta calidad que asegura un cierre hermético y evita pérdidas de agua mientras se hace el café.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

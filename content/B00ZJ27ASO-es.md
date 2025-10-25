@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Descubre cómo cuidar tu menaje antiadherente en el apartado Guía de usuario de esta ficha
 - CAPACIDAD: Capacidad para 6 tazas de café (500 ml); diámetro inferior 11 cm; altura 11 cm
-- MANGO ERGONÓMICO: Mango con recubrimiento de silicona suave para agarre fácil y seguro
-- CONTIENE REDUCTOR: Inlcuido el reductor para posibilitar la media carga a la hora de preparar el café y poder elaborar más o menos café según preferencia.
 - FONDO FULL INDUCTION: Apta para todo tipo de cocinas, incluidas las de inducción. En inducción utolizar con un diámetro similar o ligeramente más grande al diámetro base de la cafetera
+- CONTIENE REDUCTOR: Inlcuido el reductor para posibilitar la media carga a la hora de preparar el café y poder elaborar más o menos café según preferencia.
 - TRIPLE FONDO DIFUSOR FORJADO: Con disco de aluminio en el interior para un mejor reparto del calor en la base
+- Descubre cómo cuidar tu menaje antiadherente en el apartado Guía de usuario de esta ficha
+- MANGO ERGONÓMICO: Mango con recubrimiento de silicona suave para agarre fácil y seguro
 - ACERO INOXIDABLE: Fabricada en el mejor acero inoxidable 18/10 de alta calidad, muy resistente al desgaste
 
 [🛒 Visítala!!!]({{< param buyurl >}})
