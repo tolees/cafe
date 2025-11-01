@@ -30,9 +30,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - CONTROL TÁCTIL Y MANÓMETRO. Panel de control táctil con indicador de temperatura e indicadores luminosos para 1 café, 2 cafés y vaporizador. El manómetro permite medir la presión en tiempo real
 - VAPORIZADOR. Con vaporizador orientable para espumar leche, calentar agua para infusiones o calentar todo tipo de líquidos
-- PRESIÓN Y POTENCIA. Cafetera Expresso con bomba de presión de 20 bares y 1350W de potencia para café, capuccino e infusiones. Con sistema de calentamiento rápido thermoblock que garantiza la preparación de la bebida caliente en el mínimo tiempo
-- ACABADOS Y ACCESORIOS. Bandeja calienta tazas en la parte superior, bandeja recoge gotas extraíble para una mejor limpieza y apagado automático, cuerpo y acabados en acero inoxidable
 - DOBLE OPCIÓN DE PREPARADO DE CAFÉ. Sistema tradicional de café molido con portafiltro metálico para poder preparar 1 o 2 cafés a la vez; tiene un gran depósito de agua extraíble con capacidad para 1.8L
+- ACABADOS Y ACCESORIOS. Bandeja calienta tazas en la parte superior, bandeja recoge gotas extraíble para una mejor limpieza y apagado automático, cuerpo y acabados en acero inoxidable
+- PRESIÓN Y POTENCIA. Cafetera Expresso con bomba de presión de 20 bares y 1350W de potencia para café, capuccino e infusiones. Con sistema de calentamiento rápido thermoblock que garantiza la preparación de la bebida caliente en el mínimo tiempo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BH8NPJQD{{</world>}}

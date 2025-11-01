@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Mango fabricado en baquelita termo-resistente con formato ergonómico
-- Capacidad para 3 tazas de café - 150 ml
-- Acabado Esmaltado brillo
-- Apta para todo tipo de encimeras, excepto inducción
 - Exterior súper resistente
+- Acabado Esmaltado brillo
+- Capacidad para 3 tazas de café - 150 ml
+- Apta para todo tipo de encimeras, excepto inducción
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B01IH74CZQ{{</world>}}

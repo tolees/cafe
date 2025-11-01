@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nespresso es una marca registrada de Société des Produits Nestlé S.A. Caffè Borbone S.r.l. es un productor independiente, no vinculado a Société des Produits Nestlé S.A. la compatibilidad de las cápsulas Caffè Borbone es funcional al uso con cafeteras Nespresso de uso doméstico.
 - Mezcla Ciao Venezia: CUERPO 7,5 - INTENSIDAD 7,5 - DULZURA 9 - Las cápsulas "Ciao Venezia" están hechas de aluminio para regalarte todo el aroma único y extraordinario de este café, que sabrá conquistarte, al igual que Venecia.
+- Compatibles con los siguientes modelos de cafeteras Nespresso*: Delonghi - Essenza, Essenza Mini EN85R, Citiz, Inissia, Lattissima Premium, Pixie, Prodigio Silver, U; Krups - Citiz, Essenza, Essenza Mini, Inissia, Pixie, Prodigio Titan, U; Nespresso - Essenza Mini C30 Matt Black, Lattissima One; Didiesse
+- Mezcla Ciao Venezia: CUERPO 7,5 - INTENSIDAD 7,5 - DULZURA 9 - Las cápsulas "Ciao Venezia" están hechas de aluminio para regalarte todo el aroma único y extraordinario de este café, que sabrá conquistarte, al igual que Venecia.
+- Envase de 100 cápsulas - 10 paquetes de 10 cápsulas de ALUMINIO
+- Nespresso es una marca registrada de Société des Produits Nestlé S.A. Caffè Borbone S.r.l. es un productor independiente, no vinculado a Société des Produits Nestlé S.A. la compatibilidad de las cápsulas Caffè Borbone es funcional al uso con cafeteras Nespresso de uso doméstico.
 - Mezcla Ciao Venezia - Una mezcla suave y rica, con mil matices, generosa en aromas y con una acidez agradable que nunca llega a ser intrusiva, sino que le brinda un carácter único, como la ciudad que le ha dado su nombre. Magnífica y especial, ciudad de gloria y de cultura que todo el mundo admira, Venecia fue, de hecho, la primera en dar la bienvenida al café en Italia. Por eso, Caffè Borbone le dedica esta mezcla extraordinaria, pensada para satisfacer de lleno el gusto sofisticado de los más refinados cultores del expreso perfecto. ¿La prefieres de aluminio? Elígela buena.
 - Mezcla Ciao Venezia - Una mezcla suave y rica, con mil matices, generosa en aromas y con una acidez agradable que nunca llega a ser intrusiva, sino que le brinda un carácter único, como la ciudad que le ha dado su nombre. Magnífica y especial, ciudad de gloria y de cultura que todo el mundo admira, Venecia fue, de hecho, la primera en dar la bienvenida al café en Italia. Por eso, Caffè Borbone le dedica esta mezcla extraordinaria, pensada para satisfacer de lleno el gusto sofisticado de los más refinados cultores del expreso perfecto. La prefieres de aluminio? Elígela buena.
+- Envase de 100 cápsulas - 10 paquetes de 10 cápsulas de ALUMINIO
 - Compatibles con los siguientes modelos de cafeteras Nespresso: Delonghi - Essenza, Essenza Mini EN85R, Citiz, Inissia, Lattissima Premium, Pixie, Prodigio Silver, U; Krups - Citiz, Essenza, Essenza Mini, Inissia, Pixie, Prodigio Titan, U; Nespresso - Essenza Mini C30 Matt Black, Lattissima One; Didiesse
-- Compatibles con los siguientes modelos de cafeteras Nespresso*: Delonghi - Essenza, Essenza Mini EN85R, Citiz, Inissia, Lattissima Premium, Pixie, Prodigio Silver, U; Krups - Citiz, Essenza, Essenza Mini, Inissia, Pixie, Prodigio Titan, U; Nespresso - Essenza Mini C30 Matt Black, Lattissima One; Didiesse
-- Envase de 100 cápsulas - 10 paquetes de 10 cápsulas de ALUMINIO
 - *Nespresso es una marca registrada de Société des Produits Nestlé S.A. Caffè Borbone S.r.l. es un productor independiente, no vinculado a Société des Produits Nestlé S.A. La compatibilidad de las cápsulas Caffè Borbone es funcional al uso con cafeteras Nespresso de uso doméstico.
-- Envase de 100 cápsulas - 10 paquetes de 10 cápsulas de ALUMINIO
-- Mezcla Ciao Venezia: CUERPO 7,5 - INTENSIDAD 7,5 - DULZURA 9 - Las cápsulas "Ciao Venezia" están hechas de aluminio para regalarte todo el aroma único y extraordinario de este café, que sabrá conquistarte, al igual que Venecia.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09YMQ9FFJ{{</world>}}

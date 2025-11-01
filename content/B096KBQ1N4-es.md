@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 15 BARES DE PRESIÓN - Crea un delicioso espresso con un rico aroma y una cremosa espuma color nuez
-- DISEÑO COMPACTO - Ligera y compacta, la máquina es fácil de colocar y mover en cualquier cocina o casa
-- SISTEMA DE CÁPSULAS - Las cápsulas conservan el aroma del café recién molido. Las cápsulas están selladas herméticamente con papel de aluminio, lo que protege el café recién molido
 - APAGADO AUTOMÁTICO - La cafetera se apaga 5 minutos después de la última preparación de café
+- DISEÑO COMPACTO - Ligera y compacta, la máquina es fácil de colocar y mover en cualquier cocina o casa
+- 15 BARES DE PRESIÓN - Crea un delicioso espresso con un rico aroma y una cremosa espuma color nuez
+- SISTEMA DE CÁPSULAS - Las cápsulas conservan el aroma del café recién molido. Las cápsulas están selladas herméticamente con papel de aluminio, lo que protege el café recién molido
 - INCLUYE UN SET - Disfruta de un café de calidad en casa al obtener 3 cajas de cápsulas de café al comprar una máquina Genio S
 
 [🛒 Comprar!!!]({{< param buyurl >}})

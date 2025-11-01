@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Apto para 1 ó 2 tazas de café y cápsulas monodosis E.S.E.
-- Cáldera de acero inoxidable, con 2 termostatos independientes para controlar la temperatura del agua y del vapor
-- Espumador de leche para hacer cappuccinos
 - 2 bandejas de goteo para colocar vasos de ceramica, vasos grandes, o tazas (80 a 110 mm)
+- Cáldera de acero inoxidable, con 2 termostatos independientes para controlar la temperatura del agua y del vapor
+- Apto para 1 ó 2 tazas de café y cápsulas monodosis E.S.E.
+- Espumador de leche para hacer cappuccinos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B086RF6YJQ{{</world>}}

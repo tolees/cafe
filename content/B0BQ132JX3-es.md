@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cafetera de goteo con capacidad de 1.5 L para preparar hasta 12 tazas de café; gracias a su panel táctil con retroiluminación blanca, podrás controlar cómodamente las funciones de tu cafetera y conseguir cafés deliciosos a diario
-- 6 interruptores: ON/OFF, intensidad (aroma), retardo de preparación, MIN, PROG y HORA
 - La Coffee 66 Drop & Touch incluye filtro de malla reutilizable, apta para filtros estándares de 1 x 4
 - Su jarra de cristal de alta resistencia, aguanta los golpes y caídas; con temporizador de hasta 24 horas, función de reloj y función de intensidad para disfrutar del café en el momento que desees
 - Gracias a su gran potencia de 950 W podrás preparar todos los cafés que quieras y disfrutar de la aroma y sabor cada día
+- 6 interruptores: ON/OFF, intensidad (aroma), retardo de preparación, MIN, PROG y HORA
+- Cafetera de goteo con capacidad de 1.5 L para preparar hasta 12 tazas de café; gracias a su panel táctil con retroiluminación blanca, podrás controlar cómodamente las funciones de tu cafetera y conseguir cafés deliciosos a diario
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BQ132JX3{{</world>}}
