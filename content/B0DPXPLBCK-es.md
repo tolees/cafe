@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Intensidad: Número 11 - Intenso para un sabor robusto y satisfactorio.
-- Compatibilidad: Compatibles con las cafeteras Nespresso Original.
 - Conservación: Conservar en un lugar fresco y seco para mejor calidad.
+- Compatibilidad: Compatibles con las cafeteras Nespresso Original.
+- Intensidad: Número 11 - Intenso para un sabor robusto y satisfactorio.
 - Preparación: Porción recomendada de 25ml ristretto por cápsula.
 - Certificación: Certificado Rainforest Alliance para prácticas sostenibles.
 
