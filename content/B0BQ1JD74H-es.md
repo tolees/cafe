@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Nunca gire demasiado fuerte el selector de vapor, ya que el aparato liberará mucho vapor en poco tiempo, aumentando el riesgo de quemaduras
 - Depósito de agua extra con capacidad de 1,25 litros. Bandas para tazas calientes de acero inoxidable
 - La lanza de vapor debe limpiarse con una esponja húmeda inmediatamente después de que deje de salir vapor, teniendo cuidado de no quemarse
 - ATENCIÓN Si la luz del café y la luz del vapor parpadean rápidamente significa que la temperatura de la máquina es demasiado alta. Deje que la máquina se enfríe durante al menos 5 minutos o active la función de agua caliente para enfriar la máquina. La máquina detendrá automáticamente el suministro de agua cuando baje la temperatura. Si preparas café sin dejar que la máquina se enfríe del todo, el café se quemará y el embudo se desbordará
-- Cafetera espresso de diseño elegante y compacto. Potencia máxima de 1100 W que prepara todo tipo de cafés
-- Nunca gire demasiado fuerte el selector de vapor, ya que el aparato liberará mucho vapor en poco tiempo, aumentando el riesgo de quemaduras
-- Incluye vaporera regulable con protección que texturiza la leche y te da la mejor espuma. Además, vierte agua caliente a la temperatura adecuada para las infusiones
 - El sistema de calentamiento rápido de Thermoblock garantiza que la temperatura se mantiene en el rango óptimo para obtener el mejor café y una potente bomba de presión con tecnología Force Aroma de 20 bares que consigue la mejor crema y el máximo aroma
+- Cafetera espresso de diseño elegante y compacto. Potencia máxima de 1100 W que prepara todo tipo de cafés
 - Brazo portafiltro con doble grifo y dos filtros para preparar cafés automáticamente
+- Incluye vaporera regulable con protección que texturiza la leche y te da la mejor espuma. Además, vierte agua caliente a la temperatura adecuada para las infusiones
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BQ1JD74H{{</world>}}

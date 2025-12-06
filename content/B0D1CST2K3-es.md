@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fácil y rápido de preparar
+- Café de tueste natural superior
 - Perfil equilibrado en intensidad, cuerpo redondo y persistencia en el paladar
 - Una vez abierto conservar en un recipiente hermético
 - Notas aromaticas tostadas
-- Café de tueste natural superior
+- Fácil y rápido de preparar
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0D1CST2K3{{</world>}}

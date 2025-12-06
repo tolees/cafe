@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Lavar a mano
-- Full Induction: esta tecnología está preparada para lograr la óptima dispersión del calor gracias a su fondo homogéneo sin agujeros, consiguiendo eficiencia y ahorro de energía
-- La cafetera Perfecta Black reúne todo lo bueno de las cafeteras italianas clásicas con la ventaja de ser apta para todo tipo de cocinas gracias a su fondo difusor full induction y un diseño con acabado negro mate
-- Diámetro superior 16.3 cm y diámetro inferior 11.8 cm
 - En inducción, utilizar con un diámetro similar o ligeramente más grande que el diámetro base de la cafetera
-- Descubre cómo cuidar tu menaje antiadherente en el apartado Guía de usuario de esta ficha
+- Full Induction: esta tecnología está preparada para lograr la óptima dispersión del calor gracias a su fondo homogéneo sin agujeros, consiguiendo eficiencia y ahorro de energía
 - Capacidad para 12 tazas de café 600 ml
+- Diámetro superior 16.3 cm y diámetro inferior 11.8 cm
+- Lavar a mano
+- La cafetera Perfecta Black reúne todo lo bueno de las cafeteras italianas clásicas con la ventaja de ser apta para todo tipo de cocinas gracias a su fondo difusor full induction y un diseño con acabado negro mate
+- Descubre cómo cuidar tu menaje antiadherente en el apartado Guía de usuario de esta ficha
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07SGDRSJ1{{</world>}}

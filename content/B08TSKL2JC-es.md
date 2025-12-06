@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- INTENSIDAD 9 - Café molido de tueste natural con toques a fruta madura y caramelo.
-- Elaboradas con café sostenible bajo el programa de Sostenibilidad Common Grounds que garantiza un Origen Responsable.
-- INTENSO Y ESPECIADO - La mezcla da como resultado un café muy aromático y complejo.
 - 10 PAQUETES DE 10 CÁPSULAS - 100 Cápsulas de Aluminio compatibles con las cafeteras L’OR Barista y con máquinas Nespresso (Marca de una compañía no relacionada con Jacobs Douwe Egberts).
 - CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el cappuccino o el latte.
+- INTENSIDAD 9 - Café molido de tueste natural con toques a fruta madura y caramelo.
+- INTENSO Y ESPECIADO - La mezcla da como resultado un café muy aromático y complejo.
+- Elaboradas con café sostenible bajo el programa de Sostenibilidad Common Grounds que garantiza un Origen Responsable.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B08TSKL2JC{{</world>}}

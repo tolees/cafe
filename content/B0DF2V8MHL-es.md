@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Esta mezcla de Arábica 100% procedente de Sudamérica, está infusionada con aroma natural para un sabor intenso, aromático y cremoso
 - Compatibles con Nespresso**
-- Este envase contiene 20 porciones
 - Tostado medio
 - Café molido de tueste natural con sabor a avellana en cápsulas
+- Este envase contiene 20 porciones
+- Esta mezcla de Arábica 100% procedente de Sudamérica, está infusionada con aroma natural para un sabor intenso, aromático y cremoso
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DF2V8MHL{{</world>}}

@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100 % arábica
-- Cápsulas compatibles con Nespresso* (*No registrado en Amazon EU S.a.r.l.). No compatibles con las cafeteras Nespresso Vertuo. Asegúrese siempre de seguir las instrucciones del fabricante de la cafetera
-- CERTIFICACIÓN RAINFOREST ALLIANCE: La procedencia del café utilizado para este producto goza de la certificación Rainforest Alliance, lo que significa que no solo sabe bien, sino que también tiene un impacto positivo. Con cada compra, ayuda a cientos de agricultores y sus familias en todo el mundo, además de aportar su granito a la selva tropical; beber mejor es hacerlo mejor
-- Intensidad: 4/5
-- Tostado y envasado en Bélgica
-- Delicado pero intenso, este café con mucho cuerpo tiene un aroma a nuez con toques de avellana tostada
 - 100 cápsulas: 2 paquetes x 50
+- Tostado y envasado en Bélgica
+- 100 % arábica
+- CERTIFICACIÓN RAINFOREST ALLIANCE: La procedencia del café utilizado para este producto goza de la certificación Rainforest Alliance, lo que significa que no solo sabe bien, sino que también tiene un impacto positivo. Con cada compra, ayuda a cientos de agricultores y sus familias en todo el mundo, además de aportar su granito a la selva tropical; beber mejor es hacerlo mejor
+- Cápsulas compatibles con Nespresso* (*No registrado en Amazon EU S.a.r.l.). No compatibles con las cafeteras Nespresso Vertuo. Asegúrese siempre de seguir las instrucciones del fabricante de la cafetera
+- Delicado pero intenso, este café con mucho cuerpo tiene un aroma a nuez con toques de avellana tostada
+- Intensidad: 4/5
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08Y1CYY63{{</world>}}

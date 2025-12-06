@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Con esta cafetera eléctrica, podrás guardar los detalles de la intensidad y la cantidad de tu café y prepararlo con solo pulsar un botón
 - Diseño moderno
+- Con esta cafetera eléctrica, podrás guardar los detalles de la intensidad y la cantidad de tu café y prepararlo con solo pulsar un botón
 - Esta cafetera incorpora un molinillo de café cónico y de acero inoxidable que es silencioso
 
 [🛒 Visítala!!!]({{< param buyurl >}})

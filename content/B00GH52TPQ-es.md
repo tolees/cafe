@@ -31,10 +31,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Clase de eficiencia energética: A +
 - Disponible en color negro, naranja, crema y blanco
 - Sistema de calentamiento rápido Thermoblock: lista para usar en 25 segundos
-- Función de autoapagado tras 9 minutos de inactividad
-- Compacta, ligera y con asa ergonómica
-- Parada de flujo automático Flow Stop: 2 botones programables (espresso y lungo)
 - Bomba de presión de 19 bares
+- Compacta, ligera y con asa ergonómica
+- Función de autoapagado tras 9 minutos de inactividad
+- Parada de flujo automático Flow Stop: 2 botones programables (espresso y lungo)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00GH52TPQ{{</world>}}

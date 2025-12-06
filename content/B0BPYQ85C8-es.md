@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Consigue tu espresso perfecto ya sea en una cocina de gas, eléctrica o vitrocerámica. Capacidad de 150 ml, ideal para 3 tazas de café.
+- Cafetera italiana fabricada en aluminio de color azul, para hacer el café con el mejor cuerpo y aroma.
 - El filtro del interior es de acero inoxidable de alta calidad para lograr el café más puro y tradicional. Para mayor prevención dispone de una válvula de seguridad que indica el límite de agua que se debe introducir.
 - Las piezas son fácilmente desmontables y aptas para el lavavajillas. Dispone de una junta de cierre de silicona de alta calidad que asegura un cierre hermético y evita pérdidas de agua mientras se hace el café.
-- Cafetera italiana fabricada en aluminio de color azul, para hacer el café con el mejor cuerpo y aroma.
 - Mango muy ergonómico para un uso cómodo de la cafetera y termorresistente para aislar las altas temperaturas.
-- Consigue tu espresso perfecto ya sea en una cocina de gas, eléctrica o vitrocerámica. Capacidad de 150 ml, ideal para 3 tazas de café.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BPYQ85C8{{</world>}}
