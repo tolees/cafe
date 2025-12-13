@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- FUERTE, PODEROSO E INTENSO - La mezcla de granos da como resultado un sabor duradero y profundo junto con un dulzor afrutado.
-- 50 CÁPSULAS - 50 Cápsulas de Aluminio compatibles con las cafeteras L’OR Barista y con máquinas Nespresso* (*Marca de una compañía no relacionada con Jacobs Douwe Egberts).
-- CÁPSULA RISTRETTO - La cápsula tiene el tamaño indicado para poder preparar un café ristretto, la versión más concentrada de un espresso. Menos agua con la misma cantidad de café para conseguir una infusión más aromática.
-- INTENSIDAD 12 - Café molido de tueste natural con sabor intenso y pronunciado elaborado con granos de café Arábica y Robusta.
 - Elaboradas con café sostenible bajo el programa de Sostenibilidad Common Grounds que garantiza un Origen Responsable.
+- 50 CÁPSULAS - 50 Cápsulas de Aluminio compatibles con las cafeteras L’OR Barista y con máquinas Nespresso* (*Marca de una compañía no relacionada con Jacobs Douwe Egberts).
+- INTENSIDAD 12 - Café molido de tueste natural con sabor intenso y pronunciado elaborado con granos de café Arábica y Robusta.
+- CÁPSULA RISTRETTO - La cápsula tiene el tamaño indicado para poder preparar un café ristretto, la versión más concentrada de un espresso. Menos agua con la misma cantidad de café para conseguir una infusión más aromática.
+- FUERTE, PODEROSO E INTENSO - La mezcla de granos da como resultado un sabor duradero y profundo junto con un dulzor afrutado.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DYFC8PS8{{</world>}}

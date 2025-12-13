@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Gran versatilidad. La cafetera es apta para todos los gustos con lo que podrás utilizar tanto café molido como Dolce Gusto y Nespresso.
-- Gran versatilidad. La cafetera es apta para todos los gustos con lo que podrás utilizar tanto café molido como Dolce Gusto y Nespresso.
-- Gran versatilidad. La cafetera es apta para todos los gustos con lo que podrás utilizar tanto café molido como Dolce Gusto y Nespresso.
 - Ahorra energía. Con el sistema de ahorro energético de la cafetera, se apagará automáticamente y pasará a stand-by a los 15 minutos. Fácil de usar. Enciende y apaga la cafetera con su interruptor principal ON/OFF. Te avisa cuando está a punto. Indicador luminoso.
+- Gran versatilidad. La cafetera es apta para todos los gustos con lo que podrás utilizar tanto café molido como Dolce Gusto y Nespresso.
+- Gran versatilidad. La cafetera es apta para todos los gustos con lo que podrás utilizar tanto café molido como Dolce Gusto y Nespresso.
 - Gran versatilidad. La cafetera es apta para todos los gustos con lo que podrás utilizar tanto café molido como Dolce Gusto y Nespresso.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

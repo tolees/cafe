@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Elige el sabor de las cápsulas de café NESCAFÉ Farmers Origins - India Espresso
-- Puedes ponerlas en tu máquina favorita, ya que son las cápsulas concebidas y aprobadas para máquinas Nespresso
-- Saborea la biodiversidad de la India en las notas de cacao y tueste de este café espresso de intensidad 9
-- Las cápsulas de café 100 % reciclables están hechas de aluminio para proteger el frescor y aroma de tu café por mucho tiempo; una buena elección
 - Los caficultores indios respetan la naturaleza; el 100 % de su delicioso café se cultiva a la sombra
+- Las cápsulas de café 100 % reciclables están hechas de aluminio para proteger el frescor y aroma de tu café por mucho tiempo; una buena elección
+- Elige el sabor de las cápsulas de café NESCAFÉ Farmers Origins - India Espresso
+- Saborea la biodiversidad de la India en las notas de cacao y tueste de este café espresso de intensidad 9
+- Puedes ponerlas en tu máquina favorita, ya que son las cápsulas concebidas y aprobadas para máquinas Nespresso
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CM6Q38S7{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Disfruta de tú café STARBUCKS favorito sin salir de casa
 - Con una intensidad menor de tueste medio
-- Café 100% arábica; una taza de café llena de sabor para disfrutar a lo largo de todo el día; comprometidos con el abastecimiento 100% ético de café en colaboración con Conservation International
 - Cápsulas de café compatibles con máquinas NESPRESSO, cápsulas no compatibles para las máquinas Nespresso Vertuo
 - Cápsulas de café de STARBUCKS de NESPRESSO; ácido y con carácter
+- Café 100% arábica; una taza de café llena de sabor para disfrutar a lo largo de todo el día; comprometidos con el abastecimiento 100% ético de café en colaboración con Conservation International
+- Disfruta de tú café STARBUCKS favorito sin salir de casa
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0CM6Q27MP{{</world>}}

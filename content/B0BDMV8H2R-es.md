@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- INDIVIDUAL/DOBLE: Prepare 1 o 2 tazas a la vez.
 - 3 EN 1: Para café molido, café de filtro y cápsulas de 30/54 mm,
+- BOMBA DE 19 BAR: Potente bomba de presión italiana y termostato integrado perfecto para lattes, espressos y cappuccinos.
 - TANQUE DE AGUA DE 1,2 LITROS: Extra grande, tanque de agua de 1,2 litros que es extraíble.
 - FUNCIÓN DE PARADA AUTOMÁTICA: Para mayor seguridad y sin BPA.
-- BOMBA DE 19 BAR: Potente bomba de presión italiana y termostato integrado perfecto para lattes, espressos y cappuccinos.
-- INDIVIDUAL/DOBLE: Prepare 1 o 2 tazas a la vez.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BDMV8H2R{{</world>}}
