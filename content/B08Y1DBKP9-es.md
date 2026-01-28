@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - CERTIFICACIÓN RAINFOREST ALLIANCE: La procedencia del café utilizado para este producto goza de la certificación Rainforest Alliance, lo que significa que no solo sabe bien, sino que también tiene un impacto positivo. Con cada compra, ayuda a cientos de agricultores y sus familias en todo el mundo, además de aportar su granito a la selva tropical; beber mejor es hacerlo mejor
 - Envasado en atmósfera protectora para mantener la frescura. Almacenar en un lugar fresco y seco. Asegúrate de seguir siempre las instrucciones del fabricante de la cafetera
+- Este café tiene un buen sabor, excelente equilibrio y cuerpo envolvente
 - 4 paquetes x 20 cápsulas. Total: 80 cápsulas: 20 cápsulas de Expreso + 20 cápsulas de Lungo + 20 cápsulas de Ristretto + 20 cápsulas de Lungo descafeinado
 - Cápsulas compatibles con Nespresso* (*No conectado con Amazon EU S.a.r.l.). No compatible con las cafeteras Nespresso Vertuo.
-- Este café tiene un buen sabor, excelente equilibrio y cuerpo envolvente
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B08Y1DBKP9{{</world>}}

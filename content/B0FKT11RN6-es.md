@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Depósito de 150 g de café con molinillo cónico integrado con 5 niveles de molienda. Depósito extraíble de agua con 1,1 L y de leche de 400 ml. Limpieza automática para mantenerla siempre a punto.
 - Se adapta a todos los gustos, puedes personalizar y memorizar fácilmente la cantidad y la intensidad del café.
-- Bomba de presión de 19 bares para conseguir la mejor crema y el máximo aroma en cada café.
 - Sistema de rápido calentamiento por Thermoblock que garantiza un café perfecto en tan solo unos segundos. Incluye depósito de leche de 400ml.
 - La cafetera superautomática compacta prepara espressos y americanos de café en grano recién molido pulsando un botón gracias al sistema Plug&Play.
-- Depósito de 150 g de café con molinillo cónico integrado con 5 niveles de molienda. Depósito extraíble de agua con 1,1 L y de leche de 400 ml. Limpieza automática para mantenerla siempre a punto.
+- Bomba de presión de 19 bares para conseguir la mejor crema y el máximo aroma en cada café.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FKT11RN6{{</world>}}

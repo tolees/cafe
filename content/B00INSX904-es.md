@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - MANEJO INTUITIVO CON BOTONES MULTIFUNCIONALES; pulsa la opción en el panel de mandos y disfruta. Resultados óptimos en todas las preparaciones, con ajustes individuales para intensidad del café, volumen de agua y temperatura.
 - CAFETERA AUTOMÁTICA DE CAFÉ con 15 bares de presión y tres niveles de selección de intensidad de café; además, dispone de un regulador de la cantidad de café con función automática de vapor para calentar agua o leche, o preparar infusiones.
-- MOLINILLO INTEGRADO diseñado para ofrecer resultados de molido al nivel de un barista profesional; con las tres texturas de molienda podrás disfrutar tanto de un ristretto como de un espresso o un café largo.
 - SISTEMA PATENTADO COMPACTO BLOQUE TÉRMICO (CTS); el café sale caliente desde la primera taza por el calentamiento ultrarrápido del agua y, además, reduce la calcificación de la cafetera, lo que se traduce en mayor durabilidad.
 - BOQUILLA DE VAPOR PARA UN CAPPUCCINO ÓPTIMO, fácil de limpiar para una mayor comodidad e higiene. La boquilla de vapor supone el toque final perfecto para una amplia variedad de bebidas; distancia máxima boquilla de café - bandeja de goteo: 10.5 cm.
+- MOLINILLO INTEGRADO diseñado para ofrecer resultados de molido al nivel de un barista profesional; con las tres texturas de molienda podrás disfrutar tanto de un ristretto como de un espresso o un café largo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00INSX904{{</world>}}

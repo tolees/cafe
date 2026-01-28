@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Café de tueste natural
 - Perfil equilibrado en intensidad, cuerpo y persistencia en el paladar
+- Café de tueste natural
 - Suave aroma a tostado
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

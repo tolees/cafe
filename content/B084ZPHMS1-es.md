@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sistema antigoteo que permite servir una taza de café en cualquier momento del ciclo de infusión sin miedo a que gotee
-- Sistema de preparación optimizado con cabezal de agua que satura uniformemente el café para unos resultados deliciosos
-- Función de apagado automático donde la cafetera detiene el ciclo de conservación del calor tras 30 minutos sin uso y así un uso más seguro
-- Cafetera de filtro con una capacidad de 1,25 litros que prepara hasta 15 tazas de café y con función de temporizador que permite programar el ciclo de preparación con hasta 24 horas de antelación para despertarte con café recién hecho cada mañana
 - Modo de preinfusión que mejora la extracción para que obtengas un café más fuerte y robusto y café totalmente aromático
+- Función de apagado automático donde la cafetera detiene el ciclo de conservación del calor tras 30 minutos sin uso y así un uso más seguro
+- Sistema de preparación optimizado con cabezal de agua que satura uniformemente el café para unos resultados deliciosos
+- Cafetera de filtro con una capacidad de 1,25 litros que prepara hasta 15 tazas de café y con función de temporizador que permite programar el ciclo de preparación con hasta 24 horas de antelación para despertarte con café recién hecho cada mañana
+- Sistema antigoteo que permite servir una taza de café en cualquier momento del ciclo de infusión sin miedo a que gotee
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B084ZPHMS1{{</world>}}

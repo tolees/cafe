@@ -28,12 +28,12 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Función automática de vapor: para calentar agua o leche, o preparar infusiones; fácil y limpio.
 - CAFETERA SUPERAUTOMÁTICA CON 3 NIVELES DE SELECCIÓN DE INTENSIDAD Y CANTIDAD DE CAFÉ AJUSTABLE DE 20 ML A 220 ML.
 - LAS CAFETERAS KRUPS SE SOMETEN DE MANERA ALEATORIA A ESTRICTOS CONTROLES DE CALIDAD que incluyen el llenado de agua y la preparación de café, por ello se pueden encontrar pequeños restos en la máquina
-- Función automática de vapor: para calentar agua o leche, o preparar infusiones; fácil y limpio.
-- MOLINILLO INTEGRADO Y PLACA CALIENTATAZAS: café recién hecho en una taza caliente; sabor, aroma y crema quedan resaltados.
-- PROGRAMA AUTOMÁTICO DE LIMPIEZA Y DESCALCIFICACIÓN; incluye kit de pastillas de limpieza y descalcificador.
 - LAS CAFETERAS KRUPS SE SOMETEN DE MANERA ALEATORIA A ESTRICTOS CONTROLES DE CALIDAD PARA GARANTIZAR SU FUNCIONAMIENTO; las pruebas incluyen el llenado de agua y la preparación de café, por ello se pueden encontrar pequeños restos en la máquina.
+- PROGRAMA AUTOMÁTICO DE LIMPIEZA Y DESCALCIFICACIÓN; incluye kit de pastillas de limpieza y descalcificador.
+- MOLINILLO INTEGRADO Y PLACA CALIENTATAZAS: café recién hecho en una taza caliente; sabor, aroma y crema quedan resaltados.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00MZ2F3Z8{{</world>}}

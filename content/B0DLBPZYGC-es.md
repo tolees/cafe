@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - FUNCIONAMIENTO SENCILLO: esta cafetera express de 20 bares es fácil de usar y limpiar, perfecta para cafeteros que quieren disfrutar de una experiencia de barista en casa.
-- PREPARA 1 Ó 2 ESPRESSOS: esta cafetera exprés te permite hacer uno o dos espressos a la vez, ideal para cualquier amante del café.
-- DEPÓSITO DE AGUA: con capacidad de 1,2 litros, esta cafetera express es perfecta para preparar múltiples tazas de café sin necesidad de rellenar constantemente.
 - ADECUADO PARA COCINAS PEQUEÑAS: gracias al tamaño compacto, la cafetera espresso es perfecta para espacios reducidos para que disfrutes de un espresso delicioso en cualquier lugar.
+- DEPÓSITO DE AGUA: con capacidad de 1,2 litros, esta cafetera express es perfecta para preparar múltiples tazas de café sin necesidad de rellenar constantemente.
 - CAFETERA EXPRÉS: conjura el espresso caliente y frío con esta cafetera espresso de 20 bares, perfecta para cualquier barista en casa.
+- PREPARA 1 Ó 2 ESPRESSOS: esta cafetera exprés te permite hacer uno o dos espressos a la vez, ideal para cualquier amante del café.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DLBPZYGC{{</world>}}
