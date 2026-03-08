@@ -28,13 +28,13 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Visite nuestra BRAND STORE para descubrir toda la selección NOTE DESPRESSO enlace directo debajo del título del producto
-- Compatible con cafeteras NESPRESSO
-- Práctica caja de 40 capsulas, totalmente certificada con barrera de oxigeno, se pueden mantener fuera de las bolsas, no pierden su aroma. Buena elección para aquellos que usen porta capsulas o almacenamiento
-- El delicioso aroma y sabor de la avellana en una práctica cápsula de 7 gramos
-- Dosis recomendada de agua 80 ml
 - Hechos en Italia
 - La siguiente información se aplica a cada unidad del paquete
+- Práctica caja de 40 capsulas, totalmente certificada con barrera de oxigeno, se pueden mantener fuera de las bolsas, no pierden su aroma. Buena elección para aquellos que usen porta capsulas o almacenamiento
+- Compatible con cafeteras NESPRESSO
+- Dosis recomendada de agua 80 ml
+- Visite nuestra BRAND STORE para descubrir toda la selección NOTE DESPRESSO enlace directo debajo del título del producto
+- El delicioso aroma y sabor de la avellana en una práctica cápsula de 7 gramos
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DDQ63T1L{{</world>}}

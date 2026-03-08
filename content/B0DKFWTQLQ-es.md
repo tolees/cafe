@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Un espresso adaptado a cada hogar gracias al fácil ajuste de 3 factores importantes: la temperatura y la cantidad del café, así como la dureza del agua local.
+- Con una presión de bomba de 15 bares, 1.350 vatios de potencia y nuestra innovación “Crema Assist” para un espresso con aromas perfectamente extraídos de granos de café recién molidos y una crema espesa y suave. Con el espumador de leche integrado puedes crear cualquier espresso en segundos, desde un macchiato suave y sedoso hasta un capuchino irresistiblemente cremoso.
 - La bandeja de goteo ajustable en altura con indicador rojo de nivel de agua no solo permite un ajuste sin esfuerzo al tamaño de taza correspondiente, sino que también garantiza una superficie de trabajo limpia.
 - La máquina de café expreso combina la funcionalidad inteligente, la experiencia y el conocimiento de nuestras máquinas de café profesionales en un funcionamiento sencillo de 2 botones. Compacta y elegante,impresiona a primera vista gracias a su elegante carcasa de Cromargan mate
 - Contenido: 1 máquina de café expreso de acero inoxidable Cromargan mate (14 x 31 x 30,5 cm, 1350 W, 15 bar, longitud del cable 1 m, depósito de agua 1,4 l), 2 insertos para 1 o 2 tazas de café expreso/doppio expreso, 1 cuchara dosificadora, 1 prensador - N.º de artículo: 0412380011
-- Un espresso adaptado a cada hogar gracias al fácil ajuste de 3 factores importantes: la temperatura y la cantidad del café, así como la dureza del agua local.
-- Con una presión de bomba de 15 bares, 1.350 vatios de potencia y nuestra innovación “Crema Assist” para un espresso con aromas perfectamente extraídos de granos de café recién molidos y una crema espesa y suave. Con el espumador de leche integrado puedes crear cualquier espresso en segundos, desde un macchiato suave y sedoso hasta un capuchino irresistiblemente cremoso.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DKFWTQLQ{{</world>}}

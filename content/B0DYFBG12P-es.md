@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Elaboradas con café sostenible bajo el programa de Sostenibilidad Common Grounds que garantiza un Origen Responsable.
 - INTENSIDAD 10 - Café molido de tueste natural con sabor intenso y duradero elaborado con granos de café Arábica y Robusta.
+- Elaboradas con café sostenible bajo el programa de Sostenibilidad Common Grounds que garantiza un Origen Responsable.
 - FRUTAL, PICANTE Y PODEROSO - La mezcla de granos da como resultado un café intenso con dulzura picante y toques afrutados.
 - 50 CÁPSULAS - 50 Cápsulas de Aluminio compatibles con las cafeteras L’OR Barista y con máquinas Nespresso* (*Marca de una compañía no relacionada con Jacobs Douwe Egberts).
 - CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el capuchino o el latte.

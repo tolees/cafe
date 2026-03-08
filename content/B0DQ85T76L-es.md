@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【SEGURIDAD Y DISEÑO FUNCIONAL】Función de autoapagado para mayor seguridad. Diseño compacto en color negro con jarra de cristal resistente, pensada para integrarse fácilmente en cualquier cocina y facilitar su limpieza diaria.
-- 【DEPÓSITO VISIBLE Y CONTROL DEL AGUA】Depósito de agua visible con indicador de nivel de agua para controlar fácilmente la cantidad necesaria en cada preparación. Incluye cucharilla dosificadora para ajustar la intensidad del café.
-- 【FILTRO PERMANENTE Y SISTEMA ANTIGOTEO】Incluye filtro permanente extraíble y lavable para una fácil limpieza. El sistema antigoteo evita derrames indeseados al servir el café, aportando comodidad y limpieza en cada uso.
 - 【POTENCIA Y CAPACIDAD PARA USO DIARIO】Cafetera de goteo de 680 W con capacidad de 1,25 L para preparar hasta 12 tazas de café. Ideal para el uso diario, familias o reuniones, garantizando un café con gran sabor y aroma en pocos minutos.
 - 【EXTRACCIÓN DE AROMA Y SABOR INTENSO】La tecnología Intense Flavour y el sistema de goteo continuo extraen el máximo aroma del café. Su placa calefactora mantiene el café caliente durante más tiempo, conservando todo su sabor.
+- 【SEGURIDAD Y DISEÑO FUNCIONAL】Función de autoapagado para mayor seguridad. Diseño compacto en color negro con jarra de cristal resistente, pensada para integrarse fácilmente en cualquier cocina y facilitar su limpieza diaria.
+- 【FILTRO PERMANENTE Y SISTEMA ANTIGOTEO】Incluye filtro permanente extraíble y lavable para una fácil limpieza. El sistema antigoteo evita derrames indeseados al servir el café, aportando comodidad y limpieza en cada uso.
+- 【DEPÓSITO VISIBLE Y CONTROL DEL AGUA】Depósito de agua visible con indicador de nivel de agua para controlar fácilmente la cantidad necesaria en cada preparación. Incluye cucharilla dosificadora para ajustar la intensidad del café.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DQ85T76L{{</world>}}

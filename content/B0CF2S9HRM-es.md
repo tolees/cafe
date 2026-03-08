@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- La tecnología DripStop de la Cafetera proporciona un extra de limpieza. Asimismo, tiene un filtro extraíble incorporado y ofrece un plus de comodidad gracias a su jarra de asa ergonómica.
 - La compra de la Cafetera de Goteo incluye una jarra de cristal, un depósito de agua y un filtro extraíble. Además, tiene tecnología DripStop, Apagado Automático y mantiene el calor durante 40 minutos.
+- La tecnología DripStop de la Cafetera proporciona un extra de limpieza. Asimismo, tiene un filtro extraíble incorporado y ofrece un plus de comodidad gracias a su jarra de asa ergonómica.
 - La Cafetera de Goteo es muy fácil de utilizar: solo tienes que llenar bajo el grifo el depósito de agua, echar café en el filtro extraíble y darle al botón de encendido.
 - La Cafetera Bosch tiene un diseño atemporal que queda bien en cualquier tipo de cocina. Además, ofrece un servicio duradero en el tiempo y un café como el que siempre se ha hecho.
 - La Cafetera tiene una Jarra de Vidrio que mantiene el calor y el aroma para que puedas disfrutar de un buen café. Además, se apaga automáticamente 40 minutos después de su encendido.

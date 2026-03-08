@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Consigue tu espresso perfecto ya sea en una cocina de gas, eléctrica o vitrocerámica. Capacidad de 150 ml, ideal para 3 tazas de café.
-- Cafetera italiana fabricada en aluminio de color beige, para hacer el café con el mejor cuerpo y aroma.
-- Las piezas son fácilmente desmontables y aptas para el lavavajillas. Dispone de una junta de cierre de silicona de alta calidad que asegura un cierre hermético y evita pérdidas de agua mientras se hace el café.
-- El filtro del interior es de acero inoxidable de alta calidad para lograr el café más puro y tradicional. Para mayor prevención dispone de una válvula de seguridad que indica el límite de agua que se debe introducir.
 - Mango muy ergonómico para un uso cómodo de la cafetera y termorresistente para aislar las altas temperaturas.
+- Las piezas son fácilmente desmontables y aptas para el lavavajillas. Dispone de una junta de cierre de silicona de alta calidad que asegura un cierre hermético y evita pérdidas de agua mientras se hace el café.
+- Cafetera italiana fabricada en aluminio de color beige, para hacer el café con el mejor cuerpo y aroma.
+- Consigue tu espresso perfecto ya sea en una cocina de gas, eléctrica o vitrocerámica. Capacidad de 150 ml, ideal para 3 tazas de café.
+- El filtro del interior es de acero inoxidable de alta calidad para lograr el café más puro y tradicional. Para mayor prevención dispone de una válvula de seguridad que indica el límite de agua que se debe introducir.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BQ1L7LFC{{</world>}}

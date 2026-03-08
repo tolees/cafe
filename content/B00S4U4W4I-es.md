@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Siguiendo la tendencia más actual de los conceptos clásicos y retro la Vintage Icona es una máquina de café espresso de bomba tradicional con estilo y con una tecnología avanzada que garantiza un espresso italiano perfecto y auténtico
-- Depósito de agua
 - Cafetera ECOV311
+- Depósito de agua
 - BG Delonghi
+- Siguiendo la tendencia más actual de los conceptos clásicos y retro la Vintage Icona es una máquina de café espresso de bomba tradicional con estilo y con una tecnología avanzada que garantiza un espresso italiano perfecto y auténtico
 - El "Sistema Cappuccino" mezcla vapor aire y leche que produce una espuma rica y cremosa para preparar un delicado capuchino
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -28,18 +28,18 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sistema de calentamiento Thermoblock (lista para el uso a los 25 segundos)
-- Depósito de agua extraíble con una capacidad de 0.7 l
-- Flow Stop: automática y programable la cantidad de café
-- La copa no está incluida
-- Modo de autoapagado a los 9 minutos
-- Flow Stop: automática y programable la cantidad de café
-- Incluye 7 cápsulas y 20€ de crédito en café
+- Expulsión de las cápsulas usadas
 - Depósito de agua de 0.8 litros de capacidad
 - Bomba de presión de 19 bares
+- Sistema de calentamiento Thermoblock (lista para el uso a los 25 segundos)
+- Expulsión de las cápsulas usadas
 - Sistema de calentamiento Thermoblock (listo para el uso a los 25 segundos)
-- Expulsión de las cápsulas usadas
-- Expulsión de las cápsulas usadas
+- Flow Stop: automática y programable la cantidad de café
+- La copa no está incluida
+- Incluye 7 cápsulas y 20€ de crédito en café
+- Modo de autoapagado a los 9 minutos
+- Flow Stop: automática y programable la cantidad de café
+- Depósito de agua extraíble con una capacidad de 0.7 l
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00G5YOVZA{{</world>}}
