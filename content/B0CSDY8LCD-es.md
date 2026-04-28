@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 🧊 Asa de toque frío: Sirve sin riesgo de quemaduras.
-- 💡 Botón ON/OFF con luz: Control intuitivo del funcionamiento.
-- 🔄 Base giratoria 360° sin cables: Máxima comodidad desde cualquier ángulo.
 - ☕ Capacidad para 6 tazas: Ideal para familias o visitas, siempre con café caliente y listo para servir.
+- 🧊 Asa de toque frío: Sirve sin riesgo de quemaduras.
+- 🔄 Base giratoria 360° sin cables: Máxima comodidad desde cualquier ángulo.
 - ☕ Mantiene el café siempre caliente.
+- 💡 Botón ON/OFF con luz: Control intuitivo del funcionamiento.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CSDY8LCD{{</world>}}

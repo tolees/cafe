@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - ACCESO FRONTAL: El acceso frontal, giratorio y ultra conveniente, le permite llenar el tanque de agua y el filtro de café muy fácilmente
-- MINUTERIE DIGITALE: Interfaz digital para controlar fácilmente todas las funciones de su cafetera
+- Jarra de vidrio: Prepare hasta 10 tazas gracias a la jarra de gran capacidad
 - VARIEDAD DE ELECCIÓN: Máquina espresso que permite realizar café o espresso con un solo dispositivo
 - 15 BARRAS DE PRESIÓN: Elija su café molido o cápsula y simplemente prepare su rico y cremoso espresso con una crema perfecta
-- Jarra de vidrio: Prepare hasta 10 tazas gracias a la jarra de gran capacidad
+- MINUTERIE DIGITALE: Interfaz digital para controlar fácilmente todas las funciones de su cafetera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B012P0CPS2{{</world>}}

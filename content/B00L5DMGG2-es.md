@@ -29,10 +29,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - INTENSIDAD 10 - Café molido de tueste natural con tonos de manzana dulce y cítricos, elaborado con granos de café Arábica.
-- Elaboradas con café sostenible bajo el programa de Sostenibilidad Common Grounds que garantiza un Origen Responsable.
-- ELEGANTE, SUAVE Y AROMÁTICO - Con tonos de Manzana Dulce y Cítricos. Con un tostado medio, elegante y refinado con diferentes capas de sabor para una experiencia aromática completa.
 - CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el cappuccino o el latte.
 - 20 PAQUETES DE 10 CÁPSULAS - 200 Cápsulas de Aluminio compatibles con las cafeteras L’OR Barista y con máquinas Nespresso (Marca de una compañía no relacionada con Jacobs Douwe Egberts).
+- ELEGANTE, SUAVE Y AROMÁTICO - Con tonos de Manzana Dulce y Cítricos. Con un tostado medio, elegante y refinado con diferentes capas de sabor para una experiencia aromática completa.
+- Elaboradas con café sostenible bajo el programa de Sostenibilidad Common Grounds que garantiza un Origen Responsable.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00L5DMGG2{{</world>}}

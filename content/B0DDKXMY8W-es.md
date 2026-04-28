@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- ACERO INOXIDABLE CEPILLADO: esta cafetera de Russell Hobbs tiene un diseño de acero inoxidable cepillado y cuenta con iluminación azul, que indica las fases de preparación y mantenimiento del calor, además de un visor del nivel de agua
-- FUNCIÓN DE PAUSA PARA SERVIR: el café se empieza a preparar con solo pulsar un botón; además, puedes poner en pausa la cafetera a medio proceso si necesitas servirte una taza urgentemente
 - GRAN CAPACIDAD: la cafetera Heaton de Russell Hobbs tiene una jarra de vidrio de 1,25 l, 10 tazas, para que disfrutes de muchos cafés junto con tus familiares y amigos sin tener que preparar más
 - PRÁCTICA: gracias al portafiltro de apertura frontal que queda al nivel de los ojos es muy fácil sustituir el filtro de papel o añadir más café molido
 - FUNCIÓN DE MANTENIMIENTO DEL CALOR: el café se mantiene caliente una vez preparado durante un máximo de 40 minutos gracias a la función de mantenimiento del calor, así siempre estará como recién hecho aunque, llegues tarde
+- ACERO INOXIDABLE CEPILLADO: esta cafetera de Russell Hobbs tiene un diseño de acero inoxidable cepillado y cuenta con iluminación azul, que indica las fases de preparación y mantenimiento del calor, además de un visor del nivel de agua
+- FUNCIÓN DE PAUSA PARA SERVIR: el café se empieza a preparar con solo pulsar un botón; además, puedes poner en pausa la cafetera a medio proceso si necesitas servirte una taza urgentemente
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0DDKXMY8W{{</world>}}

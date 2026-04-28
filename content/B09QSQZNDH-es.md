@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Cómo usar Venus Bialetti : Llena la tetera con agua hasta la válvula de seguridad, introduce el embudo y añade el café molido para cafeteras espresso sin presionar, cierra el moka y colócalo en la encimera. Espera a que el recipiente esté completamente lleno, apaga el fuego y ¡disfruta de un buen café!
 - La Venus Bronze es la combinación perfecta de tradición e innovación: la cafetera de inducción original que hace un café perfecto con un sabor en el sentido de «Hecho en Italia» y ofrece un diseño único.
-- El tamaño de Venus Bronze se mide en tazas; el café se puede disfrutar en tazas de espresso o en tazas más grandes, según sea necesario. Venus Bronze está disponible en 2 tazas, 4 tazas o 6 tazas. Mililitros por formato: 85 ml/170 ml/235 ml
 - Venus Bialetti Está fabricado en acero inoxidable 18/10 de la más alta calidad, lo que garantiza una durabilidad duradera y un estilo inconfundible. La tetera es aún más exclusiva gracias a su característico color bronce.
 - Instrucciones de limpieza: Venus Bialetti solo debe limpiarse con agua después de su uso. No utilice líquido para lavar platos. El producto no debe lavarse en el lavavajillas, ya que podría dañarlo y, por lo tanto, cambiar el sabor del café.
+- El tamaño de Venus Bronze se mide en tazas; el café se puede disfrutar en tazas de espresso o en tazas más grandes, según sea necesario. Venus Bronze está disponible en 2 tazas, 4 tazas o 6 tazas. Mililitros por formato: 85 ml/170 ml/235 ml
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09QSQZNDH{{</world>}}

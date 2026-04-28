@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- INTENSIDAD: El tueste medio y la intensidad 11/13 dan un sabor intenso a este café, creando una crema dorada
-- NOTAS AROMÁTICAS: Esta selección de café se caracteriza por notas aromáticas de madera, especias y cacao, para un café intenso y con cuerpo
 - VARIEDAD: Las cápsulas Espresso Maestro Intenso de Lavazza están elaboradas a partir de café Arábica y Robusta de América Central y del Sur y de Asia
 - ESPRESSO MAESTRO INTENSO: Disfruta de los aromas de la tierra. 30 cápsulas de aluminio compatibles con las máquinas Nespresso*. *Lavazza no está afiliada, avalada ni patrocinada por Nespresso
 - LAVAZZA: Lavazza está presente en todos los ámbitos de la industria del café y ofrece productos de alta calidad, frutos de un modelo sostenible basado en la innovación, la pasión y la experiencia
+- INTENSIDAD: El tueste medio y la intensidad 11/13 dan un sabor intenso a este café, creando una crema dorada
+- NOTAS AROMÁTICAS: Esta selección de café se caracteriza por notas aromáticas de madera, especias y cacao, para un café intenso y con cuerpo
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B09WS31JY7{{</world>}}

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- NOTAS AROMÁTICAS: Esta selección de café se caracteriza por notas aromáticas de chocolate y caramelo, para un café fuerte
-- VARIEDAD: Las cápsulas Espresso Maestro Ristretto de Lavazza están elaboradas a partir de café Arábica y Robusta de América Central y del Sur y de Asia
 - ESPRESSO MAESTRO RISTRETTO: Café cortado, fuerte, Ristretto. 30 cápsulas de aluminio compatibles con las máquinas Nespresso*. *Lavazza no está afiliada, avalada ni patrocinada por Nespresso
+- VARIEDAD: Las cápsulas Espresso Maestro Ristretto de Lavazza están elaboradas a partir de café Arábica y Robusta de América Central y del Sur y de Asia
 - LAVAZZA: Lavazza está presente en todos los ámbitos de la industria del café y ofrece productos de alta calidad, frutos de un modelo sostenible basado en la innovación, la pasión y la experiencia
+- NOTAS AROMÁTICAS: Esta selección de café se caracteriza por notas aromáticas de chocolate y caramelo, para un café fuerte
 - INTENSIDAD: El tueste oscuro y la intensidad 12/13 dan un sabor intenso a este café, creando una crema oscura
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

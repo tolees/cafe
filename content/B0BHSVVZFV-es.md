@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Las cápsulas de café, Nespresso, son de aluminio infinitamente reciclables. Nespresso está trabajando para garantizar que sus cápsulas estén hechas con un 80 % de aluminio reciclado
+- Tamaño de taza de café recomendado: Ristretto (25 ml), Espresso (40 ml), Lungo (110 ml). Intrensidad: De 8 a 13 sobre 13.
 - Cápsulas de café sometido a un tueste ligero para que conserve las notas de cereales del Arábica de Brasil y las notas frescas y afrutadas del café de Colombia. Intensidad 4 sobre 13
 - Café Nespresso en cápsulas diseñadas para máquinas de café Nespresso Original (presión 19 bars)
-- Tamaño de taza de café recomendado: Ristretto (25 ml), Espresso (40 ml), Lungo (110 ml). Intrensidad: De 8 a 13 sobre 13.
+- Las cápsulas de café, Nespresso, son de aluminio infinitamente reciclables. Nespresso está trabajando para garantizar que sus cápsulas estén hechas con un 80 % de aluminio reciclado
 - Pack de 100 cápsulas de café con 5 variedades de café intenso: 20 cápsulas Ristretto, 20 Arpeggio, 20 Roma, 20 Kaazar y 20 Napoli. Tueste intenso
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

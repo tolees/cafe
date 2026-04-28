@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pack de 50 cápsulas de café Nespresso Original Capriccio
 - Las cápsulas de café, Nespresso, son de aluminio infinitamente reciclables. Nespresso está trabajando para garantizar que sus cápsulas estén hechas con un 80 % de aluminio reciclado
 - Tamaño recomendado de taza: espresso
 - Café Nespresso en cápsulas diseñadas para máquinas de café Nespresso Original (presión 19 bars)
+- Pack de 50 cápsulas de café Nespresso Original Capriccio
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B004ZYDB5I{{</world>}}

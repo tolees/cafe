@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Función de mantener el calor gracias a la placa calefactora: después de terminar la preparación, la función de mantener caliente se activa automáticamente
-- Filtro giratorio de 180° con filtro extraíble (tamaño 1 x 4). Fácil limpieza mediante programa de descalcificación automático. El filtro y la jarra se limpian con agua corriente
-- WMF Aroma Perfection: para un café más fuerte y aromático, se puede activar la función de aroma. Función de temporizador
 - Depósito de agua extraíble (sin BPA) con indicador de nivel de agua. Indicador de control a través del panel de control con función táctil e iluminación LED
 - Contenido: 1 cafetera de filtro mate (33 x 21,2 x 33,8 cm, 1000 W), jarra de cristal (1,25 l) para 10 tazas con tapa para preparar, antigoteo (no gotea después de la preparación) y protección contra rebosadero. Número de artículo: 0412320011
+- Filtro giratorio de 180° con filtro extraíble (tamaño 1 x 4). Fácil limpieza mediante programa de descalcificación automático. El filtro y la jarra se limpian con agua corriente
+- Función de mantener el calor gracias a la placa calefactora: después de terminar la preparación, la función de mantener caliente se activa automáticamente
+- WMF Aroma Perfection: para un café más fuerte y aromático, se puede activar la función de aroma. Función de temporizador
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07GSYRVLS{{</world>}}

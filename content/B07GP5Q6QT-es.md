@@ -29,12 +29,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - NUESTRO COMPROMISO, NUESTROS VALORES - El café es fruto de la Tierra. Crece en territorios que tenemos el deber de preservar. Como empresarios, nos sentimos implicados en la lucha contra el cambio climático y el despilfarro de los recursos naturales. Amamos la Toscana, la tierra que nos acoge y nos inspira con su paisaje, y amamos nuestro Planeta. Por eso queremos que siga siendo para todos un hogar en el que vivir bien y en armonía.
-- PAQUETE - Caja con 100 cápsulas compatibles con Nespresso
-- PERFIL DE TOSTADO - El tueste medio aporta al café de cada cápsula notas de caramelo y regusto a chocolate para un resultado agradablemente equilibrado en taza.
 - DURACIÓN: 24 meses a partir de la fecha de producción. MODO DE ALMACENAMIENTO: Almacenar en un lugar fresco y seco, alejado de fuentes de calor y humedad.
 - COMPATIBILIDAD - Cápsulas compatibles con las máquinas de uso doméstico de la marca Nespresso Citiz, Pixie, Essenza, Gran Maestria, Maestria, U y Lattissima*.
-- SELECCIÓN Y SABOR - Nuestra receta combina la proporción adecuada de molido y dosis, para una cápsula que suministra café de forma limpia y sencilla.
+- PAQUETE - Caja con 100 cápsulas compatibles con Nespresso
+- PERFIL DE TOSTADO - El tueste medio aporta al café de cada cápsula notas de caramelo y regusto a chocolate para un resultado agradablemente equilibrado en taza.
 - NUESTRA EMPRESA - Caffè Corsini, empresa fundada en 1950 gracias al sueño de Corsino Corsini, es hoy una empresa de torrefacción muy famosa en Italia y en el extranjero por la alta calidad de su café con un fuerte enfoque en la sostenibilidad. Las mezclas de café Corsini sorprenden al paladar y transmiten la tradición del buen café italiano.
+- SELECCIÓN Y SABOR - Nuestra receta combina la proporción adecuada de molido y dosis, para una cápsula que suministra café de forma limpia y sencilla.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07GP5Q6QT{{</world>}}

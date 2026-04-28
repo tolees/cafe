@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- 50 Cápsulas de Café: Disfruta de 50 deliciosas cápsulas de café Vanilio Lungo de Nespresso en una sola caja
 - Café Vegetariano: Ideal para amantes del café que siguen una dieta vegetariana, estas cápsulas no contienen ingredientes de origen animal
 - Café Descafeinado: Estas cápsulas de café están descafeinadas, lo que las hace una excelente opción para aquellos que desean reducir su ingesta de cafeína
-- 50 Cápsulas de Café: Disfruta de 50 deliciosas cápsulas de café Vanilio Lungo de Nespresso en una sola caja
 - Cápsulas de Café Compatibles con Nespresso: Estas cápsulas son compatibles con las máquinas de café Nespresso, lo que facilita la preparación de una deliciosa taza de café en minutos
 - Flavor Vainilla: Saborea el exquisito sabor a vainilla en cada taza de café, perfecto para aquellos que disfrutan de un toque dulce en su café
 

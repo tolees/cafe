@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café espresso para disfrutar solo, con leche o con hielo.
 - TECNOLOGÍA INTELLIBREW - Las cápsulas cuentan con un código de barras en la parte superior que es leído por la cafetera Tassimo para obtener la información necesaria para preparar la bebida con la temperatura idónea, la cantidad de agua necesaria y el tiempo de preparación justo.
-- AROMÁTICO Y CREMOSO - Marcilla Cortado es un café de tueste natural que se caracteriza por una mezcla de un delicioso y aromático café mezclado con aproximadamente la misma cantidad de leche
 - COMPATIBILIDAD - Estas cápsulas, llamadas T DISCs han sido diseñadas especialmente para el sistema Tassimo.
 - 5 PAQUETES DE 16 CÁPSULAS - 80 Cápsulas de Café Exclusivamente Compatibles con Cafeteras TASSIMO. Introduce la cápsula, presiona el botón y disfruta de un delicioso café lleno de aroma y sabor.
+- CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café espresso para disfrutar solo, con leche o con hielo.
+- AROMÁTICO Y CREMOSO - Marcilla Cortado es un café de tueste natural que se caracteriza por una mezcla de un delicioso y aromático café mezclado con aproximadamente la misma cantidad de leche
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B071JJ2D3W{{</world>}}

@@ -29,11 +29,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Sistema de control inteligente: la máquina dispone de diferentes modos de preparación en función de la cápsula. También permite la personalización con 7 niveles de agua y 4 temperaturas seleccionables.
+- Información del producto: 220-240 V, 50-60 Hz, Sistema de presión de 19 Bar, Tanque de agua de 1000 ml.1400W.
+- Utilícela en cualquier lugar: Con unas dimensiones de 317 mm (largo) x 124 mm (ancho) x 290 mm (alto) y un peso de 3 kg, necesidades con una sola máquina.
 - 【Máquina de Café en Cápsulas Multifunción】Una máquina de café para muchas experiencias diferentes de café, cafetera compatible con Dolce Gusto/Nespresso /LAV*ZZA MIO/LOR/Grounds y ESE café (44mm)
 - Servicio post-venta: Nuestras máquinas de café vienen con 1 año de servicio post-venta, si usted tiene alguna pregunta, por favor póngase en contacto con nosotros y nos pondremos en contacto con usted dentro de 24 horas.
 - Nota: Para la experiencia a largo plazo del uso de la máquina, la máquina aparecerá el modo de descalcificación después de hacer 200 tazas de café, todas las luces seguirán parpadeando y no disponible, por favor, siga los consejos del manual de instrucciones
-- Información del producto: 220-240 V, 50-60 Hz, Sistema de presión de 19 Bar, Tanque de agua de 1000 ml.1400W.
-- Utilícela en cualquier lugar: Con unas dimensiones de 317 mm (largo) x 124 mm (ancho) x 290 mm (alto) y un peso de 3 kg, necesidades con una sola máquina.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DPMV79R1{{</world>}}

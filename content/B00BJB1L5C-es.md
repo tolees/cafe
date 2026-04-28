@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cápsulas de café Nespresso de tuestes variados. Tueste fuerte Arpeggio; tueste medio Roma y Lungo y, tueste ligero, Cossi
-- Tamaño de taza de café recomendado: Ristretto (25 ml), Espresso (40 ml), Lungo (110 ml). Intrensidad: De 8 a 13 sobre 13.
-- Las cápsulas de café, Nespresso, son de aluminio infinitamente reciclables. Nespresso está trabajando para garantizar que sus cápsulas estén hechas con un 80 % de aluminio reciclado
-- Café Nespresso en cápsulas diseñadas para máquinas de café Nespresso Original (presión 19 bars)
 - Pack de 50 cápsulas de café con 5 variedades de café de tueste variados: 10 Roma, 10 Arpeggio, 10 Volluto, 10 Cosi y 10 Tokyo Lungo
+- Las cápsulas de café, Nespresso, son de aluminio infinitamente reciclables. Nespresso está trabajando para garantizar que sus cápsulas estén hechas con un 80 % de aluminio reciclado
+- Tamaño de taza de café recomendado: Ristretto (25 ml), Espresso (40 ml), Lungo (110 ml). Intrensidad: De 8 a 13 sobre 13.
+- Café Nespresso en cápsulas diseñadas para máquinas de café Nespresso Original (presión 19 bars)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00BJB1L5C{{</world>}}

@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- FIJA: Una vez que hayas terminado de hacer tu miniatura, coloca tu réplica bajo el sol o una luz UV de 365 nm hasta que la resina se haya endurecido. Una vez fijado, ¡tendrás un coleccionable listo para exponer!
-- MAKE IT MINI CAFE: Todos tus alimentos favoritos ahora en formato mini. Miniverse de MGA es el minicoleccionable original que puedes crear, fijar y exponer
-- DESCARGO DE RESPONSABILIDAD: NINGUNO de los ingredientes ES comestible. Incluye juego de resina. No apto para niños menores de 8 años. Se requiere la supervisión de un adulto
-- EXHIBE: Coloca tu Miniverse coleccionable en la cápsula que sirve a la vez de expositor
-- ABRE EL PAQUETE: Cada bola viene con mini "ingredientes" realistas y accesorios para hacer réplicas en miniatura de tus pasteles y postres favoritos. Cada paquete es una sorpresa: sólo sabrás qué miniatura te ha tocado cuando la saques de la caja
-- CREA: Compara el contenido de tu paquete con la guía del coleccionista incluida para ver qué miniatura tienes. Sigue la "receta" del reverso para hacer tu mini
-- COLECCIÓNALO TODO: La diversión no acaba aquí. Desde réplicas de Halo-Halo a Tanghulu, pasando por un perrito caliente envuelto en beicon: hay muchas réplicas de ingredientes, envases y accesorios para crear tus propios minicoleccionables
 - TANTOS MINI ALIMENTOS: Colecciona todos los objetos coleccionables de la serie 4 de Make It Mini Cafe. Visita la tienda Miniverse de MGA para conocer y comprar todas las creaciones Make It que puedes coleccionar
+- DESCARGO DE RESPONSABILIDAD: NINGUNO de los ingredientes ES comestible. Incluye juego de resina. No apto para niños menores de 8 años. Se requiere la supervisión de un adulto
+- ABRE EL PAQUETE: Cada bola viene con mini "ingredientes" realistas y accesorios para hacer réplicas en miniatura de tus pasteles y postres favoritos. Cada paquete es una sorpresa: sólo sabrás qué miniatura te ha tocado cuando la saques de la caja
+- COLECCIÓNALO TODO: La diversión no acaba aquí. Desde réplicas de Halo-Halo a Tanghulu, pasando por un perrito caliente envuelto en beicon: hay muchas réplicas de ingredientes, envases y accesorios para crear tus propios minicoleccionables
+- MAKE IT MINI CAFE: Todos tus alimentos favoritos ahora en formato mini. Miniverse de MGA es el minicoleccionable original que puedes crear, fijar y exponer
+- FIJA: Una vez que hayas terminado de hacer tu miniatura, coloca tu réplica bajo el sol o una luz UV de 365 nm hasta que la resina se haya endurecido. Una vez fijado, ¡tendrás un coleccionable listo para exponer!
+- CREA: Compara el contenido de tu paquete con la guía del coleccionista incluida para ver qué miniatura tienes. Sigue la "receta" del reverso para hacer tu mini
+- EXHIBE: Coloca tu Miniverse coleccionable en la cápsula que sirve a la vez de expositor
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CS2C8NL4{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- AHORRO DE ENERGÍA: 3 minutos después de preparar el café, la máquina cambia al modo Eco de bajo consumo de energía, y después de 9 minutos, la máquina se apaga automáticamente
 - 2 TAMAÑOS DE CAFE: Haz un sabroso Espresso o un delicioso Lungo, como te gusta
 - Reciclar con Nespresso? Sus cápsulas usadas ahora son bienvenidas en la bolsa azul ¡Muchas gracias!
 - Formato ultracompacto: la cafetera Nespresso más compacta jamás realizada gracias a su diseño fino, se puede colocar en cualquier tipo de cocinas y mover fácilmente
 - Un café perfecto: el Essenza Mini combina la facilidad de uso con la calidad que esperas de Nespresso, para que puedas preparar una taza de café perfecta en cada momento
-- AHORRO DE ENERGÍA: 3 minutos después de preparar el café, la máquina cambia al modo Eco de bajo consumo de energía, y después de 9 minutos, la máquina se apaga automáticamente
 - Nespresso Original ofrece un sabor inolvidable gracias a espressos icónicos y descubrimientos excepcionales de café
 - Las cápsulas están compuestas de al menos 80% de aluminio reciclado, un material reciclable infinitamente
 

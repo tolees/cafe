@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Función de autoapagado. Depósito con ventana.
-- Termo portátil incluido de hasta 420 ml de capacidad.
 - Boquilla antigoteo. Filtro permanente y también permite usar filtros de papel.
+- Función de autoapagado. Depósito con ventana.
 - Incluye cucharilla dosificadora.
 - 700 W: cafetera de goteo que prepara el café automáticamente a la hora deseada con tecnología ExtremeAroma y acabados en acero inoxidable.
+- Termo portátil incluido de hasta 420 ml de capacidad.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQ1CDYZR{{</world>}}

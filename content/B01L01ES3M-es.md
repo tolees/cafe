@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- FRAGANCIA Y AROMA: Una Mezcla refinada y persistente, que se presenta con: Cuerpo: 9.8 - Intensidad: 10 - Persistencia: 10 - Dulzor: 6 - Acidez: 4
 - Cápsulas Compatibles con Nespresso* para uso con los siguientes modelos de máquinas de café: Delonghi-Essenza, Essenza Mini EN85R, Citiz, Inissia, Lattissima Premium, Pixie, Prodigio Silver, U; Krups: Citiz, Essenza, Essenza Mini, Inissia, Pixie, Prodigio Titan, U; Nespresso - Essenza Mini C30 Negro Mate, Lattissima One; Didiesse - Borbonita
 - MEZCLA DE CAFÉ NEGRA: Una Mezcla de Café Cremoso de sabor intenso y marcado; Un carácter firme que evoca la tradición típica del verdadero café napolitano: el resultado de una fina selección de blends, pensadas para un Espresso con mucho cuerpo, rico y cremoso el de un típico bar italiano; Una mezcla hábil y seleccionada de Robusta, envasada en atmósfera protectora
 - *Nespresso es una marca registrada de Societè des Produits Nestlè SA; Caffè Borbone SRL es un productor independiente no vinculado a la Societè des Produits Nestlè SA; La compatibilidad de las cápsulas de Caffè Borbone es funcional con máquinas de café *Nespresso para uso doméstico
 - FORMATO: 100 Cápsulas de Café
+- FRAGANCIA Y AROMA: Una Mezcla refinada y persistente, que se presenta con: Cuerpo: 9.8 - Intensidad: 10 - Persistencia: 10 - Dulzor: 6 - Acidez: 4
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B01L01ES3M{{</world>}}

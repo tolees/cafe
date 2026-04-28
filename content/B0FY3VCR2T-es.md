@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- BOMBA ITALIANA ULKA - Esta máquina de café lleva una bomba italiana de alto rendimiento (Ulka). De las mejores del mercado, garantiza la máxima calidad y sabor en cada taza.
 - VAPORIZADOR & ESPUMADOR INTEGRADO - Olvídate de usar un espumador aparte, nuestro vaporizador te sirve para crear cappuccinos, lattes y otras bebidas con leche espumada, o echar agua caliente para té.
-- ACCESORIOS PARA DOBLE TAZA - Nuestro portafiltro doble permite hacer dos tazas de café a la vez. Además, viene también con un tamper y cuchara.
 - PRESIÓN 20 BAR - Los 20 bares de presión permiten preparar un espresso macchiato profesional con una crema de cafetería.
+- BOMBA ITALIANA ULKA - Esta máquina de café lleva una bomba italiana de alto rendimiento (Ulka). De las mejores del mercado, garantiza la máxima calidad y sabor en cada taza.
+- ACCESORIOS PARA DOBLE TAZA - Nuestro portafiltro doble permite hacer dos tazas de café a la vez. Además, viene también con un tamper y cuchara.
 - MÁXIMA POTENCIA = 0 ESPERAS - Con 1350 W de potencia, tu cafetera automática se calienta en segundos para que disfrutes de tu café sin esperas.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

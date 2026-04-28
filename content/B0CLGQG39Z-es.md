@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - COLOMBIA DESCAFEINADO - Un tueste natural de granos de café, finamente molidos para revelar una mezcla con un sabor intenso descafeinado.
-- CÁPSULA ALUMINIO - Las cápsulas están hechas de aluminio que es reciclable. Conservar en lugar fresco y seco.
 - 20 PAQUETES DE 10 CÁPSULAS - 200 Cápsulas de Aluminio diseñadas específicamente para su uso en cafeteras Nespresso*
-- Elaboradas con café sostenible bajo el programa de Sostenibilidad Common Grounds que garantiza un Origen Responsable.
 - SOLO O CON LECHE - Fácil de preparar. Ideal solo, con leche o azúcar.
+- CÁPSULA ALUMINIO - Las cápsulas están hechas de aluminio que es reciclable. Conservar en lugar fresco y seco.
+- Elaboradas con café sostenible bajo el programa de Sostenibilidad Common Grounds que garantiza un Origen Responsable.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CLGQG39Z{{</world>}}

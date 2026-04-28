@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Para 10 tazas grandes o 15 pequeñas con función de pausa para servir y mantiene el calor durante 40 minutos
+- Tecnología WhirlTech para lograr un café de excelente sabor
 - Incluye cuchara medidora, soporte de filtro extraíble, placa calefactora e indicador del nivel de agua
 - Control digital y pantalla LCD, temporizador programable de 24 horas
 - Máquina cafetera de acero inoxidable pulido y detalles en negro con jarra de cristal de 1,25 litros
-- Tecnología WhirlTech para lograr un café de excelente sabor
-- Para 10 tazas grandes o 15 pequeñas con función de pausa para servir y mantiene el calor durante 40 minutos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B07G8F6YJ5{{</world>}}

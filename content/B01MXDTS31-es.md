@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sabores Inigualables: La cafetera MAGEFESA GENOVA mantiene los aromas y sabores esenciales de cada grano de café, lo que se traduce en la mejor expresión del café que vamos a degustar.
-- Mango Ergonómico: La cafetera MAGEFESA GENOVA cuenta con asas termorresistente de bakelita que ofrecen un manejo cómodo y seguro de toque frío que se adapta al estilo de cualquier cocina.
-- Varios Tamaños: La cafetera italiana GENOVA de MAGEFESA está fabricada en distintos tamaños que le ayudarán a realizar sus recetas con mayor exactitud. Además, dependidendo del modelo de la cafetera podrá ahorrar espacio en su cocina. Este producto es de un tamaño de 10 tazas o 500ml.
 - Apto Para Todo Tipo de Cocinas: Fondo INDUCCIÓN TOTAL "Full induction". Ahorra en tu factura de la luz gracias a “Full induction” ya que necesitan un 75% menos energía para producir el calor que necesitas para cocinar.
 - Acero Inoxidable: La familia MAGEFESA GENOVA está diseñada íntegramente en acero inoxidable de gran calidad. Están fabricadas con materiales extremadamente resistentes los cuales han pasado las más exigentes pruebas de calidad y durabilidad.
+- Varios Tamaños: La cafetera italiana GENOVA de MAGEFESA está fabricada en distintos tamaños que le ayudarán a realizar sus recetas con mayor exactitud. Además, dependidendo del modelo de la cafetera podrá ahorrar espacio en su cocina. Este producto es de un tamaño de 10 tazas o 500ml.
+- Sabores Inigualables: La cafetera MAGEFESA GENOVA mantiene los aromas y sabores esenciales de cada grano de café, lo que se traduce en la mejor expresión del café que vamos a degustar.
+- Mango Ergonómico: La cafetera MAGEFESA GENOVA cuenta con asas termorresistente de bakelita que ofrecen un manejo cómodo y seguro de toque frío que se adapta al estilo de cualquier cocina.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01MXDTS31{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DISEÑO APTO PARA LAVAVAJILLAS: fácil de limpiar con piezas extraíbles; la jarra de café de cristal, el émbolo y el filtro se pueden lavar en el lavavajillas
-- GRAN CAPACIDAD: cafetera francesa de 966ml para preparar café con cuerpo, elaborado a mano; sirve hasta 5 o 6 tazas, perfecta para compartir
-- MÁQUINA VERSÁTIL: su diseño multiusos permite preparar café, té, café frío, chocolate caliente, alternativas vegetales a la leche y más
 - SISTEMA DE FILTRACIÓN TRIPLE: el sistema de filtración de 3 niveles con filtro de malla fina, disco de resorte y placa transversal garantiza una infusión suave y sin sedimentos
+- MÁQUINA VERSÁTIL: su diseño multiusos permite preparar café, té, café frío, chocolate caliente, alternativas vegetales a la leche y más
+- DISEÑO APTO PARA LAVAVAJILLAS: fácil de limpiar con piezas extraíbles; la jarra de café de cristal, el émbolo y el filtro se pueden lavar en el lavavajillas
 - VIDRIO DE BOROSILICATO SEGURO: jarra de vidrio de borosilicato de alta calidad, sin plomo y sin BPA, resistente a temperaturas extremas
+- GRAN CAPACIDAD: cafetera francesa de 966ml para preparar café con cuerpo, elaborado a mano; sirve hasta 5 o 6 tazas, perfecta para compartir
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DYT2QL81{{</world>}}

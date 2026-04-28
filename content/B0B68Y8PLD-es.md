@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Descubre más de 30 variedades de recetas y ten tu propio coffee shop en casa: desde espressos intensos, cafés con leche, cafés largos, cappuccinos, descafeinados... hasta incluso tés y chocolates; disfruta de tu coffee shop en casa
-- Las máquinas de NESCAFÉ Dolce Gusto cuentan con un sistema de alta presión de hasta 15 bares con una bomba de alta tecnología que permite extraer el delicado sabor y aroma de cada cápsula de NESCAFÉ Dolce Gusto; las cápsulas disponen de un sellado hermético que garantizan el aroma y la frescura del café
 - El café de NESCAFÉ Dolce Gusto es de cultivo de origen responsable; recicla las cápsulas NESCAFÉ Dolce Gusto y dales una segunda vida, encuentra tu punto de recogida más cercano entre los más de 4.200 que tenemos por toda España; las cápsulas recogidas se reciclan, dando una segunda vida a los componentes de plástico y convirtiendo el remanente en abono de calidad
+- Las máquinas de NESCAFÉ Dolce Gusto cuentan con un sistema de alta presión de hasta 15 bares con una bomba de alta tecnología que permite extraer el delicado sabor y aroma de cada cápsula de NESCAFÉ Dolce Gusto; las cápsulas disponen de un sellado hermético que garantizan el aroma y la frescura del café
+- Descubre más de 30 variedades de recetas y ten tu propio coffee shop en casa: desde espressos intensos, cafés con leche, cafés largos, cappuccinos, descafeinados... hasta incluso tés y chocolates; disfruta de tu coffee shop en casa
 - Descubre este NESCAFÉ Dolce Gusto Café con Leche, el clásico y delicioso café con leche, un café equilibrado con sutiles notas a cereal y coronado con una sedosa capa de crema que marca la personalidad del clásico Café con leche; resulta en un café con leche intenso de 7/11
 
 [🛒 Aquí!!!]({{< param buyurl >}})

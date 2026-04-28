@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Un café de tueste medio, equilibrado y redondo, con notas sutiles a cacao y frutos secos tostados con un balanceado y suave sabor en boca
-- Cápsulas de café de STARBUCKS de NESPRESSO, suave con notas de chocolate
-- Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
 - Cápsulas de café compatibles con máquinas NESPRESSO, cápsulas no compatibles para las máquinas Nespresso Vertuo
 - Comprometidos con el abastecimiento ético de café al 100% en colaboración con Conservation International
+- Cápsulas de café de STARBUCKS de NESPRESSO, suave con notas de chocolate
+- Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
+- Un café de tueste medio, equilibrado y redondo, con notas sutiles a cacao y frutos secos tostados con un balanceado y suave sabor en boca
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0D31VDQQM{{</world>}}

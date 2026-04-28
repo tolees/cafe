@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Selección de 150 (15x10) cápsulas de café Nespresso Original: Ristretto, Arpeggio Decaffeinato, Napoli, Master Origin Indonesia, Stockholm Lungo, Barista Corto, Venezia y Master Origin India
 - Cápsulas de café de aluminio infinitamente reciclables, Nespresso está trabajando para garantizar que sus cápsulas estén hechas con un 80 % de aluminio reciclado
 - Café Nespresso en cápsulas diseñadas para máquinas de café Nespresso Original (presión 19 bars)
-- Tamaño de taza de café recomendado: Ristretto (25 ml), Espresso (40 ml), Lungo (110 ml). Intrensidad: De 8 a 13 sobre 13.
-- Selección de 150 (15x10) cápsulas de café Nespresso Original: Ristretto, Arpeggio Decaffeinato, Napoli, Master Origin Indonesia, Stockholm Lungo, Barista Corto, Venezia y Master Origin India
 - El pack discovery contiene un surtido de 150 cápsulas de café Nespresso 20x Ristretto, 10x Arpeggio Decaffeinato, 20x Napoli, 20x Master Origin Indonesia, 20x Stockholm Lungo, 20x Barista Corto, 20x Venezia y 20x Master Origin India
+- Tamaño de taza de café recomendado: Ristretto (25 ml), Espresso (40 ml), Lungo (110 ml). Intrensidad: De 8 a 13 sobre 13.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BF14RML4{{</world>}}

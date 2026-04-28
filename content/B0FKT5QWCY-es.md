@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gran capacidad. Capacidad de 300 ml, ideal para 6 tazas de café.
-- Mango cómodo y resistente al calor. Mango muy ergonómico para un uso cómodo de la cafetera y termorresistente para aislar las altas temperaturas.
 - Para mayor prevención dispone de una válvula de seguridad que indica el límite de agua que se debe introducir. Dispone de una junta de cierre de silicona de alta calidad que asegura un cierre hermético y que evita pérdidas de agua mientras se hace el café.
 - Para todas las superficies. Apta para todas las superficies térmicas, consigue tu café perfecto, ya sea en una cocina de inducción, gas, eléctrica o vitrocerámica.
 - Auténtico café a la italiana. Cafetera italiana fabricada en acero inoxidable de gran calidad con diseño elegante, para hacer el café con el mejor cuerpo y aroma. El filtro del interior es de acero inoxidable de alta calidad para lograr el café más puro y tradicional.
+- Gran capacidad. Capacidad de 300 ml, ideal para 6 tazas de café.
+- Mango cómodo y resistente al calor. Mango muy ergonómico para un uso cómodo de la cafetera y termorresistente para aislar las altas temperaturas.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FKT5QWCY{{</world>}}

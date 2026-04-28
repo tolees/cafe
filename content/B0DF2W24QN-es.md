@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Apto para dietas vegetarianas y veganas
-- Café molido de tueste natural con sabor a vainilla en cápsulas
-- Este envase contiene 20 porciones
 - Esta mezcla de Arábica 100% procedente de Sudamérica, está infusionada con aroma natural para un sabor cremoso, sedoso y delicado
+- Apto para dietas vegetarianas y veganas
+- Este envase contiene 20 porciones
+- Café molido de tueste natural con sabor a vainilla en cápsulas
 - Compatibles con Nespresso**
 
 [🛒 Comprar!!!]({{< param buyurl >}})

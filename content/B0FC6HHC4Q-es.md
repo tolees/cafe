@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Intensidad: 9, Persistencia: 8; Aroma: 8; Tostado: 8; Cuerpo: 7
 - Notas de fruta madura y frutos secos.
 - Café tostado natural procedente de Brasil, uno de los orígenes de mayor calidad.
-- Intensidad: 9, Persistencia: 8; Aroma: 8; Tostado: 8; Cuerpo: 7
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FC6HHC4Q{{</world>}}

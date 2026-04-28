@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- EQUILIBRADO, RICO Y ELEGANTE - Con notas complejas de frutos rojos y chocolate negro.
-- INTENSIDAD 10 - Café molido de tueste natural en cápsulas 100% Arábica.
 - 10 PAQUETES DE 10 CÁPSULAS - 100 Cápsulas de Aluminio compatibles con las cafeteras L’OR Barista y con máquinas Nespresso* (*Marca de una compañía no relacionada con Jacobs Douwe Egberts).
-- CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el cappuccino o el latte.
 - CAFÉ SOSTENIBLE - Elaboradas con café sostenible bajo el programa de Sostenibilidad Common Grounds que garantiza un Origen Responsable.
+- EQUILIBRADO, RICO Y ELEGANTE - Con notas complejas de frutos rojos y chocolate negro.
+- CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el cappuccino o el latte.
+- INTENSIDAD 10 - Café molido de tueste natural en cápsulas 100% Arábica.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DF7PGRG2{{</world>}}

@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- COMPACTA Y FÁCIL DE USAR: La máquina Essenza Mini ultraligera y ultracompacta combina la pura elegancia de su diseño de reducidas dimensiones (8,4 cm An × 20,4 cm Al × 33 cm La) con la simplicidad de uso para ofrecerte un espresso perfecto. Colocarla en el espacio ideal y, cuando quieras, trasladarla a distintos lugares de tu cocina o tu hogar no podría ser más sencillo.
-- SET DE BIENVENIDA Y SOSTENIBILIDAD: Incluye un set de bienvenida con cápsulas de café Nespresso de perfiles aromáticos auténticos que se adaptan a todos los gustos y momentos del día. Nespresso pone a tu disposición más de 1.000 puntos de reciclaje para que lleves tus cápsulas a tu punto o Boutique más cercanos.
 - PRÁCTICA INTERFAZ: 2 opciones de café programables con parada de flujo automática para preparar espressos y lungos.
 - ALTA TECNOLOGÍA: Bomba de alta presión de 19 bares y sistema de calentamiento rápido (en tan solo unos segundos). Fácil inserción de las cápsulas de café, con perforación y preparación automáticas.
+- COMPACTA Y FÁCIL DE USAR: La máquina Essenza Mini ultraligera y ultracompacta combina la pura elegancia de su diseño de reducidas dimensiones (8,4 cm An × 20,4 cm Al × 33 cm La) con la simplicidad de uso para ofrecerte un espresso perfecto. Colocarla en el espacio ideal y, cuando quieras, trasladarla a distintos lugares de tu cocina o tu hogar no podría ser más sencillo.
 - AHORRO ENERGÉTICO: Activación del modo ecológico a los 2 minutos y del modo de apagado automático después de 9 minutos de inactividad, por lo que consume menos energía.
+- SET DE BIENVENIDA Y SOSTENIBILIDAD: Incluye un set de bienvenida con cápsulas de café Nespresso de perfiles aromáticos auténticos que se adaptan a todos los gustos y momentos del día. Nespresso pone a tu disposición más de 1.000 puntos de reciclaje para que lleves tus cápsulas a tu punto o Boutique más cercanos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B06XJ3MFMN{{</world>}}

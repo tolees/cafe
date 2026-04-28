@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- INTENSIDAD 8 - Café molido de tueste natural con sabor intenso y especiado.
-- CÁPSULA LUNGO - La cápsula tiene el tamaño indicado para poder preparar un café largo, misma cantidad de café que un espresso pero con el doble de agua.
 - 10 PAQUETES DE 10 CÁPSULAS - 100 Cápsulas de Aluminio compatibles con las cafeteras L’OR Barista y con máquinas Nespresso (Marca de una compañía no relacionada con Jacobs Douwe Egberts).
-- Elaboradas con café sostenible bajo el programa de Sostenibilidad Common Grounds que garantiza un Origen Responsable.
+- INTENSIDAD 8 - Café molido de tueste natural con sabor intenso y especiado.
 - TOSTADO, PROFUNDO Y ESPECIADO - La mezcla da como resultado un café con notas a regaliz y almendras tostadas.
+- Elaboradas con café sostenible bajo el programa de Sostenibilidad Common Grounds que garantiza un Origen Responsable.
+- CÁPSULA LUNGO - La cápsula tiene el tamaño indicado para poder preparar un café largo, misma cantidad de café que un espresso pero con el doble de agua.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00IHXQ1QY{{</world>}}

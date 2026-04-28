@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- France - 27 Rue du Colonel Pierre Avia - 75015 Paris
 - Presión de 19 bares
 - Muy delgada: sólo 11 cm
-- Incluye 14 cápsulas y 20€ de crédito en café
-- Apagado automático después de 9 minutos (programable)
 - 2 tamaños de taza seleccionables
+- Incluye 14 cápsulas y 20€ de crédito en café
+- France - 27 Rue du Colonel Pierre Avia - 75015 Paris
 - Contenedor de cápsulas usadas con capacidad para 6
+- Apagado automático después de 9 minutos (programable)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B073ZL4Y7F{{</world>}}

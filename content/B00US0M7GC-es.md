@@ -31,8 +31,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 - Una selección de los mejores Arábicas de América Central y del Sur, con perfiles afrutados o de malta, característicos de los cafés costarricenses
 - Cápsulas de café descafeinado con intensas notas tostadas junto con notas sutiles de cacao y matices de madera. Intensidad 9 sobre 13
 - Las cápsulas de café, Nespresso, son de aluminio infinitamente reciclables. Nespresso está trabajando para garantizar que sus cápsulas estén hechas con un 80 % de aluminio reciclado
-- El café Arpeggio es sometido a un tueste intenso para revelar las características de cada origen. El molido fino de los granos permite desarrollar su cuerpo denso
 - Las cápsulas de café descafeinado Arpeggio de Nespresso son una obra maestra de tueste breve y oscuro que solo puede salir del corazón
+- El café Arpeggio es sometido a un tueste intenso para revelar las características de cada origen. El molido fino de los granos permite desarrollar su cuerpo denso
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B00US0M7GC{{</world>}}

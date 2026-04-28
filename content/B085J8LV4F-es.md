@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Brazo de vapor para crear capuchinos espumosos y lattes suaves
+- Combinación de acabado negro mate y brillante. Sistema antigoteo
+- Da rienda suelta al barista que llevas dentro y crea todos tus cafés favoritos en casa
 - Si el vaporizador de leche no funciona, lo que generalmente se debe a una limpieza insuficiente entre usos, lo que hace que la proteína de la leche bloquee el tubo. Por lo tanto, limpie esto con agua caliente o, si realmente está bloqueado, use nuestra «solución limpia de leche»
 - Soporte de filtro para café molido, 1 o 2 tazas. Depósito de agua extraíble de 1 litro y bandeja de goteo extraíble para vasos de hasta 110 mm
-- Da rienda suelta al barista que llevas dentro y crea todos tus cafés favoritos en casa
-- Combinación de acabado negro mate y brillante. Sistema antigoteo
+- Brazo de vapor para crear capuchinos espumosos y lattes suaves
 - Cafetera espresso con bomba de 15 bar con caldera de acero inoxidable para una extracción perfecta del café
 
 [🛒 Comprar!!!]({{< param buyurl >}})

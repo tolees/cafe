@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- El hervidor consta de tres partes: el depósito de agua, la cámara de café y la cafetera. El depósito de agua se enrosca directamente en la cafetera. Entre ambos se encuentra la cámara de café.
-- Llene el depósito de agua hasta debajo de la válvula de alivio de presión, coloque el filtro, añada el polvo y presione suavemente. Cierre bien la tapa y coloque el hervidor sobre la estufa.
 - El agua hierve al oír un burbujeo. El vapor sube por el tubo, extrae los posos y fluye hacia el recipiente superior. Cuando deja de burbujear, el espresso está listo.
 - Material: Acero inoxidable Cromargan 18/10, acabado mate. Resistente a la corrosión, apto para lavavajillas, dimensionalmente estable, higiénico, resistente al ácido e indestructible; apto para cocinas de inducción.
+- Llene el depósito de agua hasta debajo de la válvula de alivio de presión, coloque el filtro, añada el polvo y presione suavemente. Cierre bien la tapa y coloque el hervidor sobre la estufa.
 - Contenido: 1x Cafetera espresso para 6 tazas (Ø 10,5 cm, altura 16 cm, volumen: 300-500 ml) con tamiz reductor y junta tórica de repuesto - Número de artículo: 0631016030
+- El hervidor consta de tres partes: el depósito de agua, la cámara de café y la cafetera. El depósito de agua se enrosca directamente en la cafetera. Entre ambos se encuentra la cámara de café.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0006IRPFY{{</world>}}

@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Compatibilidad: las cápsulas Roma están diseñadas específicamente para su uso con máquinas de café Nespresso Original.
-- Sostenibilidad: las cápsulas de café Nespresso están fabricadas con un 80 % de aluminio reciclable y pueden reciclarse fácilmente a través de los puntos de recogida, boutiques Nespresso o el contenedor amarillo.
-- Compromiso con el cambio a largo plazo: como empresa certificada B Corp, Nespresso cumple con los más altos estándares sociales y medioambientales, formando parte de un movimiento global.
-- Sabor equilibrado: inspirado en la ciudad de Roma, Ispirazione Roma ofrece un cuerpo completo complementado por sutiles notas de frutas verdes y un toque de acidez.
-- 200 Cápsulas de Café Roma Nespresso Original
 - Aroma y tueste: café complejo que combina Robusta natural y Arábica de Brasil y México. Su tueste suave y equilibrado ofrece un sabor lleno con notas de madera y cereales.
+- Sostenibilidad: las cápsulas de café Nespresso están fabricadas con un 80 % de aluminio reciclable y pueden reciclarse fácilmente a través de los puntos de recogida, boutiques Nespresso o el contenedor amarillo.
+- Compatibilidad: las cápsulas Roma están diseñadas específicamente para su uso con máquinas de café Nespresso Original.
+- Sabor equilibrado: inspirado en la ciudad de Roma, Ispirazione Roma ofrece un cuerpo completo complementado por sutiles notas de frutas verdes y un toque de acidez.
+- Compromiso con el cambio a largo plazo: como empresa certificada B Corp, Nespresso cumple con los más altos estándares sociales y medioambientales, formando parte de un movimiento global.
+- 200 Cápsulas de Café Roma Nespresso Original
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0FK5K9ZKH{{</world>}}

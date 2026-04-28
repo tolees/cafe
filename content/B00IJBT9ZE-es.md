@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café espresso para disfrutar solo, con leche o con hielo.
-- TECNOLOGÍA INTELLIBREW - Las cápsulas cuentan con un código de barras en la parte superior que es leído por la cafetera Tassimo para obtener la información necesaria para preparar la bebida con la temperatura idónea, la cantidad de agua necesaria y el tiempo de preparación justo.
-- COMPATIBILIDAD - Estas cápsulas, llamadas T DISCs han sido diseñadas especialmente para el sistema Tassimo.
 - INTENSO Y ELEGANTE - LOR Lungo Profondo tiene un sabor intenso (intensidad 8 en una escala del 1 al 13) con notas a almendras tostadas y crema de color bronce con notas de caramelo.
+- COMPATIBILIDAD - Estas cápsulas, llamadas T DISCs han sido diseñadas especialmente para el sistema Tassimo.
+- CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café espresso para disfrutar solo, con leche o con hielo.
 - 5 PAQUETES DE 16 CÁPSULAS - 80 Cápsulas de Café Exclusivamente Compatibles con Cafeteras TASSIMO. Introduce la cápsula, presiona el botón y disfruta de su aroma a almendras tostadas.
+- TECNOLOGÍA INTELLIBREW - Las cápsulas cuentan con un código de barras en la parte superior que es leído por la cafetera Tassimo para obtener la información necesaria para preparar la bebida con la temperatura idónea, la cantidad de agua necesaria y el tiempo de preparación justo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00IJBT9ZE{{</world>}}

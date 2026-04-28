@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Café Nespresso en cápsulas diseñadas para máquinas de café Nespresso Original (presión 19 bars)
 - Tamaño de taza de café recomendado: Ristretto (25 ml), Espresso (40 ml), Lungo (110 ml). Intrensidad: De 8 a 13 sobre 13.
+- Cápsulas de café Nespresso descafeinado de tuestes variados. Tueste intenso Ristretto, Arpeggio y tueste medio Volutto
 - Las cápsulas de café, Nespresso, son de aluminio infinitamente reciclables. Nespresso está trabajando para garantizar que sus cápsulas estén hechas con un 80 % de aluminio reciclado
 - Pack de 50 cápsulas de café descafeinado con 3 variedades de café de tueste variados: 20 Ristretto descafeinado, 20 Volutto descafeinado y 10 Arpeggio descafeinado
-- Cápsulas de café Nespresso descafeinado de tuestes variados. Tueste intenso Ristretto, Arpeggio y tueste medio Volutto
-- Café Nespresso en cápsulas diseñadas para máquinas de café Nespresso Original (presión 19 bars)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01B4WR02I{{</world>}}

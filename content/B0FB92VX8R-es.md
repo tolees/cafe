@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - PREMIO: Oro en los World Class Food and Beverage 2024, sección International Taste Awards
-- CONSERVACIÓN: Producto envasado en ambiente controlado con una vida útil de 730 días a temperatura ambiente
-- COMPOSICIÓN: Mezcla equilibrada de Arábica brasileño y peruano con Robusta vietnamita y ugandés para un sabor rico y con cuerpo
 - CALIDAD: Producido en Italia por Finelli Group SRL, sin conservantes y apto para una alimentación vegana
 - FORMATO: Paquete de 1 kg de café en grano tostado
+- COMPOSICIÓN: Mezcla equilibrada de Arábica brasileño y peruano con Robusta vietnamita y ugandés para un sabor rico y con cuerpo
+- CONSERVACIÓN: Producto envasado en ambiente controlado con una vida útil de 730 días a temperatura ambiente
 - CARACTERÍSTICAS: Café de tueste medio con notas de chocolate y frutas, dulzura equilibrada y retrogusto persistente
 
 [🛒 Aquí!!!]({{< param buyurl >}})
