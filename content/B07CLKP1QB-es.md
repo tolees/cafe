@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DIÁMETRO: la cafetera Monix Induction Express tiene un diámetro superior de 13,95 cm y diámetro inferior 10 cm
 - CAPACIDAD: tiene capacidad para 9 tazas, 9 cafés ristretto y 4-5 tazas de café con leche
-- MANGO ERGÓNOMICO: mango ergonómico de baquelita con inserto azul y un interior pulido sin cantos, lo que facilita al máximo una correcta limpieza
 - FULL INDUCTION: sistema full induction sin agujeros que incrementa la conectividad a todo tipo de placas de inducción
+- MANGO ERGÓNOMICO: mango ergonómico de baquelita con inserto azul y un interior pulido sin cantos, lo que facilita al máximo una correcta limpieza
+- DIÁMETRO: la cafetera Monix Induction Express tiene un diámetro superior de 13,95 cm y diámetro inferior 10 cm
 - CAFETERA DE ALUMINIO: cafetera de aluminio con fondo difusor adaptado para todo tipo de cocinas, incluida la inducción
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

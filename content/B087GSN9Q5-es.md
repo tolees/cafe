@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Las cápsulas compatibles con Dolce Gusto se pueden utilizar perfectamente en las máquinas Krups y DeLonghi con sistema Dolce Gusto* como las cápsulas originales. Son la alternativa a las monodosis de café.
-- El paquete contiene 4 paquetes de 16 cápsulas (64 cápsulas en total) de café tostado y molido, envasado en atmósfera protegida.
-- *Nescafé y*Dolce Gusto son marcas comerciales registradas de Societè des Produits Nestlè S.A. Gruppo Gimoka Spa es un fabricante independiente no vinculado a Societè des Produits Nestlè S.A. La compatibilidad de las cápsulas Gimoka Es funcional para su uso con las máquinas de café domésticas Nescafé Dolce Gusto.
-- Producido en Italia: Gimoka es el segundo tostador en Italia por volúmenes de café procesado. Nuestras cápsulas se producen y tuestan en Italia.
 - Espresso Intenso, intensidad 12: Mezcla con un aroma agradablemente intenso y con mucho cuerpo, para un café cremoso con un sabor rico y vigoroso. Caracterizado por notas de chocolate amargo, su retrogusto es marcado y persistente.
+- Las cápsulas compatibles con Dolce Gusto se pueden utilizar perfectamente en las máquinas Krups y DeLonghi con sistema Dolce Gusto* como las cápsulas originales. Son la alternativa a las monodosis de café.
+- *Nescafé y*Dolce Gusto son marcas comerciales registradas de Societè des Produits Nestlè S.A. Gruppo Gimoka Spa es un fabricante independiente no vinculado a Societè des Produits Nestlè S.A. La compatibilidad de las cápsulas Gimoka Es funcional para su uso con las máquinas de café domésticas Nescafé Dolce Gusto.
+- El paquete contiene 4 paquetes de 16 cápsulas (64 cápsulas en total) de café tostado y molido, envasado en atmósfera protegida.
+- Producido en Italia: Gimoka es el segundo tostador en Italia por volúmenes de café procesado. Nuestras cápsulas se producen y tuestan en Italia.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B087GSN9Q5{{</world>}}

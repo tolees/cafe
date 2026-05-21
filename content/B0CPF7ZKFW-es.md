@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Descubre cómo cuidar tu menaje antiadherente en el apartado Guia de usuario de esta ficha
 - Cafetera con asa de baquelita termo-resistente ergonómica para un agarre fácil y seguro
 - La siguiente información se aplica a cada unidad del paquete
-- Capacidad para 1 taza de café
+- Descubre cómo cuidar tu menaje antiadherente en el apartado Guia de usuario de esta ficha
 - Apta para todo tipo de encimeras, excepto inducción
 - Exterior resistente y diseño interior del calderín sin cantos para una limpieza más cómoda
+- Capacidad para 1 taza de café
 - Acabado negro con efecto mate
 
 [🛒 Visítala!!!]({{< param buyurl >}})

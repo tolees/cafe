@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Nota: El filtro POD está diseñado para usarse solo con cápsulas de 45 mm
-- Bomba italiana con 15 bar
 - Para café molido o cápsulas de café
+- Bomba italiana con 15 bar
 - Recipiente desmontable de leche (1,5 l)
 - Recipiente desmontable de leche (300 ml)
+- Nota: El filtro POD está diseñado para usarse solo con cápsulas de 45 mm
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00LK9D2Q4{{</world>}}

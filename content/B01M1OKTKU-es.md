@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cafetera italiana de acero inoxidable
 - Capacidad para 4 tazas de café
 - Se puede utilizar en cocinas de: gas, eléctricas, vitrocerámica e inducción
-- Cafetera italiana de acero inoxidable
-- Dispone de válvula de seguridad
 - Interior de fácil limpieza y mango ergonómico
+- Dispone de válvula de seguridad
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B01M1OKTKU{{</world>}}

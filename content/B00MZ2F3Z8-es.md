@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - VARIEDAD DE BEBIDAS PERFECTAS: Máquina espresso totalmente automática con sistema Thermoblock compacto KRUPS patentado para una temperatura óptima desde la primera taza. Incluye 3 niveles de temperatura y un kit de bienvenida Krups: 10 pastillas de limpieza, 2 paquetes de café Bonka Grano Puro Arábica (0,5 kg cada uno) y una bolsa de tela reutilizable (ver condiciones en la web oficial).
-- ESPUMADOR DE LECHE PROFESIONAL: Boquilla de vapor integrada para preparar cappuccinos, lattes y bebidas con espuma densa y cremosa. Boquilla de café ajustable para adaptarse a diferentes tamaños de taza.
 - PANTALLA MANUAL INTUITIVA: Panel de control con indicadores LED, fácil de usar y perfecto para personalizar cada café de forma rápida y sencilla, incluso para principiantes.
 - MOLINILLO INTEGRADO DE ALTA PRECISIÓN: Molinillo cónico de metal para resultados profesionales, con 3 niveles de textura de molido que se adaptan a todos los gustos y tipos de café
 - COMPACTA Y ELEGANTE: Diseño moderno y compacto que encaja en cualquier cocina sin renunciar a capacidad: depósito de agua de 1,6 L y recipiente para 250 g de café en grano.
+- ESPUMADOR DE LECHE PROFESIONAL: Boquilla de vapor integrada para preparar cappuccinos, lattes y bebidas con espuma densa y cremosa. Boquilla de café ajustable para adaptarse a diferentes tamaños de taza.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00MZ2F3Z8{{</world>}}

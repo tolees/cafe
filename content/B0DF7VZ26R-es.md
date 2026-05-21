@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Disfruta de un espresso delicado y equilibrado que destaca por su cuerpo suave cubierto con una crema aterciopelada, con notas frutales redondas
 - Producto de calidad
 - Café molido de tueste natural
-- Disfruta de un espresso delicado y equilibrado que destaca por su cuerpo suave cubierto con una crema aterciopelada, con notas frutales redondas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DF7VZ26R{{</world>}}

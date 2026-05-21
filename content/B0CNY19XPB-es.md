@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cápsulas hechas con al menos 80% de aluminio reciclado
 - Descubre los sabores originales de STARBUCKS, incluyendo nuestro primer tueste
-- Prepáralo en casa como a ti te gusta
-- Cápsulas compatibles con máquina Nespresso
+- Cápsulas hechas con al menos 80% de aluminio reciclado
 - STARBUCKS Paquete Variado House Blend by Nespresso, 100 cápsulas
 - Café 100% Arábica, de tueste medio
+- Cápsulas compatibles con máquina Nespresso
+- Prepáralo en casa como a ti te gusta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CNY19XPB{{</world>}}
