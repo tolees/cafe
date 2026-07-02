@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Comprometidos con el abastecimiento ético de café al 100 % en colaboración con Conservation International
-- De cuerpo redondo con relucientes sabores a limón confitado y nuestro característico toque final de cacao
-- Café 100% Arábica, una taza de café con profundidad de sabor para disfrutar durante todo el día
-- Cápsulas de café STARBUCKS de NESPRESSO, con relucientes notas cítricas y notas dulces de caramelo
 - Cápsulas de café compatibles con las máquinas de café NESPRESSO
+- Café 100% Arábica, una taza de café con profundidad de sabor para disfrutar durante todo el día
+- Comprometidos con el abastecimiento ético de café al 100 % en colaboración con Conservation International
+- Cápsulas de café STARBUCKS de NESPRESSO, con relucientes notas cítricas y notas dulces de caramelo
+- De cuerpo redondo con relucientes sabores a limón confitado y nuestro característico toque final de cacao
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CM6RKMRD{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Apto para todo tipo de cocinas incluido inducción. Base de acero inoxidable para una máxima eficiencia energética.
 - Tratamiento interior pulido para fácil limpieza y evitar oxidación.
 - Esta cafetera apta para inducción, proporciona la experiencia de preparar un café italiano único con un elegante diseño
-- Capacidad: 460 ml; 10 tazas
 - Está fabricada con acero inoxidable 18/10 con mango de baquelita, lo que garantiza su durabilidad y resistencia
+- Capacidad: 460 ml; 10 tazas
+- Apto para todo tipo de cocinas incluido inducción. Base de acero inoxidable para una máxima eficiencia energética.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D6W94DPR{{</world>}}

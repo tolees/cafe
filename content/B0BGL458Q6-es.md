@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - tostado en las inmediaciones de Viena, en uno de los tostadores de café tradicionales más conocidos y hoy en día los últimos de Austria, con experiencia y pasión desde 1929
-- Café con sabor natural a caramelo
-- Se prepara con perfección y dedicación a partir de ese pequeño grano negro que para muchos de nosotros encarna el ejemplo perfecto de excelencia y placer.
-- Solo los mejores granos de Arábica, seleccionados a mano, así como granos Robusta
 - La característica especial de nuestro café es el prolongado tostado en tambor
+- Café con sabor natural a caramelo
+- Solo los mejores granos de Arábica, seleccionados a mano, así como granos Robusta
+- Se prepara con perfección y dedicación a partir de ese pequeño grano negro que para muchos de nosotros encarna el ejemplo perfecto de excelencia y placer.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGL458Q6{{</world>}}

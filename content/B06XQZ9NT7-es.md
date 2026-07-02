@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- RISTRETTO ORIGEN INDIA CAJA 50 CÁPSULAS NESPRESSO PRO
 - Disfruta de la mezcla de arábicas con un toque de robustas procedente de cultivos del Sur de la India. Un café corto, intenso, con gran cuerpo y matices aromáticos especiados a pimienta y nuez moscada. Un café fuerte, delicioso, con cuerpo y exótico. VÁLIDO PARA MÁQUINAS NESPRESSO PROFESIONALES.
 - ENVIOS MUY DISCRETOS
+- RISTRETTO ORIGEN INDIA CAJA 50 CÁPSULAS NESPRESSO PRO
 - 24 / 48 HORAS EN TU CASA
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Elegante Cafetera Francesa (1 L) Con Prensa De Acero Inoxidable Para Preparar Hasta 4 Tazas De Café
 - Contenido : 1x Cafetera francesa, volumen: 1 L, Material: Cerámica de gres/Acero inoxidable, Peso: 1, 3 kg, Color: Negro Mate, 91028200000000
-- Práctico Mango Y Pico De Vertido Para Servir Con Facilidad, Diseño Sencillo Que Combina Con La Gama Le Creuset Poterie
 - No Apto Para Calor Directo, Limpieza Fácil Gracias Al Esmalte Y La Prensa Extraíble; Apto Para Lavavajillas
+- Práctico Mango Y Pico De Vertido Para Servir Con Facilidad, Diseño Sencillo Que Combina Con La Gama Le Creuset Poterie
 - Cerámica de gres duradera para un uso diario: resistente a arañazos y cortes, ácidos y manchas, no absorbe olores ni sabores
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

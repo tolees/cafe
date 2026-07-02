@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Disfruta de una espuma cremosa y profesional en tus cappuccinos y lattes gracias al depósito de leche de 1000 ml con boquilla espumadora. El depósito de agua extraíble de 1,2 litros te ofrece gran autonomía, permitiéndote preparar varias tazas sin tener que rellenarlo constantemente.
 - Descubre la versatilidad del sistema ColdBrew, que te permite preparar tus cafés exactamente a la temperatura que prefieras. Disfruta de café frío, templado o caliente según tu antojo, ¡tú decides cómo saborear cada momento!
-- Obtén siempre la mejor crema y el máximo aroma en cada taza gracias a la potente bomba de presión de 20 bares. Además, el brazo con doble salida te permite preparar hasta dos cafés a la vez, ideal para compartir o ahorrar tiempo en tu día a día.
+- Disfruta de una espuma cremosa y profesional en tus cappuccinos y lattes gracias al depósito de leche de 1000 ml con boquilla espumadora. El depósito de agua extraíble de 1,2 litros te ofrece gran autonomía, permitiéndote preparar varias tazas sin tener que rellenarlo constantemente.
 - Pensada para tu comodidad, la cafetera cuenta con una superficie calientatazas para atemperar tus tazas antes de servir el café y una bandeja de goteo desmontable que facilita la limpieza. Sus 1350 W de potencia garantizan un calentamiento rápido y una extracción óptima, asegurando resultados intensos y deliciosos en cada taza.
 - La pantalla táctil a color hace que preparar espressos y capuchinos sea más fácil y rápido que nunca. Su interfaz intuitiva te permite seleccionar y personalizar tus bebidas con total comodidad, adaptándose a tu ritmo y preferencias.
+- Obtén siempre la mejor crema y el máximo aroma en cada taza gracias a la potente bomba de presión de 20 bares. Además, el brazo con doble salida te permite preparar hasta dos cafés a la vez, ideal para compartir o ahorrar tiempo en tu día a día.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FKT4V1BZ{{</world>}}

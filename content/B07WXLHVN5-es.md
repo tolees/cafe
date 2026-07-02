@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Hechos en Italia
 - Disfruta del delicioso sabor y los aromas de un café con avellanas en un práctico formato de cápsula de 12 gramos
 - Dosis recomendada de agua 80 ml
 - Exclusivamente Compatibles con cafeteras de cápsulas NESCAFÉ* DOLCE GUSTO* (* No registrado en Amazon EU S.a.r.l.)
-- Hechos en Italia
 - Lote de 48 cápsulas prácticas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

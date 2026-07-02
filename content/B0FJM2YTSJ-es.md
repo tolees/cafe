@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- TECNOLOGÍA WHIRLTECH – Ducha de agua con sistema de dispersión uniforme que extrae el máximo sabor del café molido para un resultado más intenso y delicioso.
+- FUNCIÓN PAUSA PARA SERVIR – ¿No quieres esperar? Sirve una taza incluso mientras se prepara el café, sin goteos ni derrames.
 - GRAN CAPACIDAD DE 1,25L (10-15 tazas) – Ideal para familias o reuniones. Incluye jarra de vidrio resistente con capacidad para hasta 10 tazas grandes o 15 pequeñas de café.
 - DISEÑO DISTINTIVO Y ELEGANTE – Acabado texturizado en tono piedra con detalles en acero inoxidable cepillado en dorado. Aporta un toque de estilo y sofisticación a cualquier cocina.
-- FUNCIÓN PAUSA PARA SERVIR – ¿No quieres esperar? Sirve una taza incluso mientras se prepara el café, sin goteos ni derrames.
+- TECNOLOGÍA WHIRLTECH – Ducha de agua con sistema de dispersión uniforme que extrae el máximo sabor del café molido para un resultado más intenso y delicioso.
 - MANTIENE EL CAFE CALIENTE HASTA 40 MINUTOS – Gracias a la función de calentamiento automático, tu café se mantiene a la temperatura ideal después del preparado.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

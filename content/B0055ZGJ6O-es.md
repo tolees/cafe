@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- POTENCIA: la cafetera moka eléctrica tiene una potencia de 550 W, lo que hace que se caliente rápidamente y puedas preparar un café en pocos minutos
 - FUNCIÓN AUTO-OFF: no tienes que preocuparte de nada; la cafetera se apaga automáticamente cuando el café está hecho y lo mantiene caliente para que tomes un café en su punto
+- POTENCIA: la cafetera moka eléctrica tiene una potencia de 550 W, lo que hace que se caliente rápidamente y puedas preparar un café en pocos minutos
 - BASE GIRATORIA: base independiente giratoria de 360° permite conectar la cafetera en cualquier posición y la base fría de la cafetera puede colocarse directamente sobre la mesa
-- CAPACIDAD: gracias al gran tamaño de la cafetera moka eléctrica se pueden preparar hasta 9 tazas de café de forma rápida y sencilla obteniendo un café aromático recién hecho
 - MANTIENE EL CALOR: la cafetera posee un sistema para mantener el café caliente durante 30 minutos tras finalizar la preparación del café y tener el café listo para servir en el momento adecuado
+- CAPACIDAD: gracias al gran tamaño de la cafetera moka eléctrica se pueden preparar hasta 9 tazas de café de forma rápida y sencilla obteniendo un café aromático recién hecho
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0055ZGJ6O{{</world>}}

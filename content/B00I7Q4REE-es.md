@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - DULCE, INTENSO Y BRILLANTE - La mezcla da como resultado un café con toques de almendras tostadas y dulce de mazapán.
-- Elaboradas con café sostenible bajo el programa de Sostenibilidad Common Grounds que garantiza un Origen Responsable.
 - CÁPSULA RISTRETTO - La cápsula tiene el tamaño indicado para poder preparar un café ristretto, la versión más concentrada de un espresso. Menos agua con la misma cantidad de café para conseguir una infusión más aromática.
-- INTENSIDAD 9 - Café molido de tueste natural con toques amaderados y especiados.
 - 10 PAQUETES DE 20 CÁPSULAS - 200 Cápsulas de Aluminio compatibles con las cafeteras L’OR Barista y con máquinas Nespresso (Marca de una compañía no relacionada con Jacobs Douwe Egberts).
+- INTENSIDAD 9 - Café molido de tueste natural con toques amaderados y especiados.
+- Elaboradas con café sostenible bajo el programa de Sostenibilidad Common Grounds que garantiza un Origen Responsable.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00I7Q4REE{{</world>}}

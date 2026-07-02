@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Se puede utilizar tanto en cocinas de gas como eléctricas
-- Pratesi Cafetera New Kitty Tz.2 Box
 - En aluminio
-- MOKINA 1/2 TZ. EN BANDA
+- Pratesi Cafetera New Kitty Tz.2 Box
+- Se puede utilizar tanto en cocinas de gas como eléctricas
 - Seleccione el tamaño del quemador para que se ajuste a la parte inferior de la cafetera. La llama nunca debe tragarse la olla, sino que debe permanecer en el fondo de la olla.
+- MOKINA 1/2 TZ. EN BANDA
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B086V2F6HN{{</world>}}

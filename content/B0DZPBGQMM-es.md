@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Elaboradas con café sostenible bajo el programa de Sostenibilidad Common Grounds que garantiza un Origen Responsable
-- AROMÁTICO Y TOSTADO - La mezcla de granos da como resultado un sabor intenso y aroma envolvente
-- INTENSIDAD 9 - Café molido de tueste natural con sabor intenso y tostado elaborado con una deliciosa mezcla de granos de café
-- CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el cappucino o el latte
 - 50 CÁPSULAS - 50 Cápsulas de Aluminio compatibles con las cafeteras LOR Barista y con máquinas Nespresso* (*Marca de una compañía no relacionada con Jacobs Douwe Egberts)
+- INTENSIDAD 9 - Café molido de tueste natural con sabor intenso y tostado elaborado con una deliciosa mezcla de granos de café
+- AROMÁTICO Y TOSTADO - La mezcla de granos da como resultado un sabor intenso y aroma envolvente
+- CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el cappucino o el latte
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DZPBGQMM{{</world>}}

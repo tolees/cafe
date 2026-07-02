@@ -28,13 +28,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- LAVAZZA: El Grupo Lavazza opera en todos los sectores de la industria del café, ofreciendo productos de alta calidad y obtenidos a través de un modelo sostenible que se basa en la innovación, la pasión y la experiencia
-- La siguiente información se aplica a cada unidad del paquete
-- INTENSIDAD: La intensidad 7 y el tueste oscuro brindan un color oscuro a este café, para un espresso con una crema ámbar
 - CREMA E GUSTO CLASSICO: Un blend Lavazza suave y envolvente. Este café molido natural es ideal para la cafetera italiana, de prensa y francesa, para cualquier hora del día
-- VARIEDAD: Esta selección de café Lavazza está elaborada con café Arábica y Robusta procedente principalmente de Suramérica y del sudeste asiático
+- La siguiente información se aplica a cada unidad del paquete
 - NOTAS AROMÁTICAS: Crema e Gusto Classico es caracterizado por notas aromáticas especiadas, para un café armonioso y cremoso con un sabor redondo y envolviente
+- INTENSIDAD: La intensidad 7 y el tueste oscuro brindan un color oscuro a este café, para un espresso con una crema ámbar
+- VARIEDAD: Esta selección de café Lavazza está elaborada con café Arábica y Robusta procedente principalmente de Suramérica y del sudeste asiático
 - CAFÉ NATURAL: Todos los cafés en grano y molido de Lavazza son de tueste natural
+- LAVAZZA: El Grupo Lavazza opera en todos los sectores de la industria del café, ofreciendo productos de alta calidad y obtenidos a través de un modelo sostenible que se basa en la innovación, la pasión y la experiencia
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0G8JSTGSV{{</world>}}

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cafetera semiautomática apta para café molido, con 20 bares y thermoblock.
-- Incluye depósito de leche de 700 ml de capacidad como accesorio que se conecta a la cafetera y que también puedes guardar en la nevera. Depósito de agua extraíble con 1 litro de capacidad.
 - Sistema de calentamiento Thermoblock que facilita un calentamiento rápido y homogéneo del agua y también de la leche.
-- Potente bomba de presión con tecnología Force Aroma de 20 bares que consigue la mejor crema y el máximo aroma.
 - Amantes del café con leche. Incluye depósito de leche de 700 ml de capacidad como accesorio que se conecta a la cafetera y que también puedes guardar en la nevera.
+- Incluye depósito de leche de 700 ml de capacidad como accesorio que se conecta a la cafetera y que también puedes guardar en la nevera. Depósito de agua extraíble con 1 litro de capacidad.
+- Potente bomba de presión con tecnología Force Aroma de 20 bares que consigue la mejor crema y el máximo aroma.
+- Cafetera semiautomática apta para café molido, con 20 bares y thermoblock.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BPYQBK6B{{</world>}}

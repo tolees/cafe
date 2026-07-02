@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Café de tueste natural
-- Suave aroma a tostado
 - Perfil equilibrado en intensidad, cuerpo y persistencia en el paladar
+- Suave aroma a tostado
+- Café de tueste natural
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00XA1QNAM{{</world>}}

@@ -28,13 +28,13 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Envasado en atmósfera protectora.
+- Conservar en un lugar fresco y seco. Consumir preferentemente antes del: ver lateral del envase.
+- Este café tiene un sabor aromático persistente e intenso con notas de caramelo, cereales, chocolate y ligeras notas frutales.
 - Asegurarse siempre de seguir las instrucciones del fabricante de la cafetera. Porción recomendada: 40ml espresso o 110ml lungo.
 - Certificado Rainforest Alliance. Obtenga más información en ra.org.
-- Café Tostado y Molido en Cápsulas Compatibles con Nespresso
-- Este café tiene un sabor aromático persistente e intenso con notas de caramelo, cereales, chocolate y ligeras notas frutales.
-- Conservar en un lugar fresco y seco. Consumir preferentemente antes del: ver lateral del envase.
 - *Nespresso no está vinculado a Amazon.
-- Envasado en atmósfera protectora.
+- Café Tostado y Molido en Cápsulas Compatibles con Nespresso
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0FL2N3KY2{{</world>}}

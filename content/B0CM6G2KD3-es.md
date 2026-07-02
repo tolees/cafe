@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Prepáralo en casa como a ti te gusta con tu café Starbucks favorito
-- Café 100% Arábica, para una taza simple y deliciosa en cualquier momento del día
 - Cápsulas de café Starbucks by Nespresso con notas a caramelo aterciopelado
 - Un Starbucks Blonde Roast, con un toque dulce, notas a caramelo aterciopelado y a vainilla; cápsulas hechas con 80% de aluminio reciclado
 - Comprometidos con el abastecimiento ético de café al 100% en colaboración con Conservation International
+- Café 100% Arábica, para una taza simple y deliciosa en cualquier momento del día
+- Prepáralo en casa como a ti te gusta con tu café Starbucks favorito
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0CM6G2KD3{{</world>}}

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- SOSTENIBILIDAD: Gimoka apuesta por productos esenciales, sin azúcares ni aditivos, promoviendo un consumo más consciente. Las cápsulas solubles reducen los residuos y valorizan la practicidad y el respeto por el medio ambiente.
-- GIMOKA: una de las principales torrefactoras italianas desde hace 40 años. Selecciona café de 17 países y produce más de 90 mezclas. Con 3 plantas, ofrece café en grano, molido, monodosis y cápsulas en 50 países.
-- MEZCLA: café aromático con un suave toque de leche, para una mezcla equilibrada, intensa y sin azúcares añadidos. Ideal para quienes buscan un sabor auténtico, puro y refinado.
-- CARACTERÍSTICAS: equilibrio perfecto entre la fuerza del café y la suavidad de la leche, sin concesiones. Una bebida soluble sin edulcorantes, pensada para quienes aman un sabor esencial y satisfactorio.
 - CONTENIDO: 48 cápsulas divididas en 3 paquetes de 16, compatibles con las máquinas Nescafé Dolce Gusto. Una preparación rápida para un cortado cremoso, intenso y naturalmente sin azúcares.
+- SOSTENIBILIDAD: Gimoka apuesta por productos esenciales, sin azúcares ni aditivos, promoviendo un consumo más consciente. Las cápsulas solubles reducen los residuos y valorizan la practicidad y el respeto por el medio ambiente.
+- CARACTERÍSTICAS: equilibrio perfecto entre la fuerza del café y la suavidad de la leche, sin concesiones. Una bebida soluble sin edulcorantes, pensada para quienes aman un sabor esencial y satisfactorio.
+- MEZCLA: café aromático con un suave toque de leche, para una mezcla equilibrada, intensa y sin azúcares añadidos. Ideal para quienes buscan un sabor auténtico, puro y refinado.
+- GIMOKA: una de las principales torrefactoras italianas desde hace 40 años. Selecciona café de 17 países y produce más de 90 mezclas. Con 3 plantas, ofrece café en grano, molido, monodosis y cápsulas en 50 países.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FPQV8L5Z{{</world>}}

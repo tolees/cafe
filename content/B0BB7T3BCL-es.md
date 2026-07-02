@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 5 PAQUETES DE 16 CÁPSULAS - 80 Cápsulas de Café Exclusivamente Compatibles con Cafeteras TASSIMO. Introduce la cápsula, presiona el botón y disfruta de su aroma fuerte e intenso.
-- TECNOLOGÍA INTELLIBREW - Las cápsulas cuentan con un código de barras en la parte superior que es leído por la cafetera Tassimo para obtener la información necesaria para preparar la bebida con la temperatura idónea, la cantidad de agua necesaria y el tiempo de preparación justo.
-- CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café espresso para disfrutar solo, con leche o con hielo.
 - FUERTE E INTENSO - Marcilla Colombia tiene un sabor fuerte e intenso, por lo que realmente se puede saborear el café, pero al mismo tiempo también tiene un cuerpo muy suave donde no hay amargura en el sabor.
+- CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café espresso para disfrutar solo, con leche o con hielo.
+- TECNOLOGÍA INTELLIBREW - Las cápsulas cuentan con un código de barras en la parte superior que es leído por la cafetera Tassimo para obtener la información necesaria para preparar la bebida con la temperatura idónea, la cantidad de agua necesaria y el tiempo de preparación justo.
 - COMPATIBILIDAD - Estas cápsulas, llamadas T DISCs han sido diseñadas especialmente para el sistema Tassimo.
+- 5 PAQUETES DE 16 CÁPSULAS - 80 Cápsulas de Café Exclusivamente Compatibles con Cafeteras TASSIMO. Introduce la cápsula, presiona el botón y disfruta de su aroma fuerte e intenso.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B0BB7T3BCL{{</world>}}

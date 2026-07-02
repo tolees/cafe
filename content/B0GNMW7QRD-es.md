@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- TAMAÑO COMPACTO: el diseño compacto y elegante se adapta a cualquier hogar
 - LIMPIEZA AUTOMÁTICA 100%: siempre limpia gracias a un mantenimiento profundo automatizado, sin desmontaje y con una sola pastilla de limpieza, tres veces al año
-- FUNCION DE DOBLE TAZA: disfruta de dos cafés a la vez con la función de doble taza, muy práctica para compartir
-- 4 BEBIDAS DE CAFÉ Y LECHE: parte de granos recién molidos y disfruta de espresso, lungo o café de filtro, e incluso cappuccino con la función de vapor
-- REPARABILIDAD DE 15 AÑOS: te recomendamos reparar tu producto en nuestra red de 6.200 centros de reparación en todo el mundo para que dure más
 - ESPUMADOR DE LECHE MANUAL: prepara una espuma fina y cremosa para cappuccinos y lattes con un espumador fácil de limpiar
+- 4 BEBIDAS DE CAFÉ Y LECHE: parte de granos recién molidos y disfruta de espresso, lungo o café de filtro, e incluso cappuccino con la función de vapor
+- FUNCION DE DOBLE TAZA: disfruta de dos cafés a la vez con la función de doble taza, muy práctica para compartir
+- TAMAÑO COMPACTO: el diseño compacto y elegante se adapta a cualquier hogar
+- REPARABILIDAD DE 15 AÑOS: te recomendamos reparar tu producto en nuestra red de 6.200 centros de reparación en todo el mundo para que dure más
 - FÁCIL DE USAR: selección directa de bebidas y acceso sencillo a los ajustes mediante una interfaz intuitiva
 
 [🛒 Visítala!!!]({{< param buyurl >}})

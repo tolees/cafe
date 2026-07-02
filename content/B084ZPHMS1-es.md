@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- APAGADO AUTOMÁTICO que detiene la función de mantener caliente tras 30 minutos para un uso más seguro.
-- MODO DE PREINFUSIÓN que mejora la extracción del café para obtener un sabor más intenso y aromático.
 - SISTEMA ANTIGOTEO que permite servir una taza en cualquier momento del ciclo sin derrames.
+- MODO DE PREINFUSIÓN que mejora la extracción del café para obtener un sabor más intenso y aromático.
 - SISTEMA DE PREPARACIÓN OPTIMIZADO con cabezal de agua que distribuye el agua de forma uniforme para un café más equilibrado.
+- APAGADO AUTOMÁTICO que detiene la función de mantener caliente tras 30 minutos para un uso más seguro.
 - CAFETERA DE FILTRO DE 1,25 LITROS que prepara hasta 15 tazas y permite programar el café con hasta 24 horas de antelación.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
