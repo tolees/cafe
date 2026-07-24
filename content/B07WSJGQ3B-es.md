@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño moderno: el atractivo diseño de esta cafetera express no pasará desapercibido; diseñada con elementos de acero inoxidable, pantalla LED y grandes botones
-- Depósito de agua desmontable: quita y pon tantas veces como quieras el depósito de agua de la cafetera eléctrica look v, para un llenado y limpieza sencillísimos
 - Ajuste de aroma: con la cafetera de goteo melitta look v timer puedes regular desde muy suave a muy fuerte el aroma de tu café, muy fácilmente con el aromaselector
 - Función temporizador: programa tu cafetera de filtro look v para que tenga el café recién hecho para la hora que desees fácilmente con su pantalla LED
+- Diseño moderno: el atractivo diseño de esta cafetera express no pasará desapercibido; diseñada con elementos de acero inoxidable, pantalla LED y grandes botones
+- Depósito de agua desmontable: quita y pon tantas veces como quieras el depósito de agua de la cafetera eléctrica look v, para un llenado y limpieza sencillísimos
 - Gran capacidad: podrás preparar café para hasta 10 tazas gracias al depósito de 1,25 l; con el calentador programable, mantiene el calor del café entre 20/40 o 60 minutos
 
 [🛒 Aquí!!!]({{< param buyurl >}})

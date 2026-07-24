@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CAPSULA: Saborea más de 30 variedades de espressos y otras bebidas disponibles; las CAPSULAS están herméticamente selladas con papel de aluminio para proteger el café recién molido y preservar su aroma
-- COMO EN EL BAR: La interfaz intuitiva de esta cafetera Nescafé te permite preparar espressos con una crema rica y aterciopelada como en el bar; con solo unos pocos gestos, puedes ajustar la temperatura y el tamaño de tus bebidas
 - BEBIDAS CALIENTES Y FRÍAS: Esta cafetera es versátil y te permite satisfacer todos los gustos, pudiendo elegir preparar bebidas frías o calientes
 - COMPACTA: Piccolo XS es la máquina Nescafé Dolce Gusto con un diseño compacto, capaz de combinar creatividad y funcionalidad para una experiencia totalmente personalizada
+- CAPSULA: Saborea más de 30 variedades de espressos y otras bebidas disponibles; las CAPSULAS están herméticamente selladas con papel de aluminio para proteger el café recién molido y preservar su aroma
 - APAGADO AUTOMÁTICO: Apagado automático en 1 minuto después de preparar el café con la función de auto-off para una mayor eficiencia energética
+- COMO EN EL BAR: La interfaz intuitiva de esta cafetera Nescafé te permite preparar espressos con una crema rica y aterciopelada como en el bar; con solo unos pocos gestos, puedes ajustar la temperatura y el tamaño de tus bebidas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0F4DKD7DQ{{</world>}}

@@ -29,9 +29,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - 10 PAQUETES DE 20 CÁPSULAS - 200 Cápsulas de Aluminio compatibles con las cafeteras L’OR Barista y con máquinas Nespresso (Marca de una compañía no relacionada con Jacobs Douwe Egberts)
-- CAFÉ 100% CERTIFICADO - Las cápsulas Marcilla son elaboradas con café obtenido de fincas Rainforest Alliance que contribuye a mejorar la vida de los agricultores.
 - INTENSIDAD 6 - Café molido de tueste natural, largo y delicado elaborado con granos de café Arábica y Robusta.
 - CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el cappucino o el latte.
+- CAFÉ 100% CERTIFICADO - Las cápsulas Marcilla son elaboradas con café obtenido de fincas Rainforest Alliance que contribuye a mejorar la vida de los agricultores.
 - SUAVE, EQUILIBRADO Y DULCE - La mezcla de granos da como resultado un café suave con un toque dulce.
 
 [🛒 Aquí!!!]({{< param buyurl >}})

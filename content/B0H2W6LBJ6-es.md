@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- DISEÑO COMPACTO Y AHORRO DE ENERGÍA: diseño ligero y práctico con depósito de agua extraíble de 0,8 L y apagado automático tras 5 minutos de inactividad para mayor comodidad y eficiencia energética en el uso diario.
 - CONTROL LED INTUITIVO Y FÁCIL: la interfaz LED permite ajustar fácilmente la cantidad de café, personalizando cada bebida según tus preferencias.
+- FUNCIONAMIENTO HOT & COLD: prepara tanto bebidas calientes como frías, desde cafés cortos y largos hasta bebidas con leche o recetas frías para cualquier estación del año.
 - BUNDLE COMPLETO CON CÁPSULAS INCLUIDAS: incluye 3 packs de cápsulas intensas para empezar a preparar un espresso y una gran variedad de bebidas desde el primer día, sin necesidad de compra adicional.
 - POTENTE PRESIÓN DE 15 BAR: la bomba de alta presión garantiza una extracción óptima en cada taza, con aroma intenso y una crema consistente en cada café.
-- FUNCIONAMIENTO HOT & COLD: prepara tanto bebidas calientes como frías, desde cafés cortos y largos hasta bebidas con leche o recetas frías para cualquier estación del año.
+- DISEÑO COMPACTO Y AHORRO DE ENERGÍA: diseño ligero y práctico con depósito de agua extraíble de 0,8 L y apagado automático tras 5 minutos de inactividad para mayor comodidad y eficiencia energética en el uso diario.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0H2W6LBJ6{{</world>}}

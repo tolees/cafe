@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 15 BARES DE PRESIÓN: crea un delicioso espresso con un rico aroma y una cremosa espuma color nuez
+- APAGADO AUTOMÁTICO: la cafetera de capsulas se apaga 5 minutos después de la última preparación de café para ahorrar energía
 - SISTEMA DE CÁPSULAS: Las cápsulas conservan el aroma del café recién molido porque están selladas herméticamente con papel de aluminio, lo que protege el café recién molido
 - INCLUYE UN SET: disfruta de un café de calidad en casa al obtener 3 cajas de cápsulas de café al comprar una máquina Genio S
-- APAGADO AUTOMÁTICO: la cafetera de capsulas se apaga 5 minutos después de la última preparación de café para ahorrar energía
 - DISEÑO COMPACTO: ligera y compacta, la cafetera DeLonghi Dolce Gusto es fácil de colocar y mover en cualquier cocina o casa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

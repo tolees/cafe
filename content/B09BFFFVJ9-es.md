@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- INTENSIDAD: El tueste medio y la intensidad 10/13 crean una crema de café dorada y con un gusto equilibrado
 - VARIEDAD: Esta selección de café Lavazza está elaborada con café Arábica y Robusta procedente de Centro y Sudamérica, África y Sur-este Asiático
+- LAVAZZA: El Grupo Lavazza opera en todos los sectores de la industria del café, ofreciendo productos de alta calidad y obtenidos a través de un modelo sostenible que se basa en la innovación, la pasión y la experiencia
+- INTENSIDAD: El tueste medio y la intensidad 10/13 crean una crema de café dorada y con un gusto equilibrado
 - NOTAS AROMÁTICAS: Qualità Rossa es caracterizado por notas aromáticas de chocolate y frutos secos, para un café equilibrado y con cuerpo
 - QUALITÀ ROSSA: Disfruta de un café en cápsulas que resume todo el estilo de vida italiano. 100 cápsulas de aluminio compatibles con las máquinas Nespresso*. *Lavazza no está afiliada, avalada ni patrocinada por Nespresso
-- LAVAZZA: El Grupo Lavazza opera en todos los sectores de la industria del café, ofreciendo productos de alta calidad y obtenidos a través de un modelo sostenible que se basa en la innovación, la pasión y la experiencia
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09BFFFVJ9{{</world>}}

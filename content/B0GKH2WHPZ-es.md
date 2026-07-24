@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - DISEÑO COMPACTO CON DEPÓSITO ORIENTABLE: estructura ahorra-espacio fabricada con plástico reciclado al 38 %, depósito de 1,4 L que puede colocarse a la izquierda, derecha o detrás
-- LISTA EN 3 SEGUNDOS Y CONECTADA: calentamiento inmediato, apertura con palanca intuitiva y conexión con la app Nespresso para notificaciones, ajustes personalizados y mantenimiento fácil
 - CREMA DENSA Y AROMA INTENSO: la tecnología Centrifusion hace girar la cápsula a alta velocidad para obtener un café equilibrado, cremoso y consistente, como en una cafetería
 - MODO CREACIONES PARA RECETAS: un botón dedicado para un café más concentrado, ideal para bebidas frías, recetas con leche y cappuccinos personalizados
+- LISTA EN 3 SEGUNDOS Y CONECTADA: calentamiento inmediato, apertura con palanca intuitiva y conexión con la app Nespresso para notificaciones, ajustes personalizados y mantenimiento fácil
 - 7 FORMATOS DE CAFÉ PARA CADA MOMENTO: elige espresso, doble espresso, gran lungo o tazas grandes gracias al sistema Vertuo, con más de 40 cápsulas clásicas y aromatizadas
 
 [🛒 Visítala!!!]({{< param buyurl >}})

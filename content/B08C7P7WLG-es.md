@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Capaz de hacer café de calidad profesional, caliente desde la primera taza gracias a su sistema Thermoblock
-- Función XL
 - Depósito extraíble de 0.8 L muy fácil de llenar
 - Cafetera NESCAFÉ Dolce Gusto automática de cápsulas Genio Plus DeLonghi
+- Función XL
 - Cada cápsula de NESCAFÉ Dolce Gusto está diseñada para ajustar automáticamente la presión en función del tipo de bebida
 - Bandeja recogegotas ajustable a 3 alturas para utilizar con diferentes tamaños de taza
 

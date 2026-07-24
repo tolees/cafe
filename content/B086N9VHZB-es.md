@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Una mezcla caracterizada por un aroma lleno y fragante que recuerda notas picantes y chocolatadas
-- 100 cápsulas compatibles con las máquinas de uso doméstico de la marca Nespresso* y con las máquinas Èspresso1882 MUY de Caffè Vergnano
-- Un cuerpo rico y persistente con tonos ligeramente amargos dados por la presencia de una pequeña cantidad de Robusta africana
-- Cápsulas realizadas a partir de materiales compostables: tirar en la bandeja de residuos orgánicos después de su uso
 - Fecha límite de uso óptimo: 24 meses a partir de la fecha de producción. Condiciones de conservación: mantener en un lugar fresco y seco lejos del calor y la humedad
+- Cápsulas realizadas a partir de materiales compostables: tirar en la bandeja de residuos orgánicos después de su uso
+- Un cuerpo rico y persistente con tonos ligeramente amargos dados por la presencia de una pequeña cantidad de Robusta africana
+- 100 cápsulas compatibles con las máquinas de uso doméstico de la marca Nespresso* y con las máquinas Èspresso1882 MUY de Caffè Vergnano
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B086N9VHZB{{</world>}}

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Elaborado con la mejor selección de cafés
-- Una vez abierto, guárdalo en un recipiente hermético en un lugar fresco y seco
-- Café molido para cafetera tradicional o de filtro
-- Adecuada para tomar sólo o con leche
 - Aromático, rico en notas dulces y afrutadas, redondo y con baja acidez
+- Elaborado con la mejor selección de cafés
+- Café molido para cafetera tradicional o de filtro
+- Una vez abierto, guárdalo en un recipiente hermético en un lugar fresco y seco
+- Adecuada para tomar sólo o con leche
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B082VVLTZV{{</world>}}

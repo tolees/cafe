@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Diámetro inferior: 9 cm
-- ASA ERGONÓMICA: Asa ergonómica de baquelita con recubrimiento softouch para seguridad y una estética moderna
-- FONDO FULL INDUCTION: muy resistente al desgaste y con fondo difusor full induction, apto para todo tipo de cocinas, incluida la inducción
-- CAPACIDAD: Con reductor para posibilitar la media carga a la hora de preparar el café; Capacidad: 6 tazas espresso
-- TRIPLE FONDO DIFUSOR: Triple fondo difusor forjado con disco de aluminio en el interior para un reparto del calor en la base; En inducción, utilizar con un diámetro similar o ligeramente que el diámetro base de la cafetera
 - ACERO INOXIDABLE: La cafetera Kaffe está fabricada en acero inoxidable, con un vanguardista diseño, asa ergonómica y en colores dorado y negro que dotan a esta cafetera de una gran polivalencia, seguridad y resistencia al uso, para poder disfrutar del aroma y sabor del café de siempre
+- Diámetro inferior: 9 cm
+- CAPACIDAD: Con reductor para posibilitar la media carga a la hora de preparar el café; Capacidad: 6 tazas espresso
+- FONDO FULL INDUCTION: muy resistente al desgaste y con fondo difusor full induction, apto para todo tipo de cocinas, incluida la inducción
+- ASA ERGONÓMICA: Asa ergonómica de baquelita con recubrimiento softouch para seguridad y una estética moderna
+- TRIPLE FONDO DIFUSOR: Triple fondo difusor forjado con disco de aluminio en el interior para un reparto del calor en la base; En inducción, utilizar con un diámetro similar o ligeramente que el diámetro base de la cafetera
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BXD7XCW7{{</world>}}

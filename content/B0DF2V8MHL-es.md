@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Café molido de tueste natural con sabor a avellana en cápsulas
 - Esta mezcla de Arábica 100% procedente de Sudamérica, está infusionada con aroma natural para un sabor intenso, aromático y cremoso
-- Compatibles con Nespresso**
 - Este envase contiene 20 porciones
+- Café molido de tueste natural con sabor a avellana en cápsulas
+- Compatibles con Nespresso**
 - Tostado medio
 
 [🛒 Aquí!!!]({{< param buyurl >}})

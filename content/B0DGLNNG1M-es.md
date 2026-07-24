@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bomba de alta presión de 19 bares: La bomba de 19 bares extrae el máximo sabor y ofrece café de calidad barista con rica crema y aroma completo.
-- Opciones de preparación ajustables: Tres temperaturas de preparación y preinfusión personalizan tu experiencia de café, ya sea espresso fuerte o mezcla más suave.
-- Diseño fácil de usar: Apagado automático, protección contra ebullición en seco, tanque de agua de 0.6L extraíble y bandeja de goteo para fácil uso y mantenimiento.
 - Estética elegante y moderna: Beige de moda, diseño moderno, tamaño compacto, pies antideslizantes y elemento calefactor oculto complementan cualquier cocina con estilo.
 - Compatibilidad versátil: La Tristar CM-2301 prepara café con Nespresso, Dolce Gusto, pads E.S.E. y café molido. Disfruta de tus variedades de café favoritas sin limitaciones.
+- Opciones de preparación ajustables: Tres temperaturas de preparación y preinfusión personalizan tu experiencia de café, ya sea espresso fuerte o mezcla más suave.
+- Bomba de alta presión de 19 bares: La bomba de 19 bares extrae el máximo sabor y ofrece café de calidad barista con rica crema y aroma completo.
+- Diseño fácil de usar: Apagado automático, protección contra ebullición en seco, tanque de agua de 0.6L extraíble y bandeja de goteo para fácil uso y mantenimiento.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0DGLNNG1M{{</world>}}

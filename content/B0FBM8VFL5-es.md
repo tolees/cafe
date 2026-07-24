@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Con depósito de agua de 1 litro e indicador de descalcificación, ofrece un mantenimiento sencillo y larga vida útil sin complicaciones.
-- Sus 20 bares y su avanzado sistema de calentamiento por Thermoblock asegura una temperatura constante y precisa desde la primera taza, reduce el tiempo de espera y evita sobrecalentamientos. Esto se traduce en un café con mejor sabor, más rápido y con menor consumo energético.
-- Prepara desde un intenso espresso hasta infusiones o espuma de leche gracias a sus funciones múltiples y al tubo vaporizador en acero inoxidable.
-- Su cuerpo metálico no solo aporta elegancia y resistencia, sino que también incorpora calienta tazas, bandeja recoge gotas extraíble y señal de sobrellenado.
 - Incluye dos cacillos para preparar uno o dos cafés y sistema de parada automática que detiene el flujo al alcanzar la cantidad programada. Práctico, cómodo y sin necesidad de supervisión.
+- Prepara desde un intenso espresso hasta infusiones o espuma de leche gracias a sus funciones múltiples y al tubo vaporizador en acero inoxidable.
+- Sus 20 bares y su avanzado sistema de calentamiento por Thermoblock asegura una temperatura constante y precisa desde la primera taza, reduce el tiempo de espera y evita sobrecalentamientos. Esto se traduce en un café con mejor sabor, más rápido y con menor consumo energético.
+- Con depósito de agua de 1 litro e indicador de descalcificación, ofrece un mantenimiento sencillo y larga vida útil sin complicaciones.
+- Su cuerpo metálico no solo aporta elegancia y resistencia, sino que también incorpora calienta tazas, bandeja recoge gotas extraíble y señal de sobrellenado.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0FBM8VFL5{{</world>}}

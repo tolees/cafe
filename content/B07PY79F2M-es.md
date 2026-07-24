@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- VARIEDAD: Esta selección de café Lavazza está elaborada con café Arábica y Robusta procedente principalmente de Suramérica y del sudeste asiático
-- NOTAS AROMÁTICAS: Crema e Gusto Classico es caracterizado por notas aromáticas especiadas, para un café armonioso y cremoso con un sabor redondo y envolviente
 - INTENSIDAD: La intensidad 7 y el tueste oscuro brindan un color oscuro a este café, para un espresso con una crema ámbar
+- NOTAS AROMÁTICAS: Crema e Gusto Classico es caracterizado por notas aromáticas especiadas, para un café armonioso y cremoso con un sabor redondo y envolviente
+- VARIEDAD: Esta selección de café Lavazza está elaborada con café Arábica y Robusta procedente principalmente de Suramérica y del sudeste asiático
 - CREMA E GUSTO CLASSICO: Un blend Lavazza suave y envolvente. Este café molido natural es ideal para la cafetera italiana, de prensa y francesa, para cualquier hora del día
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MODO DE PREINFUSIÓN que mejora la extracción del café para obtener un sabor más intenso y aromático.
-- SISTEMA ANTIGOTEO que permite servir una taza en cualquier momento del ciclo sin derrames.
-- CAFETERA DE FILTRO DE 1,25 LITROS que prepara hasta 15 tazas y permite programar el café con hasta 24 horas de antelación.
 - SISTEMA DE PREPARACIÓN OPTIMIZADO con cabezal de agua que distribuye el agua de forma uniforme para un café más equilibrado.
+- CAFETERA DE FILTRO DE 1,25 LITROS que prepara hasta 15 tazas y permite programar el café con hasta 24 horas de antelación.
+- MODO DE PREINFUSIÓN que mejora la extracción del café para obtener un sabor más intenso y aromático.
 - APAGADO AUTOMÁTICO que detiene la función de mantener caliente tras 30 minutos para un uso más seguro.
+- SISTEMA ANTIGOTEO que permite servir una taza en cualquier momento del ciclo sin derrames.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B084ZPHMS1{{</world>}}

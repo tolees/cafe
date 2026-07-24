@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Manómetro: el instrumento que te permite conocer la calidad de molido de tu café
-- Temperatura del café regulable en 4 niveles, para obtener la cantidad justa de café caliente
 - 6 accesorios, incluidos: porta filtro profesional de 58 mm de diámetro, 2 filtros de café (1 taza, 2 tazas), prensa de acero, cepillo y punta para limpiar la cafetera, un recipiente de acero para espumar leche o calentar agua
+- Temperatura del café regulable en 4 niveles, para obtener la cantidad justa de café caliente
 - Función stand-by: Polti Coffea G50S entra en modo stand-by después de 15 minutos de inactividad
 - Steamymilk integrado: utilízalo para crear tu bebida favorita, como un buen cappuccino o latte macchiato, o para calentar agua para té o infusiones
+- Manómetro: el instrumento que te permite conocer la calidad de molido de tu café
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CYLWYZDH{{</world>}}

@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Café tostado natural procedente de Brasil, uno de los orígenes de mayor calidad.
 - Intensidad: 9, Persistencia: 8; Aroma: 8; Tostado: 8; Cuerpo: 7
+- Café tostado natural procedente de Brasil, uno de los orígenes de mayor calidad.
 - Notas de fruta madura y frutos secos.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

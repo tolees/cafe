@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Dispone de válvula de seguridad
-- Cafetera italiana de acero inoxidable
 - Se puede utilizar en cocinas de: gas, eléctricas, vitrocerámica e inducción
+- Cafetera italiana de acero inoxidable
+- Dispone de válvula de seguridad
 - Interior de fácil limpieza y mango ergonómico
 - Capacidad para 4 tazas de café
 

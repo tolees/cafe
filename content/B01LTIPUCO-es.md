@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- TECNOLOGÍA INTELLIBREW - Las cápsulas cuentan con un código de barras en la parte superior que es leído por la cafetera Tassimo para obtener la información necesaria para preparar la bebida con la temperatura idónea, la cantidad de agua necesaria y el tiempo de preparación justo.
 - 5 PAQUETES DE 16 CÁPSULAS - 80 Cápsulas de Café Exclusivamente Compatibles con Cafeteras TASSIMO. Introduce la cápsula, presiona el botón y disfruta de un delicioso café robusto y especiado.
 - INTENSO Y ESPECIADO - LOR Espresso Fortissimo es un café de tueste natural con intensidad 10 (en escala del 1 al 13) que se caracteriza por su sabor intenso, especiado y tostado que conquistará los paladares más exigentes.
 - CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café espresso para disfrutar solo o con leche.
+- TECNOLOGÍA INTELLIBREW - Las cápsulas cuentan con un código de barras en la parte superior que es leído por la cafetera Tassimo para obtener la información necesaria para preparar la bebida con la temperatura idónea, la cantidad de agua necesaria y el tiempo de preparación justo.
 - COMPATIBILIDAD - Estas cápsulas, llamadas T DISCs han sido diseñadas especialmente para el sistema Tassimo.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

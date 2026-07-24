@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Inspirado por el Vanilla Latte Macchiato de STARBUCKS que tanto te gusta: aterciopelado y con intensas notas de vainilla
-- Cápsulas de café compatibles con cafeteras NESCAFE DOLCE GUSTO
-- Comprometidos con el abastecimiento ético de café al 100 % en colaboración con Conservation International
 - Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
+- Comprometidos con el abastecimiento ético de café al 100 % en colaboración con Conservation International
+- Cápsulas de café compatibles con cafeteras NESCAFE DOLCE GUSTO
+- Inspirado por el Vanilla Latte Macchiato de STARBUCKS que tanto te gusta: aterciopelado y con intensas notas de vainilla
 - Cápsulas de café de STARBUCKS de NESCAFE DOLCE GUSTO, suave y cremoso
 
 [🛒 Comprar!!!]({{< param buyurl >}})

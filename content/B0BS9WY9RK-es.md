@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hecho de ingredientes naturales
-- El producto es 100% bio
 - Apto para espresso o bebida a base de café
+- El producto es 100% bio
 - Con un sabor fuerte y tostado
+- Hecho de ingredientes naturales
 - Mantener en un lugar fresco y seco
 
 [🛒 Comprar!!!]({{< param buyurl >}})

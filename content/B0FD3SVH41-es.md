@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- VERSÁTIL: una única y elegante máquina permite obtener 4 formatos de taza con un solo botón; desde el Espresso clásico (40 ml) al doble (80 ml), hasta las tazas más generosas (150 o 230 ml)
 - CON UN SOLO TOQUE: crea un café largo sabroso o un espresso auténtico con solo tocar un botón; la cápsula se expulsa automáticamente después de la extracción del café
 - TECNOLOGÍA CENTRIFUSION: Introduce la cápsula y baja la palanca, la cápsula gira hasta 4.000 revoluciones por minuto, mezclando el café molido con agua y produciendo la crema perfecta para disfrutar de tu café, largo o espresso
 - CONECTADA: Gracias a Bluetooth y Wi-Fi, la máquina de cápsulas te asegura obtener siempre la mejor experiencia Nespresso gracias a la actualización automática del software
-- VERSÁTIL: una única y elegante máquina permite obtener 4 formatos de taza con un solo botón; desde el Espresso clásico (40 ml) al doble (80 ml), hasta las tazas más generosas (150 o 230 ml)
 - SABOR: Nespresso Vertuo ofrece una gama completa de cápsulas, desde un espresso afrutado y delicado hasta una taza grande, todo con solo tocar un botón y con una crema sedosa
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gusto morbido, mai amaro: aroma ricco e delicatamente erbaceo con il perfetto equilibrio tra dolcezza naturale e leggere note vegetali, tipico del matcha di alta qualità, mai amaro o astringente.
-- Capsule compatibili con Nespresso: capsule matcha compatibili con macchine Nespresso e altre macchine compatibili; prepara in pochi secondi tè matcha o un cremoso matcha latte a casa.
 - Vegano, senza glutine e biologico: ingredienti 100% naturali senza OGM; capsule di matcha biologico in alluminio riciclato per unesperienza più sostenibile, 60 porzioni.
 - Energia naturale e duratura: ogni capsula di matcha fornisce 51 mg di caffeina da matcha biologico di grado cerimoniale per unenergia equilibrata e costante senza bruschi cali.
+- Gusto morbido, mai amaro: aroma ricco e delicatamente erbaceo con il perfetto equilibrio tra dolcezza naturale e leggere note vegetali, tipico del matcha di alta qualità, mai amaro o astringente.
+- Capsule compatibili con Nespresso: capsule matcha compatibili con macchine Nespresso e altre macchine compatibili; prepara in pochi secondi tè matcha o un cremoso matcha latte a casa.
 - Matcha biologico di grado cerimoniale: matcha puro ottenuto da foglie di tè verde coltivate allombra e macinate in una polvere ultra-fine per unautentica esperienza di matcha senza additivi.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

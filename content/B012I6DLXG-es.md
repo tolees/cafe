@@ -29,12 +29,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - INTENSIDAD: La intensidad 5 y el tueste medio brindan un color cálido a este café, para un espresso con una espuma dorada
-- El término italiano “torrefatto” que aparece en el envase original significa “tostado” y no se refiere de ninguna manera a una variedad de café torrefacto
-- LAVAZZA: El Grupo Lavazza opera en todos los sectores de la industria del café, ofreciendo productos de alta calidad y obtenidos a través de un modelo sostenible que se basa en la innovación, la pasión y la experiencia
 - NOTAS AROMÁTICAS: Espresso Italiano Classico es caracterizado por notas aromáticas de caramelo y chocolate, para un café espresso con un sabor suave y rico
-- ESPRESSO ITALIANO CLASSICO: El café molido natural Lavazza ideal para un espresso definitivo para disfrutar a cualquier hora del día. Para utilizar con cafetera Italiana, de filtro y francesa
 - CAFÉ NATURAL: Todos los cafés en grano y molido de Lavazza son de tueste natural
 - VARIEDAD: Esta selección de café Lavazza está elaborada con café 100% Arábica procedente de África y Centro y Sudamérica
+- ESPRESSO ITALIANO CLASSICO: El café molido natural Lavazza ideal para un espresso definitivo para disfrutar a cualquier hora del día. Para utilizar con cafetera Italiana, de filtro y francesa
+- LAVAZZA: El Grupo Lavazza opera en todos los sectores de la industria del café, ofreciendo productos de alta calidad y obtenidos a través de un modelo sostenible que se basa en la innovación, la pasión y la experiencia
+- El término italiano “torrefatto” que aparece en el envase original significa “tostado” y no se refiere de ninguna manera a una variedad de café torrefacto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B012I6DLXG{{</world>}}
