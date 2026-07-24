@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'STARBUCKS Explorer Pack de Cafés Descafeinados de Nespresso Cápsulas de Café 6 x 10 60 Cápsulas - Exclusivo en Amazon'
+date: 2026-06-08 23:46:50
+image: 'https://m.media-amazon.com/images/I/514Zbq9j4SL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CNY1R1TQ-es STARBUCKS Explorer Pack de Cafés Descafeinados de...'
+sku: 'B0CNY1R1TQ-es'
+tags: [ 'nespresso','🇪🇸', ]
+actualPrice: 17.88 EUR
+currency: EUR
+price: 17.88
+comparePrice: 24.38 EUR
+prodname: 'STARBUCKS Explorer Pack de Cafés Descafeinados de Nespresso Cápsulas de Café 6 x 10 60 Cápsulas - Exclusivo en Amazon'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0CNY1R1TQ/?tag=tolees-21'
+descuento: '26.66'
+average: '18.435'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- Café 100% Arábica, de tueste suave e intenso
+- Cápsulas hechas con al menos 80% de aluminio reciclado
+- STARBUCKS Explorer pack de cafés descafeinados by Nespresso, 60 cápsulas
+- Prepáralo en casa como a ti te gusta
+- Cápsulas compatibles con máquina Nespresso
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B0CNY1R1TQ{{</world>}}

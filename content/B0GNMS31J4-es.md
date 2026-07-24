@@ -1,0 +1,40 @@
+---
+layout: post
+title: 'Krups Harmony Cafetera Superautomática 4 Bebidas de café y leche Espumador De Leche Limpieza automática Funcioón de doble taza Compacta Color carbón EA508BE0'
+date: 2026-06-20 03:48:08
+image: 'https://m.media-amazon.com/images/I/41W2cFEbzyL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0GNMS31J4-es Krups Harmony Cafetera Superautomática 4 Bebidas de café y...'
+sku: 'B0GNMS31J4-es'
+tags: [ 'cafetera','🇪🇸', ]
+actualPrice: 239.99 EUR
+currency: EUR
+price: 239.99
+comparePrice: 279.99 EUR
+prodname: 'Krups Harmony Cafetera Superautomática 4 Bebidas de café y leche Espumador De Leche Limpieza automática Funcioón de doble taza Compacta Color carbón EA508BE0'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0GNMS31J4/?tag=tolees-21'
+descuento: '14.29'
+average: '247.99'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- 4 BEBIDAS DE CAFÉ Y LECHE: empieza con granos recién molidos y disfruta de espresso, lungo o café de filtro, o prepara cappuccino con la función de vapor
+- FÁCIL DE USAR: selección directa de bebidas y acceso sencillo a los ajustes mediante una interfaz intuitiva
+- ESPUMADOR DE LECHE MANUAL: consigue una espuma fina y delicada para cappuccinos y lattes, con un espumador fácil de limpiar
+- FUNCION E DOBLE TAZA: disfruta de dos cafés a la vez con esta función, pensada para compartir
+- REPARABILIDAD DURANTE 15 AÑOS A COSTE RAZONABLE: te recomendamos reparar tu producto en nuestra red de 6.200 centros de reparación en todo el mundo para que dure más
+- LIMPIEZA 100% AUTOMATICA: siempre limpia con mantenimiento profundo automatizado, sin desmontar y con una sola pastilla de limpieza, 3 veces al año
+- TAMAÑO COMPACTO: el diseño compacto y elegante encaja en cualquier hogar
+
+[🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B0GNMS31J4{{</world>}}
