@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- INTENSIDADES 6 a 9 - Decafeinato (intensidad 6), Ristretto (intensidad 9)
 - 80 CÁPSULAS - 80 Cápsulas de Aluminio compatibles con las cafeteras L’OR Barista y con máquinas Nespresso* (*Marca de una compañía no relacionada con Jacobs Douwe Egberts).
 - ¿QUÉ CONTIENE? - Este pack contiene los productos: Decafeinato y Ristretto
-- INTENSIDADES 6 a 9 - Decafeinato (intensidad 6), Ristretto (intensidad 9)
 - CAFÉ 100% CERTIFICADO - Elaboradas con café sostenible bajo el programa de Sostenibilidad Common Grounds que garantiza un Origen Responsable.
 - CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el cappuccino o el latte.
 

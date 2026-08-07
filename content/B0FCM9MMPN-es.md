@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- 20 Bar de Extracción Profesional – Esta máquina de café espresso con bomba italiana ofrece un sabor intenso como en cafetería. Una cafetera express ideal para casa.
-- 1 o 2 Tazas a Elección – La cafetera express permite ajustar la extracción y controlar la intensidad.
 - Varilla de Vapor Inox Ajustable – Con esta cafetera espresso prepara espuma cremosa para cappuccino y latte.
 - 1350W Calentamiento Rápido – El sistema de esta cafetera espresso reduce el precalentamiento para disfrutar café al instante. Perfecta cafetera express para la cocina.
+- 20 Bar de Extracción Profesional – Esta máquina de café espresso con bomba italiana ofrece un sabor intenso como en cafetería. Una cafetera express ideal para casa.
+- 1 o 2 Tazas a Elección – La cafetera express permite ajustar la extracción y controlar la intensidad.
 - Diseño Compacto y Moderno – Esta máquina de café espresso ahorra espacio y combina con cualquier cocina.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

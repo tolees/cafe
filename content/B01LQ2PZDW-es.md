@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - La olla está hecha de vidrio de borosilicato insípido.
-- La funda extraíble protege las manos del cristal caliente.
 - El agua caliente se distribuye lenta y uniformemente sobre el café en polvo para realzar mejor el sabor.
+- La funda extraíble protege las manos del cristal caliente.
 - Filtro permanente de acero inoxidable: no es necesario seguir comprando filtros de papel.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

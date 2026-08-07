@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Las cápsulas de café, Nespresso, son de aluminio infinitamente reciclables. Nespresso está trabajando para garantizar que sus cápsulas estén hechas con un 80 % de aluminio reciclado
-- Una selección de los mejores Arábicas de América Central y del Sur, con perfiles afrutados o de malta, característicos de los cafés costarricenses
 - Cápsulas de café con intensas notas tostadas junto con notas sutiles de cacao y matices de madera. Intensidad 9 sobre 13
 - Arpeggio es sometido a un tueste intenso para revelar las características de cada origen. El molido fino de los granos permite desarrollar su cuerpo denso
+- Las cápsulas de café, Nespresso, son de aluminio infinitamente reciclables. Nespresso está trabajando para garantizar que sus cápsulas estén hechas con un 80 % de aluminio reciclado
+- Una selección de los mejores Arábicas de América Central y del Sur, con perfiles afrutados o de malta, característicos de los cafés costarricenses
 - Pack de 200 Cápsulas de Café Arpeggio Nespresso Original. Una obra maestra de tueste breve y oscuro que solo puede salir del corazón
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

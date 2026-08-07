@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: Nespresso
 - Nespresso Professional Classics Ristretto Intensivo
-- Paquete de 50 unidades
 - Tipo de producto: CAFÉ
+- Paquete de 50 unidades
+- Marca: Nespresso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B09JKXXKS6{{</world>}}

@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- INCLUYE: jarra para espumar con batidor integrado, molinillo, cepillo de limpieza, portafiltro, filtros Double y Luxe, embudo, prensador asistido, kit de limpieza y manual de recetas
+- DIMENSIONES: 33,6 x 37,2 x 34,4 cm. PESO: 16,65 kg.
 - TECNOLOGÍA BARISTA ASSIST: combina un control preciso de la presión, la báscula integrada y recomendaciones automáticas para guiar cada preparación y conseguir resultados consistentes taza tras taza
 - PARA ESPRESSO Y CAFÉ DE FILTRO: prepara espresso y café de filtro con una cafetera diseñada para disfrutar de recetas equilibradas y bebidas de calidad barista en casa fácilmente
-- EXPERIENCIA BARISTA PERSONALIZADA: ajusta la molienda con 25 configuraciones y prepara cafés adaptados a tu gusto con un panel intuitivo diseñado para un uso diario
-- DIMENSIONES: 33,6 x 37,2 x 34,4 cm. PESO: 16,65 kg.
 - ESPUMADO AUTOMÁTICO: vaporiza y bate la leche o bebida vegetal para crear una espuma cremosa con 2 ajustes automáticos para latte y cappuccino
-- INCLUYE: jarra para espumar con batidor integrado, molinillo, cepillo de limpieza, portafiltro, filtros Double y Luxe, embudo, prensador asistido, kit de limpieza y manual de recetas
+- EXPERIENCIA BARISTA PERSONALIZADA: ajusta la molienda con 25 configuraciones y prepara cafés adaptados a tu gusto con un panel intuitivo diseñado para un uso diario
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DFWRHZ7L{{</world>}}

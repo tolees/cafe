@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - PREPARA TU BEBIDA EN TU TAZA FAVORITA: La bandeja antigoteo ajustable se adapta a la altura que prefieras
 - MANTENIMIENTO SIN ESFUERZO: Mantén el mejor sabor de tu café gracias a un sistema de limpieza fácil con piezas extraíbles y lavables
-- ESPUMA CUALQUIER LECHE: La tecnología de autoespumado crea microespuma aterciopelada y suave, sin necesidad de intervención, con leches de origen animal y vegetal.
 - LA DOSIS ÓPTIMO CADA VEZ: Los preajustes para preparar café en dosis simples y dobles ofrecen la cantidad exacta de café en cada vertido.
+- ESPUMA CUALQUIER LECHE: La tecnología de autoespumado crea microespuma aterciopelada y suave, sin necesidad de intervención, con leches de origen animal y vegetal.
 - CAFÉ EXCEPCIONAL DE FORMA SENCILLA: Disfruta de deliciosos espressos, capuchinos, lattes y más con solo presionar un botón
 
 [🛒 Aquí!!!]({{< param buyurl >}})

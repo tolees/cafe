@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- Opciones de 1 o 2 dosis, así como control manual; depósito de agua de 2,8 l; apto para preparar expreso, americano, latte, café con leche y muchas variedades más
 - Controles fáciles de usar con características comerciales para un café siempre excelente
 - Muele los granos directamente en el portafiltro para obtener un café recién molido con el máximo sabor y sin desperdicios
-- Opciones de 1 o 2 dosis, así como control manual; depósito de agua de 2,8 l; apto para preparar expreso, americano, latte, café con leche y muchas variedades más
 - Café sublime de forma sencilla. Disfrute en casa del mejor café de cafetería en 3 sencillos pasos: moler, extraer y texturizar la leche
 - El exclusivo 3-Way System proporciona un calentamiento rápido, una temperatura precisa y estable y una extracción uniforme para ofrecerle un sabor completo y equilibrado
 

@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- VARIEDAD DE CAFÉS: Nespresso ofrece una amplia variedad de cafés para satisfacer todos los gustos en cualquier momento del día
-- DISEÑO COMPACTO: la Essenza Mini combina un diseño elegante y compacto con facilidad de uso para preparar un espresso perfecto; fácil de colocar en cualquier cocina o espacio
-- AHORRO DE ENERGÍA: modo de espera eco después de 2 minutos y apagado automático tras 9 minutos de inactividad para ahorrar energía
 - ALTAS PRESTACIONES: bomba de alta presión de 19 bares y sistema de calentamiento rápido en menos de 30 segundos;
 - FÁCIL DE USAR: 2 selecciones de café programables para preparaciones Espresso y Lungo y con apagado automático
+- AHORRO DE ENERGÍA: modo de espera eco después de 2 minutos y apagado automático tras 9 minutos de inactividad para ahorrar energía
+- DISEÑO COMPACTO: la Essenza Mini combina un diseño elegante y compacto con facilidad de uso para preparar un espresso perfecto; fácil de colocar en cualquier cocina o espacio
+- VARIEDAD DE CAFÉS: Nespresso ofrece una amplia variedad de cafés para satisfacer todos los gustos en cualquier momento del día
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0G36BS9YH{{</world>}}

@@ -28,9 +28,9 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Notas aromaticas tostadas
-- Fácil y rápido de preparar
 - Una vez abierto conservar en un recipiente hermético
+- Fácil y rápido de preparar
+- Notas aromaticas tostadas
 - Perfil equilibrado en intensidad, cuerpo redondo y persistencia en el paladar
 - Café de tueste natural superior
 

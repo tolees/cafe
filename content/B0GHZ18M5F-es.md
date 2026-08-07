@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- AMPLIA VARIEDAD DE BEBIDAS: prepara desde cafés intensos y aromáticos hasta chocolates cremosos, lattes suaves y tés reconfortantes, todo con cápsulas fáciles de usar
 - CAFÉ DE CALIDAD DE CAFETERÍA EN CASA: disfruta bebidas estilo coffee shop, café solo, con leche, chocolate y más, preparados en segundos y con una crema perfecta gracias a sus 15 bares de presión
 - MANEJO INTUITIVO Y SENCILLO: selecciona tu bebida con botones fáciles de usar que sustituyen la palanca clásica, ofreciendo una preparación rápida y sin complicaciones
 - DISEÑO ULTRACOMPACTO PARA CUALQUIER ESPACIO: la Mini Me 2 ocupa muy poco espacio y encaja perfectamente en cocinas pequeñas, oficinas o zona de café sin renunciar al rendimiento
-- AMPLIA VARIEDAD DE BEBIDAS: prepara desde cafés intensos y aromáticos hasta chocolates cremosos, lattes suaves y tés reconfortantes, todo con cápsulas fáciles de usar
 - FABRICADA CON MATERIALES RECICLADOS: su diseño con al menos un 30% de materiales reciclados te permite disfrutar de tu café cuidando al mismo tiempo del medio ambiente
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

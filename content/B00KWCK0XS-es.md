@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- COMPATIBILIDAD - Estas cápsulas, llamadas T DISCs han sido diseñadas especialmente para el sistema Tassimo.
-- CARAMELO Y NUECES - Disfruta de un café dulce y cremoso con la gama Coffee Shop, una deliciosa variedad de café con sabor a caremalo y nueces una deliciosa capa de espuma de leche.
 - CÁPSULAS CAFÉ LARGO - La cápsula tiene el tamaño indicado para poder preparar un café largo.
-- TECNOLOGÍA INTELLIBREW - Las cápsulas cuentan con un código de barras en la parte superior que es leído por la cafetera Tassimo para obtener la información necesaria para preparar la bebida con la temperatura idónea, la cantidad de agua necesaria y el tiempo de preparación justo.
+- CARAMELO Y NUECES - Disfruta de un café dulce y cremoso con la gama Coffee Shop, una deliciosa variedad de café con sabor a caremalo y nueces una deliciosa capa de espuma de leche.
 - 5 PAQUETES DE 8 CÁPSULAS - 40 Cápsulas de Café Exclusivamente Compatibles con Cafeteras TASSIMO. Introduce la cápsula, presiona el botón y disfruta de un delicioso café con sabor a caramelo y nueces.
+- COMPATIBILIDAD - Estas cápsulas, llamadas T DISCs han sido diseñadas especialmente para el sistema Tassimo.
+- TECNOLOGÍA INTELLIBREW - Las cápsulas cuentan con un código de barras en la parte superior que es leído por la cafetera Tassimo para obtener la información necesaria para preparar la bebida con la temperatura idónea, la cantidad de agua necesaria y el tiempo de preparación justo.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00KWCK0XS{{</world>}}

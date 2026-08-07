@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Capacidad del depósito de agua (1.2)
 - Depósito de agua extraible
+- Capacidad del depósito de agua (1.2)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B002Y2ZLEW{{</world>}}

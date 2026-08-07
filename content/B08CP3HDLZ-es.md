@@ -29,10 +29,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - INTENSIDAD 10 - Café molido de tueste natural con sabor intenso y pronunciado elaborado con granos de café Arábica y Robusta.
+- CÁPSULA LUNGO - La cápsula tiene el tamaño indicado para poder preparar un café largo, misma cantidad de café que un espresso pero con el doble de agua.
+- 10 PAQUETES DE 20 CÁPSULAS - 200 Cápsulas de Aluminio compatibles con las cafeteras L’OR Barista y con máquinas Nespresso (Marca de una compañía no relacionada con Jacobs Douwe Egberts)
 - FUERTE, PODEROSO Y SUTIL - La mezcla de granos da como resultado un sabor duradero y profundo.
 - CAFÉ 100% CERTIFICADO - Las cápsulas Marcilla son elaboradas con café obtenido de fincas Rainforest Alliance que contribuye a mejorar la vida de los agricultores.
-- 10 PAQUETES DE 20 CÁPSULAS - 200 Cápsulas de Aluminio compatibles con las cafeteras L’OR Barista y con máquinas Nespresso (Marca de una compañía no relacionada con Jacobs Douwe Egberts)
-- CÁPSULA LUNGO - La cápsula tiene el tamaño indicado para poder preparar un café largo, misma cantidad de café que un espresso pero con el doble de agua.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08CP3HDLZ{{</world>}}

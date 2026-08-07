@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Fabricado en Acero Cromado
-- Dispensador de diseño moderno para mantener ordenadas y a mano todas tus capsulas de café.
 - Libre de BPA
+- Dispensador de diseño moderno para mantener ordenadas y a mano todas tus capsulas de café.
 - Capacidad: 36 cápsulas compatibles Dolce Gusto
 
 [🛒 Comprar!!!]({{< param buyurl >}})

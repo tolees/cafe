@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Designer: Michele de Lucchi
-- También disponible en la versión de 6 tazas
-- Dimensión: diámetro 7.50 cm, altura 20 cm, longitud 15.20 cm, ancho 9.20 cm
 - Elegante cafetera espresso con pico en V que bloquea las gotas de café; El fondo de acero magnético también lo hace adecuado para placas de inducción
 - Material: aluminio fundido, mango y pomo en PA. Fondo en acero magnético
+- Dimensión: diámetro 7.50 cm, altura 20 cm, longitud 15.20 cm, ancho 9.20 cm
+- También disponible en la versión de 6 tazas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B06WP6PGBR{{</world>}}

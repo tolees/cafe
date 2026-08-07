@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Respetuoso con el medio ambiente, ya que no filtro de papel o plástico cápsulas son necesarias
 - Tetera de no transmite sabores y vidrio de borosilicato resistente al calor, mango y tapa de plástico para un manejo seguro
+- Respetuoso con el medio ambiente, ya que no filtro de papel o plástico cápsulas son necesarias
 - La cromados piernas del marco proteger la superficie contra daños por calor
 - Con el típico Bodum Press sistema de filtro para un fantasioso café aromático
 
