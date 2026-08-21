@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'KRUPS Dolce Gusto Piccolo XS Cafetera Cápsulas + Café Negra'
+date: 2026-08-07 08:41:49
+image: 'https://m.media-amazon.com/images/I/41LqhXMBgIL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B0CG6FZZGX-es KRUPS Dolce Gusto Piccolo XS Cafetera Cápsulas + Café Negra'
+sku: 'B0CG6FZZGX-es'
+tags: [ 'cafetera','dolce','gusto','🇪🇸', ]
+actualPrice: 54.0 EUR
+currency: EUR
+price: 54.0
+comparePrice: 84.99 EUR
+prodname: 'KRUPS Dolce Gusto Piccolo XS Cafetera Cápsulas + Café Negra'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B0CG6FZZGX/?tag=tolees-21'
+descuento: '36.46'
+average: '55.3329032258067'
+---
+
+Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+ℹ️:
+
+- DEPÓSITO DE 0,8 L Y MODO ECO con función frío/caliente y apagado automático tras 1 minuto para una eficiencia energética de categoría A
+- CÁPSULAS HERMÉTICAS Y CALENTAMIENTO RÁPIDO que conservan aroma y cremosidad; lista para usar en tan solo 40 segundos
+- MÁS DE 30 BEBIDAS DISPONIBLES desde espresso intenso y gran lungo hasta cappuccino, chocolate caliente, tés y bebidas frías
+- CAFETERA DE CÁPSULAS DE 1340–1600 W con tecnología manual: introduce la cápsula y mueve la palanca para preparar tu bebida favorita con un solo gesto
+- CAFÉ DE CALIDAD PROFESIONAL gracias a su sistema de alta presión de hasta 15 bares y bandeja de goteo ajustable en 3 niveles
+
+[🛒 Ver la oferta!!]({{< param buyurl >}})
+{{<world>}}B0CG6FZZGX{{</world>}}
