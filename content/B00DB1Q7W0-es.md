@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mezcla de arábiga y vainilla, caramelo y chocolate.
-- Cápsulas de café Nespresso 100% originales.
-- Variedades.
 - Intensidad: 6.
+- Variedades.
+- Cápsulas de café Nespresso 100% originales.
+- Mezcla de arábiga y vainilla, caramelo y chocolate.
 - 10 cápsulas Vanilio, 10 cápsulas Caramelito y 10 cápsulas Ciocattino.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

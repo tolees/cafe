@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Capacidad para 4 tazas de café
+- Se puede utilizar en cocinas de: gas, eléctricas, vitrocerámica e inducción
 - Interior de fácil limpieza y mango ergonómico
 - Dispone de válvula de seguridad
-- Se puede utilizar en cocinas de: gas, eléctricas, vitrocerámica e inducción
+- Capacidad para 4 tazas de café
 - Cafetera italiana de acero inoxidable
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

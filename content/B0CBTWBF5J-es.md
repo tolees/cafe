@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para descansos en la oficina: descansos de café ideal a base de café americano tanto en casa como en la oficina;
-- Hasta 15 tazas: la capacidad de la jarra de vidrio templado le permite preparar hasta 15 tazas de café americano;
-- Toque de diseño moderno: apto para cualquier cocina por sus líneas suaves y colores intensos y atrevidos
 - Sirva cuando usted quiere: una vez que la jarra esté lista, usted puede dejarla en la base de calentamiento para mantener la temperatura del café caliente;
 - Fácil de limpiar: los filtros son extraíbles para garantizar una limpieza eficaz bajo el agua corriente
+- Hasta 15 tazas: la capacidad de la jarra de vidrio templado le permite preparar hasta 15 tazas de café americano;
+- Para descansos en la oficina: descansos de café ideal a base de café americano tanto en casa como en la oficina;
+- Toque de diseño moderno: apto para cualquier cocina por sus líneas suaves y colores intensos y atrevidos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CBTWBF5J{{</world>}}

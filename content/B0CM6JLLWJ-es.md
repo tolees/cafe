@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Prepáratelo en casa como a tí te gusta
-- Empieza el día con el café STARBUCKS Toffee Nut Flavoured Coffee by NESPRESSO STARBUCKS BLONDE Café tostado
 - Tueste suave con notas de toffee dulce y nueces tostadas que deja una sensación aterciopelada en el paladar
+- Empieza el día con el café STARBUCKS Toffee Nut Flavoured Coffee by NESPRESSO STARBUCKS BLONDE Café tostado
 - Compromiso de abastecimiento de café 100 % ético en colaboración con Conservation International
 - Creado a partir de granos de café arábica de óptima calidad
 

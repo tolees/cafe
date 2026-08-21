@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Luz indicador de encendido y nivel de agua visible con marcas
-- Jarra de 1,25 l para una capacidad aproximada de 12 tazas
-- Utiliza filtros de papel de un solo uso o reutilizables (no incluidos)
 - Dispositivo antigoteo de salida del café
+- Jarra de 1,25 l para una capacidad aproximada de 12 tazas
 - Función Auto Off: mantiene el café caliente durante 30 min, pasado el tiempo se apaga por seguridad
+- Utiliza filtros de papel de un solo uso o reutilizables (no incluidos)
+- Luz indicador de encendido y nivel de agua visible con marcas
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B00NO340NI{{</world>}}

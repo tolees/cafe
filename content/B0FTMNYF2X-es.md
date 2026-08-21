@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- LAVAZZA: El Grupo Lavazza opera en todos los sectores de la industria del café, ofreciendo productos de alta calidad, obtenidos a través de un modelo sostenible basado en la innovación, la pasión y la competencia
 - INTENSIDAD: El tueste medio y la intensidad 12/13 aportan un sabor persistente y equilibrado a esta mezcla, creando una crema dorada y de color cálido
+- LAVAZZA: El Grupo Lavazza opera en todos los sectores de la industria del café, ofreciendo productos de alta calidad, obtenidos a través de un modelo sostenible basado en la innovación, la pasión y la competencia
 - A MODO MIO CREMA E GUSTO RISVEGLIO CLASSICO: Una mezcla de café Lavazza ideal para un espresso con cuerpo y aromático. Cápsulas compatibles con máquinas A Modo Mio
 - NOTAS AROMÁTICAS: Esta selección de café se caracteriza por notas aromáticas de chocolate y frutos secos, para un sabor equilibrado y persistente
 - BLEND: Las cápsulas A Modo Mio Crema e Gusto Classico de Lavazza están elaboradas con café Arábica y Robusta procedente de Brasil, África y el Sudeste Asiático

@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Interior de fácil limpieza
 - Tiene válvula de seguridad
 - Se utiliza para gas, eléctrico, vitrocerámica
-- Interior de fácil limpieza
 - Incorpora un mango ergonómico
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

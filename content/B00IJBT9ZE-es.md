@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'L OR Cápsulas de Café Lungo Profondo | Intensidad 8 | 80 Cápsulas Compatibles Tassimo'
-date: 2026-06-09 13:25:20
+title: 'Tassimo L OR Café Lungo Profondo | 80 Cápsulas'
+date: 2026-08-20 14:35:39
 image: 'https://m.media-amazon.com/images/I/41m200SjCAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B00IJBT9ZE-es L OR Cápsulas de Café Lungo Profondo | Intensidad 8 | 80...'
+slug: 'B00IJBT9ZE-es Tassimo L OR Café Lungo Profondo | 80 Cápsulas'
 sku: 'B00IJBT9ZE-es'
 tags: [ 'tassimo','🇪🇸', ]
-actualPrice: 34.63 EUR
+actualPrice: 29.1 EUR
 currency: EUR
-price: 34.63
+price: 29.1
 comparePrice: 35.95 EUR
-prodname: 'L OR Cápsulas de Café Lungo Profondo | Intensidad 8 | 80 Cápsulas Compatibles Tassimo'
+prodname: 'Tassimo L OR Café Lungo Profondo | 80 Cápsulas'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IJBT9ZE/?tag=tolees-21'
-descuento: '3.67'
-average: '24.6094444444445'
+descuento: '19.05'
+average: '25.0585000000001'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café espresso para disfrutar solo, con leche o con hielo.
+- TECNOLOGÍA INTELLIBREW - Las cápsulas cuentan con un código de barras en la parte superior que es leído por la cafetera Tassimo para obtener la información necesaria para preparar la bebida con la temperatura idónea, la cantidad de agua necesaria y el tiempo de preparación justo.
 - INTENSO Y ELEGANTE - LOR Lungo Profondo tiene un sabor intenso (intensidad 8 en una escala del 1 al 13) con notas a almendras tostadas y crema de color bronce con notas de caramelo.
 - COMPATIBILIDAD - Estas cápsulas, llamadas T DISCs han sido diseñadas especialmente para el sistema Tassimo.
-- TECNOLOGÍA INTELLIBREW - Las cápsulas cuentan con un código de barras en la parte superior que es leído por la cafetera Tassimo para obtener la información necesaria para preparar la bebida con la temperatura idónea, la cantidad de agua necesaria y el tiempo de preparación justo.
 - 5 PAQUETES DE 16 CÁPSULAS - 80 Cápsulas de Café Exclusivamente Compatibles con Cafeteras TASSIMO. Introduce la cápsula, presiona el botón y disfruta de su aroma a almendras tostadas.
-- CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café espresso para disfrutar solo, con leche o con hielo.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00IJBT9ZE{{</world>}}

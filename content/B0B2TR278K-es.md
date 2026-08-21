@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Double Wall Insulated: Keeps beverages hot or cold for hours
-- Leakproof: Two reusable straws and a clear flip lid that twists on for drinking hand preference
-- Cupholder Friendly: Travel coffee mug made from durable stainless steel
 - Dishwasher Safe
+- Double Wall Insulated: Keeps beverages hot or cold for hours
+- Cupholder Friendly: Travel coffee mug made from durable stainless steel
+- Leakproof: Two reusable straws and a clear flip lid that twists on for drinking hand preference
 - Limited Lifetime Warranty & Patent Pending
 
 [🛒 Aquí!!!]({{< param buyurl >}})

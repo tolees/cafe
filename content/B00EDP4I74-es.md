@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Cápsulas 100% reciclables depositándolas en nuestros puntos de recogida NESCAFÉ Dolce Gusto
-- Máquina Express: sistema de café profesional de hasta 15 bares de presión
 - Cápsulas inteligentes Su sellado hermético mantiene el café fresco conservando todos sus aromas
-- Café gourmet seleccionando los orígenes de mayor calidad con el inconfundible sabor NESCAFÉ Dolce Gusto
-- Descubre nuestras más de 30 variedades de cápsulas de café, té, chocolate y especialidades de espresso con leche
+- Máquina Express: sistema de café profesional de hasta 15 bares de presión
+- Cápsulas 100% reciclables depositándolas en nuestros puntos de recogida NESCAFÉ Dolce Gusto
 - Las cápsulas Dolce Gusto Marrakesh Style Tea tienen aromas de la menta fresca y té caliente,
+- Descubre nuestras más de 30 variedades de cápsulas de café, té, chocolate y especialidades de espresso con leche
+- Café gourmet seleccionando los orígenes de mayor calidad con el inconfundible sabor NESCAFÉ Dolce Gusto
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00EDP4I74{{</world>}}

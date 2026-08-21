@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lavazza Espresso Maestro Ristretto 30 Cápsulas de Café Compatibles con Máquinas Nespresso Original con Notas Aromáticas de Chocolate y Caramelo Arábica y Robusta Intensidad 12/13 Tueste Oscuro'
-date: 2026-07-24 07:43:22
+date: 2026-08-21 10:13:12
 image: 'https://m.media-amazon.com/images/I/41ncKyBM1FL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0B1LPQFRP-es Lavazza Espresso Maestro Ristretto 30 Cápsulas de Café...'
 sku: 'B0B1LPQFRP-es'
 tags: [ 'nespresso','🇪🇸', ]
-actualPrice: 10.9 EUR
+actualPrice: 6.31 EUR
 currency: EUR
-price: 10.9
-comparePrice: 12.99 EUR
+price: 6.31
+comparePrice: 10.9 EUR
 prodname: 'Lavazza Espresso Maestro Ristretto 30 Cápsulas de Café Compatibles con Máquinas Nespresso Original con Notas Aromáticas de Chocolate y Caramelo Arábica y Robusta Intensidad 12/13 Tueste Oscuro'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0B1LPQFRP/?tag=tolees-21'
-descuento: '16.09'
-average: '9.12529411764706'
+descuento: '42.11'
+average: '8.82894736842105'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- NOTAS AROMÁTICAS: Esta selección de café se caracteriza por notas aromáticas de chocolate y caramelo, para un café fuerte
 - ESPRESSO MAESTRO RISTRETTO: Café cortado, fuerte, Ristretto. 30 cápsulas de aluminio compatibles con las máquinas Nespresso*. *Lavazza no está afiliada, avalada ni patrocinada por Nespresso
 - VARIEDAD: Las cápsulas Espresso Maestro Ristretto de Lavazza están elaboradas a partir de café Arábica y Robusta de América Central y del Sur y de Asia
 - INTENSIDAD: El tueste oscuro y la intensidad 12/13 dan un sabor intenso a este café, creando una crema oscura
-- NOTAS AROMÁTICAS: Esta selección de café se caracteriza por notas aromáticas de chocolate y caramelo, para un café fuerte
 - LAVAZZA: Lavazza está presente en todos los ámbitos de la industria del café y ofrece productos de alta calidad, frutos de un modelo sostenible basado en la innovación, la pasión y la experiencia
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
