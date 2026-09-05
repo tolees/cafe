@@ -1,0 +1,38 @@
+---
+layout: post
+title: 'Tassimo Marcilla Café con Leche | 80 Cápsulas | Amazon Exclusive'
+date: 2026-08-26 17:38:48
+image: 'https://m.media-amazon.com/images/I/41nNoDJ2WhL._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B00O214UKO-es Tassimo Marcilla Café con Leche | 80 Cápsulas | Amazon...'
+sku: 'B00O214UKO-es'
+tags: [ 'tassimo','🇪🇸', ]
+actualPrice: 23.2 EUR
+currency: EUR
+price: 23.2
+comparePrice: 27.9 EUR
+prodname: 'Tassimo Marcilla Café con Leche | 80 Cápsulas | Amazon Exclusive'
+country: 'es'
+flag: '🇪🇸'
+brand: ''
+buyurl: 'https://www.amazon.es/dp/B00O214UKO/?tag=tolees-21'
+descuento: '16.85'
+average: '23.7576763485476'
+---
+
+Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
+
+[![{{< param prodname >}}]({{< param image >}})]({{< param buyurl >}})
+
+🔎:
+
+- 5 PAQUETES DE 16 CÁPSULAS - 80 Cápsulas de Café Exclusivamente Compatibles con Cafeteras TASSIMO. Introduce la cápsula, presiona el botón y disfruta de un delicioso café lleno de aroma y sabor.
+- COMPATIBILIDAD - Estas cápsulas, llamadas T DISCs han sido diseñadas especialmente para el sistema Tassimo.
+- TECNOLOGÍA INTELLIBREW - Las cápsulas cuentan con un código de barras en la parte superior que es leído por la cafetera Tassimo para obtener la información necesaria para preparar la bebida con la temperatura idónea, la cantidad de agua necesaria y el tiempo de preparación justo.
+- CREMOSO E INTENSO - Marcilla Con Leche es un café de tueste natural que se caracteriza por una mezcla de un café con sabor intenso y leche que aporta la cremosidad.
+- CÁPSULA CAFÉ LARGO - Disfruta de un café con leche largo con todo el sabor y aroma del café recién hecho para tus desayunos.
+
+[🛒 Comprar!!!]({{< param buyurl >}})
+{{<world>}}B00O214UKO{{</world>}}
