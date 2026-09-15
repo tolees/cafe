@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Función de autoapagado tras 9 minutos de inactividad
-- Compacta, ligera y con asa ergonómica
 - Sistema de calentamiento rápido Thermoblock: lista para usar en 25 segundos
-- Parada de flujo automático Flow Stop: 2 botones programables (espresso y lungo)
-- Bomba de presión de 19 bares
 - Clase de eficiencia energética: A +
+- Parada de flujo automático Flow Stop: 2 botones programables (espresso y lungo)
+- Compacta, ligera y con asa ergonómica
+- Bomba de presión de 19 bares
+- Función de autoapagado tras 9 minutos de inactividad
 - Disponible en color negro, naranja, crema y blanco
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

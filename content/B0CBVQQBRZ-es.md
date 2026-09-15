@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- BeanMaestro: Ajusta automáticamente los parámetros de preparación para obtener el mejor sabor y aroma de los granos de café elegidos.
 - LattePerfetto: la jarra de leche externa con nuestra tecnología LattePerfetto produce una espuma de leche densa con una textura fina y sedosa.
 - Molinillo 100% cerámico de alta calidad - Con 12 ajustes para que puedas moler el grano de café a tu gusto, desde polvo ultrafino para un espresso intenso hasta trozos más gruesos para un café americano.
-- CoffeeEqualizer Touch+: Personaliza tu café exactamente según tus preferencias de sabor ajustando intensidad, cantidad de café y leche, temperatura, sabor y cantidad de espuma de leche
 - 22 Deliciosos cafés: descubre un mundo de café que satisface todos los gustos y se adapta a todos los momentos, con 22 deliciosas variedades para elegir.
-- BeanMaestro: Ajusta automáticamente los parámetros de preparación para obtener el mejor sabor y aroma de los granos de café elegidos.
+- CoffeeEqualizer Touch+: Personaliza tu café exactamente según tus preferencias de sabor ajustando intensidad, cantidad de café y leche, temperatura, sabor y cantidad de espuma de leche
 - Filtro Aquaclean: Sustitúyelo cuando te avise y no necesitarás descalcificar la máquina hasta después de 5000 tazas [2], mientras disfrutas de tu café con agua libre de cal y purificada.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

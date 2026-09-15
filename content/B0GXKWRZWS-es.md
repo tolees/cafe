@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Cafetera express para café espresso y cappuccino, prepara todo tipo de cafés con solo pulsar un botón, bomba de presión de 20 bares y 850 W de potencia.
 - Superficie calientatazas para almacenar y calentar las tazas, incluye cucharilla dosificadora con prensador para el café, bandeja de goteo desmontable para facilitar su limpieza.
+- Brazo con doble salida y 2 portafiltros para preparar 1 o 2 cafés a la vez, apta para uso con café molido, depósito de agua extraíble con capacidad de 1,5 litros.
 - Consigue la mejor crema y el máximo aroma, incluye vaporizador orientable con protección para su uso: espumar leche, emitir agua caliente para infusiones o calentar líquidos.
 - Válvula de seguridad que libera automáticamente la presión, indicadores luminosos en cada función.
-- Brazo con doble salida y 2 portafiltros para preparar 1 o 2 cafés a la vez, apta para uso con café molido, depósito de agua extraíble con capacidad de 1,5 litros.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GXKWRZWS{{</world>}}

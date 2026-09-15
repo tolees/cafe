@@ -30,8 +30,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - QUALITÀ ORO: Qualità Oro, la auténtica esencia de la elegancia. 60 Cápsulas de aluminio compatibles con las máquinas Nespresso* *Lavazza no está afiliada a, ni promovida ni patrocinada por Nespresso
 - LAVAZZA: El Grupo Lavazza opera en todos los sectores de la industria del café, ofreciendo productos de alta calidad, obtenidos a través de un modelo basado en innovación, pasión y competencia
-- NOTAS AROMÁTICAS: Estas cápsulas de café son ideales para un espresso de sabor elegante, con notas aromáticas frutales y florales
 - BLEND: Las cápsulas Qualità Oro de Lavazza están elaboradas con café 100% Arábica procedente de Centro y Sudamérica
+- NOTAS AROMÁTICAS: Estas cápsulas de café son ideales para un espresso de sabor elegante, con notas aromáticas frutales y florales
 - INTENSIDAD: El tueste claro y la intensidad 8/13 aportan un sabor dulce y delicado a esta particular mezcla, creando un café de crema clara
 
 [🛒 Aquí!!!]({{< param buyurl >}})

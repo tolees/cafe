@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para disfrutar de café recién hecho incluso en movimiento
 - Preparación rápida en solo 2 minutos
+- Para disfrutar de café recién hecho incluso en movimiento
 - Cafetera compacta con termo (420 ml) para llevar
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

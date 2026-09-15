@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Gran versatilidad para adaptarse a todos los gustos, apta para café molido, Dolce Gusto, Nespresso, ESE pod y Senseo.
 - Depósito de agua extraíble con 700 ml de capacidad. Apta para tazas de diferentes tamaños.
-- Bandeja de goteo desmontable para facilitar una rápida limpieza. Fácil manejo con un solo toque: preajuste de 1 y 2 tazas.
 - Su potente bomba de presión con tecnología ForceAroma de 20 bares consigue la mejor crema y el máximo aroma en cada café.
 - Cafetera espresso con diseño elegante y muy compacto para los amantes del buen café. Disfruta de un café extraordinario con una potencia máxima de 1200 W. Con thermoblock.
+- Bandeja de goteo desmontable para facilitar una rápida limpieza. Fácil manejo con un solo toque: preajuste de 1 y 2 tazas.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0GF2K4CW1{{</world>}}

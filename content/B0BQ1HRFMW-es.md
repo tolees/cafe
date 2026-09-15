@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Bomba de presión de 19 bares para conseguir la mejor crema y el máximo aroma en cada café.
-- El depósito de 150 gr de café en grano hermético garantiza el mantenimiento del aroma
-- Se adapta a todos los gustos, puedes personalizar y memorizar fácilmente la cantidad y la intensidad del café.
-- Sistema de rápido calentamiento por Thermoblock que garantiza un café perfecto en tan solo unos segundos. Incluye vaporizador para espumar la leche.
 - La cafetera superautomática compacta prepara espressos y americanos de café en grano recién molido pulsando un botón gracias al sistema Plug&Play.
+- El depósito de 150 gr de café en grano hermético garantiza el mantenimiento del aroma
+- Sistema de rápido calentamiento por Thermoblock que garantiza un café perfecto en tan solo unos segundos. Incluye vaporizador para espumar la leche.
+- Se adapta a todos los gustos, puedes personalizar y memorizar fácilmente la cantidad y la intensidad del café.
+- Bomba de presión de 19 bares para conseguir la mejor crema y el máximo aroma en cada café.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BQ1HRFMW{{</world>}}

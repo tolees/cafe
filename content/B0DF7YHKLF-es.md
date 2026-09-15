@@ -29,8 +29,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Siente su aroma y sus sutiles notas a cereales tostados y frutos rojos, coronados con una delicada crema aterciopelada
-- Intensidad 5/10
 - Disfruta de la esencia de la cultura del café italiano con Espresso Bologna Descaffeinato
+- Intensidad 5/10
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0DF7YHKLF{{</world>}}

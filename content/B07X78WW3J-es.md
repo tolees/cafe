@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dosis recomendada de agua 80 ml
-- El delicioso sabor y aroma del chocolate en una pequeña cápsula de 7 gramos
-- Práctica caja de 100 capsulas, totalmente certificada con barrera de oxigeno, se pueden mantener fuera de las bolsas, no pierden su aroma. Buena elección para aquellos que usen porta capsulas o almacenamiento
-- Hechos en Italia
 - Visite nuestra BRAND STORE para descubrir toda la selección NOTE DESPRESSO enlace directo debajo del título del producto
+- Práctica caja de 100 capsulas, totalmente certificada con barrera de oxigeno, se pueden mantener fuera de las bolsas, no pierden su aroma. Buena elección para aquellos que usen porta capsulas o almacenamiento
+- El delicioso sabor y aroma del chocolate en una pequeña cápsula de 7 gramos
+- Hechos en Italia
+- Dosis recomendada de agua 80 ml
 - Compatible con cafeteras NESPRESSO
 
 [🛒 Aquí!!!]({{< param buyurl >}})

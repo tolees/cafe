@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Cafetera Espresso Cafetera Express Power Espresso 20 Matic Elite. 850 W Presión 20 Bares Depósito 1 5 Litros Vaporizador Orientable Control Digital Modo Auto Acero'
-date: 2026-09-09 21:07:25
+date: 2026-09-14 22:16:46
 image: 'https://m.media-amazon.com/images/I/4169RvhOPGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GXKXZP1N/?tag=tolees-21'
 descuento: '2.50'
-average: '79.4'
+average: '79.2333333333334'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

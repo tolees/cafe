@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Tostado medio
 - Contiene 20 porciones
-- Tostado y envasado en España
-- Apto para dietas vegetarianas y veganas
 - Café molido de tueste natural con sabor a caramelo en cápsulas compatibles con Nespresso
+- Apto para dietas vegetarianas y veganas
+- Tostado y envasado en España
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D6YM4FCS{{</world>}}
