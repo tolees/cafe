@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Nota: ¡El paquete no contiene ningún accesorio! Puedes comprar los accesorios Minipresso Kit o Minipresso Case para disfrutar de un espresso más largo, hasta 100ml, y protegerlo de arañazos. Se pueden encontrar más accesorios exclusivos en la descripción al final de esta página o en la store de WACACO.
-- ¡Necesito agregar el agua hirviendo. Minipresso GR es su mejor opción para disfrutar de hasta 50 ml de espresso auténtico en casa, en la oficina y mientras viaja
 - Simple de operar. Agregue café molido a la canasta del filtro con la ayuda de la cuchara adjunta. Aplique una ligera presión para nivelar la rutina. Agregue agua caliente al tanque de agua. Finalmente desbloquee el pistón y bombee algunos golpes para presurizar para extraer un espresso perfecto
+- Nota: ¡El paquete no contiene ningún accesorio! Puedes comprar los accesorios Minipresso Kit o Minipresso Case para disfrutar de un espresso más largo, hasta 100ml, y protegerlo de arañazos. Se pueden encontrar más accesorios exclusivos en la descripción al final de esta página o en la store de WACACO.
 - Si tiene algún problema con nuestros productos o necesita ayuda, no dude en contactarnos a través de Amazon. Le responderemos a tiempo y le daremos una solución satisfactoria
 - No necesita batería / electricidad. ¡Operación manual solamente. Compacto, liviano y versátil, puede usar cualquier variedad de café en grano / tostado
+- ¡Necesito agregar el agua hirviendo. Minipresso GR es su mejor opción para disfrutar de hasta 50 ml de espresso auténtico en casa, en la oficina y mientras viaja
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00VTA9F6U{{</world>}}

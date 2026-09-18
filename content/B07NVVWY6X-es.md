@@ -28,12 +28,12 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- NOVEDAD: El placer de un café extraordinario, el de Caffè Borbone, ahora también en las nuevas cápsulas compatibles Dolce Gusto; Caffè Borbone trae la tradición napolitana y la innovación en una cápsula autoprotegida, diseñada para garantizar un aroma intenso, una crema adecuada y un excelente resultado en taza
 - PRESENTACIÓN: 90 Cápsulas de Café
-- Cápsulas Compatibles con Nescafè* Dolce Gusto* para uso con los siguientes modelos de máquinas de café: De Longhi - Circolo, Genio, Jovia, Melody 3, Mini ME, Piccolo, Stelia; Krups - Circolo, Creativa, Drop, Fontana, KP 2000, Lumio, Melody 2, Mini ME, Movenza, Oblo, Piccolo
-- *Nescafé, *Dolce Gusto y *Nescafé Dolce Gusto son marcas registradas de Societè des Produits Nestlè S.A. Caffè Borbone SRL es un productor independiente no afiliado a Societè des Produits Nestlè S.A. La compatibilidad de las cápsulas de Caffè Borbone es funcional con máquinas de café *Nescafè *Dolce Gusto para uso doméstico
-- CARACTERÍSTICAS: Mezcla Intensa y Decidida, con predominancia de Robusta para una intensidad vibrante; Un cuerpo pleno y cremoso con notas de regaliz; Adecuada para quien busca un café enérgico y gratificante; Intensidad: 9/10
+- NOVEDAD: El placer de un café extraordinario, el de Caffè Borbone, ahora también en las nuevas cápsulas compatibles Dolce Gusto; Caffè Borbone trae la tradición napolitana y la innovación en una cápsula autoprotegida, diseñada para garantizar un aroma intenso, una crema adecuada y un excelente resultado en taza
 - MEZCLA ROJA: Para quienes aman un café audaz y auténtico, la Mezcla Roja regala una experiencia de sabor intensa y rica; Su aroma decidido la hace óptimo para los apasionados del espresso tradicional
+- *Nescafé, *Dolce Gusto y *Nescafé Dolce Gusto son marcas registradas de Societè des Produits Nestlè S.A. Caffè Borbone SRL es un productor independiente no afiliado a Societè des Produits Nestlè S.A. La compatibilidad de las cápsulas de Caffè Borbone es funcional con máquinas de café *Nescafè *Dolce Gusto para uso doméstico
+- Cápsulas Compatibles con Nescafè* Dolce Gusto* para uso con los siguientes modelos de máquinas de café: De Longhi - Circolo, Genio, Jovia, Melody 3, Mini ME, Piccolo, Stelia; Krups - Circolo, Creativa, Drop, Fontana, KP 2000, Lumio, Melody 2, Mini ME, Movenza, Oblo, Piccolo
+- CARACTERÍSTICAS: Mezcla Intensa y Decidida, con predominancia de Robusta para una intensidad vibrante; Un cuerpo pleno y cremoso con notas de regaliz; Adecuada para quien busca un café enérgico y gratificante; Intensidad: 9/10
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B07NVVWY6X{{</world>}}

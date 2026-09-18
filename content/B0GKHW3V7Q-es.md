@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Control sin esfuerzo: navega por todas las opciones con facilidad en la pantalla táctil de 5 pulgadas intuitiva
-- Un mundo de variedad: disfruta de 41 especialidades, desde el clásico Espresso hasta el moderno Cold Brew y XL Latte Macchiato, preparadas para casa o para llevar
 - Calidad de barista en cada taza: disfruta de una experiencia de café consistente, equilibrada y aromática, con ingeniería alemana
 - Tu café, a tu manera: personaliza el aroma, la intensidad, la proporción de leche y el tamaño de tu bebida, y guarda hasta 20 creaciones personales como favoritas para un acceso instantáneo
+- Control sin esfuerzo: navega por todas las opciones con facilidad en la pantalla táctil de 5 pulgadas intuitiva
+- Un mundo de variedad: disfruta de 41 especialidades, desde el clásico Espresso hasta el moderno Cold Brew y XL Latte Macchiato, preparadas para casa o para llevar
 - Consigue aún más con la app: controla tu EQ700 iAroma mediante smartphone o voz, desbloquea recetas creativas y recibe actualizaciones automáticas para tu máquina
 
 [🛒 Visítala!!!]({{< param buyurl >}})

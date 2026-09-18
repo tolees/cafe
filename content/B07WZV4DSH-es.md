@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Intenso y con un toque de caramelo, este café es el que más empleamos para nuestro latte
 - Cápsulas de café de STARBUCKS de NESCAFE DOLCE GUSTO con intensas notas a caramelo
+- Intenso y con un toque de caramelo, este café es el que más empleamos para nuestro latte
 - Comprometidos con el abastecimiento ético de café al 100% en colaboración con Conservation International
 - Cápsulas de café compatibles con cafeteras NESCAFE DOLCE GUSTO
 - Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa

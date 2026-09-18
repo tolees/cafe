@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cafetera de goteo con capacidad para 6 tazas de café de 650 W de potencia
 - Piloto luminoso de funcionamiento
-- Depósito con indicador de nivel de agua
+- Cafetera de goteo con capacidad para 6 tazas de café de 650 W de potencia
 - Mantiene el café caliente hasta 30 minutos
+- Depósito con indicador de nivel de agua
 - Filtro permanente extraíble y protección antigoteo
 
 [🛒 Aquí!!!]({{< param buyurl >}})

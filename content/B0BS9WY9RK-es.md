@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mantener en un lugar fresco y seco
-- Hecho de ingredientes naturales
 - El producto es 100% bio
-- Con un sabor fuerte y tostado
+- Hecho de ingredientes naturales
 - Apto para espresso o bebida a base de café
+- Con un sabor fuerte y tostado
+- Mantener en un lugar fresco y seco
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0BS9WY9RK{{</world>}}

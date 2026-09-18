@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Cápsulas de café Nespresso 100% originales.
-- Intensidad: 6.
 - 10 cápsulas Vanilio, 10 cápsulas Caramelito y 10 cápsulas Ciocattino.
+- Intensidad: 6.
 - Variedades.
 - Mezcla de arábiga y vainilla, caramelo y chocolate.
 

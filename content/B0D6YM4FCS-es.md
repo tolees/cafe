@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'by Amazon Cápsulas de Aluminio de Café Sabor Caramelo Compatibles con Nespresso 20 Unidades 1 Paquete de 20 Certificadas por Rainforest Alliance'
-date: 2026-09-15 11:47:48
+date: 2026-09-18 11:06:04
 image: 'https://m.media-amazon.com/images/I/41YwUe502GL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D6YM4FCS/?tag=tolees-21'
 descuento: '25.32'
-average: '3.07374999999999'
+average: '2.99444444444444'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

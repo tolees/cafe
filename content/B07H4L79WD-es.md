@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'NESCAFÉ Dolce Gusto Café Ristretto Ardenza 90 cápsulas 3x30'
-date: 2026-09-15 15:34:43
-image: 'https://m.media-amazon.com/images/I/514bF+kkfbL._SL500_._SL400_.jpg'
+date: 2026-09-17 23:08:51
+image: 'https://m.media-amazon.com/images/I/4176meFeRTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H4L79WD/?tag=tolees-21'
 descuento: '30.48'
-average: '23.0336893203883'
+average: '22.8735514018691'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

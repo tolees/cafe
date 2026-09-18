@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Calidad de barista en cada taza: disfruta de una experiencia de café aromática y equilibrada de forma constante, con ingeniería alemana
 - Control sin esfuerzo a tu alcance: la pantalla táctil de 6,8 pulgadas hace que crear tu café sea intuitivo y fluido
+- Calidad de barista en cada taza: disfruta de una experiencia de café aromática y equilibrada de forma constante, con ingeniería alemana
 - Domina cada grano: beanIdent optimiza automáticamente los parámetros de preparación para los granos elegidos, haciendo que cada taza tenga un sabor equilibrado
 - Tus cafés favoritos con un solo toque: guarda hasta 10 perfiles individuales para acceder al instante a las bebidas favoritas de cada persona
 - Haz cada taza tuya: ajusta hasta 6 parámetros de preparación en Modo barista para obtener un sabor personalizado

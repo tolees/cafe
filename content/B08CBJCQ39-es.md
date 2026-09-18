@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- MÁS FUERZA: Con la función ExtraShot - Añade un extra de sabor e intensidad a tu café.
 - CAFÉ A TU GUSTO: 12 tipos de café, 20 opciones de personalización del café y 5 de leche: Disfruta de todos los matices, desde el más intenso espresso hasta un suave capuccino.
 - ESPUMA DE LECHE DENSA Y SUAVE: gracias al sistema ciclónico LatteGo incluso con leches vegetales - el sistema más rápido de limpiar, solo 10 Segundos. Apto para lavavajillas.
 - GUARDA TUS PREFERENCIAS: Configura los ajustes de hasta 4 personas para seleccionar de un solo toque el café tal y como os guste.
+- MÁS FUERZA: Con la función ExtraShot - Añade un extra de sabor e intensidad a tu café.
 - PANTALLA TFT Y DISPLAY TÁCTIL: Controla y recibe información de tu cafetera gracias a su intuitiva interfaz.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

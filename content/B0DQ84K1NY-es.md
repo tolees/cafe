@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Taurus - Cafetera de Goteo 600W 600 ml Jarra Cristal Filtro Permanente'
-date: 2026-09-15 11:29:33
+date: 2026-09-17 19:36:14
 image: 'https://m.media-amazon.com/images/I/317HeBjwmgL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DQ84K1NY/?tag=tolees-21'
 descuento: '43.13'
-average: '20.65375'
+average: '20.57'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

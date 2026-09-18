@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'By Amazon Café Colombiano Compatible con Nespresso 100% Arábica Tueste Medio 100 Cápsulas de Aluminio 10 paquetes de 10 Con Certificación Rainforest Alliance'
-date: 2026-09-16 14:02:06
+date: 2026-09-17 16:31:37
 image: 'https://m.media-amazon.com/images/I/51qXl1M0I6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BHSNMKSZ/?tag=tolees-21'
 descuento: '17.24'
-average: '17.52'
+average: '17.4392307692308'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

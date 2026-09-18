@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'De Longhi Stilosa Advanced EC235.BK - Cafetera de bomba con 15 bares de presión 1100 W 1L color negro'
-date: 2026-06-04 08:30:20
+title: 'De Longhi Stilosa - Cafetera Espresso Manual con Espumador Manual Negro'
+date: 2026-09-17 07:55:38
 image: 'https://m.media-amazon.com/images/I/41NKigE7+qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B086RF6YJQ-es De Longhi Stilosa Advanced EC235.BK - Cafetera de bomba...'
+slug: 'B086RF6YJQ-es De Longhi Stilosa - Cafetera Espresso Manual con Espumador...'
 sku: 'B086RF6YJQ-es'
 tags: [ 'cafetera','🇪🇸', ]
-actualPrice: 89.92 EUR
+actualPrice: 89.9 EUR
 currency: EUR
-price: 89.92
+price: 89.9
 comparePrice: 127.99 EUR
-prodname: 'De Longhi Stilosa Advanced EC235.BK - Cafetera de bomba con 15 bares de presión 1100 W 1L color negro'
+prodname: 'De Longhi Stilosa - Cafetera Espresso Manual con Espumador Manual Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B086RF6YJQ/?tag=tolees-21'
-descuento: '29.74'
-average: '94.3769565217391'
+descuento: '29.76'
+average: '94.0187999999999'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,6 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cáldera de acero inoxidable, con 2 termostatos independientes para controlar la temperatura del agua y del vapor
-- Espumador de leche para hacer cappuccinos
-- 2 bandejas de goteo para colocar vasos de ceramica, vasos grandes, o tazas (80 a 110 mm)
-- Apto para 1 ó 2 tazas de café y cápsulas monodosis E.S.E.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B086RF6YJQ{{</world>}}

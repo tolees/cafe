@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mezcla de Arábica y Robusta.
-- 100% Café asado y molido
 - Aroma fuerte y tostado, sabor italiano
+- 100% Café asado y molido
+- Mezcla de Arábica y Robusta.
 - Compatible con máquina café expreso Nescafé Dolce Gusto
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

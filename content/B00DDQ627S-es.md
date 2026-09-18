@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mantiene el calor: la cafetera posee un sistema para mantener el café caliente durante 30 minutos tras finalizar la preparación del café y tener el café listo para servir en el momento adecuado
 - Potencia: la cafetera moka eléctrica tiene una potencia de 550 w, lo que hace que se caliente rápidamente y puedas preparar un café en pocos minutos
+- Mantiene el calor: la cafetera posee un sistema para mantener el café caliente durante 30 minutos tras finalizar la preparación del café y tener el café listo para servir en el momento adecuado
 - Capacidad: con la cafetera moka eléctrica se pueden preparar 3 o 6 tazas de café gracias al adaptador que viene incluido para que puedas adaptarla a tus necesidades
 - Base giratoria: base independiente giratoria de 360° permite conectar la cafetera en cualquier posición y la base fría de la cafetera puede colocarse directamente sobre la mesa
 - Función auto-off: no tienes que preocuparte de nada; la cafetera se apaga automáticamente cuando el café está hecho y lo mantiene caliente para que tomes un café en su punto
