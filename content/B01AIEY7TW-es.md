@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- MÁS DE 100 AÑOS DE TRADICIÓN – Más de 100 años seleccionando café, para poder ofrecerte a ti y los tuyos todo el aroma y sabor del mejor café.
 - 1. COMPATIBLE CON CAFETERA ITALIANA, FILTRO Y PISTÓN – Preparación sencilla, apto para cafetera tradicional o italiana, cafetera de filtro y cafetera de pistón.
-- 1 PAQUETE DE 200 GRAMOS - 200 gramos de café molido.
-- TAPA DE ORIGEN BIO – Tapa fabricada con material de origen BIO, con certificación ISCC siguiendo el enfoque del balance de masas. Conservar en el envase original en lugar oscuro y seco una vez abierto.
 - INTENSIDAD 8 DE 12 – Café molido 100% arábica de tueste natural con nivel de intensidad 8 en una escala del 1 al 12. Gama de café de alta calidad con sabor y aroma únicos.
+- TAPA DE ORIGEN BIO – Tapa fabricada con material de origen BIO, con certificación ISCC siguiendo el enfoque del balance de masas. Conservar en el envase original en lugar oscuro y seco una vez abierto.
+- 1 PAQUETE DE 200 GRAMOS - 200 gramos de café molido.
+- MÁS DE 100 AÑOS DE TRADICIÓN – Más de 100 años seleccionando café, para poder ofrecerte a ti y los tuyos todo el aroma y sabor del mejor café.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B01AIEY7TW{{</world>}}

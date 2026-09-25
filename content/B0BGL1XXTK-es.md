@@ -30,9 +30,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Café con sabor natural a espresso y crema
 - Una marca de Amazon
-- La característica especial de nuestro café es el prolongado tostado en tambor
-- Solo los mejores granos de Arábica, seleccionados a mano, así como granos Robusta
 - tostado en las inmediaciones de Viena, en uno de los tostadores de café tradicionales más conocidos y hoy en día los últimos de Austria, con experiencia y pasión desde 1929
+- Solo los mejores granos de Arábica, seleccionados a mano, así como granos Robusta
+- La característica especial de nuestro café es el prolongado tostado en tambor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BGL1XXTK{{</world>}}

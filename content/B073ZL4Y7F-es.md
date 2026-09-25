@@ -28,12 +28,12 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Contenedor de cápsulas usadas con capacidad para 6
-- Incluye 14 cápsulas y 20€ de crédito en café
 - Apagado automático después de 9 minutos (programable)
+- Contenedor de cápsulas usadas con capacidad para 6
 - France - 27 Rue du Colonel Pierre Avia - 75015 Paris
-- Muy delgada: sólo 11 cm
+- Incluye 14 cápsulas y 20€ de crédito en café
 - 2 tamaños de taza seleccionables
+- Muy delgada: sólo 11 cm
 - Presión de 19 bares
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CÁPSULA CAFÉ LARGO - Disfruta de un café con leche largo con todo el sabor y aroma del café recién hecho para tus desayunos.
-- COMPATIBILIDAD - Estas cápsulas, llamadas T DISCs han sido diseñadas especialmente para el sistema Tassimo.
 - CREMOSO E INTENSO - Marcilla Con Leche es un café de tueste natural que se caracteriza por una mezcla de un café con sabor intenso y leche que aporta la cremosidad.
+- COMPATIBILIDAD - Estas cápsulas, llamadas T DISCs han sido diseñadas especialmente para el sistema Tassimo.
+- CÁPSULA CAFÉ LARGO - Disfruta de un café con leche largo con todo el sabor y aroma del café recién hecho para tus desayunos.
 - 5 PAQUETES DE 16 CÁPSULAS - 80 Cápsulas de Café Exclusivamente Compatibles con Cafeteras TASSIMO. Introduce la cápsula, presiona el botón y disfruta de un delicioso café lleno de aroma y sabor.
 - TECNOLOGÍA INTELLIBREW - Las cápsulas cuentan con un código de barras en la parte superior que es leído por la cafetera Tassimo para obtener la información necesaria para preparar la bebida con la temperatura idónea, la cantidad de agua necesaria y el tiempo de preparación justo.
 

@@ -29,8 +29,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 🔎:
 
 - Dispone de filtro permanente
-- Desconexión automática
 - Protección contra el encendido sin agua
+- Desconexión automática
 - Café listo en poco tiempo
 - Indicador de estado
 

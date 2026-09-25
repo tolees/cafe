@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'by Amazon Cápsulas de Café Lungo Intenso de Plástico Compatibles con Nespresso Tostado Medio 100 Unidades 2 Paquetes de 50 Certificadas por Rainforest Alliance'
-date: 2026-09-05 17:47:45
+date: 2026-09-23 07:27:35
 image: 'https://m.media-amazon.com/images/I/41ojvh7i4oL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B08Y1CYY63-es by Amazon Cápsulas de Café Lungo Intenso de Plástico...'
 sku: 'B08Y1CYY63-es'
 tags: [ 'nespresso','🇪🇸', ]
-actualPrice: 11.18 EUR
+actualPrice: 9.5 EUR
 currency: EUR
-price: 11.18
-comparePrice: 12.85 EUR
+price: 9.5
+comparePrice: 12.98 EUR
 prodname: 'by Amazon Cápsulas de Café Lungo Intenso de Plástico Compatibles con Nespresso Tostado Medio 100 Unidades 2 Paquetes de 50 Certificadas por Rainforest Alliance'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08Y1CYY63/?tag=tolees-21'
-descuento: '13.00'
-average: '12.1861290322582'
+descuento: '26.81'
+average: '12.0233333333334'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,13 +28,6 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 100 cápsulas: 2 paquetes x 50
-- Delicado pero intenso, este café con mucho cuerpo tiene un aroma a nuez con toques de avellana tostada
-- Intensidad: 4/5
-- 100 % arábica
-- Tostado y envasado en Bélgica
-- Cápsulas compatibles con Nespresso* (*No registrado en Amazon EU S.a.r.l.). No compatibles con las cafeteras Nespresso Vertuo. Asegúrese siempre de seguir las instrucciones del fabricante de la cafetera
-- CERTIFICACIÓN RAINFOREST ALLIANCE: La procedencia del café utilizado para este producto goza de la certificación Rainforest Alliance, lo que significa que no solo sabe bien, sino que también tiene un impacto positivo. Con cada compra, ayuda a cientos de agricultores y sus familias en todo el mundo, además de aportar su granito a la selva tropical; beber mejor es hacerlo mejor
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B08Y1CYY63{{</world>}}

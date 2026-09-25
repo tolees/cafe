@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Interior de fácil limpieza
 - Válvula de seguridad
 - Mango ergonómico
+- Interior de fácil limpieza
 - Se utiliza en cocinas a gas, eléctricas y de vitrocerámica
 - Capacidad: 3 tazas
 

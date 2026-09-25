@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Más de 30 creaciones de café y otras deliciosas bebidas frías y calientes preparadas con solo presionar un botón.
 - Cafetera de alta presión (hasta 15 bares) para cafés de calidad profesional con una crema espesa y aterciopelada.
-- Tamaño de la bebida ajustable con la función Play & Select.
 - Modo Eco: apagado automático a los 5 minutos. Consumo energético: A.
+- Tamaño de la bebida ajustable con la función Play & Select.
 - Cafetera de cápsulas compacta y automática (16 cm Ancho x 31 cm Alto x 24 cm Pr) compatible con cápsulas NESCAFÉ Dolce Gusto selladas herméticamente.
 
 [🛒 Comprar!!!]({{< param buyurl >}})

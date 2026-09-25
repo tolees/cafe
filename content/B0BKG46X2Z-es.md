@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'by Amazon Cápsulas de Café Ristretto de Plástico Compatibles con Nespresso Tostado Medio 100 Unidades 2 Paquetes de 50 Certificadas por Rainforest Alliance'
-date: 2026-09-18 11:32:33
+date: 2026-09-22 20:02:50
 image: 'https://m.media-amazon.com/images/I/41d-Qqio9YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BKG46X2Z/?tag=tolees-21'
 descuento: '27.15'
-average: '11.7195454545455'
+average: '11.5345833333334'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

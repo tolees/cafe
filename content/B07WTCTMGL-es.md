@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Un café 100% natural tostado y molido en Italia
 - Dosis recomendada de agua 40 ml
+- Exclusivamente Compatibles con cafeteras de cápsulas NESCAFÉ* DOLCE GUSTO* (* No registrado en Amazon EU S.a.r.l.)
 - Un expreso italiano tradicional en una pequeña cápsula de 7 gramos
 - Práctica caja de 96 unidades
-- Exclusivamente Compatibles con cafeteras de cápsulas NESCAFÉ* DOLCE GUSTO* (* No registrado en Amazon EU S.a.r.l.)
-- Un café 100% natural tostado y molido en Italia
 - Visite nuestra BRAND STORE para descubrir toda la selección NOTE DESPRESSO: enlace directo debajo del título del producto
 
 [🛒 Visítala!!!]({{< param buyurl >}})
