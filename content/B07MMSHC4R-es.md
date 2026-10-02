@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'PHILIPS 2200 Cafetera Superautomática Espumador de leche 2 Cafés Negro'
-date: 2026-09-21 19:12:45
+title: 'PHILIPS Serie 2200 Cafetera Espresso Automática - 2 Cafés Pantalla Táctil Espumador de Leche Clásico Molinillo Cerámico Negro Mate EP2220/10'
+date: 2026-09-29 22:47:40
 image: 'https://m.media-amazon.com/images/I/31TVkfNxcyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07MMSHC4R-es PHILIPS 2200 Cafetera Superautomática Espumador de leche 2...'
+slug: 'B07MMSHC4R-es PHILIPS Serie 2200 Cafetera Espresso Automática - 2 Cafés...'
 sku: 'B07MMSHC4R-es'
 tags: [ 'cafetera','🇪🇸', ]
-actualPrice: 269.0 EUR
+actualPrice: 259.0 EUR
 currency: EUR
-price: 269.0
+price: 259.0
 comparePrice: 369.99 EUR
-prodname: 'PHILIPS 2200 Cafetera Superautomática Espumador de leche 2 Cafés Negro'
+prodname: 'PHILIPS Serie 2200 Cafetera Espresso Automática - 2 Cafés Pantalla Táctil Espumador de Leche Clásico Molinillo Cerámico Negro Mate EP2220/10'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MMSHC4R/?tag=tolees-21'
-descuento: '27.30'
-average: '278.153089887638'
+descuento: '30.00'
+average: '277.940277777775'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Altura: 205 mm; Profundidad: 125 mm
 - Color: Acero inoxidable
-- Apto para cocina de inducción
+- Altura: 205 mm; Profundidad: 125 mm
 - Tipo de café : Manuel ; Tipo de entrada de café: Café molido; Tipos de bebidas : café espresso
 - Diseño de caso: Autónoma
+- Apto para cocina de inducción
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B000HWY2QE{{</world>}}

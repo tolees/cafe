@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cafetera italiana de aluminio de 12 tazas (830 ml) apta para todo tipo de cocinas incluida inducción
+- Descubre cómo cuidar tu menaje antiadherente en el apartado Guia de usuario de esta ficha
 - Acabado exterior color marrón mate
 - Diseño interior del calderín sin cantos para una limpieza más cómoda
 - Se recomienda utilizar en inducción un fogón del mismo tamaño que la base de la cafetera; base= 11,5 cm
-- Cafetera italiana de aluminio de 12 tazas (830 ml) apta para todo tipo de cocinas incluida inducción
-- Descubre cómo cuidar tu menaje antiadherente en el apartado Guia de usuario de esta ficha
 - Asa de baquelita termo-resistente ergonómica para un agarre fácil y seguro
 
 [🛒 Comprar!!!]({{< param buyurl >}})

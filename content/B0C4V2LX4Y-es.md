@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NESCAFÉ Dolce Gusto Cortado descafeinado - Cápsulas de Café 90 cápsulas 3x30 - Originales para cafeteras Dolce Gusto'
-date: 2026-09-26 12:18:50
+date: 2026-09-30 18:47:13
 image: 'https://m.media-amazon.com/images/I/41JhqMgHkjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0C4V2LX4Y/?tag=tolees-21'
 descuento: '9.16'
-average: '21.862'
+average: '22.1723529411765'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

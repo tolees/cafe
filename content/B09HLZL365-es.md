@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nespresso Vertuoline: Melozio Decaffeinato 30 cápsulas'
-date: 2026-09-28 17:45:33
+date: 2026-09-29 21:52:11
 image: 'https://m.media-amazon.com/images/I/41IHmlNpG4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,13 +12,13 @@ tags: [ 'nespresso','🇪🇸', ]
 actualPrice: 27.0 EUR
 currency: EUR
 price: 27.0
-comparePrice: 41.3 EUR
+comparePrice: 40.99 EUR
 prodname: 'Nespresso Vertuoline: Melozio Decaffeinato 30 cápsulas'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09HLZL365/?tag=tolees-21'
-descuento: '34.62'
+descuento: '34.13'
 average: '27.0'
 ---
 

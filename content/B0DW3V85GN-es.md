@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ☕ AUTÉNTICO ESPRESSO DE CAFETERÍA – Equipada con bomba italiana de 20 bares, garantiza una extracción potente que realza el aroma y la crema del café para obtener un espresso intenso y equilibrado.
 - 🧽 BANDEJA DE GOTEO DE ACERO INOXIDABLE – Fácil de limpiar y resistente, mantiene la zona de preparación ordenada y recoge los restos de agua o café.
-- ⚡ POTENCIA EFICIENTE DE 850W – Calentamiento rápido y funcionamiento estable con consumo optimizado. Compatible con 220–240V / 50–60 Hz.
 - 💧 DEPÓSITO DE AGUA EXTRAÍBLE DE 1,8 L – Tanque de gran capacidad, transparente y fácil de rellenar, perfecto para preparar varias tazas sin interrupciones.
 - 👥 INCLUYE FILTROS PARA 1 Y 2 TAZAS – Viene con filtro de aluminio para preparar una o dos tazas a la vez, ideal para uso diario o para compartir un buen café.
 - ☁️ BOQUILLA VAPORIZADORA PARA ESPUMAR LECHE – Prepara capuchinos, lattes o macchiatos con una espuma suave y cremosa gracias a su boquilla de vapor integrada.
+- ⚡ POTENCIA EFICIENTE DE 850W – Calentamiento rápido y funcionamiento estable con consumo optimizado. Compatible con 220–240V / 50–60 Hz.
 - 🔥 BANDEJA SUPERIOR CALIENTA TAZAS – Mantén tus tazas a la temperatura adecuada, mejorando la calidad final del espresso y evitando variaciones de calor.
+- ☕ AUTÉNTICO ESPRESSO DE CAFETERÍA – Equipada con bomba italiana de 20 bares, garantiza una extracción potente que realza el aroma y la crema del café para obtener un espresso intenso y equilibrado.
 - 🔒 SEGURIDAD Y ESTABILIDAD – Incorpora válvula de seguridad para liberar la presión cuando es necesario y evitar sobrecargas durante el uso.
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

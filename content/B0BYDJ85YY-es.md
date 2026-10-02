@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Espresso Italiano Intenso es un café caracterizado por notas aromáticas de cacao y madera, para un sabor intenso y de gran cuerpo. La intensidad 9/10 y el tueste medio crean un café con un regusto intenso y una crema duradera
-- PHILIPS CAFETERA ESPRESSO: Esta cafetera superautomática con espumador de leche incluye una pantalla táctil intuitiva que permite seleccionar con facilidad el café ideal para cualquier momento
 - Con el espumador de leche Panarello obtén leche perfectamente texturada, diseñado con solo dos componentes para una limpieza fácil
+- PHILIPS CAFETERA ESPRESSO: Esta cafetera superautomática con espumador de leche incluye una pantalla táctil intuitiva que permite seleccionar con facilidad el café ideal para cualquier momento
+- Espresso Italiano Intenso es un café caracterizado por notas aromáticas de cacao y madera, para un sabor intenso y de gran cuerpo. La intensidad 9/10 y el tueste medio crean un café con un regusto intenso y una crema duradera
 - Ajusta la intensidad y la cantidad de tu bebida con el menú My Coffee Choice, con tres ajustes para acomodar a tu preferencia
 - ESPRESSO BARISTA INTENSO: El blend Lavazza Espresso Barista se ha creado para ofrecer una experiencia profesional completa, para preparar el espresso exactamente como lo hacen los baristas italianos, con máquina de café espresso o automática
 

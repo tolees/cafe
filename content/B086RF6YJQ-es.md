@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'De Longhi Stilosa - Cafetera Espresso Manual con Espumador Manual Negro'
-date: 2026-09-17 07:55:38
+date: 2026-10-01 23:15:29
 image: 'https://m.media-amazon.com/images/I/41NKigE7+qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B086RF6YJQ-es De Longhi Stilosa - Cafetera Espresso Manual con Espumador...'
 sku: 'B086RF6YJQ-es'
 tags: [ 'cafetera','🇪🇸', ]
-actualPrice: 89.9 EUR
+actualPrice: 89.25 EUR
 currency: EUR
-price: 89.9
+price: 89.25
 comparePrice: 127.99 EUR
 prodname: 'De Longhi Stilosa - Cafetera Espresso Manual con Espumador Manual Negro'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B086RF6YJQ/?tag=tolees-21'
-descuento: '29.76'
-average: '94.0187999999999'
+descuento: '30.27'
+average: '93.6655555555554'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

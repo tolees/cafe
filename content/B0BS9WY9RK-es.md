@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- El producto es 100% bio
 - Con un sabor fuerte y tostado
+- El producto es 100% bio
 - Mantener en un lugar fresco y seco
 - Apto para espresso o bebida a base de café
 - Hecho de ingredientes naturales

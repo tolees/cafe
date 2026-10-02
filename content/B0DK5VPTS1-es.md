@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Cafetera express: prepara tus cafés espressos y cappuccinos rápidamente.
+- Depósito de agua extraíble: gran capacidad de 1,5 litros. Tanque de leche: capacidad de 550 ml.
 - Pantalla con botones: La intuitiva pantalla con funcionamiento por botones facilita la operación de la cafetera, permitiéndote seleccionar tus preferencias de café de manera sencilla y rápida.
 - Bomba de presión de 20 bares: consigue la mejor crema y el máximo aroma.
-- Depósito de agua extraíble: gran capacidad de 1,5 litros. Tanque de leche: capacidad de 550 ml.
+- Cafetera express: prepara tus cafés espressos y cappuccinos rápidamente.
 - Vaporizador orientable con protección: espuma leche, emite agua caliente para infusiones y calienta líquidos.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - El café tiene un carácter fuerte, con un regusto agrio y a nuez
+- Cápsulas compatibles con Nespresso* (no registrado en Amazon EU S.a.r.l.). No compatible con máquinas Nespresso Vertuo. Asegúrate siempre de seguir las instrucciones del fabricante de la máquina
 - 100% Arábica, Intensidad: 7 - MEDIO FUERTE
 - Tostado y empaquetado en Bélgica
 - Certificado Rainforest Alliance: el café que obtenemos para este producto está certificado por Rainforest Alliance, lo que significa que no solo sabe bien, también hace bien. Con cada compra, estás ayudando a cientos de agricultores y sus familias en todo el mundo, además, haciendo tu granito de arena por la selva tropical: bebe mejor, hazlo mejor
-- Cápsulas compatibles con Nespresso* (no registrado en Amazon EU S.a.r.l.). No compatible con máquinas Nespresso Vertuo. Asegúrate siempre de seguir las instrucciones del fabricante de la máquina
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0DN6WHJD4{{</world>}}
