@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Dispone de filtro permanente
-- Desconexión automática
-- Café listo en poco tiempo
-- Protección contra el encendido sin agua
 - Indicador de estado
+- Dispone de filtro permanente
+- Café listo en poco tiempo
+- Desconexión automática
+- Protección contra el encendido sin agua
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00J943ITS{{</world>}}

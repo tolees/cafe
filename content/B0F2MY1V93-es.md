@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Pantalla táctil intuitiva para un manejo sencillo
 - Cafetera automática compacta ideal para café recién molido
 - Sistema ThermoBlock para un calentamiento rápido del agua
 - Incluye vaporizador para espumar leche o calentar infusiones
+- Pantalla táctil intuitiva para un manejo sencillo
 - Molinillo ajustable con 15 niveles para personalizar el sabor
 
 [🛒 Aquí!!!]({{< param buyurl >}})

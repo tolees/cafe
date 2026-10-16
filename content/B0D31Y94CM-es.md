@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Intenso y con un toque de caramelo, este café es el que empleamos para el latte descafeinado
 - Comprometidos con el abastecimiento ético de café al 100% en colaboración con Conservation International
+- Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
 - Cápsulas de café de STARBUCKS de NESPRESSO, con intensas notas a caramelo
 - Cápsulas de café compatibles con máquinas NESPRESSO, cápsulas no compatibles para las máquinas Nespresso Vertuo
-- Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
+- Intenso y con un toque de caramelo, este café es el que empleamos para el latte descafeinado
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D31Y94CM{{</world>}}

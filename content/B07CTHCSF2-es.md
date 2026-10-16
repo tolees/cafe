@@ -28,8 +28,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fondo difusor de acero inoxidable 18% de Cr. con sistema Full Induction. Diámetro inducción: 9 cm.
 - NOTA: La prueba para comprobar si el fondo de esta cafetera es apta para inducción es la prueba magnética con un imán. Si dicho imán se pega a la base de la cafetera, el producto es apto para inducción.
+- Fondo difusor de acero inoxidable 18% de Cr. con sistema Full Induction. Diámetro inducción: 9 cm.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07CTHCSF2{{</world>}}

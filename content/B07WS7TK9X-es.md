@@ -28,12 +28,12 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Exclusivamente Compatibles con cafeteras de cápsulas NESCAFÉ* DOLCE GUSTO* (* No registrado en Amazon EU S.a.r.l.)
-- Práctico paquete de 48 cápsulas
-- Hechos en Italia
-- El delicioso sabor y aroma del té al limón en una pequeña cápsula de 12 gramos
 - Visite nuestra BRAND STORE para descubrir toda la selección NOTE DESPRESSO: enlace directo debajo del título del producto
+- El delicioso sabor y aroma del té al limón en una pequeña cápsula de 12 gramos
+- Práctico paquete de 48 cápsulas
+- Exclusivamente Compatibles con cafeteras de cápsulas NESCAFÉ* DOLCE GUSTO* (* No registrado en Amazon EU S.a.r.l.)
 - Dosis recomendada de agua 150 ml
+- Hechos en Italia
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07WS7TK9X{{</world>}}

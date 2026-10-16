@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Solac Taste Slim Basic 1100W - Cafetera 20 Bar| Espresso o Capuccino en Casa| Vaporizador Orientable Espuma Leche| 1-2 Cafés| Molido o monodosis| Calienta líquidos| Compacta 16x31x30'
-date: 2026-10-13 10:43:51
+date: 2026-10-15 03:01:08
 image: 'https://m.media-amazon.com/images/I/41som7yHUSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CGHV9664/?tag=tolees-21'
 descuento: '33.34'
-average: '64.99'
+average: '63.74'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Sostenible: esta cafetera está fabricada con un 57 por ciento de plástico reciclado (¹), ahorra energía con la clase de consumo energético A+(²) y ha sido probada para 10 años de uso (³)
-- Gran variedad: disfruta de hasta 70 especialidades de bebidas y de una preparación individual con una sola cafetera
 - Ahorra espacio: cafetera compacta que ocupa poco espacio, con un ancho de a penas 17 cm que la hace adecuada para cualquier cocina pequeña
 - OneTouch: prepara tu bebida caliente pulsando un solo botón
+- Gran variedad: disfruta de hasta 70 especialidades de bebidas y de una preparación individual con una sola cafetera
+- Sostenible: esta cafetera está fabricada con un 57 por ciento de plástico reciclado (¹), ahorra energía con la clase de consumo energético A+(²) y ha sido probada para 10 años de uso (³)
 - Bebidas de calidad: prepara deliciosas bebidas calientes como un barista en casa gracias a Intellibrew
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

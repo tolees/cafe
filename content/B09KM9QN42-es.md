@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Una mezcla intensa de cafés de Latinoamérica y África con un toque de cacao
-- 50 cápsulas por caja
-- Tamaño de taza recomendado: Ristretto
 - Intensidad 8
+- Tamaño de taza recomendado: Ristretto
+- 50 cápsulas por caja
+- Una mezcla intensa de cafés de Latinoamérica y África con un toque de cacao
 - Perfil aromático: tostado y cacao
 
 [🛒 Visítala!!!]({{< param buyurl >}})

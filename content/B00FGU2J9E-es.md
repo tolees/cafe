@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para usar con café molido
-- Capacidad: para 3 tazas
 - Recipiente en cristal borosilícato
+- Capacidad: para 3 tazas
+- Para usar con café molido
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00FGU2J9E{{</world>}}

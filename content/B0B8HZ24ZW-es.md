@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Personaliza tu experiencia de café: Ajusta la intensidad y la cantidad de tu bebida con el menú My Coffee Choice, con tres ajustes para acomodar a tu preferencia
 - El paisaje de la zona rural de Colombia y la leyenda de el dorado son la inspiración para lor Colombia, un espresso con cuerpo con un carácter complejo y ácido que perdura en el paladar
-- Aptos para ser utilizado en máquinas automáticas de grano, una vez molido, se puede utilizar en todo tipo de cafeteras
 - Espuma suave y sedosa: Con el espumador de leche Panarello obtén leche texturado, diseñado con solo dos componentes para una limpieza fácil
+- Aptos para ser utilizado en máquinas automáticas de grano, una vez molido, se puede utilizar en todo tipo de cafeteras
+- Personaliza tu experiencia de café: Ajusta la intensidad y la cantidad de tu bebida con el menú My Coffee Choice, con tres ajustes para acomodar a tu preferencia
 - Café en grano 100% arábica, intensidad 8
 - Control simplificado: Esta cafetera con espumador de leche incluye una pantalla táctil intuitiva que permite seleccionar con facilidad el café según tu ánimo
 

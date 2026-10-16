@@ -29,11 +29,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Descubre los sabores originales de STARBUCKS, incluyendo nuestro primer tueste
-- Cápsulas compatibles con máquina Nespresso
+- Prepáralo en casa como a ti te gusta
 - STARBUCKS Paquete Variado House Blend by Nespresso, 100 cápsulas
 - Café 100% Arábica, de tueste medio
 - Cápsulas hechas con al menos 80% de aluminio reciclado
-- Prepáralo en casa como a ti te gusta
+- Cápsulas compatibles con máquina Nespresso
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0CNY19XPB{{</world>}}

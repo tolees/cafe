@@ -28,11 +28,11 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Tamaño de taza recomendado: Ristretto
-- 50 cápsulas por caja
 - Un ristretto con notas excepcionalmente intensas de madera y especias dignas del emblemático sabor italiano
-- Perfil aromático: especiado y amaderado
+- 50 cápsulas por caja
 - Intensidad 12
+- Perfil aromático: especiado y amaderado
+- Tamaño de taza recomendado: Ristretto
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B00LB8BRXY{{</world>}}

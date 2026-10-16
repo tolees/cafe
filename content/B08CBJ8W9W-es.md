@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Serie 5400 Cafetera Superautomática - Sistema de Leche LatteGo 12 Variedades de Café Pantalla Intuitiva 4 Perfiles de Usuario Cromado EP5447/90'
-date: 2026-09-29 17:59:30
+date: 2026-10-16 05:36:26
 image: 'https://m.media-amazon.com/images/I/41I3j1xdwtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08CBJ8W9W/?tag=tolees-21'
 descuento: '27.01'
-average: '503.93387096774'
+average: '503.028787878786'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

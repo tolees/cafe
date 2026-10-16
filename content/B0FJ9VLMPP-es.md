@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Capacidad ideal – Cafetera italiana de 2 tazas (130 ml), perfecta para disfrutar de un auténtico espresso.
 - Cuidado del producto – No apta para lavavajillas ni microondas; se recomienda lavar a mano para conservar los detalles.
 - Efecto termosensible – Las tazas cambian de color con el calor mostrando un diseño especial que recuerda al Mundo del Revés.
-- Capacidad ideal – Cafetera italiana de 2 tazas (130 ml), perfecta para disfrutar de un auténtico espresso.
 - Calidad Bialetti – El icono italiano del café con un diseño de colección único.
 - Diseño exclusivo Stranger Things – Set Mini Express con 2 tazas de cerámica inspiradas en la famosa serie.
 
