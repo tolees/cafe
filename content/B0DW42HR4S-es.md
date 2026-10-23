@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jocca - Cafetera Goteo Individual con Termo 750W | Incluye Taza de 420 ml | Filtro Reutilizable | Apagado Automático | Ideal para Viajes | Taza Doble Pared'
-date: 2026-10-10 18:25:48
+date: 2026-10-23 06:14:28
 image: 'https://m.media-amazon.com/images/I/314fLd-noBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DW42HR4S/?tag=tolees-21'
 descuento: '60.01'
-average: '22.49'
+average: '21.6566666666667'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

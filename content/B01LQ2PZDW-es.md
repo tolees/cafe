@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- El agua caliente se distribuye lenta y uniformemente sobre el café en polvo para realzar mejor el sabor.
 - Filtro permanente de acero inoxidable: no es necesario seguir comprando filtros de papel.
 - La funda extraíble protege las manos del cristal caliente.
+- El agua caliente se distribuye lenta y uniformemente sobre el café en polvo para realzar mejor el sabor.
 - La olla está hecha de vidrio de borosilicato insípido.
 
 [🛒 Visítala!!!]({{< param buyurl >}})

@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Espumador de leche aeroccino integrado para preparar capuchino cremoso
-- Paquete de bienvenida con 14 cápsulas Nespresso de sabores individuales
-- Preferencias: 40 ml para espresso y 110 ml para Lungo
 - Botones de marcación directa para café expreso y lungo
+- Paquete de bienvenida con 14 cápsulas Nespresso de sabores individuales
+- Espumador de leche aeroccino integrado para preparar capuchino cremoso
+- Preferencias: 40 ml para espresso y 110 ml para Lungo
 - FLOW STOP: cantidad de café programable
 
 [🛒 Comprar!!!]({{< param buyurl >}})

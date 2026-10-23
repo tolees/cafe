@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bestron Cafetera Cafetera goteo con taza aislada para café de filtro molido 2 tazas grandes 750 vatios acero inoxidable 0 42 litros color: negro'
-date: 2026-10-20 12:27:42
+date: 2026-10-22 23:34:30
 image: 'https://m.media-amazon.com/images/I/31I9UKAkEAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08F77MK3M/?tag=tolees-21'
 descuento: '21.44'
-average: '33.2833333333333'
+average: '30.46'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

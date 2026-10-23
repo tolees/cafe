@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NESCAFÉ Dolce Gusto Café Espresso Intenso 90 cápsulas 3x30 | Dolce Gusto Café'
-date: 2026-10-18 09:20:29
+date: 2026-10-23 08:20:38
 image: 'https://m.media-amazon.com/images/I/41wxfAhn1ML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07SLLTPHD/?tag=tolees-21'
 descuento: '4.89'
-average: '23.2716993464056'
+average: '23.3023870967745'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

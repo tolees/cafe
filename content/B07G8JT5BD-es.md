@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Russell Hobbs Cafetera de Goteo Colours Plus - 15 Tazas Jarra Cristal 1 5L Soporte Filtro Extraíble Tecnología WhirlTech Cuchara Medidora Pantalla LCD Programable Negro y Crema - 24033-56'
-date: 2026-10-16 18:47:38
+date: 2026-10-22 09:09:16
 image: 'https://m.media-amazon.com/images/I/31t71sIppNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B07G8JT5BD/?tag=tolees-21'
 descuento: '27.13'
-average: '37.461'
+average: '38.2281818181818'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

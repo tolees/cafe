@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Mantenga la función caliente para tomar su café en cualquier momento
-- Filtro permanente para café molido, extraíble para limpiar
 - Cafetera de goteo con acabado inoxidable
+- Filtro permanente para café molido, extraíble para limpiar
+- Mantenga la función caliente para tomar su café en cualquier momento
 - Frasco de vidrio fuerte
 
 [🛒 Visítala!!!]({{< param buyurl >}})
