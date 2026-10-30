@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'NESCAFÉ Dolce Gusto Latte Macchiato Caramel - Cápsulas de Café 48 Cápsulas 3 x 16 8 tazas de café 24 cáps por taza - Sabor a caramelo - Originales para cafeteras Dolce Gusto'
-date: 2026-10-29 08:46:04
+date: 2026-10-30 15:53:04
 image: 'https://m.media-amazon.com/images/I/41hqn9GjaOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08QG1DCD3/?tag=tolees-21'
 descuento: '37.56'
-average: '12.4099999999999'
+average: '12.2730769230769'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'De Longhi Rivelia - Cafetera Superautomática 16 Bebidas Gris'
-date: 2026-09-27 06:40:33
-image: 'https://m.media-amazon.com/images/I/41WCt8JeViL._SL500_._SL400_.jpg'
+title: 'De Longhi Rivelia - Cafetera Superautomática 16 Bebidas Gris | Cafetera Automática Espumador de Leche LatteCrema Depósitos de Granos Intercambiables Pantalla a Color EXAM440.55.G'
+date: 2026-10-29 20:02:03
+image: 'https://m.media-amazon.com/images/I/41QPMIiCAAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0CDCL53KW-es De Longhi Rivelia - Cafetera Superautomática 16 Bebidas Gris'
+slug: 'B0CDCL53KW-es De Longhi Rivelia - Cafetera Superautomática 16 Bebidas...'
 sku: 'B0CDCL53KW-es'
 tags: [ 'cafetera','🇪🇸', ]
-actualPrice: 629.0 EUR
+actualPrice: 599.0 EUR
 currency: EUR
-price: 629.0
+price: 599.0
 comparePrice: 749.0 EUR
-prodname: 'De Longhi Rivelia - Cafetera Superautomática 16 Bebidas Gris'
+prodname: 'De Longhi Rivelia - Cafetera Superautomática 16 Bebidas Gris | Cafetera Automática Espumador de Leche LatteCrema Depósitos de Granos Intercambiables Pantalla a Color EXAM440.55.G'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CDCL53KW/?tag=tolees-21'
-descuento: '16.02'
-average: '604.555555555556'
+descuento: '20.03'
+average: '604.0'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'De Longhi Nescafé Dolce Gusto Piccolo XS - Cafetera de Cápsulas 15 Bares de Presión Diseño Compacto Bebidas Calientes y Frías Apagado Automático con 3 Packs de Cápsulas Grafito Negro EDG210.A'
-date: 2026-10-24 07:29:35
+date: 2026-10-29 16:53:28
 image: 'https://m.media-amazon.com/images/I/41zqX-56SvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GPRBB21T/?tag=tolees-21'
 descuento: '18.73'
-average: '56.2340000000001'
+average: '56.8419047619048'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,19 +1,19 @@
 ---
 layout: post
-title: 'dreame Ecceluxe Master Cafetera Espresso Automática Cold Brew 1 Toque'
-date: 2026-09-13 08:48:35
+title: 'DREAME Ecceluxe Master Cafetera Espresso Automática Cold Brew 1 Toque | Pantalla Inteligente a Color 6 Tipos de Café Control Preciso de La Espuma 45 Tazas Fácil de Limpiar'
+date: 2026-10-30 07:01:41
 image: 'https://m.media-amazon.com/images/I/31QA7cI6jCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0GT55WKDK-es dreame Ecceluxe Master Cafetera Espresso Automática Cold...'
+slug: 'B0GT55WKDK-es DREAME Ecceluxe Master Cafetera Espresso Automática Cold...'
 sku: 'B0GT55WKDK-es'
 tags: [ 'cafetera','🇪🇸', ]
 actualPrice: 449.0 EUR
 currency: EUR
 price: 449.0
 comparePrice: 649.0 EUR
-prodname: 'dreame Ecceluxe Master Cafetera Espresso Automática Cold Brew 1 Toque'
+prodname: 'DREAME Ecceluxe Master Cafetera Espresso Automática Cold Brew 1 Toque | Pantalla Inteligente a Color 6 Tipos de Café Control Preciso de La Espuma 45 Tazas Fácil de Limpiar'
 country: 'es'
 flag: '🇪🇸'
 brand: ''

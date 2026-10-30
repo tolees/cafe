@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SEVERIN - Cafetera de goteo Duo hasta 16 tazas Cafetera de filtro compacta / Cafetera americana con 2 jarras termo Con Desconexión Automática Blanco KA 9314'
-date: 2026-10-12 11:57:40
+date: 2026-10-30 10:39:18
 image: 'https://m.media-amazon.com/images/I/31wlkMFco6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B0BZCTDG6H-es SEVERIN - Cafetera de goteo Duo hasta 16 tazas Cafetera de...'
 sku: 'B0BZCTDG6H-es'
 tags: [ 'cafetera','🇪🇸', ]
-actualPrice: 56.1 EUR
+actualPrice: 60.6 EUR
 currency: EUR
-price: 56.1
+price: 60.6
 comparePrice: 179.9 EUR
 prodname: 'SEVERIN - Cafetera de goteo Duo hasta 16 tazas Cafetera de filtro compacta / Cafetera americana con 2 jarras termo Con Desconexión Automática Blanco KA 9314'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0BZCTDG6H/?tag=tolees-21'
-descuento: '68.82'
-average: '74.9033333333333'
+descuento: '66.31'
+average: '71.3275'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

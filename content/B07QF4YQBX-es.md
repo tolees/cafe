@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- INTENSIDAD 5 - Café molido de tueste natural suave y delicado para cualquier momento del día.
 - 20 CÁPSULAS - 20 Cápsulas de Aluminio compatibles con las cafeteras L’OR Barista y con máquinas Nespresso* (*Marca de una compañía no relacionada con Jacobs Douwe Egberts)
-- CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el cappuccino o el latte.
+- INTENSIDAD 5 - Café molido de tueste natural suave y delicado para cualquier momento del día.
 - EQUILIBRADO Y SUAVE - La mezcla da como resultado un café con notas tostadas.
 - Elaboradas con café sostenible bajo el programa de Sostenibilidad Common Grounds que garantiza un Origen Responsable.
+- CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el cappuccino o el latte.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07QF4YQBX{{</world>}}

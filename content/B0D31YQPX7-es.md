@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
 - Intenso y con un toque de caramelo, este café es el que empleamos para el latte
 - Cápsulas de café compatibles con máquinas NESPRESSO, cápsulas no compatibles para las máquinas Nespresso Vertuo
-- Disfruta de STARBUCKS en casa Tu café favorito sin salir de casa
 - Comprometidos con el abastecimiento ético de café al 100% en colaboración con Conservation International
 - Cápsulas de café de STARBUCKS de NESPRESSO, con intensas notas a caramelo
 

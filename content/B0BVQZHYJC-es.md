@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Disfruta de Starbucks en casa
-- Cápsulas Starbucks de Nescafé Dolce Gusto con notas a chocolate blanco
 - Un sabor indulgente y a mocha blanco con nuestro característico tueste espresso
-- Arábica - tu café favorito sin salir de casa
 - Cápsulas de café compatibles con las máquinas de café Nescafé Dolce Gusto
+- Arábica - tu café favorito sin salir de casa
+- Cápsulas Starbucks de Nescafé Dolce Gusto con notas a chocolate blanco
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BVQZHYJC{{</world>}}

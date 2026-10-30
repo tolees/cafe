@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Cápsulas compatibles con máquina Nespresso
 - STARBUCKS Explorer pack de cafés descafeinados by Nespresso, 60 cápsulas
 - Café 100% Arábica, de tueste suave e intenso
 - Prepáralo en casa como a ti te gusta
 - Cápsulas hechas con al menos 80% de aluminio reciclado
-- Cápsulas compatibles con máquina Nespresso
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0CNY1R1TQ{{</world>}}

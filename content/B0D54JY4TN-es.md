@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Asado lento en pequeños lotes de 12 kg.
-- Producto de grano artesanal
 - mezcla de café hecha en Italia
+- Producto de grano artesanal
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0D54JY4TN{{</world>}}
