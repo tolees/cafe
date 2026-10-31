@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cafe.tole.es/sitemap.xml
