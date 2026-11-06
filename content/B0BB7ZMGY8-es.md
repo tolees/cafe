@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- IntensityBoost: pulsa el botón durante 3 segundos para conseguir un sabor más intenso en tu café
-- Funcionamiento OneTouch: prepara tu bebida caliente simplemente pulsando un botón
-- De calidad: prepara deliciosas bebidas calientes en casa como si fueras un auténtico barista gracias a INTELLIBREW
 - Single serve: TASSIMO te permite preparar fácilmente una taza de café después de, por ejemplo, un chocolate caliente, sin mezcla de sabores.
+- Funcionamiento OneTouch: prepara tu bebida caliente simplemente pulsando un botón
+- IntensityBoost: pulsa el botón durante 3 segundos para conseguir un sabor más intenso en tu café
+- De calidad: prepara deliciosas bebidas calientes en casa como si fueras un auténtico barista gracias a INTELLIBREW
 - Gran variedad: disfruta de hasta 40 especialidades de bebidas con una sola cafetera
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- La siguiente información se aplica a cada unidad del paquete
 - CÁPSULA ESPRESSO - La cápsula tiene el tamaño indicado para poder preparar un café Espresso para disfrutar solo o con base de leche como el cappuccino o el latte.
+- La siguiente información se aplica a cada unidad del paquete
 - SUAVE, DUCE Y AFRUTADO - La mezcla da como resultado un sabor suave y dulce con notas cítricas y elegante retrogusto.
 - INTENSIDAD 8 - Café molido de tueste natural con sabor intenso y especiado elaborado con granos de café Arábica.
 - Elaboradas con café sostenible bajo el programa de Sostenibilidad Common Grounds que garantiza un Origen Responsable.

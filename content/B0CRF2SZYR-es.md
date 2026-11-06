@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - ¡Si lo que quieres es calidad al mejor precio no sigas buscando!
-- Referencia: S71003313
 - Cafetera Superautomática de la marca Philips
 - Color: Multicolor
+- Referencia: S71003313
 - Medidas: 49,2 x 29,4 x 48,2 centímetros
 
 [🛒 Visítala!!!]({{< param buyurl >}})

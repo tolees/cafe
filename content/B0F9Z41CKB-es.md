@@ -29,8 +29,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Asegurarse siempre de seguir las instrucciones del fabricante de la cafetera. Porción recomendada: 120ml LUNGO
-- Conservar en un lugar fresco y seco. Consumir preferentemente antes del: ver base del envase.
 - *NESCAFÉ Dolce Gusto no está vinculado a Amazon.
+- Conservar en un lugar fresco y seco. Consumir preferentemente antes del: ver base del envase.
 - Envasado en atmósfera protectora.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
