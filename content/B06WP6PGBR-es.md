@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Alessi Pulcina MDL02/03RFM - Cafetera para Café Exprés de Diseño en Aluminio Fundido y PA con Fondo en Acero Magnético 3 Tazas Rojo'
-date: 2026-11-08 11:12:42
+date: 2026-11-13 12:04:54
 image: 'https://m.media-amazon.com/images/I/31GIZzmJO8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B06WP6PGBR/?tag=tolees-21'
 descuento: '40.00'
-average: '59.991578947368488'
+average: '59.991864406779726'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

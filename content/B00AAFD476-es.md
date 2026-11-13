@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tiene válvula de seguridad
 - Se utiliza para gas, eléctrico, vitrocerámica
+- Tiene válvula de seguridad
 - Interior de fácil limpieza
 - Incorpora un mango ergonómico
 

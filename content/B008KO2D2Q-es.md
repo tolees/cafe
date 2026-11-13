@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- CAPACIDAD: Capacidad para 3 tazas de café, 150 ml
-- CAFETERA COMPLETA: Cafetera italiana de diseño clásico de aluminio con antiadherente; Cafetera con asa de baquelita termo-resistente ergonómica para un agarre fácil y seguro
-- MANGO DE BAQUELITA: mango fabricado en baquelita termo-resistente con formato ergonómico para un cómodo agarre
 - ANTIADHERENTE: Recubrimiento antiadherente interior del calderín inferior para mayor higiene, evita que queden restos debido al uso
+- CAPACIDAD: Capacidad para 3 tazas de café, 150 ml
+- MANGO DE BAQUELITA: mango fabricado en baquelita termo-resistente con formato ergonómico para un cómodo agarre
+- CAFETERA COMPLETA: Cafetera italiana de diseño clásico de aluminio con antiadherente; Cafetera con asa de baquelita termo-resistente ergonómica para un agarre fácil y seguro
 - DISEÑO MATE Y RESISTENTE: Exterior resistente y diseño interior del calderín sin cantos para una limpieza más cómoda
 
 [🛒 Visítala!!!]({{< param buyurl >}})

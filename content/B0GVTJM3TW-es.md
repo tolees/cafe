@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Cafetera De Goteo Digital 10 Tazas - 1 2L Coffee 66 Time | 800W Acabados Acero Inox Intensificador de Aroma Jarra de Vidrio Programable Conservación del Calor Filtro y Cuchara'
-date: 2026-11-08 13:38:21
+date: 2026-11-13 14:43:38
 image: 'https://m.media-amazon.com/images/I/417BhZBJ6pL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GVTJM3TW/?tag=tolees-21'
 descuento: '39.72'
-average: '24.374482758620779'
+average: '24.279354838709761'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
