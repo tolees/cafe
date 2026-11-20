@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'STARBUCKS Caramel de Nespresso Cápsulas de Café de Tueste Suave 6 x 10 60 Cápsulas'
-date: 2026-11-16 15:36:22
+date: 2026-11-20 07:49:27
 image: 'https://m.media-amazon.com/images/I/51vwFmvSIwL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0CM6G2KD3/?tag=tolees-21'
 descuento: '22.25'
-average: '18.459999999999997'
+average: '18.194999999999997'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

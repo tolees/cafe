@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lavazza Crema e Gusto Classico Café Molido Natural Ideal para Cafetera Italiana de Filtro y Francesa con Notas Aromáticas de Especias Arábica y Robusta Intensidad 7 Tueste Oscuro 250 g'
-date: 2026-11-18 14:20:22
+date: 2026-11-20 07:06:35
 image: 'https://m.media-amazon.com/images/I/41YxiK4teaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08L43NDKK/?tag=tolees-21'
 descuento: '33.82'
-average: '3.7769863013698464'
+average: '3.7847999999999837'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

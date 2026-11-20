@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Cafetera Superautomática Cremmaet Stretta Steam | 19 Bares 1500W Molinillo Integrado Vaporizador de Leche Pantalla Táctil LED Thermoblock Depósito de Agua 1 1L'
-date: 2026-11-18 19:02:19
+date: 2026-11-19 23:53:40
 image: 'https://m.media-amazon.com/images/I/31qojsJ6ELL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

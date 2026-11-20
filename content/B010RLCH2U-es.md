@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Basics - 1 Cajón de Plástico para almacenar cápsulas Nespresso Originalline capacidad para 50 23 x 38 x 5 cm Negro'
-date: 2026-11-18 12:33:04
+date: 2026-11-19 16:33:14
 image: 'https://m.media-amazon.com/images/I/41wkYI32pcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B010RLCH2U/?tag=tolees-21'
 descuento: '25.03'
-average: '17.579117647058823'
+average: '17.316388888888888'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lavazza Qualità Oro 60 Cápsulas Café Compatibles Nespresso | Notas Afrutadas y Florales 100% Arábica Intensidad 8/13 Tostado Ligero'
-date: 2026-11-17 18:34:26
+date: 2026-11-20 03:32:53
 image: 'https://m.media-amazon.com/images/I/411QJUA2DDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0GT14F3SC/?tag=tolees-21'
 descuento: '35.32'
-average: '15.734545454545437'
+average: '15.662499999999984'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

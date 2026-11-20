@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bonka cafe en grano tostado natural para hostelería 1 paquete de 1 kg'
-date: 2026-11-12 16:36:46
+date: 2026-11-20 05:49:47
 image: 'https://m.media-amazon.com/images/I/41CzGDGK+NL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00XA1QNAM/?tag=tolees-21'
 descuento: '21.12'
-average: '13.140112359550564'
+average: '13.145164835164838'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

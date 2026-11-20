@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lavazza Qualità Oro Dark Roast 1 Kg Café en Grano Ideal para Cafetera Automática y Cafetera de Filtro con Notas de Cacao y Frutos Secos 100% Arábica Intensidad 8/10 Tueste Oscuro'
-date: 2026-11-17 00:51:32
+date: 2026-11-20 06:15:14
 image: 'https://m.media-amazon.com/images/I/41hWFrnzf1L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B081QVNLCJ/?tag=tolees-21'
 descuento: '34.04'
-average: '23.114000000000004'
+average: '22.668333333333337'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

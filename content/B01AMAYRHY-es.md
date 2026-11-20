@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'NESCAFÉ Dolce Gusto Café Cortado 90 cápsulas 3x30 | Dolce Gusto Café'
-date: 2026-11-12 07:46:26
-image: 'https://m.media-amazon.com/images/I/41gqW5iXipL._SL500_._SL400_.jpg'
+title: 'NESCAFÉ Dolce Gusto Chococino 48 cápsulas 3x16 24 tazas 768 g | Bebida de chocolate elaborada a base de leche con azúcar y chocolate en polvo'
+date: 2026-11-20 05:51:29
+image: 'https://m.media-amazon.com/images/I/41nMZXhsYvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B01AMAYRHY-es NESCAFÉ Dolce Gusto Café Cortado 90 cápsulas 3x30 | Dolce...'
+slug: 'B01AMAYRHY-es NESCAFÉ Dolce Gusto Chococino 48 cápsulas 3x16 24 tazas...'
 sku: 'B01AMAYRHY-es'
 tags: [ 'dolce','gusto','🇪🇸', ]
 actualPrice: 20.92 EUR
 currency: EUR
 price: 20.92
 comparePrice: 26.97 EUR
-prodname: 'NESCAFÉ Dolce Gusto Café Cortado 90 cápsulas 3x30 | Dolce Gusto Café'
+prodname: 'NESCAFÉ Dolce Gusto Chococino 48 cápsulas 3x16 24 tazas 768 g | Bebida de chocolate elaborada a base de leche con azúcar y chocolate en polvo'
 country: 'es'
 flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B01AMAYRHY/?tag=tolees-21'
 descuento: '22.43'
-average: '22.157454545454577'
+average: '22.135357142857171'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

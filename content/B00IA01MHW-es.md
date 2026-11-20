@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L OR Espresso Cápsulas de Café Ristretto | Intensidad 11 | 200 Cápsulas Compatibles Nespresso R'
-date: 2026-11-18 15:30:12
+date: 2026-11-20 05:46:28
 image: 'https://m.media-amazon.com/images/I/31xIRdCDT4L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B00IA01MHW/?tag=tolees-21'
 descuento: '18.12'
-average: '59.715882352941271'
+average: '59.521111111111196'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

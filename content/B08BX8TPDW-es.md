@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lavazza Espresso Barista Intenso Café Molido Natural 250 g | Notas de Cacao y Madera Arábica y Robusta Intensidad 9/10 Tostado Medio para Cafetera Italiana Filtro y Francesa'
-date: 2026-11-17 06:13:24
+date: 2026-11-20 06:18:27
 image: 'https://m.media-amazon.com/images/I/414d6gJzx8L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08BX8TPDW/?tag=tolees-21'
 descuento: '24.96'
-average: '6.2406249999999943'
+average: '6.1511764705882301'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

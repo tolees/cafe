@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'De Longhi Stilosa - Cafetera Espresso Manual con Espumador Manual Negro | Cafetera Compacta Espresso y Cappuccino Café Molido o Monodosis ESE Depósito de 1L Caldera de Acero Inoxidable EC235.BK'
-date: 2026-11-19 06:35:40
+date: 2026-11-20 08:31:23
 image: 'https://m.media-amazon.com/images/I/41NKigE7+qL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B086RF6YJQ/?tag=tolees-21'
 descuento: '34.38'
-average: '89.180882352941083'
+average: '88.892499999999913'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

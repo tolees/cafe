@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L OR Espresso Café Colección Desayuno | 40 Cápsulas | Amazon Exclusive | Intensidades 8 10 y 13 Pack surtido de 4 sabores Compatible con máquinas Nespresso'
-date: 2026-11-17 07:55:56
+date: 2026-11-20 08:12:33
 image: 'https://m.media-amazon.com/images/I/41HfQGHcoSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'L OR Espresso Café Ristretto | 50 Cápsulas | Amazon Exclusive | Intensidad 11 Compatible con máquinas Nespresso'
-date: 2026-11-18 01:02:45
+date: 2026-11-20 03:45:10
 image: 'https://m.media-amazon.com/images/I/41+Q9GC1jML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0C778SGNR/?tag=tolees-21'
 descuento: '24.01'
-average: '15.6425'
+average: '15.45923076923077'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
