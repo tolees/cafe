@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'by Amazon Cápsulas de Café Lungo Descafeinado de Plástico Compatibles con Nespresso Tostado Medio 100 Unidades 2 Paquetes de 50 Certificadas por Rainforest Alliance'
-date: 2026-11-21 01:40:22
+date: 2026-11-27 04:51:03
 image: 'https://m.media-amazon.com/images/I/41nbzE3MISL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B08Y1DW46S/?tag=tolees-21'
 descuento: '15.01'
-average: '12.84'
+average: '12.985000000000001'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

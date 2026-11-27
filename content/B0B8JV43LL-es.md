@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'De Longhi La Specialista Arte - Cafetera Espresso 3 Bebidas Predefinidas | Cafetera Manual con Espumador de Leche Manual Molinillo Integrado de 15 Niveles 3 Temperaturas Blanco EC9155.W'
-date: 2026-11-20 19:07:41
+date: 2026-11-26 09:58:11
 image: 'https://m.media-amazon.com/images/I/41C9774TsML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0B8JV43LL/?tag=tolees-21'
 descuento: '41.59'
-average: '399.40727272727202'
+average: '395.28166666666601'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

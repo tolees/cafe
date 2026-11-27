@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Una vez abierto conservar en un recipiente hermético
 - Perfil equilibrado en intensidad, cuerpo redondo y persistencia en el paladar
+- Una vez abierto conservar en un recipiente hermético
 - Notas aromaticas tostadas
 - Fácil y rápido de preparar
 - Café de tueste natural superior

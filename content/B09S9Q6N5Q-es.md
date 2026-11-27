@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ufesa Capriccio Cafetera de Goteo 12 Jarra 1.2L 12 Tazas 680W Filtro Permanente Placa Calefactora Antiadherente Sistema Antigoteo Auto Apagado Azul/Verdoso'
-date: 2026-11-21 18:12:43
+date: 2026-11-26 18:43:46
 image: 'https://m.media-amazon.com/images/I/31ZfK70Jr+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09S9Q6N5Q/?tag=tolees-21'
 descuento: '33.13'
-average: '28.773478260869549'
+average: '28.610799999999987'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

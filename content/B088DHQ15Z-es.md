@@ -30,9 +30,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Descubre cómo cuidar tu menaje antiadherente en el apartado Guia de usuario de esta ficha
 - Diseño interior del calderín sin cantos para una limpieza más cómoda
-- Cafetera italiana de aluminio de 6 tazas (320 ml) apta para todo tipo de cocinas incluida inducción
-- Se recomienda utilizar en inducción un fogón del mismo tamaño que la base de la cafetera; base= 9 cm
 - Asa de baquelita termo-resistente ergonómica para un agarre fácil y seguro
+- Se recomienda utilizar en inducción un fogón del mismo tamaño que la base de la cafetera; base= 9 cm
+- Cafetera italiana de aluminio de 6 tazas (320 ml) apta para todo tipo de cocinas incluida inducción
 - Acabado exterior color marrón mate
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

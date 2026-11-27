@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Cafetera Superautomática Compacta Cremmaet Cube. 1350W Sistema de Prensado de 10g Sistema Pre-Infusión 19 Bares Sistema Thermoblock 5 Niveles de Molienda Panel de Control Táctil'
-date: 2026-11-25 21:06:13
+date: 2026-11-27 12:13:22
 image: 'https://m.media-amazon.com/images/I/41-AJnPwoLL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FP2HTVYR/?tag=tolees-21'
 descuento: '31.43'
-average: '132.06181818181827'
+average: '133.12923076923084'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

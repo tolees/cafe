@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Capacidad para 6 tazas de café - 200 ml
-- Exterior súper resistente
-- Acabado Esmaltado brillo
 - Mango fabricado en baquelita termo-resistente con formato ergonómico
+- Exterior súper resistente
 - Apta para todo tipo de encimeras, excepto inducción
+- Acabado Esmaltado brillo
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00E39IPLU{{</world>}}
